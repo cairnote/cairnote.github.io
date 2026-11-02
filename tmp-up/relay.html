@@ -1,0 +1,5 @@
+<!doctype html><meta charset="utf-8"><script>
+(async()=>{const names=['en-1','en-2','en-3','en-4','en-5','en-6','en-7','zh-1','zh-2','zh-3','zh-4','zh-5','zh-6','zh-7'];const out=[];
+for(const n of names){const r=await fetch(n+'-v3.png');out.push({name:'iphone-'+n+'-v3.png',buf:await r.arrayBuffer()});}
+(window.parent!==window?window.parent:window.opener).postMessage({lj:out},'*');document.body.textContent='sent';})();
+</script>
