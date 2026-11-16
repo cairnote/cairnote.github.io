@@ -1,0 +1,101 @@
+{
+ "version": "2026-11-17",
+ "libraries": [
+  {
+   "id": "danci-zk-words",
+   "title": "中考词汇 1046 词（单词档）",
+   "title_en": "Zhongkao Vocabulary (1046 words)",
+   "desc": "中考 1046 词，每词有中文、搭配和例句，只背单词",
+   "level": "单词",
+   "count": 1046,
+   "per_day": 10,
+   "lang": "zh",
+   "file": "danci-zk-words.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-zk-core",
+   "title": "中考高分必背 40 句（高分档）",
+   "title_en": "Zhongkao Must-know Sentences (40)",
+   "desc": "中考每个语法考点一句，共 40 句，附讲解和真题考点",
+   "level": "高分",
+   "count": 40,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-zk-core.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-zk-sentences",
+   "title": "中考例句 247 句（句子+单词版）",
+   "title_en": "Zhongkao Sentences (247)",
+   "desc": "中考全套 247 句，每句 4–5 个词，覆盖 1046 词",
+   "level": "进阶",
+   "count": 247,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-zk-sentences.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-zk-full",
+   "title": "中考例句 247 句（进阶档 · 完整版）",
+   "title_en": "Zhongkao Sentences (247, full)",
+   "desc": "中考全套 247 句，加语法问答、动词形式讲解和真题",
+   "level": "进阶",
+   "count": 247,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-zk-full.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-gk-words",
+   "title": "高考词汇 1499 词（单词档）",
+   "title_en": "Gaokao Vocabulary (1499 words)",
+   "desc": "高中新增 1499 词，每词有中文、搭配和例句，只背单词",
+   "level": "单词",
+   "count": 1499,
+   "per_day": 10,
+   "lang": "zh",
+   "file": "danci-gk-words.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-gk-core",
+   "title": "高考高分必背 41 句（高分档）",
+   "title_en": "Gaokao Must-know Sentences (41)",
+   "desc": "高考每个语法考点一句，共 41 句，附讲解和真题考点",
+   "level": "高分",
+   "count": 41,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-gk-core.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-gk-sentences",
+   "title": "高考例句 367 句（句子+单词版）",
+   "title_en": "Gaokao Sentences (367)",
+   "desc": "高考全套 367 句，每句 4–5 个词，覆盖 1499 词",
+   "level": "进阶",
+   "count": 367,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-gk-sentences.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-gk-full",
+   "title": "高考例句 367 句（进阶档 · 完整版）",
+   "title_en": "Gaokao Sentences (367, full)",
+   "desc": "高考全套 367 句，加语法问答、动词形式讲解和真题",
+   "level": "进阶",
+   "count": 367,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-gk-full.md",
+   "version": "2026-11-17"
+  }
+ ]
+}
