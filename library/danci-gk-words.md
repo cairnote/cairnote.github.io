@@ -1,8 +1,8 @@
 <!-- cairnote-library
 id: danci-gk-words
-title: 高考词汇 1499 词（单词档）
+title: 高考仅单词（1499 词）
 title_en: Gaokao Vocabulary (1499 words)
-desc: 高中新增 1499 词，每词有中文、搭配和例句，只背单词
+desc: 高考 1499 词，每词有中文、搭配和例句，只背单词
 version: 2026-11-17
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用

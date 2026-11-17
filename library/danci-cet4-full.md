@@ -1,8 +1,8 @@
 <!-- cairnote-library
 id: danci-cet4-full
-title: 四级例句 396 句（进阶档 · 完整版）
-title_en: CET-4 Sentences (396, full)
-desc: 四级全套 396 句，加语法问答、动词形式讲解和翻译真题
+title: 四级进阶句型（396 句）
+title_en: CET-4 Advanced Sentences (396)
+desc: 四级全套 396 句，覆盖 1638 词，每句有语法说明，部分附语法问答和真题
 version: 2026-11-17
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用

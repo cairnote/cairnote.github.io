@@ -1,8 +1,8 @@
 <!-- cairnote-library
 id: danci-cet4-words
-title: 四级词汇 1638 词（单词档）
+title: 四级仅单词（1638 词）
 title_en: CET-4 Vocabulary (1638 words)
-desc: 四级新增 1638 词，每词有中文、搭配和例句，只背单词
+desc: 四级 1638 词，每词有中文、搭配和例句，只背单词
 version: 2026-11-17
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用

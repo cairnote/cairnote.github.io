@@ -1,8 +1,8 @@
 <!-- cairnote-library
 id: danci-cet4-core
-title: 四级高分必背 39 句（高分档）
-title_en: CET-4 Must-know Sentences (39)
-desc: 四级每个语法考点一句，共 39 句，附讲解和翻译真题考点
+title: 四级高分句型（39 句）
+title_en: CET-4 Key Sentences (39)
+desc: 四级每个语法考点一句，共 39 句，每句有语法问答和讲解，部分附真题考点
 version: 2026-11-17
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用

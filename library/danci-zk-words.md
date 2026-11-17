@@ -1,6 +1,6 @@
 <!-- cairnote-library
 id: danci-zk-words
-title: 中考词汇 1046 词（单词档）
+title: 中考仅单词（1046 词）
 title_en: Zhongkao Vocabulary (1046 words)
 desc: 中考 1046 词，每词有中文、搭配和例句，只背单词
 version: 2026-11-17
