@@ -287,7 +287,7 @@ per_day: 1
 <!-- leiji-note-id:danci-gk-core-s092 -->
 # 高考必背 21 · with 复合结构
 中文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
-英文：With the new ###dam### built, the ###county### no longer suffers from floods, and it can ###generate### power to support its ###economy###.
+英文：With the new ###dam### built, the ###county### no longer suffers from floods, and can ###generate### power to support its ###economy###.
 - 水坝：###dam### · ###build a dam### 修建水坝
 - 县：###county### · ###a county town### 县城
 - 产生：###generate### · ###generate electricity### 发电
@@ -366,13 +366,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-gk-core-s134 -->
 # 高考必背 27 · 同位语从句
-中文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
-英文：The news that the ###bride### would wear a red ###costume### at her ###wedding### in the ###castle### excited all the guests.
+中文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
+英文：The news that the ###bride### would wear a traditional red ###costume### at her ###wedding### in the ###castle### excited all the guests.
 - 新娘：###bride### · ###the bride and groom### 新娘新郎
 - 服装；戏服：###costume### · ###a traditional costume### 传统服装
 - 婚礼：###wedding### · ###a wedding ceremony### 婚礼
 - 城堡：###castle### · ###an old castle### 古堡
-问：你想说「新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋」（说明“什么消息”），英语怎么说？
+问：你想说「新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋」（说明“什么消息”），英语怎么说？
 要点：that 引导同位语从句，说明 news 的具体内容。（动词形式）would wear：主句 excited 是过去时，从句里“将要穿”用过去将来时。
 语法：同位语从句
 <!-- /leiji-note -->

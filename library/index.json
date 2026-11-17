@@ -96,6 +96,54 @@
    "lang": "zh",
    "file": "danci-gk-full.md",
    "version": "2026-11-17"
+  },
+  {
+   "id": "danci-cet4-words",
+   "title": "四级词汇 1638 词（单词档）",
+   "title_en": "CET-4 Vocabulary (1638 words)",
+   "desc": "四级新增 1638 词，每词有中文、搭配和例句，只背单词",
+   "level": "单词",
+   "count": 1638,
+   "per_day": 10,
+   "lang": "zh",
+   "file": "danci-cet4-words.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-cet4-core",
+   "title": "四级高分必背 39 句（高分档）",
+   "title_en": "CET-4 Must-know Sentences (39)",
+   "desc": "四级每个语法考点一句，共 39 句，附讲解和翻译真题考点",
+   "level": "高分",
+   "count": 39,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-cet4-core.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-cet4-sentences",
+   "title": "四级例句 396 句（句子+单词版）",
+   "title_en": "CET-4 Sentences (396)",
+   "desc": "四级全套 396 句，每句 4–5 个词，覆盖 1638 词",
+   "level": "进阶",
+   "count": 396,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-cet4-sentences.md",
+   "version": "2026-11-17"
+  },
+  {
+   "id": "danci-cet4-full",
+   "title": "四级例句 396 句（进阶档 · 完整版）",
+   "title_en": "CET-4 Sentences (396, full)",
+   "desc": "四级全套 396 句，加语法问答、动词形式讲解和翻译真题",
+   "level": "进阶",
+   "count": 396,
+   "per_day": 1,
+   "lang": "zh",
+   "file": "danci-cet4-full.md",
+   "version": "2026-11-17"
   }
  ]
 }

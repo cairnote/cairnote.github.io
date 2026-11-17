@@ -103,7 +103,7 @@ per_day: 1
 - 疼痛的：###sore### · ###have a sore throat### 喉咙痛
 - 喉咙：###throat### · ###a sore throat### 喉咙痛
 - 发烧：###fever### · ###have a fever### 发烧
-问：你想说「我咳嗽、喉咙痛，还发烧，所以今天最好待在家里」（给别人提建议“最好……”），英语怎么说？
+问：你想说「我咳嗽、喉咙痛，还发烧，所以今天最好待在家里」（说自己“最好……”），英语怎么说？
 要点：had better ('d better) + 动词原形：最好做某事。（动词形式）'d better = had better，后面接动词原形 stay。
 语法：情态动词
 <!-- /leiji-note -->
@@ -185,7 +185,7 @@ per_day: 1
 - 便宜的：###cheap### · ###cheap tickets### 便宜的票
 - 驾驶：###drive### · ###drive a car### 开车
 问：你想说「坐地铁很方便，而且比开车便宜得多」（说“……得多”），英语怎么说？
-要点：much 修饰比较级 cheaper，表示“……得多”。（动词形式）is cheaper：much 修饰比较级，不能用 very。
+要点：much 修饰比较级 cheaper，表示“……得多”。（词形）is cheaper：much 修饰比较级，不能用 very。
 语法：比较级和最高级
 真题：2023 年中考（江苏扬州）：比较级
 <!-- /leiji-note -->
@@ -270,7 +270,7 @@ per_day: 1
 - 发生：###happen### · ###What happened?### 发生了什么？
 - 部分；地区：###part### · ###part of ... ……### 的一部分
 问：你想说「由于气候变化，世界上许多地方洪水发生得更频繁了」（说“因为……”（后接名词）），英语怎么说？
-要点：because of 是介词短语，后接名词或名词短语；because 后接句子。（动词形式）because of 后接名词 climate change；because 后接句子。
+要点：because of 是介词短语，后接名词或名词短语；because 后接句子。（词形）because of 后接名词 climate change；because 后接句子。
 语法：介词
 真题：2023 年中考（江苏扬州）：介词短语
 <!-- /leiji-note -->
@@ -284,7 +284,7 @@ per_day: 1
 - 勇气：###courage### · ###have the courage to do sth.### 有勇气做某事
 - 进步：###progress### · ###make progress### 取得进步
 问：你想说「老师的表扬和关注能给学生取得进步的勇气」（说“……的”（所有格）），英语怎么说？
-要点：复数名词的所有格：在 s 后加撇号，如 teachers'。（动词形式）teachers' 的撇号在 s 后：复数名词以 s 结尾时只加撇号。
+要点：复数名词的所有格：在 s 后加撇号，如 teachers'。（词形）teachers' 的撇号在 s 后：复数名词以 s 结尾时只加撇号。
 语法：名词所有格
 <!-- /leiji-note -->
 
@@ -312,7 +312,7 @@ per_day: 1
 - 两者都不：###neither### · ###neither of ... ……### 两者都不
 - 飞行员：###pilot### · ###become a pilot### 成为飞行员
 问：你想说「你长大后想当演员还是艺术家？——都不想。我想当飞行员」（选 a 还是 an），英语怎么说？
-要点：an 用在元音音素开头的词前（an actor、an artist），a 用在辅音音素开头的词前（a pilot）。（动词形式）an actor、an artist：元音音素开头用 an；a pilot：辅音音素开头用 a。
+要点：an 用在元音音素开头的词前（an actor、an artist），a 用在辅音音素开头的词前（a pilot）。（词形）an actor、an artist：元音音素开头用 an；a pilot：辅音音素开头用 a。
 语法：冠词
 真题：2023 年中考（江苏扬州）：冠词
 <!-- /leiji-note -->
@@ -352,7 +352,7 @@ per_day: 1
 - 感觉；意识：###sense### · ###a sense of humour### 幽默感
 - 幽默：###humour### · ###a sense of humour### 幽默感
 问：你想说「我很敬佩我的爷爷。他讲的故事和动画片一样有趣，他很有幽默感」（说“和……一样……”），英语怎么说？
-要点：as + 形容词原级 + as 表示同级比较，意为“和……一样……”。（动词形式）as funny as：as 和 as 中间用形容词原级。
+要点：as + 形容词原级 + as 表示同级比较，意为“和……一样……”。（词形）as funny as：as 和 as 中间用形容词原级。
 语法：同级比较
 <!-- /leiji-note -->
 
@@ -535,8 +535,8 @@ per_day: 1
 - 洞：###hole### · ###a hole in the ground### 地上的洞
 - 放置；下（蛋）：###lay### · ###lay eggs### 下蛋
 - 系；绑：###tie### · ###tie A to B### 把 A 绑在 B 上
-问：你想说「我们挖了个坑，把小树苗放进去，再把它绑在一根木棍上」（说过去的动作（不规则动词）），英语怎么说？
-要点：lay（放置）的过去式是 laid，lie（躺）的过去式是 lay，注意区分。（动词形式）dug、laid、tied：dig→dug，lay→laid（放置），tie→tied。
+问：你想说「我们挖了个坑，把小树苗放进去，再把它绑在一根木棍上」（说过去的动作），英语怎么说？
+要点：lay（放置）的过去式是 laid，lie（躺）的过去式是 lay，注意区分。（动词形式）dug、laid 是不规则变化：dig→dug，lay→laid（放置）；tied 是规则变化：tie→tied。
 语法：动词过去式
 <!-- /leiji-note -->
 
