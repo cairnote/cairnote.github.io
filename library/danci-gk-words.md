@@ -1546,16 +1546,16 @@ per_day: 10
 中文：教授
 单词：###professor###
 搭配：###a history professor### 历史教授
-例句：The ###professor###, whose humourous and vivid lessons are popular, has a good reputation among students.
+例句：The ###professor###, whose humorous and vivid lessons are popular, has a good reputation among students.
 译文：那位教授讲课幽默生动，很受欢迎，在学生中口碑很好。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0172 -->
 # 高考单词 0172 · 幽默的
 中文：幽默的
-单词：###humourous###
-搭配：###a humourous story### 幽默的故事
-例句：The professor, whose ###humourous### and vivid lessons are popular, has a good reputation among students.
+单词：###humorous###
+搭配：###a humorous story### 幽默的故事
+例句：The professor, whose ###humorous### and vivid lessons are popular, has a good reputation among students.
 译文：那位教授讲课幽默生动，很受欢迎，在学生中口碑很好。
 <!-- /leiji-note -->
 
@@ -1564,7 +1564,7 @@ per_day: 10
 中文：生动的
 单词：###vivid###
 搭配：###a vivid description### 生动的描述
-例句：The professor, whose humourous and ###vivid### lessons are popular, has a good reputation among students.
+例句：The professor, whose humorous and ###vivid### lessons are popular, has a good reputation among students.
 译文：那位教授讲课幽默生动，很受欢迎，在学生中口碑很好。
 <!-- /leiji-note -->
 
@@ -1573,7 +1573,7 @@ per_day: 10
 中文：名声
 单词：###reputation###
 搭配：###have a good reputation### 名声好
-例句：The professor, whose humourous and vivid lessons are popular, has a good ###reputation### among students.
+例句：The professor, whose humorous and vivid lessons are popular, has a good ###reputation### among students.
 译文：那位教授讲课幽默生动，很受欢迎，在学生中口碑很好。
 <!-- /leiji-note -->
 
@@ -3427,7 +3427,7 @@ per_day: 10
 中文：水坝
 单词：###dam###
 搭配：###build a dam### 修建水坝
-例句：With the new ###dam### built, the county no longer suffers from floods, and it can generate power to support its economy.
+例句：With the new ###dam### built, the county no longer suffers from floods, and can generate power to support its economy.
 译文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
 <!-- /leiji-note -->
 
@@ -3436,7 +3436,7 @@ per_day: 10
 中文：县
 单词：###county###
 搭配：###a county town### 县城
-例句：With the new dam built, the ###county### no longer suffers from floods, and it can generate power to support its economy.
+例句：With the new dam built, the ###county### no longer suffers from floods, and can generate power to support its economy.
 译文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
 <!-- /leiji-note -->
 
@@ -3445,7 +3445,7 @@ per_day: 10
 中文：产生
 单词：###generate###
 搭配：###generate electricity### 发电
-例句：With the new dam built, the county no longer suffers from floods, and it can ###generate### power to support its economy.
+例句：With the new dam built, the county no longer suffers from floods, and can ###generate### power to support its economy.
 译文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
 <!-- /leiji-note -->
 
@@ -3454,7 +3454,7 @@ per_day: 10
 中文：经济
 单词：###economy###
 搭配：###the local economy### 当地经济
-例句：With the new dam built, the county no longer suffers from floods, and it can generate power to support its ###economy###.
+例句：With the new dam built, the county no longer suffers from floods, and can generate power to support its ###economy###.
 译文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
 <!-- /leiji-note -->
 
@@ -3760,7 +3760,7 @@ per_day: 10
 中文：辽阔的
 单词：###vast###
 搭配：###a vast area### 广阔的地区
-例句：So ###vast### is the desert that people without a compass may wander for days and lose their direction.
+例句：So ###vast### is the desert that people without a compass may wander for days with no sense of direction.
 译文：沙漠如此辽阔，没有指南针的人可能会游荡好几天、迷失方向。
 <!-- /leiji-note -->
 
@@ -3769,7 +3769,7 @@ per_day: 10
 中文：指南针
 单词：###compass###
 搭配：###use a compass### 用指南针
-例句：So vast is the desert that people without a ###compass### may wander for days and lose their direction.
+例句：So vast is the desert that people without a ###compass### may wander for days with no sense of direction.
 译文：沙漠如此辽阔，没有指南针的人可能会游荡好几天、迷失方向。
 <!-- /leiji-note -->
 
@@ -3778,7 +3778,7 @@ per_day: 10
 中文：漫步；游荡
 单词：###wander###
 搭配：###wander around### 四处闲逛
-例句：So vast is the desert that people without a compass may ###wander### for days and lose their direction.
+例句：So vast is the desert that people without a compass may ###wander### for days with no sense of direction.
 译文：沙漠如此辽阔，没有指南针的人可能会游荡好几天、迷失方向。
 <!-- /leiji-note -->
 
@@ -3787,7 +3787,7 @@ per_day: 10
 中文：方向
 单词：###direction###
 搭配：###in the direction of ...### 朝……方向
-例句：So vast is the desert that people without a compass may wander for days and lose their ###direction###.
+例句：So vast is the desert that people without a compass may wander for days with no sense of ###direction###.
 译文：沙漠如此辽阔，没有指南针的人可能会游荡好几天、迷失方向。
 <!-- /leiji-note -->
 
@@ -3985,7 +3985,7 @@ per_day: 10
 中文：化学的；化学品
 单词：###chemical###
 搭配：###a chemical factory### 化工厂
-例句：It was not until the ###chemical### factory moved away that the damaged lake restored its former beauty.
+例句：It was not until the ###chemical### factory moved away that the damaged lake was restored to its former beauty.
 译文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
 <!-- /leiji-note -->
 
@@ -3994,7 +3994,7 @@ per_day: 10
 中文：损害
 单词：###damage###
 搭配：###cause damage to ...### 对……造成损害
-例句：It was not until the chemical factory moved away that the ###damaged### lake restored its former beauty.
+例句：It was not until the chemical factory moved away that the ###damaged### lake was restored to its former beauty.
 译文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
 <!-- /leiji-note -->
 
@@ -4003,7 +4003,7 @@ per_day: 10
 中文：恢复
 单词：###restore###
 搭配：###restore order### 恢复秩序
-例句：It was not until the chemical factory moved away that the damaged lake ###restored### its former beauty.
+例句：It was not until the chemical factory moved away that the damaged lake was ###restored### to its former beauty.
 译文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
 <!-- /leiji-note -->
 
@@ -4012,7 +4012,7 @@ per_day: 10
 中文：以前的
 单词：###former###
 搭配：###in former times### 从前
-例句：It was not until the chemical factory moved away that the damaged lake restored its ###former### beauty.
+例句：It was not until the chemical factory moved away that the damaged lake was restored to its ###former### beauty.
 译文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
 <!-- /leiji-note -->
 
@@ -4021,7 +4021,7 @@ per_day: 10
 中文：美
 单词：###beauty###
 搭配：###natural beauty### 自然美景
-例句：It was not until the chemical factory moved away that the damaged lake restored its former ###beauty###.
+例句：It was not until the chemical factory moved away that the damaged lake was restored to its former ###beauty###.
 译文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
 <!-- /leiji-note -->
 
@@ -4993,8 +4993,8 @@ per_day: 10
 中文：新娘
 单词：###bride###
 搭配：###the bride and groom### 新娘新郎
-例句：The news that the ###bride### would wear a red costume at her wedding in the castle excited all the guests.
-译文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
+例句：The news that the ###bride### would wear a traditional red costume at her wedding in the castle excited all the guests.
+译文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0555 -->
@@ -5002,8 +5002,8 @@ per_day: 10
 中文：服装；戏服
 单词：###costume###
 搭配：###a traditional costume### 传统服装
-例句：The news that the bride would wear a red ###costume### at her wedding in the castle excited all the guests.
-译文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
+例句：The news that the bride would wear a traditional red ###costume### at her wedding in the castle excited all the guests.
+译文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0556 -->
@@ -5011,8 +5011,8 @@ per_day: 10
 中文：婚礼
 单词：###wedding###
 搭配：###a wedding ceremony### 婚礼
-例句：The news that the bride would wear a red costume at her ###wedding### in the castle excited all the guests.
-译文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
+例句：The news that the bride would wear a traditional red costume at her ###wedding### in the castle excited all the guests.
+译文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0557 -->
@@ -5020,8 +5020,8 @@ per_day: 10
 中文：城堡
 单词：###castle###
 搭配：###an old castle### 古堡
-例句：The news that the bride would wear a red costume at her wedding in the ###castle### excited all the guests.
-译文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
+例句：The news that the bride would wear a traditional red costume at her wedding in the ###castle### excited all the guests.
+译文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0558 -->
@@ -7522,8 +7522,8 @@ per_day: 10
 中文：发明
 单词：###invention###
 搭配：###a great invention### 伟大的发明
-例句：Without the ###invention### of the compass, Zheng He's navy could not have completed its seven voyages to distant ports.
-译文：如果没有指南针的发明，郑和的船队就不可能完成七次远航到达遥远的港口。
+例句：Without the ###invention### of the compass, the navy led by Zheng He could not have completed its seven voyages to distant ports.
+译文：如果没有指南针的发明，郑和率领的船队就不可能完成七次远航到达遥远的港口。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0836 -->
@@ -7531,8 +7531,8 @@ per_day: 10
 中文：海军；船队
 单词：###navy###
 搭配：###join the navy### 参加海军
-例句：Without the invention of the compass, Zheng He's ###navy### could not have completed its seven voyages to distant ports.
-译文：如果没有指南针的发明，郑和的船队就不可能完成七次远航到达遥远的港口。
+例句：Without the invention of the compass, the ###navy### led by Zheng He could not have completed its seven voyages to distant ports.
+译文：如果没有指南针的发明，郑和率领的船队就不可能完成七次远航到达遥远的港口。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0837 -->
@@ -7540,8 +7540,8 @@ per_day: 10
 中文：航行
 单词：###voyage###
 搭配：###a long voyage### 长途航行
-例句：Without the invention of the compass, Zheng He's navy could not have completed its seven ###voyages### to distant ports.
-译文：如果没有指南针的发明，郑和的船队就不可能完成七次远航到达遥远的港口。
+例句：Without the invention of the compass, the navy led by Zheng He could not have completed its seven ###voyages### to distant ports.
+译文：如果没有指南针的发明，郑和率领的船队就不可能完成七次远航到达遥远的港口。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0838 -->
@@ -7549,8 +7549,8 @@ per_day: 10
 中文：港口
 单词：###port###
 搭配：###a busy port### 繁忙的港口
-例句：Without the invention of the compass, Zheng He's navy could not have completed its seven voyages to distant ###ports###.
-译文：如果没有指南针的发明，郑和的船队就不可能完成七次远航到达遥远的港口。
+例句：Without the invention of the compass, the navy led by Zheng He could not have completed its seven voyages to distant ###ports###.
+译文：如果没有指南针的发明，郑和率领的船队就不可能完成七次远航到达遥远的港口。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-gk-words-w0839 -->

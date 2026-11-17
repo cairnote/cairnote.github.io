@@ -424,9 +424,9 @@ per_day: 1
 <!-- leiji-note-id:danci-gk-sentences-s041 -->
 # 高考例句 041 · 语法
 中文：那位教授讲课幽默生动，很受欢迎，在学生中口碑很好。
-英文：The ###professor###, whose ###humourous### and ###vivid### lessons are popular, has a good ###reputation### among students.
+英文：The ###professor###, whose ###humorous### and ###vivid### lessons are popular, has a good ###reputation### among students.
 - 教授：###professor### · ###a history professor### 历史教授
-- 幽默的：###humourous### · ###a humourous story### 幽默的故事
+- 幽默的：###humorous### · ###a humorous story### 幽默的故事
 - 生动的：###vivid### · ###a vivid description### 生动的描述
 - 名声：###reputation### · ###have a good reputation### 名声好
 <!-- /leiji-note -->
@@ -939,7 +939,7 @@ per_day: 1
 <!-- leiji-note-id:danci-gk-sentences-s092 -->
 # 高考例句 092 · 语法
 中文：新大坝建成后，这个县不再遭受洪灾，还能发电支持当地经济。
-英文：With the new ###dam### built, the ###county### no longer suffers from floods, and it can ###generate### power to support its ###economy###.
+英文：With the new ###dam### built, the ###county### no longer suffers from floods, and can ###generate### power to support its ###economy###.
 - 水坝：###dam### · ###build a dam### 修建水坝
 - 县：###county### · ###a county town### 县城
 - 产生：###generate### · ###generate electricity### 发电
@@ -1030,7 +1030,7 @@ per_day: 1
 <!-- leiji-note-id:danci-gk-sentences-s101 -->
 # 高考例句 101 · 语法
 中文：沙漠如此辽阔，没有指南针的人可能会游荡好几天、迷失方向。
-英文：So ###vast### is the desert that people without a ###compass### may ###wander### for days and lose their ###direction###.
+英文：So ###vast### is the desert that people without a ###compass### may ###wander### for days with no sense of ###direction###.
 - 辽阔的：###vast### · ###a vast area### 广阔的地区
 - 指南针：###compass### · ###use a compass### 用指南针
 - 漫步；游荡：###wander### · ###wander around### 四处闲逛
@@ -1091,7 +1091,7 @@ per_day: 1
 <!-- leiji-note-id:danci-gk-sentences-s107 -->
 # 高考例句 107 · 语法
 中文：直到那家化工厂搬走，受损的湖泊才恢复了昔日的美丽。
-英文：It was not until the ###chemical### factory moved away that the ###damaged### lake ###restored### its ###former### ###beauty###.
+英文：It was not until the ###chemical### factory moved away that the ###damaged### lake was ###restored### to its ###former### ###beauty###.
 - 化学的；化学品：###chemical### · ###a chemical factory### 化工厂
 - 损害：###damage### · ###cause damage to ...### 对……造成损害
 - 恢复：###restore### · ###restore order### 恢复秩序
@@ -1364,8 +1364,8 @@ per_day: 1
 
 <!-- leiji-note-id:danci-gk-sentences-s134 -->
 # 高考例句 134 · 语法
-中文：新娘将在城堡婚礼上穿红色礼服的消息让所有宾客都很兴奋。
-英文：The news that the ###bride### would wear a red ###costume### at her ###wedding### in the ###castle### excited all the guests.
+中文：新娘将在城堡婚礼上穿红色传统服饰的消息让所有宾客都很兴奋。
+英文：The news that the ###bride### would wear a traditional red ###costume### at her ###wedding### in the ###castle### excited all the guests.
 - 新娘：###bride### · ###the bride and groom### 新娘新郎
 - 服装；戏服：###costume### · ###a traditional costume### 传统服装
 - 婚礼：###wedding### · ###a wedding ceremony### 婚礼
@@ -2059,8 +2059,8 @@ per_day: 1
 
 <!-- leiji-note-id:danci-gk-sentences-s203 -->
 # 高考例句 203 · 语法
-中文：如果没有指南针的发明，郑和的船队就不可能完成七次远航到达遥远的港口。
-英文：Without the ###invention### of the compass, Zheng He's ###navy### could not have completed its seven ###voyages### to distant ###ports###.
+中文：如果没有指南针的发明，郑和率领的船队就不可能完成七次远航到达遥远的港口。
+英文：Without the ###invention### of the compass, the ###navy### led by Zheng He could not have completed its seven ###voyages### to distant ###ports###.
 - 发明：###invention### · ###a great invention### 伟大的发明
 - 海军；船队：###navy### · ###join the navy### 参加海军
 - 航行：###voyage### · ###a long voyage### 长途航行
