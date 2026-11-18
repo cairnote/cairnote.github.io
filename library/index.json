@@ -74,6 +74,30 @@
       "version": "2026-11-17"
     },
     {
+      "id": "gk-math",
+      "title": "高考数学公式（95 条）",
+      "title_en": "Gaokao Math Formulas (95)",
+      "desc": "高中数学常用公式和定理，95 条，一条一个，遮住关键部分，看名称写公式",
+      "level": "高分",
+      "count": 95,
+      "per_day": 3,
+      "lang": "zh",
+      "file": "gk-math.md",
+      "version": "2026-11-18"
+    },
+    {
+      "id": "gk-gushiwen",
+      "title": "高考必背古诗文（55 篇）",
+      "title_en": "Gaokao Classical Chinese Texts (55)",
+      "desc": "统编高中语文教材里的必背古诗文 55 篇，原文按电子课本核对，隔句遮挡，看上句背下句",
+      "level": "高分",
+      "count": 55,
+      "per_day": 1,
+      "lang": "zh",
+      "file": "gk-gushiwen.md",
+      "version": "2026-11-18"
+    },
+    {
       "id": "danci-cet4-words",
       "title": "四级仅单词（1638 词）",
       "title_en": "CET-4 Vocabulary (1638 words)",
