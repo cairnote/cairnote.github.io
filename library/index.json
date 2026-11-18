@@ -98,6 +98,42 @@
       "version": "2026-11-18"
     },
     {
+      "id": "gk-physics",
+      "title": "高考物理公式（103 条）",
+      "title_en": "Gaokao Physics Formulas (103)",
+      "desc": "高中物理常用公式和定律 103 条，覆盖力学、电磁学、热学、光学和近代物理，遮住关键部分，看名称写公式",
+      "level": "高分",
+      "count": 103,
+      "per_day": 3,
+      "lang": "zh",
+      "file": "gk-physics.md",
+      "version": "2026-11-18"
+    },
+    {
+      "id": "gk-chemistry",
+      "title": "高考化学方程式与要点（95 条）",
+      "title_en": "Gaokao Chemistry Essentials (95)",
+      "desc": "高中化学常考方程式、计算公式和规律 95 条，遮住关键部分，看名称写答案",
+      "level": "高分",
+      "count": 95,
+      "per_day": 3,
+      "lang": "zh",
+      "file": "gk-chemistry.md",
+      "version": "2026-11-18"
+    },
+    {
+      "id": "gk-biology",
+      "title": "高考生物核心知识点（100 条）",
+      "title_en": "Gaokao Biology Key Points (100)",
+      "desc": "高中生物核心概念、过程和规律 100 条，遮住关键词，看名称回忆要点",
+      "level": "高分",
+      "count": 100,
+      "per_day": 3,
+      "lang": "zh",
+      "file": "gk-biology.md",
+      "version": "2026-11-18"
+    },
+    {
       "id": "danci-cet4-words",
       "title": "四级仅单词（1638 词）",
       "title_en": "CET-4 Vocabulary (1638 words)",

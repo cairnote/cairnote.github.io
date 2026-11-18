@@ -74,7 +74,7 @@ logₐ(MN) = ###logₐM + logₐN###；logₐ(M/N) = ###logₐM − logₐN###�
 <!-- leiji-note-id:gk-math-011 -->
 # 高考数学 11 · 换底公式
 分类：函数
-logₐb = ###log_c b / log_c a###（c > 0 且 c ≠ 1）；推论：logₐb·log_b a = ###1###
+logₐb = ###lg b / lg a###（分子分母可换成任意相同的底 c，c > 0 且 c ≠ 1）；推论：logₐb 与「以 b 为底 a 的对数」###互为倒数###
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:gk-math-012 -->
@@ -248,7 +248,7 @@ Sₙ = ###n(a₁ + aₙ)/2### = ###na₁ + n(n − 1)d/2###
 <!-- leiji-note-id:gk-math-040 -->
 # 高考数学 40 · 等差数列性质
 分类：数列
-若 m + n = p + q，则 ###aₘ + aₙ = aₚ + a_q###；Sₙ，S₂ₙ − Sₙ，S₃ₙ − S₂ₙ 成 ###等差### 数列
+若 m + n = s + t，则 ###aₘ + aₙ = aₛ + aₜ###；Sₙ，S₂ₙ − Sₙ，S₃ₙ − S₂ₙ 成 ###等差### 数列
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:gk-math-041 -->
@@ -266,7 +266,7 @@ q ≠ 1 时 Sₙ = ###a₁(1 − qⁿ)/(1 − q)### = ###(a₁ − aₙq)/(1 −
 <!-- leiji-note-id:gk-math-043 -->
 # 高考数学 43 · 等比数列性质
 分类：数列
-若 m + n = p + q，则 ###aₘ·aₙ = aₚ·a_q###
+若 m + n = s + t，则 ###aₘ·aₙ = aₛ·aₜ###
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:gk-math-044 -->
