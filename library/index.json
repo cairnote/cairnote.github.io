@@ -204,6 +204,78 @@
       "lang": "zh",
       "file": "danci-cet6-full.md",
       "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ky-words",
+      "title": "考研仅单词（157 词）",
+      "title_en": "Kaoyan Vocabulary (157 words)",
+      "desc": "考研 157 词，每词有中文、搭配和例句，只背单词",
+      "level": "单词",
+      "count": 157,
+      "per_day": 10,
+      "lang": "zh",
+      "file": "danci-ky-words.md",
+      "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ky-core",
+      "title": "考研高分句型（12 句）",
+      "title_en": "Kaoyan Key Sentences (12)",
+      "desc": "考研每个语法考点一句，共 12 句，每句有语法问答和讲解，部分附真题考点",
+      "level": "高分",
+      "count": 12,
+      "per_day": 1,
+      "lang": "zh",
+      "file": "danci-ky-core.md",
+      "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ky-full",
+      "title": "考研进阶句型（37 句）",
+      "title_en": "Kaoyan Advanced Sentences (37)",
+      "desc": "考研全套 37 句，覆盖 157 词，每句有语法说明，部分附语法问答和真题",
+      "level": "进阶",
+      "count": 37,
+      "per_day": 1,
+      "lang": "zh",
+      "file": "danci-ky-full.md",
+      "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ielts-words",
+      "title": "雅思仅单词（1288 词）",
+      "title_en": "IELTS Vocabulary (1288 words)",
+      "desc": "雅思 1288 词，每词有中文、搭配和例句，只背单词",
+      "level": "单词",
+      "count": 1288,
+      "per_day": 10,
+      "lang": "zh",
+      "file": "danci-ielts-words.md",
+      "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ielts-core",
+      "title": "雅思高分句型（53 句）",
+      "title_en": "IELTS Key Sentences (53)",
+      "desc": "雅思每个语法考点一句，共 53 句，每句有语法问答和讲解，部分附真题考点",
+      "level": "高分",
+      "count": 53,
+      "per_day": 1,
+      "lang": "zh",
+      "file": "danci-ielts-core.md",
+      "version": "2026-11-17"
+    },
+    {
+      "id": "danci-ielts-full",
+      "title": "雅思进阶句型（320 句）",
+      "title_en": "IELTS Advanced Sentences (320)",
+      "desc": "雅思全套 320 句，覆盖 1288 词，每句有语法说明，部分附语法问答和真题，口语句附口语练习题",
+      "level": "进阶",
+      "count": 320,
+      "per_day": 1,
+      "lang": "zh",
+      "file": "danci-ielts-full.md",
+      "version": "2026-11-17"
     }
   ]
 }
