@@ -1,5 +1,5 @@
 {
- "version": "2026-11-18",
+ "version": "2026-11-19",
  "libraries": [
   {
    "id": "danci-zk-words",
@@ -288,6 +288,18 @@
    "lang": "zh",
    "file": "kouyu-chuji.md",
    "version": "2026-11-18"
+  },
+  {
+   "id": "kouyu-zhongji",
+   "title": "国外真实高频口语-中级（200 句）",
+   "title_en": "Everyday Spoken English · Intermediate (200)",
+   "desc": "比初级更长、更完整的 200 句日常口语，按 20 个场景分类；看中文说英文，每句附常用句型讲解和小对话",
+   "level": "口语",
+   "count": 200,
+   "per_day": 2,
+   "lang": "zh",
+   "file": "kouyu-zhongji.md",
+   "version": "2026-11-19"
   }
  ]
 }
