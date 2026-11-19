@@ -3,9 +3,10 @@ id: danci-zk-core
 title: 中考高分句型（40 句）
 title_en: Zhongkao Key Sentences (40)
 desc: 中考每个语法考点一句，共 40 句，每句有语法问答和讲解，部分附真题考点
-version: 2026-11-17
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 高分
 count: 40
 per_day: 1

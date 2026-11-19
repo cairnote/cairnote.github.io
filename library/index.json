@@ -11,7 +11,7 @@
    "per_day": 10,
    "lang": "zh",
    "file": "danci-zk-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-zk-core",
@@ -23,7 +23,7 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-zk-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-zk-full",
@@ -35,7 +35,7 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-zk-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-gk-words",
@@ -47,7 +47,7 @@
    "per_day": 10,
    "lang": "zh",
    "file": "danci-gk-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-gk-core",
@@ -59,7 +59,7 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-gk-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-gk-full",
@@ -71,7 +71,7 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-gk-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "gk-math",
@@ -207,11 +207,11 @@
   },
   {
    "id": "danci-ky-words",
-   "title": "考研仅单词（43 词）",
-   "title_en": "Kaoyan Vocabulary (43 words)",
-   "desc": "考研 43 词，每词有中文、搭配和例句，只背单词",
+   "title": "考研仅单词（110 词）",
+   "title_en": "Kaoyan Vocabulary (110 words)",
+   "desc": "考研 110 词，每词有中文、搭配和例句，只背单词",
    "level": "单词",
-   "count": 43,
+   "count": 110,
    "per_day": 10,
    "lang": "zh",
    "file": "danci-ky-words.md",
@@ -219,11 +219,11 @@
   },
   {
    "id": "danci-ky-core",
-   "title": "考研高分句型（4 句）",
-   "title_en": "Kaoyan Key Sentences (4)",
-   "desc": "考研每个语法考点一句，共 4 句，每句有语法问答和讲解，部分附真题考点",
+   "title": "考研高分句型（9 句）",
+   "title_en": "Kaoyan Key Sentences (9)",
+   "desc": "考研每个语法考点一句，共 9 句，每句有语法问答和讲解，部分附真题考点",
    "level": "高分",
-   "count": 4,
+   "count": 9,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ky-core.md",
@@ -231,11 +231,11 @@
   },
   {
    "id": "danci-ky-full",
-   "title": "考研进阶句型（10 句）",
-   "title_en": "Kaoyan Advanced Sentences (10)",
-   "desc": "考研全套 10 句，覆盖 43 词，每句有语法说明，部分附语法问答和真题",
+   "title": "考研进阶句型（26 句）",
+   "title_en": "Kaoyan Advanced Sentences (26)",
+   "desc": "考研全套 26 句，覆盖 110 词，每句有语法说明，部分附语法问答和真题",
    "level": "进阶",
-   "count": 10,
+   "count": 26,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ky-full.md",

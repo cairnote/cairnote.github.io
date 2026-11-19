@@ -3,9 +3,10 @@ id: danci-zk-full
 title: 中考进阶句型（247 句）
 title_en: Zhongkao Advanced Sentences (247)
 desc: 中考全套 247 句，覆盖 1046 词，每句有语法说明，部分附语法问答和真题
-version: 2026-11-17
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 进阶
 count: 247
 per_day: 1
@@ -1258,8 +1259,8 @@ per_day: 1
 
 <!-- leiji-note-id:danci-zk-full-s101 -->
 # 中考例句 101 · 口语
-中文：我来介绍一下我的搭档露西。她是低年级学生，也是我们队的一员。
-英文：###Let me introduce my partner, Lucy. She's a junior student and a member of our team.###
+中文：我来介绍一下我的搭档磊记。她是低年级学生，也是我们队的一员。
+英文：###Let me introduce my partner, Leiji. She's a junior student and a member of our team.###
 - 介绍：introduce · introduce oneself 自我介绍
 - 搭档；伙伴：partner · a dancing partner 舞伴
 - 初级的；较年幼的：junior · junior high school 初中
@@ -1956,8 +1957,8 @@ per_day: 1
 
 <!-- leiji-note-id:danci-zk-full-s161 -->
 # 中考例句 161 · 写作
-中文：王先生经营一家小企业，他妻子在市中心当律师。
-英文：###Mr Wang runs a small business, and his wife works as a lawyer in the city centre.###
+中文：王先生经营一家叫 Cairnote 的小企业，他妻子在市中心当律师。
+英文：###Mr Wang runs a small business called Cairnote, and his wife works as a lawyer in the city centre.###
 - 生意；企业：business · run a business 经营生意
 - 妻子：wife · husband and wife 夫妻
 - 律师：lawyer · a famous lawyer 著名律师

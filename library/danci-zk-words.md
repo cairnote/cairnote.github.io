@@ -3,9 +3,10 @@ id: danci-zk-words
 title: 中考仅单词（1046 词）
 title_en: Zhongkao Vocabulary (1046 words)
 desc: 中考 1046 词，每词有中文、搭配和例句，只背单词
-version: 2026-11-17
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 单词
 count: 1046
 per_day: 10
@@ -13,7 +14,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0001 -->
 # 中考单词 0001 · 缺席的
-中文：adj. 缺席的
+中文：adj. 缺席的；缺少的；心不在焉的；茫然的 v. 使缺席
 单词：###absent###
 搭配：###be absent from school### 缺课
 例句：I was ###absent### yesterday. Could you explain the homework to me and lend me your notebook?
@@ -22,7 +23,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0002 -->
 # 中考单词 0002 · 解释；讲解
-中文：v. 解释；讲解
+中文：vt. 解释，说明；讲解
 单词：###explain###
 搭配：###explain sth. to sb.### 向某人解释某事
 例句：I was absent yesterday. Could you ###explain### the homework to me and lend me your notebook?
@@ -40,7 +41,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0004 -->
 # 中考单词 0004 · 借给
-中文：v. 借给
+中文：vt. 借(出)，把…借给
 单词：###lend###
 搭配：###lend sb. sth.### 把某物借给某人
 例句：I was absent yesterday. Could you explain the homework to me and ###lend### me your notebook?
@@ -49,7 +50,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0005 -->
 # 中考单词 0005 · 笔记本
-中文：n. 笔记本
+中文：n. 笔记簿；笔记本
 单词：###notebook###
 搭配：###a notebook### 一个笔记本
 例句：I was absent yesterday. Could you explain the homework to me and lend me your ###notebook###?
@@ -58,7 +59,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0006 -->
 # 中考单词 0006 · 虽然；尽管
-中文：conj. 虽然；尽管
+中文：conj. 虽然，尽管
 单词：###although###
 用法：引导让步状语从句（不与 but 连用）
 例句：###Although### the exam was difficult, I achieved a good grade because of my effort.
@@ -67,7 +68,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0007 -->
 # 中考单词 0007 · 考试
-中文：n. 考试
+中文：n. 考试，测试；检查；审查
 单词：###exam###
 搭配：###pass an exam### 通过考试
 例句：Although the ###exam### was difficult, I achieved a good grade because of my effort.
@@ -76,7 +77,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0008 -->
 # 中考单词 0008 · 取得；实现
-中文：v. 取得；实现
+中文：v. 取得；获得；实现；成功
 单词：###achieve###
 搭配：###achieve one's dream### 实现梦想
 例句：Although the exam was difficult, I ###achieved### a good grade because of my effort.
@@ -85,7 +86,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0009 -->
 # 中考单词 0009 · 成绩；分数
-中文：n. 成绩；分数
+中文：n. 等级（中小学的）；学年；成绩，分数
 单词：###grade###
 搭配：###get a good grade### 取得好成绩
 例句：Although the exam was difficult, I achieved a good ###grade### because of my effort.
@@ -94,7 +95,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0010 -->
 # 中考单词 0010 · 努力
-中文：n. 努力
+中文：n. 努力；成就
 单词：###effort###
 搭配：###make an effort### 努力
 例句：Although the exam was difficult, I achieved a good grade because of my ###effort###.
@@ -103,7 +104,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0011 -->
 # 中考单词 0011 · 紧张的
-中文：adj. 紧张的
+中文：adj. 紧张不安的
 单词：###nervous###
 搭配：###feel nervous### 感到紧张
 例句：Don't be ###nervous### during the interview. Just be honest and show your confidence.
@@ -112,7 +113,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0012 -->
 # 中考单词 0012 · 在……期间
-中文：prep. 在……期间
+中文：prep. 在…期间；在…过程中
 单词：###during###
 搭配：###during the holiday### 在假期里
 例句：Don't be nervous ###during### the interview. Just be honest and show your confidence.
@@ -121,7 +122,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0013 -->
 # 中考单词 0013 · 面试；采访
-中文：n. 面试；采访
+中文：n. 接见，采访；面试，面谈 v. 采访；接见；对…进行面谈；对某人进行面试
 单词：###interview###
 搭配：###have an interview### 参加面试
 例句：Don't be nervous during the ###interview###. Just be honest and show your confidence.
@@ -130,7 +131,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0014 -->
 # 中考单词 0014 · 诚实的
-中文：adj. 诚实的
+中文：adj. 诚实的，正直的
 单词：###honest###
 搭配：###be honest with sb.### 对某人诚实
 例句：Don't be nervous during the interview. Just be ###honest### and show your confidence.
@@ -139,7 +140,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0015 -->
 # 中考单词 0015 · 信心
-中文：n. 信心
+中文：n. 信心；自信；信任
 单词：###confidence###
 搭配：###with confidence### 自信地
 例句：Don't be nervous during the interview. Just be honest and show your ###confidence###.
@@ -148,7 +149,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0016 -->
 # 中考单词 0016 · 鼓励
-中文：v. 鼓励
+中文：vt. 鼓励
 单词：###encourage###
 搭配：###encourage sb. to do sth.### 鼓励某人做某事
 例句：Our teacher ###encourages### us to read the passage aloud and keep a diary about our daily life in English.
@@ -157,7 +158,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0017 -->
 # 中考单词 0017 · （文章的）段落；短文
-中文：n. （文章的）段落；短文
+中文：n. （文章等的）一节，一段；通道；走廊；（文章的）段落；短文
 单词：###passage###
 搭配：###read the passage### 读这篇短文
 例句：Our teacher encourages us to read the ###passage### aloud and keep a diary about our daily life in English.
@@ -175,7 +176,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0019 -->
 # 中考单词 0019 · 每天的
-中文：adj. 每天的
+中文：adj. 每日的；日常的 adv. 每天 n. 日报
 单词：###daily###
 搭配：###daily life### 日常生活
 例句：Our teacher encourages us to read the passage aloud and keep a diary about our ###daily### life in English.
@@ -184,7 +185,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0020 -->
 # 中考单词 0020 · 日记
-中文：n. 日记
+中文：n. 日记；日记簿
 单词：###diary###
 搭配：###keep a diary### 记日记
 例句：Our teacher encourages us to read the passage aloud and keep a ###diary### about our daily life in English.
@@ -193,7 +194,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0021 -->
 # 中考单词 0021 · 原谅
-中文：v. 原谅
+中文：n. 借口，辩解 vt. 原谅，宽恕
 单词：###excuse###
 搭配：###Excuse me.### 打扰一下；劳驾
 例句：###Excuse### me, would you mind repeating that sentence? I'm not sure about its meaning.
@@ -202,7 +203,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0022 -->
 # 中考单词 0022 · 介意
-中文：v. 介意
+中文：n. 思想，想法 v. 介意，关心
 单词：###mind###
 搭配：###Would you mind doing ...?### 你介意……吗？
 例句：Excuse me, would you ###mind### repeating that sentence? I'm not sure about its meaning.
@@ -211,7 +212,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0023 -->
 # 中考单词 0023 · 重复
-中文：n. 重复
+中文：vt. 重复；重说，重做
 单词：###repeat###
 搭配：###repeat after me### 跟我读
 例句：Excuse me, would you mind ###repeating### that sentence? I'm not sure about its meaning.
@@ -229,7 +230,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0025 -->
 # 中考单词 0025 · 意思；含义
-中文：n. 意思；含义
+中文：n. 意思，含意；含义
 单词：###meaning###
 搭配：###the meaning of ……### 的意思
 例句：Excuse me, would you mind repeating that sentence? I'm not sure about its ###meaning###.
@@ -238,7 +239,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0026 -->
 # 中考单词 0026 · 提供
-中文：v. 提供
+中文：vt. 提供
 单词：###provide###
 搭配：###provide sb. with sth.### 为某人提供某物
 例句：Our school library ###provides### students with plenty of books, magazines and newspapers.
@@ -247,7 +248,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0027 -->
 # 中考单词 0027 · 大量；充足
-中文：n. 大量；充足
+中文：n. 充足，大量
 单词：###plenty###
 搭配：###plenty of### 大量的
 例句：Our school library provides students with ###plenty### of books, magazines and newspapers.
@@ -274,7 +275,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0030 -->
 # 中考单词 0030 · 问题；难题
-中文：n. 问题；难题
+中文：n. 问题，难题
 单词：###problem###
 搭配：###solve a problem### 解决问题
 例句：If you have ###problems### with grammar, don't be shy about asking your classmates for help.
@@ -310,7 +311,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0034 -->
 # 中考单词 0034 · 经典的
-中文：adj. 经典的
+中文：adj. 经典的；典型的 n. 经典作品，名著
 单词：###classic###
 搭配：###classic novels### 经典小说
 例句：Reading ###classic### novels not only improves our language skills but also opens our minds.
@@ -328,7 +329,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0036 -->
 # 中考单词 0036 · 提高；改进
-中文：v. 提高；改进
+中文：vt. 改进，更新；提高
 单词：###improve###
 搭配：###improve one's English### 提高英语水平
 例句：Reading classic novels not only ###improves### our language skills but also opens our minds.
@@ -346,7 +347,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0038 -->
 # 中考单词 0038 · 技能
-中文：n. 技能
+中文：n. 技能，技巧；本领，技术
 单词：###skill###
 搭配：###language skills### 语言技能
 例句：Reading classic novels not only improves our language ###skills### but also opens our minds.
@@ -355,7 +356,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0039 -->
 # 中考单词 0039 · 买得起；负担得起
-中文：v. 买得起；负担得起
+中文：vt. 负担得起（…的费用）；抽得出（时间）；提供；买得起
 单词：###afford###
 搭配：###can't afford (to buy) sth.### 买不起某物
 例句：I can't ###afford### a new laptop, so I'll borrow one from my cousin for the project.
@@ -373,7 +374,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0041 -->
 # 中考单词 0041 · 借（入）
-中文：v. 借（入）
+中文：v. （向别人）借用；借
 单词：###borrow###
 搭配：###borrow sth. from sb.### 向某人借某物
 例句：I can't afford a new laptop, so I'll ###borrow### one from my cousin for the project.
@@ -382,7 +383,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0042 -->
 # 中考单词 0042 · 项目；课题
-中文：n. 项目；课题
+中文：v. 投射，发射；放映；凸出，伸出；设计，规划 n. 项目；课题
 单词：###project###
 搭配：###work on a project### 做项目
 例句：I can't afford a new laptop, so I'll borrow one from my cousin for the ###project###.
@@ -391,7 +392,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0043 -->
 # 中考单词 0043 · 志愿者
-中文：n. 志愿者
+中文：n. 志愿者 v. 自愿做某事
 单词：###volunteer###
 搭配：###work as a volunteer### 当志愿者
 例句：###Volunteers### who donate their spare time to the community have won our respect.
@@ -400,7 +401,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0044 -->
 # 中考单词 0044 · 捐献；捐赠
-中文：v. 捐献；捐赠
+中文：v. 捐赠，赠送；捐献
 单词：###donate###
 搭配：###donate money to ...### 向……捐款
 例句：Volunteers who ###donate### their spare time to the community have won our respect.
@@ -409,7 +410,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0045 -->
 # 中考单词 0045 · 空闲的；多余的
-中文：adj. 空闲的；多余的
+中文：adj. 备用的；多余的；空闲的 v. 留出，抽出；饶恕，不伤害；使免遭
 单词：###spare###
 搭配：###spare time### 业余时间
 例句：Volunteers who donate their ###spare### time to the community have won our respect.
@@ -418,7 +419,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0046 -->
 # 中考单词 0046 · 社区
-中文：n. 社区
+中文：n. 社区；社会；团体
 单词：###community###
 搭配：###in the community### 在社区里
 例句：Volunteers who donate their spare time to the ###community### have won our respect.
@@ -427,7 +428,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0047 -->
 # 中考单词 0047 · 尊敬
-中文：n. 尊敬
+中文：n. 尊敬，尊重；方面 v. 尊敬，尊重
 单词：###respect###
 搭配：###win sb.'s respect### 赢得某人的尊敬
 例句：Volunteers who donate their spare time to the community have won our ###respect###.
@@ -436,7 +437,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0048 -->
 # 中考单词 0048 · 极好的；了不起的
-中文：adj. 极好的；了不起的
+中文：adj. 奇异的；空想的；异想天开的；古怪的；极好的，极出色的；不可思议的；不切实际的；了不起的 n. 古怪的人
 单词：###fantastic###
 搭配：###a fantastic idea### 绝妙的主意
 例句：What a ###fantastic### concert! The band performed so well that all of us cheered for them.
@@ -445,7 +446,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0049 -->
 # 中考单词 0049 · 音乐会
-中文：n. 音乐会
+中文：n. 音乐会；演奏会
 单词：###concert###
 搭配：###go to a concert### 去听音乐会
 例句：What a fantastic ###concert###! The band performed so well that all of us cheered for them.
@@ -454,7 +455,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0050 -->
 # 中考单词 0050 · 乐队
-中文：n. 乐队
+中文：n. 乐队，波段，一伙，一帮，带(状物)
 单词：###band###
 搭配：###a rock band### 摇滚乐队
 例句：What a fantastic concert! The ###band### performed so well that all of us cheered for them.
@@ -463,7 +464,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0051 -->
 # 中考单词 0051 · 表演；演出
-中文：v. 表演；演出
+中文：v. 做，履行，完成；演出，表演
 单词：###perform###
 搭配：###perform on the stage### 在舞台上表演
 例句：What a fantastic concert! The band ###performed### so well that all of us cheered for them.
@@ -472,7 +473,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0052 -->
 # 中考单词 0052 · 欢呼
-中文：v. 欢呼
+中文：v. 欢呼；使高兴；为…加油 n. 欢呼；愉快；心情；令人愉快的事
 单词：###cheer###
 搭配：###cheer for sb.### 为某人欢呼
 例句：What a fantastic concert! The band performed so well that all of us ###cheered### for them.
@@ -490,7 +491,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0054 -->
 # 中考单词 0054 · 地区
-中文：n. 地区
+中文：n. 面积；地域，区域；范围，领域
 单词：###area###
 搭配：###in this area### 在这个地区
 例句：Since the earthquake hit the ###area###, the government has provided food and medicine for local people.
@@ -508,7 +509,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0056 -->
 # 中考单词 0056 · 药
-中文：n. 药
+中文：n. 药；医学；内科；巫术 v. 用药物治疗；给…用药
 单词：###medicine###
 搭配：###take medicine### 吃药
 例句：Since the earthquake hit the area, the government has provided food and ###medicine### for local people.
@@ -517,7 +518,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0057 -->
 # 中考单词 0057 · 当地的
-中文：adj. 当地的
+中文：adj. 地方性的，本地的；局部的；狭隘的 n. 当地人，本地人
 单词：###local###
 搭配：###local people### 当地人
 例句：Since the earthquake hit the area, the government has provided food and medicine for ###local### people.
@@ -526,7 +527,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0058 -->
 # 中考单词 0058 · 咳嗽
-中文：n. 咳嗽
+中文：vi. 咳嗽 n. 咳嗽
 单词：###cough###
 搭配：###have a cough### 咳嗽
 例句：I have a ###cough###, a sore throat and a fever, so I'd better stay at home today.
@@ -535,7 +536,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0059 -->
 # 中考单词 0059 · 疼痛的
-中文：adj. 疼痛的
+中文：adj. 疼痛的；酸痛的
 单词：###sore###
 搭配：###have a sore throat### 喉咙痛
 例句：I have a cough, a ###sore### throat and a fever, so I'd better stay at home today.
@@ -544,7 +545,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0060 -->
 # 中考单词 0060 · 喉咙
-中文：n. 喉咙
+中文：n. 咽喉，嗓子；喉咙
 单词：###throat###
 搭配：###a sore throat### 喉咙痛
 例句：I have a cough, a sore ###throat### and a fever, so I'd better stay at home today.
@@ -553,7 +554,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0061 -->
 # 中考单词 0061 · 发烧
-中文：n. 发烧
+中文：n. 发烧；发热
 单词：###fever###
 搭配：###have a fever### 发烧
 例句：I have a cough, a sore throat and a ###fever###, so I'd better stay at home today.
@@ -562,7 +563,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0062 -->
 # 中考单词 0062 · 平衡（balanced 均衡的）
-中文：n. 平衡（balanced 均衡的）
+中文：v. 使平衡，使均衡；称；权衡 n. 天平，称；均衡，平衡；结存，结欠
 单词：###balance###
 搭配：###a balanced diet### 均衡的饮食
 例句：Doing exercise and keeping a ###balanced### diet are necessary for our health.
@@ -571,7 +572,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0063 -->
 # 中考单词 0063 · 饮食
-中文：n. 饮食
+中文：v. 进特种饮食，节食 n. 日常饮食；特种饮食，规定饮食
 单词：###diet###
 搭配：###keep a healthy diet### 保持健康饮食
 例句：Doing exercise and keeping a balanced ###diet### are necessary for our health.
@@ -580,7 +581,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0064 -->
 # 中考单词 0064 · 必要的
-中文：adj. 必要的
+中文：adj. 必需的，必要的
 单词：###necessary###
 搭配：###It's necessary to do sth.### 做某事是必要的
 例句：Doing exercise and keeping a balanced diet are ###necessary### for our health.
@@ -589,7 +590,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0065 -->
 # 中考单词 0065 · 健康
-中文：n. 健康
+中文：n. 健康，卫生
 单词：###health###
 搭配：###be good for one's health### 对健康有益
 例句：Doing exercise and keeping a balanced diet are necessary for our ###health###.
@@ -598,7 +599,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0066 -->
 # 中考单词 0066 · 慢跑
-中文：n. 慢跑
+中文：v. 慢跑 n. 慢跑
 单词：###jog###
 搭配：###go jogging### 去慢跑
 例句：Let's go ###jogging### in the park this weekend. It's a great way to relax and reduce stress.
@@ -616,7 +617,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0068 -->
 # 中考单词 0068 · 放松
-中文：v. 放松
+中文：v. （使）放松，轻松
 单词：###relax###
 搭配：###relax oneself### 放松自己
 例句：Let's go jogging in the park this weekend. It's a great way to ###relax### and reduce stress.
@@ -625,7 +626,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0069 -->
 # 中考单词 0069 · 减少；降低
-中文：v. 减少；降低
+中文：v. 减少；降低；缩小
 单词：###reduce###
 搭配：###reduce stress### 减轻压力
 例句：Let's go jogging in the park this weekend. It's a great way to relax and ###reduce### stress.
@@ -634,7 +635,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0070 -->
 # 中考单词 0070 · 压力
-中文：n. 压力
+中文：v. 强调，着重；重读 n. 压力，紧张；强调，重要性；重音
 单词：###stress###
 搭配：###be under stress### 处于压力之下
 例句：Let's go jogging in the park this weekend. It's a great way to relax and reduce ###stress###.
@@ -652,7 +653,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0072 -->
 # 中考单词 0072 · 避免
-中文：v. 避免
+中文：v. 避免；避开，躲避；消除
 单词：###avoid###
 搭配：###avoid doing sth.### 避免做某事
 例句：Teenage students should ###avoid### playing online games for too long, because it may harm their eyes.
@@ -661,7 +662,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0073 -->
 # 中考单词 0073 · 在线的；网络的
-中文：adj. 在线的；网络的
+中文：adj. 在线的；联机的，联网的；网络的
 单词：###online###
 搭配：###online games### 网络游戏
 例句：Teenage students should avoid playing ###online### games for too long, because it may harm their eyes.
@@ -670,7 +671,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0074 -->
 # 中考单词 0074 · 伤害；损害
-中文：v. 伤害；损害
+中文：n. 伤害；损伤 v. 伤害；损伤；损害
 单词：###harm###
 搭配：###do harm to ...### 对……有害
 例句：Teenage students should avoid playing online games for too long, because it may ###harm### their eyes.
@@ -679,7 +680,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0075 -->
 # 中考单词 0075 · 祝贺
-中文：n. 祝贺
+中文：n. 祝贺，庆贺
 单词：###congratulation###
 搭配：###Congratulations on ...!### 祝贺你……！
 例句：###Congratulations### on becoming the champion! You must be very proud of yourself.
@@ -688,7 +689,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0076 -->
 # 中考单词 0076 · 成为
-中文：v. 成为
+中文：v. 变得；成为
 单词：###become###
 搭配：###become a doctor### 成为医生
 例句：Congratulations on ###becoming### the champion! You must be very proud of yourself.
@@ -697,7 +698,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0077 -->
 # 中考单词 0077 · 冠军
-中文：n. 冠军
+中文：v. 拥护 n. 冠军；拥护者
 单词：###champion###
 搭配：###the school champion### 学校冠军
 例句：Congratulations on becoming the ###champion###! You must be very proud of yourself.
@@ -706,7 +707,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0078 -->
 # 中考单词 0078 · 骄傲的；自豪的
-中文：adj. 骄傲的；自豪的
+中文：adj. 自豪的；骄傲的
 单词：###proud###
 搭配：###be proud of ...### 为……感到骄傲
 例句：Congratulations on becoming the champion! You must be very ###proud### of yourself.
@@ -715,7 +716,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0079 -->
 # 中考单词 0079 · 古代的；古老的
-中文：adj. 古代的；古老的
+中文：adj. 古代的；古老的，过时的；年老的 n. 古代人；老人
 单词：###ancient###
 搭配：###ancient China### 古代中国
 例句：The ###ancient### palace was built about five centuries ago, and now it is visited by thousands of tourists every year.
@@ -724,7 +725,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0080 -->
 # 中考单词 0080 · 宫殿
-中文：n. 宫殿
+中文：n. 宫，宫殿
 单词：###palace###
 搭配：###the Summer Palace### 颐和园
 例句：The ancient ###palace### was built about five centuries ago, and now it is visited by thousands of tourists every year.
@@ -733,7 +734,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0081 -->
 # 中考单词 0081 · 世纪
-中文：n. 世纪
+中文：n. 世纪，百年
 单词：###century###
 搭配：###in the 21st century### 在 21 世纪
 例句：The ancient palace was built about five ###centuries### ago, and now it is visited by thousands of tourists every year.
@@ -742,7 +743,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0082 -->
 # 中考单词 0082 · 游客
-中文：n. 游客
+中文：n. 旅行者，观光者；游客
 单词：###tourist###
 搭配：###attract tourists### 吸引游客
 例句：The ancient palace was built about five centuries ago, and now it is visited by thousands of ###tourists### every year.
@@ -751,7 +752,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0083 -->
 # 中考单词 0083 · 恐怕；害怕的
-中文：adj. 恐怕；害怕的
+中文：adj. 害怕的；担心；恐怕
 单词：###afraid###
 搭配：###I'm afraid ...### 恐怕……
 例句：I'm ###afraid### we have to cancel our picnic because a storm is coming.
@@ -760,7 +761,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0084 -->
 # 中考单词 0084 · 取消
-中文：v. 取消
+中文：v. 取消；删去 n. 取消，撤销
 单词：###cancel###
 搭配：###cancel a meeting### 取消会议
 例句：I'm afraid we have to ###cancel### our picnic because a storm is coming.
@@ -769,7 +770,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0085 -->
 # 中考单词 0085 · 野餐
-中文：n. 野餐
+中文：n. 野餐 v. 去野餐
 单词：###picnic###
 搭配：###have a picnic### 去野餐
 例句：I'm afraid we have to cancel our ###picnic### because a storm is coming.
@@ -778,7 +779,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0086 -->
 # 中考单词 0086 · 暴风雨
-中文：n. 暴风雨
+中文：n. 风暴，暴（风）雨
 单词：###storm###
 搭配：###a heavy storm### 一场猛烈的暴风雨
 例句：I'm afraid we have to cancel our picnic because a ###storm### is coming.
@@ -787,7 +788,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0087 -->
 # 中考单词 0087 · 回收利用
-中文：v. 回收利用
+中文：vt. 回收；再循环；回收利用
 单词：###recycle###
 搭配：###recycle paper### 回收纸张
 例句：We should ###recycle### plastic bottles and stop dropping litter in order to protect the environment.
@@ -805,7 +806,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0089 -->
 # 中考单词 0089 · 垃圾；乱扔（垃圾）
-中文：n. 垃圾；v. 乱扔（垃圾）
+中文：v. 乱丢杂物；乱扔（垃圾） n. 垃圾
 单词：###litter###
 搭配：###drop litter### 乱扔垃圾
 例句：We should recycle plastic bottles and stop dropping ###litter### in order to protect the environment.
@@ -814,7 +815,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0090 -->
 # 中考单词 0090 · 保护
-中文：v. 保护
+中文：vt. 保护
 单词：###protect###
 搭配：###protect sb./sth. from ...### 保护……免受……
 例句：We should recycle plastic bottles and stop dropping litter in order to ###protect### the environment.
@@ -841,7 +842,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0093 -->
 # 中考单词 0093 · 闻起来
-中文：v. 闻起来
+中文：v. 嗅，闻到；发气味；闻起来 n. 气味
 单词：###smell###
 搭配：###smell good### 闻起来很香
 例句：These dumplings ###smell### delicious. Could you pass me the salt and pepper, please?
@@ -850,7 +851,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0094 -->
 # 中考单词 0094 · 美味的
-中文：adj. 美味的
+中文：adj. 美味的，可口的
 单词：###delicious###
 搭配：###delicious food### 美食
 例句：These dumplings smell ###delicious###. Could you pass me the salt and pepper, please?
@@ -877,7 +878,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0097 -->
 # 中考单词 0097 · 准备
-中文：v. 准备
+中文：vt. 准备，预备，调制，配制
 单词：###prepare###
 搭配：###prepare for ...### 为……做准备
 例句：Every morning my mother ###prepares### porridge, fresh fruit and yogurt for our breakfast.
@@ -886,7 +887,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0098 -->
 # 中考单词 0098 · 粥
-中文：n. 粥
+中文：n. 稀饭，粥
 单词：###porridge###
 搭配：###a bowl of porridge### 一碗粥
 例句：Every morning my mother prepares ###porridge###, fresh fruit and yogurt for our breakfast.
@@ -904,7 +905,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0100 -->
 # 中考单词 0100 · 酸奶
-中文：n. 酸奶
+中文：n. 酸奶，酵母乳
 单词：###yogurt###
 搭配：###a cup of yogurt### 一杯酸奶
 例句：Every morning my mother prepares porridge, fresh fruit and ###yogurt### for our breakfast.
@@ -913,7 +914,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0101 -->
 # 中考单词 0101 · 更多的
-中文：adj. 更多的
+中文：adv. 更，更多 adj. 更多的；更大的
 单词：###more###
 搭配：###some more### 再来一些
 例句：Would you like some ###more### cheese? — No, thanks. I'm full, and I'm trying to keep slim.
@@ -931,7 +932,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0103 -->
 # 中考单词 0103 · 饱的；满的
-中文：adj. 饱的；满的
+中文：adj. 满的，充满的；完全的；饱的
 单词：###full###
 搭配：###be full of ...### 充满……
 例句：Would you like some more cheese? — No, thanks. I'm ###full###, and I'm trying to keep slim.
@@ -940,7 +941,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0104 -->
 # 中考单词 0104 · 苗条的
-中文：adj. 苗条的
+中文：adj. 苗条的；微小的 v. 减肥
 单词：###slim###
 搭配：###keep slim### 保持苗条
 例句：Would you like some more cheese? — No, thanks. I'm full, and I'm trying to keep ###slim###.
@@ -949,7 +950,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0105 -->
 # 中考单词 0105 · 倒；灌
-中文：v. 倒；灌
+中文：v. 倒；灌；倾泻，不断流出
 单词：###pour###
 搭配：###pour ... into ...### 把……倒进……
 例句：###Pour### the milk into a bowl, add some sugar and mix them together with a spoon.
@@ -976,7 +977,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0108 -->
 # 中考单词 0108 · 混合；搅拌
-中文：v. 混合；搅拌
+中文：v. 使混合，配制；相混，搞混；搅拌 n. 混合，搅和
 单词：###mix###
 搭配：###mix A with B### 把 A 和 B 混合
 例句：Pour the milk into a bowl, add some sugar and ###mix### them together with a spoon.
@@ -985,7 +986,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0109 -->
 # 中考单词 0109 · 勺子
-中文：n. 勺子
+中文：n. 匙，调羹；勺子
 单词：###spoon###
 搭配：###a spoonful of sugar### 一勺糖
 例句：Pour the milk into a bowl, add some sugar and mix them together with a ###spoon###.
@@ -994,7 +995,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0110 -->
 # 中考单词 0110 · 餐馆
-中文：n. 餐馆
+中文：n. 饭馆，饭店；餐馆
 单词：###restaurant###
 搭配：###a Chinese restaurant### 中餐馆
 例句：The ###restaurant### is so crowded. Shall we order a pizza and eat at home instead?
@@ -1012,7 +1013,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0112 -->
 # 中考单词 0112 · 点（菜）；订购
-中文：v. 点（菜）；订购
+中文：vt. 定购，定货；点菜；订购 n. 顺序
 单词：###order###
 搭配：###order food### 点餐
 例句：The restaurant is so crowded. Shall we ###order### a pizza and eat at home instead?
@@ -1030,7 +1031,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0114 -->
 # 中考单词 0114 · 代替；反而
-中文：adv. 代替；反而
+中文：adv. 代替；反而；相反
 单词：###instead###
 搭配：###instead of ...### 代替……
 例句：The restaurant is so crowded. Shall we order a pizza and eat at home ###instead###?
@@ -1039,7 +1040,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0115 -->
 # 中考单词 0115 · 零食；小吃
-中文：n. 零食；小吃
+中文：n. 零食；小吃；点心
 单词：###snack###
 搭配：###have a snack### 吃点零食
 例句：Eating too many ###snacks### and drinking sweet drinks may cause serious health problems.
@@ -1048,7 +1049,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0116 -->
 # 中考单词 0116 · 甜的
-中文：adj. 甜的
+中文：n. 甜食；蜜饯；甜点；糖果；芳香 adj. 甜的；可爱的；亲切的
 单词：###sweet###
 搭配：###sweet food### 甜食
 例句：Eating too many snacks and drinking ###sweet### drinks may cause serious health problems.
@@ -1057,7 +1058,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0117 -->
 # 中考单词 0117 · 导致；引起
-中文：v. 导致；引起
+中文：n. 原因，起因 vt. 促使，引起，使发生；导致
 单词：###cause###
 搭配：###cause problems### 引起问题
 例句：Eating too many snacks and drinking sweet drinks may ###cause### serious health problems.
@@ -1066,7 +1067,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0118 -->
 # 中考单词 0118 · 严重的
-中文：adj. 严重的
+中文：adj. 严肃的，严重的，认真的
 单词：###serious###
 搭配：###a serious problem### 严重的问题
 例句：Eating too many snacks and drinking sweet drinks may cause ###serious### health problems.
@@ -1075,7 +1076,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0119 -->
 # 中考单词 0119 · 卧室
-中文：n. 卧室
+中文：n. 寝室，卧室
 单词：###bedroom###
 搭配：###in the bedroom### 在卧室里
 例句：My ###bedroom### is in a mess. I need to clean it before the guests arrive.
@@ -1084,7 +1085,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0120 -->
 # 中考单词 0120 · 凌乱；混乱
-中文：n. 凌乱；混乱
+中文：n. 凌乱的状态，脏乱的状态；混乱的局面，困境
 单词：###mess###
 搭配：###in a mess### 乱七八糟
 例句：My bedroom is in a ###mess###. I need to clean it before the guests arrive.
@@ -1093,7 +1094,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0121 -->
 # 中考单词 0121 · 客人
-中文：n. 客人
+中文：n. 客人，宾客
 单词：###guest###
 搭配：###invite guests### 邀请客人
 例句：My bedroom is in a mess. I need to clean it before the ###guests### arrive.
@@ -1102,7 +1103,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0122 -->
 # 中考单词 0122 · 到达
-中文：v. 到达
+中文：vi. 到达；达到
 单词：###arrive###
 搭配：###arrive at/in ...### 到达……
 例句：My bedroom is in a mess. I need to clean it before the guests ###arrive###.
@@ -1111,7 +1112,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0123 -->
 # 中考单词 0123 · 乡村
-中文：n. 乡村
+中文：n. 乡下，农村；乡村
 单词：###countryside###
 搭配：###in the countryside### 在乡下
 例句：My grandmother lives in the ###countryside###, and her neighbours are friendly and polite.
@@ -1120,7 +1121,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0124 -->
 # 中考单词 0124 · 邻居
-中文：n. 邻居
+中文：n. 邻居，邻人
 单词：###neighbour###
 搭配：###next-door neighbour### 隔壁邻居
 例句：My grandmother lives in the countryside, and her ###neighbours### are friendly and polite.
@@ -1138,7 +1139,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0126 -->
 # 中考单词 0126 · 有礼貌的
-中文：adj. 有礼貌的
+中文：adj. 有礼貌的，有教养的
 单词：###polite###
 搭配：###be polite to sb.### 对某人有礼貌
 例句：My grandmother lives in the countryside, and her neighbours are friendly and ###polite###.
@@ -1147,7 +1148,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0127 -->
 # 中考单词 0127 · 家务活
-中文：n. 家务活
+中文：n. 家务劳动；家务活
 单词：###housework###
 搭配：###do housework### 做家务
 例句：Could you help me with the ###housework###? You clean the fridge and the bathroom, and I'll wash the dishes.
@@ -1165,7 +1166,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0129 -->
 # 中考单词 0129 · 浴室；卫生间
-中文：n. 浴室；卫生间
+中文：n. 浴室；厕所；盥洗室；卫生间
 单词：###bathroom###
 搭配：###clean the bathroom### 打扫卫生间
 例句：Could you help me with the housework? You clean the fridge and the ###bathroom###, and I'll wash the dishes.
@@ -1174,7 +1175,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0130 -->
 # 中考单词 0130 · 盘子；菜肴
-中文：n. 盘子；菜肴
+中文：n. 盘，碟；盘装菜；盘形物；盘子；菜肴
 单词：###dish###
 搭配：###wash the dishes### 洗碗
 例句：Could you help me with the housework? You clean the fridge and the bathroom, and I'll wash the ###dishes###.
@@ -1183,7 +1184,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0131 -->
 # 中考单词 0131 · 重视；珍视
-中文：v. 重视；珍视
+中文：n. 值；价值；价格；重要性；确切涵义 v. 评价；重视；估价；珍视
 单词：###value###
 搭配：###value friendship### 珍惜友谊
 例句：My parents ###value### my opinions and allow me to choose my own hobbies.
@@ -1192,7 +1193,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0132 -->
 # 中考单词 0132 · 意见；看法
-中文：n. 意见；看法
+中文：n. 看法，见解；意见
 单词：###opinion###
 搭配：###in my opinion### 在我看来
 例句：My parents value my ###opinions### and allow me to choose my own hobbies.
@@ -1201,7 +1202,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0133 -->
 # 中考单词 0133 · 允许
-中文：v. 允许
+中文：vt. 允许，准许
 单词：###allow###
 搭配：###allow sb. to do sth.### 允许某人做某事
 例句：My parents value my opinions and ###allow### me to choose my own hobbies.
@@ -1210,7 +1211,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0134 -->
 # 中考单词 0134 · 选择
-中文：v. 选择
+中文：vt. 选择
 单词：###choose###
 搭配：###choose from ...### 从……中选择
 例句：My parents value my opinions and allow me to ###choose### my own hobbies.
@@ -1219,7 +1220,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0135 -->
 # 中考单词 0135 · 爱好
-中文：n. 爱好
+中文：n. 业余爱好，嗜好
 单词：###hobby###
 搭配：###My hobby is ...### 我的爱好是……
 例句：My parents value my opinions and allow me to choose my own ###hobbies###.
@@ -1228,7 +1229,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0136 -->
 # 中考单词 0136 · 忘记
-中文：v. 忘记
+中文：v. 忘记；忘掉
 单词：###forget###
 搭配：###forget to do sth.### 忘记去做某事
 例句：Don't ###forget### to pack your passport. Our plane leaves the airport at 9 a.m.
@@ -1237,7 +1238,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0137 -->
 # 中考单词 0137 · 打包；收拾（行李）
-中文：v. 打包；收拾（行李）
+中文：n. 包，捆；（猎犬、野兽的）一群 v. (为运输或储存而)打包；收拾（行李）
 单词：###pack###
 搭配：###pack one's bag### 收拾包
 例句：Don't forget to ###pack### your passport. Our plane leaves the airport at 9 a.m.
@@ -1255,7 +1256,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0139 -->
 # 中考单词 0139 · 机场
-中文：n. 机场
+中文：n. 航空站，飞机场
 单词：###airport###
 搭配：###at the airport### 在机场
 例句：Don't forget to pack your passport. Our plane leaves the ###airport### at 9 a.m.
@@ -1273,7 +1274,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0141 -->
 # 中考单词 0141 · 地铁
-中文：n. 地铁
+中文：adj. 地下的 n. 地铁
 单词：###underground###
 搭配：###take the underground### 坐地铁
 例句：Taking the ###underground### is convenient, and it is much cheaper than driving a car.
@@ -1282,7 +1283,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0142 -->
 # 中考单词 0142 · 方便的
-中文：adj. 方便的
+中文：adj. 方便的，便利的
 单词：###convenient###
 搭配：###be convenient for sb.### 对某人方便
 例句：Taking the underground is ###convenient###, and it is much cheaper than driving a car.
@@ -1291,7 +1292,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0143 -->
 # 中考单词 0143 · 便宜的
-中文：adj. 便宜的
+中文：adj. 便宜的，贱
 单词：###cheap###
 搭配：###cheap tickets### 便宜的票
 例句：Taking the underground is convenient, and it is much ###cheaper### than driving a car.
@@ -1300,7 +1301,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0144 -->
 # 中考单词 0144 · 驾驶
-中文：v. 驾驶
+中文：v. 驱赶，驱使，迫使…去（某处）；驾驶 n. 驱车出行
 单词：###drive###
 搭配：###drive a car### 开车
 例句：Taking the underground is convenient, and it is much cheaper than ###driving### a car.
@@ -1309,7 +1310,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0145 -->
 # 中考单词 0145 · 快的
-中文：adj. 快的
+中文：adj. 快；敏捷的；急剧的
 单词：###quick###
 搭配：###a quick way### 快捷的方法
 例句：Which is the ###quickest### way to the railway station? — Go straight and turn left at the corner.
@@ -1318,7 +1319,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0146 -->
 # 中考单词 0146 · 铁路
-中文：n. 铁路
+中文：n. 铁路；铁道
 单词：###railway###
 搭配：###railway station### 火车站
 例句：Which is the quickest way to the ###railway### station? — Go straight and turn left at the corner.
@@ -1327,7 +1328,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0147 -->
 # 中考单词 0147 · 车站
-中文：n. 车站
+中文：n. 站，所，车站；电台
 单词：###station###
 搭配：###bus station### 公交车站
 例句：Which is the quickest way to the railway ###station###? — Go straight and turn left at the corner.
@@ -1336,7 +1337,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0148 -->
 # 中考单词 0148 · 笔直地
-中文：adv. 笔直地
+中文：adj. 一直的，直的 adv. 一直地，直地；笔直地
 单词：###straight###
 搭配：###go straight### 直走
 例句：Which is the quickest way to the railway station? — Go ###straight### and turn left at the corner.
@@ -1345,7 +1346,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0149 -->
 # 中考单词 0149 · 拐角
-中文：n. 拐角
+中文：n. 角；角落；拐角
 单词：###corner###
 搭配：###at the corner### 在拐角处
 例句：Which is the quickest way to the railway station? — Go straight and turn left at the ###corner###.
@@ -1354,7 +1355,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0150 -->
 # 中考单词 0150 · 交通
-中文：n. 交通
+中文：n. 交通，来往车辆
 单词：###traffic###
 搭配：###heavy traffic### 交通拥堵
 例句：The ###traffic### in our town is heavy, so a wide road and a new bridge will be built next year.
@@ -1363,7 +1364,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0151 -->
 # 中考单词 0151 · 城镇
-中文：n. 城镇
+中文：n. 城镇，城
 单词：###town###
 搭配：###in town### 在镇上
 例句：The traffic in our ###town### is heavy, so a wide road and a new bridge will be built next year.
@@ -1372,7 +1373,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0152 -->
 # 中考单词 0152 · 宽的
-中文：adj. 宽的
+中文：adj. 宽阔的
 单词：###wide###
 搭配：###a wide road### 宽阔的马路
 例句：The traffic in our town is heavy, so a ###wide### road and a new bridge will be built next year.
@@ -1381,7 +1382,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0153 -->
 # 中考单词 0153 · 道路
-中文：n. 道路
+中文：n. 路，道路
 单词：###road###
 搭配：###cross the road### 过马路
 例句：The traffic in our town is heavy, so a wide ###road### and a new bridge will be built next year.
@@ -1399,7 +1400,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0155 -->
 # 中考单词 0155 · 体育馆；健身房
-中文：n. 体育馆；健身房
+中文：n. 体育馆，健身房
 单词：###gym###
 搭配：###go to the gym### 去健身房
 例句：How far is it from your home to the ###gym###? — About two kilometres. I usually ride there.
@@ -1408,7 +1409,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0156 -->
 # 中考单词 0156 · 千米；公里
-中文：n. 千米；公里
+中文：n. 千米（公里）
 单词：###kilometre###
 搭配：###two kilometres away### 两千米远
 例句：How far is it from your home to the gym? — About two ###kilometres###. I usually ride there.
@@ -1417,7 +1418,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0157 -->
 # 中考单词 0157 · 通常的（usually 通常）
-中文：adj. 通常的（usually 通常）
+中文：adj. 通常的，平常的
 单词：###usual###
 搭配：###as usual### 像往常一样
 例句：How far is it from your home to the gym? — About two kilometres. I ###usually### ride there.
@@ -1426,7 +1427,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0158 -->
 # 中考单词 0158 · 骑
-中文：v. 骑
+中文：v. 骑（马、自行车）；乘车 n. 乘车旅行
 单词：###ride###
 搭配：###ride a bike### 骑自行车
 例句：How far is it from your home to the gym? — About two kilometres. I usually ###ride### there.
@@ -1435,7 +1436,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0159 -->
 # 中考单词 0159 · 乘客
-中文：n. 乘客
+中文：n. 乘客，旅客
 单词：###passenger###
 搭配：###passengers on the bus### 公交车上的乘客
 例句：Many ###passengers### had to stay in the hall all night because heavy fog covered the whole city.
@@ -1444,7 +1445,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0160 -->
 # 中考单词 0160 · 大厅；会堂
-中文：n. 大厅；会堂
+中文：n. 大厅，会堂，礼堂；过道
 单词：###hall###
 搭配：###the school hall### 学校礼堂
 例句：Many passengers had to stay in the ###hall### all night because heavy fog covered the whole city.
@@ -1462,7 +1463,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0162 -->
 # 中考单词 0162 · 覆盖
-中文：v. 覆盖
+中文：n. 盖子；罩 v. 覆盖，遮盖；掩盖
 单词：###cover###
 搭配：###be covered with ...### 被……覆盖
 例句：Many passengers had to stay in the hall all night because heavy fog ###covered### the whole city.
@@ -1480,7 +1481,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0164 -->
 # 中考单词 0164 · 胃；肚子
-中文：n. 胃；肚子
+中文：n. 胃，胃部；肚子
 单词：###stomach###
 搭配：###have a stomach ache### 胃疼
 例句：My ###stomach### really aches. Maybe I ate too many cookies at the party last night.
@@ -1489,7 +1490,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0165 -->
 # 中考单词 0165 · 真正地；确实
-中文：adv. 真正地；确实
+中文：adv. 真正地，实际上；很，十分，全然；确实
 单词：###really###
 搭配：###really good### 真的很好
 例句：My stomach ###really### aches. Maybe I ate too many cookies at the party last night.
@@ -1498,7 +1499,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0166 -->
 # 中考单词 0166 · 疼痛
-中文：n. 疼痛
+中文：v. 疼痛；渴望 n. 疼痛
 单词：###ache###
 搭配：###My head aches.### 我头疼。
 例句：My stomach really ###aches###. Maybe I ate too many cookies at the party last night.
@@ -1507,7 +1508,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0167 -->
 # 中考单词 0167 · 也许
-中文：adv. 也许
+中文：adv. 可能，大概，也许
 单词：###maybe###
 搭配：###Maybe you're right.### 也许你是对的。
 例句：My stomach really aches. ###Maybe### I ate too many cookies at the party last night.
@@ -1516,7 +1517,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0168 -->
 # 中考单词 0168 · 饼干
-中文：n. 饼干
+中文：n. 小甜饼，饼干
 单词：###cookie###
 搭配：###bake cookies### 烤饼干
 例句：My stomach really aches. Maybe I ate too many ###cookies### at the party last night.
@@ -1525,7 +1526,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0169 -->
 # 中考单词 0169 · 牙医
-中文：n. 牙医
+中文：n. 牙科医生
 单词：###dentist###
 搭配：###go to the dentist### 去看牙医
 例句：The ###dentist### warned me to brush my teeth every morning and evening.
@@ -1534,7 +1535,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0170 -->
 # 中考单词 0170 · 警告；告诫
-中文：v. 警告；告诫
+中文：v. 警告，提醒；通知；告诫
 单词：###warn###
 搭配：###warn sb. to do sth.### 提醒某人做某事
 例句：The dentist ###warned### me to brush my teeth every morning and evening.
@@ -1543,7 +1544,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0171 -->
 # 中考单词 0171 · 刷
-中文：v. 刷
+中文：v. 刷；擦 n. 刷子
 单词：###brush###
 搭配：###brush one's teeth### 刷牙
 例句：The dentist warned me to ###brush### my teeth every morning and evening.
@@ -1561,7 +1562,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0173 -->
 # 中考单词 0173 · 摔倒；落下
-中文：v. 摔倒；落下
+中文：v. 落下，降落；跌倒，塌倒；降临，来临；失势，垮台；下垂，倾；摔倒
 单词：###fall###
 搭配：###fall down### 摔倒
 例句：I ###fell### and hurt my knee while I was skating, so I can't play volleyball this week.
@@ -1579,7 +1580,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0175 -->
 # 中考单词 0175 · 滑冰
-中文：v. 滑冰
+中文：vi. 溜冰，滑冰
 单词：###skate###
 搭配：###go skating### 去滑冰
 例句：I fell and hurt my knee while I was ###skating###, so I can't play volleyball this week.
@@ -1597,7 +1598,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0177 -->
 # 中考单词 0177 · 吸烟
-中文：v. 吸烟
+中文：n. 烟 v. 冒烟；吸烟
 单词：###smoke###
 搭配：###No smoking.### 禁止吸烟。
 例句：###Smoking### can lead to heart disease and cancer, so people should stop smoking as soon as possible.
@@ -1606,7 +1607,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0178 -->
 # 中考单词 0178 · 导致；带领
-中文：v. 导致；带领
+中文：v. 领导，带领；导致 n. 铅
 单词：###lead###
 搭配：###lead to ...### 导致……
 例句：Smoking can ###lead### to heart disease and cancer, so people should stop smoking as soon as possible.
@@ -1615,7 +1616,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0179 -->
 # 中考单词 0179 · 心脏
-中文：n. 心脏
+中文：n. 心，心脏，纸牌中的红桃
 单词：###heart###
 搭配：###heart disease### 心脏病
 例句：Smoking can lead to ###heart### disease and cancer, so people should stop smoking as soon as possible.
@@ -1624,7 +1625,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0180 -->
 # 中考单词 0180 · 疾病
-中文：n. 疾病
+中文：n. 病，疾病
 单词：###disease###
 搭配：###heart disease### 心脏病
 例句：Smoking can lead to heart ###disease### and cancer, so people should stop smoking as soon as possible.
@@ -1633,7 +1634,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0181 -->
 # 中考单词 0181 · 癌症
-中文：n. 癌症
+中文：n. 癌，癌症，弊端，社会恶习
 单词：###cancer###
 搭配：###lung cancer### 肺癌
 例句：Smoking can lead to heart disease and ###cancer###, so people should stop smoking as soon as possible.
@@ -1642,7 +1643,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0182 -->
 # 中考单词 0182 · 羽毛球
-中文：n. 羽毛球
+中文：n. 羽毛球（运动）
 单词：###badminton###
 搭配：###play badminton### 打羽毛球
 例句：Do you feel like playing ###badminton### after school? — Sure, but I need to finish my report first.
@@ -1651,7 +1652,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0183 -->
 # 中考单词 0183 · 需要
-中文：v. 需要
+中文：n. 需要，需求 v. 需要，必须
 单词：###need###
 搭配：###need to do sth.### 需要做某事
 例句：Do you feel like playing badminton after school? — Sure, but I ###need### to finish my report first.
@@ -1660,7 +1661,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0184 -->
 # 中考单词 0184 · 完成
-中文：v. 完成
+中文：v. 结束；做完；完成
 单词：###finish###
 搭配：###finish doing sth.### 做完某事
 例句：Do you feel like playing badminton after school? — Sure, but I need to ###finish### my report first.
@@ -1669,7 +1670,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0185 -->
 # 中考单词 0185 · 报告
-中文：n. 报告
+中文：n. 报告；报道 v. 报道，报告
 单词：###report###
 搭配：###write a report### 写报告
 例句：Do you feel like playing badminton after school? — Sure, but I need to finish my ###report### first.
@@ -1678,7 +1679,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0186 -->
 # 中考单词 0186 · 收集
-中文：v. 收集
+中文：vt. 收集，搜集
 单词：###collect###
 搭配：###collect stamps### 集邮
 例句：I started ###collecting### stamps, coins and postcards from different countries three years ago.
@@ -1714,7 +1715,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0190 -->
 # 中考单词 0190 · 不同的
-中文：adj. 不同的
+中文：adj. 不同的，有差异的
 单词：###different###
 搭配：###be different from ...### 与……不同
 例句：I started collecting stamps, coins and postcards from ###different### countries three years ago.
@@ -1723,7 +1724,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0191 -->
 # 中考单词 0191 · 教
-中文：v. 教
+中文：v. 教书，教
 单词：###teach###
 搭配：###teach sb. to do sth.### 教某人做某事
 例句：Can you ###teach### me how to play the guitar? I'd like to join the music club.
@@ -1732,7 +1733,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0192 -->
 # 中考单词 0192 · 吉他
-中文：n. 吉他
+中文：n. 吉他，六弦琴
 单词：###guitar###
 搭配：###play the guitar### 弹吉他
 例句：Can you teach me how to play the ###guitar###? I'd like to join the music club.
@@ -1741,7 +1742,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0193 -->
 # 中考单词 0193 · 加入
-中文：v. 加入
+中文：v. 参加，加入；连接；会合
 单词：###join###
 搭配：###join a club### 加入俱乐部
 例句：Can you teach me how to play the guitar? I'd like to ###join### the music club.
@@ -1750,7 +1751,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0194 -->
 # 中考单词 0194 · 俱乐部；社团
-中文：n. 俱乐部；社团
+中文：n. 俱乐部；纸牌中的梅花；社团
 单词：###club###
 搭配：###the music club### 音乐社
 例句：Can you teach me how to play the guitar? I'd like to join the music ###club###.
@@ -1759,7 +1760,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0195 -->
 # 中考单词 0195 · 教练
-中文：n. 教练
+中文：n. 教练；旅客车厢；长途公车；四轮大马车 v. 训练；指导
 单词：###coach###
 搭配：###a football coach### 足球教练
 例句：The ###coach### told the team that teamwork was the key to winning the final match.
@@ -1768,7 +1769,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0196 -->
 # 中考单词 0196 · 团队合作
-中文：n. 团队合作
+中文：n. 合作，协同工作；团队合作
 单词：###teamwork###
 搭配：###good teamwork### 良好的团队合作
 例句：The coach told the team that ###teamwork### was the key to winning the final match.
@@ -1777,7 +1778,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0197 -->
 # 中考单词 0197 · 关键
-中文：n. 关键
+中文：n. 钥匙；答案；键；关键
 单词：###key###
 搭配：###the key to ... ……### 的关键
 例句：The coach told the team that teamwork was the ###key### to winning the final match.
@@ -1786,7 +1787,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0198 -->
 # 中考单词 0198 · 最后的；决赛的
-中文：adj. 最后的；决赛的
+中文：adj. 最后的；终极的；决赛的
 单词：###final###
 搭配：###the final exam### 期末考试
 例句：The coach told the team that teamwork was the key to winning the ###final### match.
@@ -1795,7 +1796,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0199 -->
 # 中考单词 0199 · 比赛
-中文：n. 比赛
+中文：vt. 使相配，使成对 n. 比赛，竞赛；火柴
 单词：###match###
 搭配：###a football match### 足球比赛
 例句：The coach told the team that teamwork was the key to winning the final ###match###.
@@ -1804,7 +1805,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0200 -->
 # 中考单词 0200 · 远足；徒步
-中文：n. 远足；徒步
+中文：n. 远足；徒步旅行 v. 远足；徒步旅行
 单词：###hike###
 搭配：###go hiking### 去徒步
 例句：Would you like to go ###hiking### on Saturday? We can take a tent and camp somewhere near the lake.
@@ -1822,7 +1823,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0202 -->
 # 中考单词 0202 · 露营
-中文：n. 露营
+中文：n. （夏令）营；露营 vi. 野营，宿营
 单词：###camp###
 搭配：###go camping### 去露营
 例句：Would you like to go hiking on Saturday? We can take a tent and ###camp### somewhere near the lake.
@@ -1840,7 +1841,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0204 -->
 # 中考单词 0204 · 国际象棋
-中文：n. 国际象棋
+中文：n. 国际象棋，棋
 单词：###chess###
 搭配：###play chess### 下棋
 例句：Playing ###chess### helps develop our brains and teaches us to think before we act.
@@ -1849,7 +1850,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0205 -->
 # 中考单词 0205 · 发展；开发
-中文：v. 发展；开发
+中文：v. （使）发展；开发 vt. 冲洗（照片）
 单词：###develop###
 搭配：###develop a habit### 养成习惯
 例句：Playing chess helps ###develop### our brains and teaches us to think before we act.
@@ -1858,7 +1859,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0206 -->
 # 中考单词 0206 · 大脑
-中文：n. 大脑
+中文：n. 脑（子）；大脑
 单词：###brain###
 搭配：###use your brain### 动动脑筋
 例句：Playing chess helps develop our ###brains### and teaches us to think before we act.
@@ -1867,7 +1868,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0207 -->
 # 中考单词 0207 · 行动；表演
-中文：v. 行动；表演
+中文：n. 法令，条例 v. 行动，（戏）表演，扮演（角色）
 单词：###act###
 搭配：###act quickly### 迅速行动
 例句：Playing chess helps develop our brains and teaches us to think before we ###act###.
@@ -1876,7 +1877,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0208 -->
 # 中考单词 0208 · 相信
-中文：v. 相信
+中文：v. 相信，认为
 单词：###believe###
 搭配：###believe in ...### 信任……
 例句：I can't ###believe### we beat them! It's the most exciting game I've ever seen.
@@ -1885,7 +1886,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0209 -->
 # 中考单词 0209 · 打败
-中文：v. 打败
+中文：v. 敲打；跳动；打赢；打败 n. （音乐）节拍
 单词：###beat###
 搭配：###beat sb.### 打败某人
 例句：I can't believe we ###beat### them! It's the most exciting game I've ever seen.
@@ -1894,7 +1895,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0210 -->
 # 中考单词 0210 · 令人兴奋的
-中文：adj. 令人兴奋的
+中文：adj. 令人兴奋的，激动人心的
 单词：###exciting###
 搭配：###exciting news### 令人兴奋的消息
 例句：I can't believe we beat them! It's the most ###exciting### game I've ever seen.
@@ -1903,7 +1904,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0211 -->
 # 中考单词 0211 · 曾经
-中文：adv. 曾经
+中文：adv. 曾经；无论何时
 单词：###ever###
 搭配：###Have you ever ...?### 你曾经……吗？
 例句：I can't believe we beat them! It's the most exciting game I've ###ever### seen.
@@ -1921,7 +1922,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0213 -->
 # 中考单词 0213 · 发明
-中文：v. 发明
+中文：vt. 发明，创造
 单词：###invent###
 搭配：###invent a machine### 发明一台机器
 例句：Scientists have ###invented### a new machine that can recognise human voices and translate them into other languages.
@@ -1939,7 +1940,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0215 -->
 # 中考单词 0215 · 认出；识别
-中文：v. 认出；识别
+中文：v. 认出；识别；承认
 单词：###recognise###
 搭配：###recognise sb.'s voice### 听出某人的声音
 例句：Scientists have invented a new machine that can ###recognise### human voices and translate them into other languages.
@@ -1948,7 +1949,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0216 -->
 # 中考单词 0216 · 翻译
-中文：v. 翻译
+中文：vt. 翻译
 单词：###translate###
 搭配：###translate ... into ...### 把……译成……
 例句：Scientists have invented a new machine that can recognise human voices and ###translate### them into other languages.
@@ -1957,7 +1958,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0217 -->
 # 中考单词 0217 · 点击
-中文：v. 点击
+中文：v. 点击；发出咔嗒声 n. 咔嗒声；点击
 单词：###click###
 搭配：###click the mouse### 点鼠标
 例句：###Click### here on our website, and you can download the app for free.
@@ -1975,7 +1976,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0219 -->
 # 中考单词 0219 · 下载
-中文：v. 下载
+中文：n. 下载 v. 下载
 单词：###download###
 搭配：###download music### 下载音乐
 例句：Click here on our website, and you can ###download### the app for free.
@@ -2020,7 +2021,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0224 -->
 # 中考单词 0224 · 产品
-中文：n. 产品
+中文：n. 产品，产物；乘积
 单词：###product###
 搭配：###new products### 新产品
 例句：With the help of modern technology, electronic ###products### have become part of our everyday life.
@@ -2029,7 +2030,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0225 -->
 # 中考单词 0225 · 日常的
-中文：adj. 日常的
+中文：adj. 每日的；日常的
 单词：###everyday###
 搭配：###everyday life### 日常生活
 例句：With the help of modern technology, electronic products have become part of our ###everyday### life.
@@ -2038,7 +2039,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0226 -->
 # 中考单词 0226 · 回复
-中文：v. 回复
+中文：v. 回答，答复；回复 n. 回答，答复
 单词：###reply###
 搭配：###reply to a letter### 回信
 例句：Sorry, I didn't ###reply### to your message because my mobile was dead.
@@ -2047,7 +2048,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0227 -->
 # 中考单词 0227 · 消息；信息
-中文：n. 消息；信息
+中文：n. 消息，音信；信息
 单词：###message###
 搭配：###leave a message### 留言
 例句：Sorry, I didn't reply to your ###message### because my mobile was dead.
@@ -2056,7 +2057,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0228 -->
 # 中考单词 0228 · 手机（mobile phone）
-中文：n. 手机（mobile phone）
+中文：adj. 活动的，可移动的 n. 手机
 单词：###mobile###
 搭配：###mobile phone### 手机
 例句：Sorry, I didn't reply to your message because my ###mobile### was dead.
@@ -2065,7 +2066,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0229 -->
 # 中考单词 0229 · （电池）没电的；死的
-中文：adj. （电池）没电的；死的
+中文：adj. 死的；无生命的；（电池）没电的
 单词：###dead###
 搭配：###The battery is dead.### 电池没电了。
 例句：Sorry, I didn't reply to your message because my mobile was ###dead###.
@@ -2083,7 +2084,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0231 -->
 # 中考单词 0231 · 个人的
-中文：adj. 个人的
+中文：adj. 个人的，私人的
 单词：###personal###
 搭配：###personal information### 个人信息
 例句：It is important to keep ###personal### information secret when we chat with people we don't know on the Internet.
@@ -2101,7 +2102,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0233 -->
 # 中考单词 0233 · 秘密的
-中文：adj. 秘密的
+中文：n. 秘密，内情 adj. 秘密的
 单词：###secret###
 搭配：###keep ... secret### 对……保密
 例句：It is important to keep personal information ###secret### when we chat with people we don't know on the Internet.
@@ -2110,7 +2111,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0234 -->
 # 中考单词 0234 · 聊天
-中文：v. 聊天
+中文：n. 闲谈，聊天 v. 闲谈，聊天
 单词：###chat###
 搭配：###chat with sb.### 和某人聊天
 例句：It is important to keep personal information secret when we ###chat### with people we don't know on the Internet.
@@ -2119,7 +2120,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0235 -->
 # 中考单词 0235 · 好奇的
-中文：adj. 好奇的
+中文：adj. 好奇的；奇特的
 单词：###curious###
 搭配：###be curious about ...### 对……好奇
 例句：I'm ###curious### about the universe, so I hope to study physics at university in the future.
@@ -2137,7 +2138,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0237 -->
 # 中考单词 0237 · 物理学
-中文：n. 物理学
+中文：n. 物理（学）
 单词：###physics###
 搭配：###a physics teacher### 物理老师
 例句：I'm curious about the universe, so I hope to study ###physics### at university in the future.
@@ -2155,7 +2156,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0239 -->
 # 中考单词 0239 · 将来
-中文：n. 将来
+中文：n. 将来，未来
 单词：###future###
 搭配：###in the future### 将来
 例句：I'm curious about the universe, so I hope to study physics at university in the ###future###.
@@ -2164,7 +2165,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0240 -->
 # 中考单词 0240 · 火箭
-中文：n. 火箭
+中文：v. 迅速上升；猛涨 n. 火箭
 单词：###rocket###
 搭配：###launch a rocket### 发射火箭
 例句：When the ###rocket### was sent into space, people all over the country celebrated the success.
@@ -2191,7 +2192,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0243 -->
 # 中考单词 0243 · 国家
-中文：n. 国家
+中文：n. 国家；农村，乡下
 单词：###country###
 搭配：###all over the country### 全国各地
 例句：When the rocket was sent into space, people all over the ###country### celebrated the success.
@@ -2200,7 +2201,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0244 -->
 # 中考单词 0244 · 事实上；其实
-中文：adv. 事实上；其实
+中文：adv. 事实上；其实；实际上
 单词：###actually###
 搭配：###Actually, ...### 其实……
 例句：###Actually###, I find chemistry quite difficult, but biology is fun for me.
@@ -2218,7 +2219,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0246 -->
 # 中考单词 0246 · 相当
-中文：adv. 相当
+中文：adv. 完全，十分；相当
 单词：###quite###
 搭配：###quite good### 相当好
 例句：Actually, I find chemistry ###quite### difficult, but biology is fun for me.
@@ -2227,7 +2228,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0247 -->
 # 中考单词 0247 · 生物学
-中文：n. 生物学
+中文：n. 生物（学）
 单词：###biology###
 搭配：###a biology class### 生物课
 例句：Actually, I find chemistry quite difficult, but ###biology### is fun for me.
@@ -2236,7 +2237,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0248 -->
 # 中考单词 0248 · 有趣的事
-中文：n. 有趣的事
+中文：n. 有趣的事，娱乐，玩笑
 单词：###fun###
 搭配：###have fun### 玩得开心
 例句：Actually, I find chemistry quite difficult, but biology is ###fun### for me.
@@ -2245,7 +2246,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0249 -->
 # 中考单词 0249 · 旅行
-中文：n. 旅行
+中文：n. 旅行，旅程
 单词：###trip###
 搭配：###take a trip### 去旅行
 例句：On the school ###trip###, we explored the forest and discovered many kinds of insects.
@@ -2254,7 +2255,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0250 -->
 # 中考单词 0250 · 探索；勘察
-中文：v. 探索；勘察
+中文：v. 探索；勘察；探究
 单词：###explore###
 搭配：###explore the world### 探索世界
 例句：On the school trip, we ###explored### the forest and discovered many kinds of insects.
@@ -2272,7 +2273,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0252 -->
 # 中考单词 0252 · 发现
-中文：v. 发现
+中文：vt. 发现
 单词：###discover###
 搭配：###discover a new star### 发现一颗新星
 例句：On the school trip, we explored the forest and ###discovered### many kinds of insects.
@@ -2290,7 +2291,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0254 -->
 # 中考单词 0254 · 危险
-中文：n. 危险
+中文：n. 危险；危险物，威胁
 单词：###danger###
 搭配：###in danger### 处于危险中
 例句：###Danger###! The ice on the lake isn't thick enough to hold your weight.
@@ -2308,7 +2309,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0256 -->
 # 中考单词 0256 · 足够地
-中文：adv. 足够地
+中文：n. 足够；充足 adj. 足够；充分的 adv. 足够地；充分地
 单词：###enough###
 搭配：###old enough to ...### 足够大可以……
 例句：Danger! The ice on the lake isn't thick ###enough### to hold your weight.
@@ -2317,7 +2318,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0257 -->
 # 中考单词 0257 · 承受；拿住
-中文：v. 承受；拿住
+中文：vt. 拿；抱；握住；举行；进行；承受；拿住
 单词：###hold###
 搭配：###hold on### 稍等；坚持
 例句：Danger! The ice on the lake isn't thick enough to ###hold### your weight.
@@ -2326,7 +2327,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0258 -->
 # 中考单词 0258 · 重量；体重
-中文：n. 重量；体重
+中文：n. 重，重量；体重
 单词：###weight###
 搭配：###lose weight### 减肥
 例句：Danger! The ice on the lake isn't thick enough to hold your ###weight###.
@@ -2344,7 +2345,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0260 -->
 # 中考单词 0260 · 下降；掉落
-中文：v. 下降；掉落
+中文：n. 滴 v. 掉下，落下，投递，放弃；下降；掉落
 单词：###drop###
 搭配：###drop to ...### 降到……
 例句：When the temperature ###drops### below zero, water begins to freeze.
@@ -2353,7 +2354,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0261 -->
 # 中考单词 0261 · 零
-中文：num. 零
+中文：num. 零，零度，零点
 单词：###zero###
 搭配：###below zero### 零度以下
 例句：When the temperature drops below ###zero###, water begins to freeze.
@@ -2362,7 +2363,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0262 -->
 # 中考单词 0262 · 结冰；冻结
-中文：v. 结冰；冻结
+中文：vi. 结冰；冻结
 单词：###freeze###
 搭配：###freeze to death### 冻死
 例句：When the temperature drops below zero, water begins to ###freeze###.
@@ -2371,7 +2372,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0263 -->
 # 中考单词 0263 · 在外面
-中文：adv. 在外面
+中文：n. 外面 adv. 在外面；向外面 prep. 在…外面
 单词：###outside###
 搭配：###play outside### 在外面玩
 例句：It's cold and windy ###outside###, so remember to put on your jacket and scarf.
@@ -2380,7 +2381,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0264 -->
 # 中考单词 0264 · 记得
-中文：v. 记得
+中文：v. 记得，想起
 单词：###remember###
 搭配：###remember to do sth.### 记得去做某事
 例句：It's cold and windy outside, so ###remember### to put on your jacket and scarf.
@@ -2389,7 +2390,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0265 -->
 # 中考单词 0265 · 夹克衫
-中文：n. 夹克衫
+中文：n. 短上衣，夹克衫
 单词：###jacket###
 搭配：###put on a jacket### 穿上夹克
 例句：It's cold and windy outside, so remember to put on your ###jacket### and scarf.
@@ -2398,7 +2399,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0266 -->
 # 中考单词 0266 · 围巾
-中文：n. 围巾
+中文：n. 围巾；嵌接，嵌接处；头巾领巾 v. 披嵌接；用围巾围
 单词：###scarf###
 搭配：###wear a scarf### 戴围巾
 例句：It's cold and windy outside, so remember to put on your jacket and ###scarf###.
@@ -2407,7 +2408,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0267 -->
 # 中考单词 0267 · 气候
-中文：n. 气候
+中文：n. 气候；风气
 单词：###climate###
 搭配：###climate change### 气候变化
 例句：Because of ###climate### change, floods happen more often in many parts of the world.
@@ -2416,7 +2417,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0268 -->
 # 中考单词 0268 · 变化
-中文：n. 变化
+中文：n. 零钱；找头 v. 改变，变化；更换；兑换
 单词：###change###
 搭配：###make a change### 做出改变
 例句：Because of climate ###change###, floods happen more often in many parts of the world.
@@ -2425,7 +2426,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0269 -->
 # 中考单词 0269 · 洪水
-中文：n. 洪水
+中文：n. 洪水 vt. 淹没，使泛滥
 单词：###flood###
 搭配：###a big flood### 一场大洪水
 例句：Because of climate change, ###floods### happen more often in many parts of the world.
@@ -2434,7 +2435,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0270 -->
 # 中考单词 0270 · 发生
-中文：v. 发生
+中文：vi. （偶然）发生，碰巧
 单词：###happen###
 搭配：###What happened?### 发生了什么？
 例句：Because of climate change, floods ###happen### more often in many parts of the world.
@@ -2443,7 +2444,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0271 -->
 # 中考单词 0271 · 部分；地区
-中文：n. 部分；地区
+中文：n. 部分；角色；部件；零件；地区 adj. 局部的；部分的
 单词：###part###
 搭配：###part of ... ……### 的一部分
 例句：Because of climate change, floods happen more often in many ###parts### of the world.
@@ -2452,7 +2453,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0272 -->
 # 中考单词 0272 · 高兴的
-中文：adj. 高兴的
+中文：adj. 高兴的；乐意的
 单词：###glad###
 搭配：###be glad to do sth.### 很高兴做某事
 例句：I'm ###glad### you passed the test! Did you get a high score?
@@ -2461,7 +2462,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0273 -->
 # 中考单词 0273 · 测验；考试
-中文：n. 测验；考试
+中文：vt. 测试，考查，试验 n. 测试，考查，试验；测验；考试
 单词：###test###
 搭配：###have a test### 考试
 例句：I'm glad you passed the ###test###! Did you get a high score?
@@ -2470,7 +2471,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0274 -->
 # 中考单词 0274 · 高的
-中文：adj. 高的
+中文：adj. 高的；高度的 adv. 高地
 单词：###high###
 搭配：###a high score### 高分
 例句：I'm glad you passed the test! Did you get a ###high### score?
@@ -2479,7 +2480,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0275 -->
 # 中考单词 0275 · 分数
-中文：n. 分数
+中文：n. 得分，分数；二十 v. 得分
 单词：###score###
 搭配：###get a high score### 得高分
 例句：I'm glad you passed the test! Did you get a high ###score###?
@@ -2488,7 +2489,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0276 -->
 # 中考单词 0276 · 错误
-中文：n. 错误
+中文：n. 错误 vt. 弄错
 单词：###mistake###
 搭配：###make a mistake### 犯错
 例句：Making ###mistakes### is a normal part of learning, so we should correct them rather than hide them.
@@ -2497,7 +2498,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0277 -->
 # 中考单词 0277 · 正常的
-中文：adj. 正常的
+中文：n. 正常的（状态） adj. 正常的（状态）
 单词：###normal###
 搭配：###normal life### 正常生活
 例句：Making mistakes is a ###normal### part of learning, so we should correct them rather than hide them.
@@ -2506,7 +2507,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0278 -->
 # 中考单词 0278 · 改正
-中文：v. 改正
+中文：v. 改正；纠正 adj. 正确的，对的；恰当的
 单词：###correct###
 搭配：###correct mistakes### 改正错误
 例句：Making mistakes is a normal part of learning, so we should ###correct### them rather than hide them.
@@ -2515,7 +2516,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0279 -->
 # 中考单词 0279 · 宁可；而不是
-中文：adv. 宁可；而不是
+中文：adv. 相当，宁可；而不是
 单词：###rather###
 搭配：###rather than### 而不是
 例句：Making mistakes is a normal part of learning, so we should correct them ###rather### than hide them.
@@ -2524,7 +2525,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0280 -->
 # 中考单词 0280 · 隐藏
-中文：v. 隐藏
+中文：v. 把…藏起来，隐藏
 单词：###hide###
 搭配：###hide sth. from sb.### 对某人隐瞒某事
 例句：Making mistakes is a normal part of learning, so we should correct them rather than ###hide### them.
@@ -2533,7 +2534,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0281 -->
 # 中考单词 0281 · 拼写
-中文：v. 拼写
+中文：vt. 拼写
 单词：###spell###
 搭配：###spell the word### 拼写这个词
 例句：I can't ###spell### or pronounce this word. Could you check it in your dictionary?
@@ -2542,7 +2543,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0282 -->
 # 中考单词 0282 · 发音
-中文：v. 发音
+中文：vt. 发音
 单词：###pronounce###
 搭配：###pronounce the word correctly### 正确读出这个词
 例句：I can't spell or ###pronounce### this word. Could you check it in your dictionary?
@@ -2551,7 +2552,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0283 -->
 # 中考单词 0283 · 检查；查阅
-中文：v. 检查；查阅
+中文：n. 检查；批改 vt. 校对，核对；检查；批改；查阅
 单词：###check###
 搭配：###check the answers### 核对答案
 例句：I can't spell or pronounce this word. Could you ###check### it in your dictionary?
@@ -2560,7 +2561,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0284 -->
 # 中考单词 0284 · 词典
-中文：n. 词典
+中文：n. 词典，字典
 单词：###dictionary###
 搭配：###look up a word in a dictionary### 在词典里查单词
 例句：I can't spell or pronounce this word. Could you check it in your ###dictionary###?
@@ -2569,7 +2570,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0285 -->
 # 中考单词 0285 · 收音机；广播
-中文：n. 收音机；广播
+中文：n. 无线电，收音机；广播
 单词：###radio###
 搭配：###listen to the radio### 听广播
 例句：Listening to the English ###radio### programme every day is a good method to increase our knowledge.
@@ -2578,7 +2579,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0286 -->
 # 中考单词 0286 · 节目
-中文：n. 节目
+中文：n. 节目；项目
 单词：###programme###
 搭配：###a TV programme### 电视节目
 例句：Listening to the English radio ###programme### every day is a good method to increase our knowledge.
@@ -2587,7 +2588,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0287 -->
 # 中考单词 0287 · 方法
-中文：n. 方法
+中文：n. 方法；条理
 单词：###method###
 搭配：###a good method### 好方法
 例句：Listening to the English radio programme every day is a good ###method### to increase our knowledge.
@@ -2596,7 +2597,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0288 -->
 # 中考单词 0288 · 增加
-中文：v. 增加
+中文：v. 增加，增长 n. 增加，繁殖
 单词：###increase###
 搭配：###increase by ...### 增加了……
 例句：Listening to the English radio programme every day is a good method to ###increase### our knowledge.
@@ -2605,7 +2606,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0289 -->
 # 中考单词 0289 · 知识
-中文：n. 知识
+中文：n. 知识，学问
 单词：###knowledge###
 搭配：###knowledge of ... ……### 方面的知识
 例句：Listening to the English radio programme every day is a good method to increase our ###knowledge###.
@@ -2614,7 +2615,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0290 -->
 # 中考单词 0290 · （铃）响
-中文：v. （铃）响
+中文：v. （钟、铃等）响；打电话 n. 铃声；环形物（如环、圈、戒指等）
 单词：###ring###
 搭配：###The phone rings.### 电话响了。
 例句：Time's up! Please stop writing when the bell ###rings### and pass your papers forward.
@@ -2623,7 +2624,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0291 -->
 # 中考单词 0291 · 铃
-中文：n. 铃
+中文：n. 钟，铃；钟(铃)声；钟形物
 单词：###bell###
 搭配：###ring the bell### 按铃
 例句：Time's up! Please stop writing when the ###bell### rings and pass your papers forward.
@@ -2632,7 +2633,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0292 -->
 # 中考单词 0292 · 向前
-中文：adv. 向前
+中文：adj. 向前的；早的；迅速的 adv. 向前地；向将来 v. 促进；转寄；运送 n. 前锋
 单词：###forward###
 搭配：###look forward to ...### 盼望……
 例句：Time's up! Please stop writing when the bell rings and pass your papers ###forward###.
@@ -2641,7 +2642,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0293 -->
 # 中考单词 0293 · 传递；通过
-中文：v. 传递；通过
+中文：vt. 传，递；经过；通过；传递
 单词：###pass###
 搭配：###pass sth. to sb.### 把某物传给某人
 例句：Time's up! Please stop writing when the bell rings and ###pass### your papers forward.
@@ -2650,7 +2651,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0294 -->
 # 中考单词 0294 · 调查
-中文：n. 调查
+中文：n. 调查 v. 调查，检视；测量，勘测；全面审视，概括论述；俯瞰，眺望
 单词：###survey###
 搭配：###do a survey### 做调查
 例句：Our ###survey### shows that most students spend less than one hour on sports every day.
@@ -2659,7 +2660,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0295 -->
 # 中考单词 0295 · 大多数
-中文：adj. 大多数
+中文：adj. 最多 adv. 最多 n. 大部分，大多数
 单词：###most###
 搭配：###most students### 大多数学生
 例句：Our survey shows that ###most### students spend less than one hour on sports every day.
@@ -2668,7 +2669,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0296 -->
 # 中考单词 0296 · 花费（时间、金钱）
-中文：v. 花费（时间、金钱）
+中文：v. 花费，用；花；度过，消磨；消耗，用尽
 单词：###spend###
 搭配：###spend time on sth.### 在某事上花时间
 例句：Our survey shows that most students ###spend### less than one hour on sports every day.
@@ -2677,7 +2678,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0297 -->
 # 中考单词 0297 · 更少的
-中文：adj. 更少的
+中文：adv. 更少地，更小地 adj. 更少的，更小的
 单词：###less###
 搭配：###less than### 少于
 例句：Our survey shows that most students spend ###less### than one hour on sports every day.
@@ -2686,7 +2687,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0298 -->
 # 中考单词 0298 · 事情；问题
-中文：n. 事情；问题
+中文：n. 要紧事，要紧，事情；问题 vi. 要紧，有重大关系
 单词：###matter###
 搭配：###What's the matter?### 怎么了？
 例句：What's the ###matter###? You look pale. — I reviewed my notes until nearly twelve last night.
@@ -2695,7 +2696,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0299 -->
 # 中考单词 0299 · 苍白的
-中文：adj. 苍白的
+中文：adj. 苍白的，灰白的
 单词：###pale###
 搭配：###look pale### 脸色苍白
 例句：What's the matter? You look ###pale###. — I reviewed my notes until nearly twelve last night.
@@ -2704,7 +2705,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0300 -->
 # 中考单词 0300 · 复习
-中文：v. 复习
+中文：vt. 重新调查；回顾；复习 n. 复查；复习；评论
 单词：###review###
 搭配：###review lessons### 复习功课
 例句：What's the matter? You look pale. — I ###reviewed### my notes until nearly twelve last night.
@@ -2713,7 +2714,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0301 -->
 # 中考单词 0301 · 笔记
-中文：n. 笔记
+中文：n. 便条，笔记，注释；钞票，音调
 单词：###note###
 搭配：###take notes### 记笔记
 例句：What's the matter? You look pale. — I reviewed my ###notes### until nearly twelve last night.
@@ -2722,7 +2723,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0302 -->
 # 中考单词 0302 · 几乎；将近
-中文：adv. 几乎；将近
+中文：adv. 将近，几乎
 单词：###nearly###
 搭配：###nearly ten o'clock### 将近十点
 例句：What's the matter? You look pale. — I reviewed my notes until ###nearly### twelve last night.
@@ -2740,7 +2741,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0304 -->
 # 中考单词 0304 · 交流
-中文：v. 交流
+中文：v. 通讯，传达；相通；交流；感染
 单词：###communicate###
 搭配：###communicate with sb.### 与某人交流
 例句：Learning a foreign language helps us ###communicate### with people from other cultures and understand the world better.
@@ -2758,7 +2759,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0306 -->
 # 中考单词 0306 · 理解；了解
-中文：v. 理解；了解
+中文：v. 懂得；明白；理解
 单词：###understand###
 搭配：###understand each other### 互相理解
 例句：Learning a foreign language helps us communicate with people from other cultures and ###understand### the world better.
@@ -2767,7 +2768,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0307 -->
 # 中考单词 0307 · 更好地
-中文：adv. 更好地
+中文：adj. 更好的 adv. 更好地；更，更多 n. 较好的事物
 单词：###better###
 搭配：###get better### 好转
 例句：Learning a foreign language helps us communicate with people from other cultures and understand the world ###better###.
@@ -2776,7 +2777,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0308 -->
 # 中考单词 0308 · 主办；主持
-中文：v. 主办；主持
+中文：n. 主人；东道主；节目主持人；许多，大量 v. 主办；主持
 单词：###host###
 搭配：###host a party### 办聚会
 例句：I'm going to ###host### a small party tonight and invite a few friends. Can you come?
@@ -2785,7 +2786,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0309 -->
 # 中考单词 0309 · 邀请
-中文：v. 邀请
+中文：vt. 邀请，招待
 单词：###invite###
 搭配：###invite sb. to ...### 邀请某人参加……
 例句：I'm going to host a small party tonight and ###invite### a few friends. Can you come?
@@ -2794,7 +2795,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0310 -->
 # 中考单词 0310 · 几个；不多的
-中文：adj. 几个；不多的
+中文：adj. 很少的，不多的；几个 pron. 少数
 单词：###few###
 搭配：###a few friends### 几个朋友
 例句：I'm going to host a small party tonight and invite a ###few### friends. Can you come?
@@ -2803,7 +2804,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0311 -->
 # 中考单词 0311 · 今晚
-中文：n. 今晚
+中文：adv. 今晚，今夜 n. 今晚，今夜
 单词：###tonight###
 搭配：###tonight's party### 今晚的聚会
 例句：I'm going to host a small party ###tonight### and invite a few friends. Can you come?
@@ -2812,7 +2813,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0312 -->
 # 中考单词 0312 · 真正的
-中文：adj. 真正的
+中文：adj. 真的，真实的；忠诚的；真正的
 单词：###true###
 搭配：###a true friend### 真正的朋友
 例句：###True### friendship means helping and supporting a friend who is in trouble.
@@ -2821,7 +2822,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0313 -->
 # 中考单词 0313 · 友谊
-中文：n. 友谊
+中文：n. 友谊，友情
 单词：###friendship###
 搭配：###build a friendship### 建立友谊
 例句：True ###friendship### means helping and supporting a friend who is in trouble.
@@ -2830,7 +2831,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0314 -->
 # 中考单词 0314 · 意味着
-中文：v. 意味着
+中文：vt. 意思是，意指；意味着
 单词：###mean###
 搭配：###mean doing sth.### 意味着做某事
 例句：True friendship ###means### helping and supporting a friend who is in trouble.
@@ -2839,7 +2840,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0315 -->
 # 中考单词 0315 · 支持
-中文：v. 支持
+中文：v. 支撑，扶持，拥护；供养，赡养；维持；支持
 单词：###support###
 搭配：###support each other### 互相支持
 例句：True friendship means helping and ###supporting### a friend who is in trouble.
@@ -2848,7 +2849,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0316 -->
 # 中考单词 0316 · 困难；麻烦
-中文：n. 困难；麻烦
+中文：vt. 使苦恼，使忧虑，使麻烦 n. 问题，疾病，烦恼，麻烦；困难
 单词：###trouble###
 搭配：###in trouble### 处于困境中
 例句：True friendship means helping and supporting a friend who is in ###trouble###.
@@ -2857,7 +2858,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0317 -->
 # 中考单词 0317 · 笑
-中文：v. 笑
+中文：n. 笑，大笑；嘲笑 v. 笑，大笑；嘲笑
 单词：###laugh###
 搭配：###laugh at sb.### 嘲笑某人
 例句：Don't ###laugh### at the new student. Let's treat him as a friend — he seems lonely here.
@@ -2866,7 +2867,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0318 -->
 # 中考单词 0318 · 对待
-中文：v. 对待
+中文：vt. 对待，看待
 单词：###treat###
 搭配：###treat sb. as ...### 把某人当作……
 例句：Don't laugh at the new student. Let's ###treat### him as a friend — he seems lonely here.
@@ -2875,7 +2876,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0319 -->
 # 中考单词 0319 · 似乎；看起来
-中文：v. 似乎；看起来
+中文：v. 似乎，好像；看起来
 单词：###seem###
 搭配：###seem happy### 看起来很开心
 例句：Don't laugh at the new student. Let's treat him as a friend — he ###seems### lonely here.
@@ -2884,7 +2885,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0320 -->
 # 中考单词 0320 · 孤独的
-中文：adj. 孤独的
+中文：adj. 孤独的，寂寞的
 单词：###lonely###
 搭配：###feel lonely### 感到孤独
 例句：Don't laugh at the new student. Let's treat him as a friend — he seems ###lonely### here.
@@ -2893,7 +2894,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0321 -->
 # 中考单词 0321 · 关系
-中文：n. 关系
+中文：n. 关系；联系
 单词：###relationship###
 搭配：###a good relationship with sb.### 与某人关系好
 例句：A good ###relationship### between parents and children depends on trust and care.
@@ -2902,7 +2903,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0322 -->
 # 中考单词 0322 · 依靠；取决于
-中文：v. 依靠；取决于
+中文：vi. 依靠，依赖，指望；取决于
 单词：###depend###
 搭配：###depend on ...### 取决于……
 例句：A good relationship between parents and children ###depends### on trust and care.
@@ -2911,7 +2912,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0323 -->
 # 中考单词 0323 · 信任
-中文：n. 信任
+中文：n. 信任，信赖；责任；托拉斯 v. 信任，信赖；盼望；赊卖给
 单词：###trust###
 搭配：###trust each other### 互相信任
 例句：A good relationship between parents and children depends on ###trust### and care.
@@ -2920,7 +2921,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0324 -->
 # 中考单词 0324 · 关心；照顾
-中文：v. 关心；照顾
+中文：n. 照料，保护；小心 v. 介意…，在乎；关心；照顾
 单词：###care###
 搭配：###take care of ...### 照顾……
 例句：A good relationship between parents and children depends on trust and ###care###.
@@ -2929,7 +2930,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0325 -->
 # 中考单词 0325 · 平静的；使平静
-中文：adj. 平静的；v. 使平静
+中文：adj. 镇静的，镇定的；平静的，无风的 v. 平静；镇静
 单词：###calm###
 搭配：###calm down### 冷静下来
 例句：###Calm### down and take a deep breath. Shouting won't solve anything.
@@ -2938,7 +2939,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0326 -->
 # 中考单词 0326 · 深的
-中文：adj. 深的
+中文：adj. 深 adv. 深；深厚
 单词：###deep###
 搭配：###take a deep breath### 深吸一口气
 例句：Calm down and take a ###deep### breath. Shouting won't solve anything.
@@ -2947,7 +2948,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0327 -->
 # 中考单词 0327 · 呼吸
-中文：n. 呼吸
+中文：n. 呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音
 单词：###breath###
 搭配：###hold one's breath### 屏住呼吸
 例句：Calm down and take a deep ###breath###. Shouting won't solve anything.
@@ -2956,7 +2957,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0328 -->
 # 中考单词 0328 · 喊叫
-中文：v. 喊叫
+中文：n. 喊，高声呼喊 v. 喊，高声呼喊；喊叫
 单词：###shout###
 搭配：###shout at sb.### 冲某人喊叫
 例句：Calm down and take a deep breath. ###Shouting### won't solve anything.
@@ -2965,7 +2966,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0329 -->
 # 中考单词 0329 · 解决
-中文：v. 解决
+中文：v. 解决，处理；解答
 单词：###solve###
 搭配：###solve a problem### 解决问题
 例句：Calm down and take a deep breath. Shouting won't ###solve### anything.
@@ -2974,7 +2975,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0330 -->
 # 中考单词 0330 · 完美的
-中文：adj. 完美的
+中文：adj. 完美的；最好的；精通的 v. 使完美；使熟练 n. 完成式
 单词：###perfect###
 搭配：###a perfect day### 完美的一天
 例句：No one is ###perfect###. However, my mother always reminds me to stay positive and try my best.
@@ -2983,7 +2984,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0331 -->
 # 中考单词 0331 · 然而；不过
-中文：adv. 然而；不过
+中文：adv. 可是；不过 conj. 然而，可是，尽管如此
 单词：###however###
 搭配：###However, ...### 然而……
 例句：No one is perfect. ###However###, my mother always reminds me to stay positive and try my best.
@@ -2992,7 +2993,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0332 -->
 # 中考单词 0332 · 提醒
-中文：v. 提醒
+中文：v. 提醒；使想起
 单词：###remind###
 搭配：###remind sb. of sth.### 使某人想起某事
 例句：No one is perfect. However, my mother always ###reminds### me to stay positive and try my best.
@@ -3001,7 +3002,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0333 -->
 # 中考单词 0333 · 积极的
-中文：adj. 积极的
+中文：adj. 积极的，正面的；肯定的；正的，阳性的；确实的，明确的；十足的
 单词：###positive###
 搭配：###stay positive### 保持积极
 例句：No one is perfect. However, my mother always reminds me to stay ###positive### and try my best.
@@ -3010,7 +3011,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0334 -->
 # 中考单词 0334 · 遗憾；可惜
-中文：n. 遗憾；可惜
+中文：n. 怜悯，同情；遗憾；可惜
 单词：###pity###
 搭配：###What a pity!### 真可惜！
 例句：What a ###pity### you lost the match! But don't feel terrible — you still played really well.
@@ -3019,7 +3020,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0335 -->
 # 中考单词 0335 · 输掉；丢失
-中文：v. 输掉；丢失
+中文：vt. 失去，丢失；输掉
 单词：###lose###
 搭配：###lose a game### 输掉比赛
 例句：What a pity you ###lost### the match! But don't feel terrible — you still played really well.
@@ -3028,7 +3029,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0336 -->
 # 中考单词 0336 · 糟糕的
-中文：adj. 糟糕的
+中文：adj. 可怕的；糟糕的
 单词：###terrible###
 搭配：###feel terrible### 感觉很难受
 例句：What a pity you lost the match! But don't feel ###terrible### — you still played really well.
@@ -3037,7 +3038,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0337 -->
 # 中考单词 0337 · 仍然
-中文：adv. 仍然
+中文：adj. 不动的，平静的 adv. 仍然，还
 单词：###still###
 搭配：###still young### 仍然年轻
 例句：What a pity you lost the match! But don't feel terrible — you ###still### played really well.
@@ -3046,7 +3047,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0338 -->
 # 中考单词 0338 · 慈善
-中文：n. 慈善
+中文：n. 慈善，施舍；慈善机构
 单词：###charity###
 搭配：###a charity concert### 慈善音乐会
 例句：Our school held a ###charity### sale to raise money for children in poor areas.
@@ -3055,7 +3056,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0339 -->
 # 中考单词 0339 · 出售；销售
-中文：n. 出售；销售
+中文：n. 卖，出售；销售
 单词：###sale###
 搭配：###for sale### 待售
 例句：Our school held a charity ###sale### to raise money for children in poor areas.
@@ -3064,7 +3065,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0340 -->
 # 中考单词 0340 · 筹集；举起
-中文：v. 筹集；举起
+中文：vt. 举起；使升高；饲养；筹集
 单词：###raise###
 搭配：###raise money### 筹款
 例句：Our school held a charity sale to ###raise### money for children in poor areas.
@@ -3073,7 +3074,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0341 -->
 # 中考单词 0341 · 贫穷的
-中文：adj. 贫穷的
+中文：adj. 贫穷；可怜；不好的，差的
 单词：###poor###
 搭配：###poor areas### 贫困地区
 例句：Our school held a charity sale to raise money for children in ###poor### areas.
@@ -3082,7 +3083,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0342 -->
 # 中考单词 0342 · 噪音
-中文：n. 噪音
+中文：n. 声音，噪声，喧闹声；噪音
 单词：###noise###
 搭配：###make a noise### 发出噪音
 例句：The ###noise### outside is too loud. I can hardly focus on my homework.
@@ -3109,7 +3110,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0345 -->
 # 中考单词 0345 · 集中注意力
-中文：v. 集中注意力
+中文：v. 集中（注意力、精力）于 n. 焦点，中心点
 单词：###focus###
 搭配：###focus on ...### 专注于……
 例句：The noise outside is too loud. I can hardly ###focus### on my homework.
@@ -3118,7 +3119,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0346 -->
 # 中考单词 0346 · 失败
-中文：v. 失败
+中文：v. 失败；不及格；衰退
 单词：###fail###
 搭配：###fail the exam### 考试不及格
 例句：He ###failed### many times, but he never gave up hope and succeeded in the end.
@@ -3127,7 +3128,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0347 -->
 # 中考单词 0347 · 希望
-中文：v. 希望
+中文：n. 希望 v. 希望
 单词：###hope###
 搭配：###give up hope### 放弃希望
 例句：He failed many times, but he never gave up ###hope### and succeeded in the end.
@@ -3136,7 +3137,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0348 -->
 # 中考单词 0348 · 成功
-中文：v. 成功
+中文：vi. 成功
 单词：###succeed###
 搭配：###succeed in doing sth.### 成功做成某事
 例句：He failed many times, but he never gave up hope and ###succeeded### in the end.
@@ -3145,7 +3146,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0349 -->
 # 中考单词 0349 · 结尾；末端
-中文：n. 结尾；末端
+中文：n. 末尾；终点；结束；结尾；末端 v. 结束，终止
 单词：###end###
 搭配：###in the end### 最后
 例句：He failed many times, but he never gave up hope and succeeded in the ###end###.
@@ -3154,7 +3155,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0350 -->
 # 中考单词 0350 · 建议
-中文：n. 建议
+中文：n. 忠告，劝告，建议
 单词：###advice###
 搭配：###give sb. some advice### 给某人一些建议
 例句：I need your ###advice###. I'd like to join either the drama club or the science club — which do you prefer?
@@ -3163,7 +3164,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0351 -->
 # 中考单词 0351 · （两者中）任一
-中文：pron. （两者中）任一
+中文：adj. 两方任一方的；二者之一 conj. 二者之一；要么 adv. 也
 单词：###either###
 搭配：###either ... or ...### 要么……要么……
 例句：I need your advice. I'd like to join ###either### the drama club or the science club — which do you prefer?
@@ -3172,7 +3173,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0352 -->
 # 中考单词 0352 · 戏剧
-中文：n. 戏剧
+中文：n. 戏剧；戏剧性事件
 单词：###drama###
 搭配：###a drama club### 戏剧社
 例句：I need your advice. I'd like to join either the ###drama### club or the science club — which do you prefer?
@@ -3181,7 +3182,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0353 -->
 # 中考单词 0353 · 更喜欢
-中文：v. 更喜欢
+中文：vt. 宁愿（选择），更喜欢
 单词：###prefer###
 搭配：###prefer A to B### 比起 B 更喜欢 A
 例句：I need your advice. I'd like to join either the drama club or the science club — which do you ###prefer###?
@@ -3190,7 +3191,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0354 -->
 # 中考单词 0354 · 表扬
-中文：v. 表扬
+中文：n. 赞扬，表扬 vt. 赞扬，表扬
 单词：###praise###
 搭配：###praise sb. for sth.### 因某事表扬某人
 例句：Teachers' ###praise### and attention can give students the courage to make progress.
@@ -3199,7 +3200,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0355 -->
 # 中考单词 0355 · 注意；关注
-中文：n. 注意；关注
+中文：n. 注意，关心；关注
 单词：###attention###
 搭配：###pay attention to ...### 注意……
 例句：Teachers' praise and ###attention### can give students the courage to make progress.
@@ -3208,7 +3209,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0356 -->
 # 中考单词 0356 · 勇气
-中文：n. 勇气
+中文：n. 勇气；胆量
 单词：###courage###
 搭配：###have the courage to do sth.### 有勇气做某事
 例句：Teachers' praise and attention can give students the ###courage### to make progress.
@@ -3217,7 +3218,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0357 -->
 # 中考单词 0357 · 进步
-中文：n. 进步
+中文：n. 进步，上进 vi. 进展，进行
 单词：###progress###
 搭配：###make progress### 取得进步
 例句：Teachers' praise and attention can give students the courage to make ###progress###.
@@ -3226,7 +3227,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0358 -->
 # 中考单词 0358 · 电影
-中文：n. 电影
+中文：n. （口语）电影
 单词：###movie###
 搭配：###go to the movies### 去看电影
 例句：Hurry up! The ###movie### at the city theatre starts at 7 p.m.
@@ -3235,7 +3236,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0359 -->
 # 中考单词 0359 · 剧院
-中文：n. 剧院
+中文：n. 剧场，戏院；剧院
 单词：###theatre###
 搭配：###at the theatre### 在剧院
 例句：Hurry up! The movie at the city ###theatre### starts at 7 p.m.
@@ -3244,7 +3245,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0360 -->
 # 中考单词 0360 · 开始
-中文：v. 开始
+中文：v. 开始，着手；出发
 单词：###start###
 搭配：###start doing sth.### 开始做某事
 例句：Hurry up! The movie at the city theatre ###starts### at 7 p.m.
@@ -3271,7 +3272,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0363 -->
 # 中考单词 0363 · 象征
-中文：n. 象征
+中文：n. 象征；符号；标志
 单词：###symbol###
 搭配：###a symbol of ... ……### 的象征
 例句：Peking Opera is a ###symbol### of Chinese tradition and has a history of more than 200 years.
@@ -3280,7 +3281,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0364 -->
 # 中考单词 0364 · 传统
-中文：n. 传统
+中文：n. 传统，风俗
 单词：###tradition###
 搭配：###Chinese tradition### 中国传统
 例句：Peking Opera is a symbol of Chinese ###tradition### and has a history of more than 200 years.
@@ -3289,7 +3290,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0365 -->
 # 中考单词 0365 · 历史
-中文：n. 历史
+中文：n. 历史，历史学
 单词：###history###
 搭配：###have a history of ...### 有……的历史
 例句：Peking Opera is a symbol of Chinese tradition and has a ###history### of more than 200 years.
@@ -3307,7 +3308,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0367 -->
 # 中考单词 0367 · 尤其
-中文：adv. 尤其
+中文：adv. 特别，尤其
 单词：###especially###
 搭配：###especially in summer### 尤其在夏天
 例句：I love the Lantern Festival, ###especially### the fireworks and the bright lanterns.
@@ -3316,7 +3317,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0368 -->
 # 中考单词 0368 · 烟花
-中文：n. 烟花
+中文：n. 烟花，烟火
 单词：###firework###
 搭配：###watch fireworks### 看烟花
 例句：I love the Lantern Festival, especially the ###fireworks### and the bright lanterns.
@@ -3325,7 +3326,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0369 -->
 # 中考单词 0369 · 明亮的
-中文：adj. 明亮的
+中文：adj. 明亮的；聪明的
 单词：###bright###
 搭配：###bright light### 明亮的光
 例句：I love the Lantern Festival, especially the fireworks and the ###bright### lanterns.
@@ -3334,7 +3335,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0370 -->
 # 中考单词 0370 · 灯笼
-中文：n. 灯笼
+中文：n. 灯笼；提灯
 单词：###lantern###
 搭配：###the Lantern Festival### 元宵节
 例句：I love the Lantern Festival, especially the fireworks and the bright ###lanterns###.
@@ -3352,7 +3353,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0372 -->
 # 中考单词 0372 · 西方；西部
-中文：n. 西方；西部
+中文：adj. (在)西；向西，从西来的 adv. 在西方，向西方 n. 西部；西方
 单词：###west###
 搭配：###in the west of ...### 在……西部
 例句：At Christmas, people in many countries in the ###West### send presents to their relatives.
@@ -3361,7 +3362,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0373 -->
 # 中考单词 0373 · 发送；寄
-中文：v. 发送；寄
+中文：v. 打发，派遣；送，邮寄；发送
 单词：###send###
 搭配：###send sb. a message### 给某人发信息
 例句：At Christmas, people in many countries in the West ###send### presents to their relatives.
@@ -3370,7 +3371,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0374 -->
 # 中考单词 0374 · 礼物
-中文：n. 礼物
+中文：adj. 出现的，出席的 n. 礼物，赠品 vt. 呈奉，奉送
 单词：###present###
 搭配：###a birthday present### 生日礼物
 例句：At Christmas, people in many countries in the West send ###presents### to their relatives.
@@ -3379,7 +3380,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0375 -->
 # 中考单词 0375 · 亲戚
-中文：n. 亲戚
+中文：adj. 相对的；比较的；有关的，相关的 n. 亲属，亲戚
 单词：###relative###
 搭配：###visit relatives### 走亲戚
 例句：At Christmas, people in many countries in the West send presents to their ###relatives###.
@@ -3397,7 +3398,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0377 -->
 # 中考单词 0377 · 问候；迎接
-中文：v. 问候；迎接
+中文：vt. 问候；向…致敬；迎接
 单词：###greet###
 搭配：###greet sb. with ...### 用……迎接某人
 例句：My aunt was waiting at the gate and ###greeted### me with a hug and a kiss.
@@ -3406,7 +3407,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0378 -->
 # 中考单词 0378 · 拥抱
-中文：n. 拥抱
+中文：v. 拥抱
 单词：###hug###
 搭配：###give sb. a hug### 拥抱某人
 例句：My aunt was waiting at the gate and greeted me with a ###hug### and a kiss.
@@ -3415,7 +3416,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0379 -->
 # 中考单词 0379 · 亲吻
-中文：n. 亲吻
+中文：n. 吻，亲吻 vt. 吻，亲吻
 单词：###kiss###
 搭配：###kiss sb. goodbye### 吻别某人
 例句：My aunt was waiting at the gate and greeted me with a hug and a ###kiss###.
@@ -3424,7 +3425,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0380 -->
 # 中考单词 0380 · 礼貌；方式
-中文：n. 礼貌；方式
+中文：n. 方式，方法；态度，举止；礼貌
 单词：###manner###
 搭配：###table manners### 餐桌礼仪
 例句：To show good ###manners###, we should behave well in public and always wait in line.
@@ -3433,7 +3434,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0381 -->
 # 中考单词 0381 · 表现；举止
-中文：v. 表现；举止
+中文：v. 表现；表现得体，有礼貌；运转；起作用；举止
 单词：###behave###
 搭配：###behave well### 表现好
 例句：To show good manners, we should ###behave### well in public and always wait in line.
@@ -3442,7 +3443,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0382 -->
 # 中考单词 0382 · 公共的；公众
-中文：adj. 公共的；n. 公众
+中文：adj. 公共，公众的 n. 公众
 单词：###public###
 搭配：###in public### 在公共场合
 例句：To show good manners, we should behave well in ###public### and always wait in line.
@@ -3451,7 +3452,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0383 -->
 # 中考单词 0383 · 队；线
-中文：n. 队；线
+中文：n. 绳索，线，排，行，线路；队 v. 画线于，（使）成行
 单词：###line###
 搭配：###wait in line### 排队等候
 例句：To show good manners, we should behave well in public and always wait in ###line###.
@@ -3460,7 +3461,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0384 -->
 # 中考单词 0384 · 粗心的
-中文：adj. 粗心的
+中文：adj. 粗心的，漫不经心的
 单词：###careless###
 搭配：###a careless mistake### 粗心的错误
 例句：Don't be so ###careless###! You lost two marks because you didn't read the instructions on page 3.
@@ -3469,7 +3470,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0385 -->
 # 中考单词 0385 · 分数；记号
-中文：n. 分数；记号
+中文：n. 标记；分数 vt. 标明，作记号于
 单词：###mark###
 搭配：###full marks### 满分
 例句：Don't be so careless! You lost two ###marks### because you didn't read the instructions on page 3.
@@ -3478,7 +3479,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0386 -->
 # 中考单词 0386 · 说明；指示
-中文：n. 说明；指示
+中文：n. 说明，须知；教导；指示
 单词：###instruction###
 搭配：###follow the instructions### 按照说明做
 例句：Don't be so careless! You lost two marks because you didn't read the ###instructions### on page 3.
@@ -3487,7 +3488,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0387 -->
 # 中考单词 0387 · 页
-中文：n. 页
+中文：n. 页，页码
 单词：###page###
 搭配：###on page 5### 在第 5 页
 例句：Don't be so careless! You lost two marks because you didn't read the instructions on ###page### 3.
@@ -3505,7 +3506,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0389 -->
 # 中考单词 0389 · 大学；学院
-中文：n. 大学；学院
+中文：n. 学院；专科学校；大学
 单词：###college###
 搭配：###go to college### 上大学
 例句：My cousin graduated from ###college### last year and now works as an engineer in a large company.
@@ -3514,7 +3515,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0390 -->
 # 中考单词 0390 · 工程师
-中文：n. 工程师
+中文：n. 工程师；技师
 单词：###engineer###
 搭配：###a software engineer### 软件工程师
 例句：My cousin graduated from college last year and now works as an ###engineer### in a large company.
@@ -3523,7 +3524,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0391 -->
 # 中考单词 0391 · 大的
-中文：adj. 大的
+中文：adj. 大的；巨大的
 单词：###large###
 搭配：###a large city### 大城市
 例句：My cousin graduated from college last year and now works as an engineer in a ###large### company.
@@ -3541,7 +3542,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0393 -->
 # 中考单词 0393 · 演员
-中文：n. 演员
+中文：n. 演员；男演员
 单词：###actor###
 搭配：###a famous actor### 著名演员
 例句：Would you like to be an ###actor### or an artist when you grow up? — Neither. I want to be a pilot.
@@ -3550,7 +3551,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0394 -->
 # 中考单词 0394 · 艺术家
-中文：n. 艺术家
+中文：n. 艺术家，美术家
 单词：###artist###
 搭配：###a great artist### 伟大的艺术家
 例句：Would you like to be an actor or an ###artist### when you grow up? — Neither. I want to be a pilot.
@@ -3559,7 +3560,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0395 -->
 # 中考单词 0395 · 长大；生长
-中文：v. 长大；生长
+中文：v. 生长；发育；种植；变成；长大
 单词：###grow###
 搭配：###grow up### 长大
 例句：Would you like to be an actor or an artist when you ###grow### up? — Neither. I want to be a pilot.
@@ -3568,7 +3569,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0396 -->
 # 中考单词 0396 · 两者都不
-中文：pron. 两者都不
+中文：pron. 两者都不 adj. （两者）都不 adv. 也不
 单词：###neither###
 搭配：###neither of ... ……### 两者都不
 例句：Would you like to be an actor or an artist when you grow up? — ###Neither###. I want to be a pilot.
@@ -3586,7 +3587,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0398 -->
 # 中考单词 0398 · 紧急情况
-中文：n. 紧急情况
+中文：n. 紧急情况，突发事件
 单词：###emergency###
 搭配：###in an emergency### 在紧急情况下
 例句：In an ###emergency###, a responsible doctor always puts the patient's safety first.
@@ -3595,7 +3596,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0399 -->
 # 中考单词 0399 · 负责的
-中文：adj. 负责的
+中文：adj. 负责的；有责任的；可靠的
 单词：###responsible###
 搭配：###be responsible for ...### 对……负责
 例句：In an emergency, a ###responsible### doctor always puts the patient's safety first.
@@ -3613,7 +3614,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0401 -->
 # 中考单词 0401 · 安全
-中文：n. 安全
+中文：n. 安全，保险
 单词：###safety###
 搭配：###put safety first### 安全第一
 例句：In an emergency, a responsible doctor always puts the patient's ###safety### first.
@@ -3622,7 +3623,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0402 -->
 # 中考单词 0402 · 先生
-中文：n. 先生
+中文：n. 先生；阁下
 单词：###sir###
 搭配：###Yes, sir.### 是的，先生。
 例句：Excuse me, ###sir###. Could you tell me the address of the post office? I'm new here.
@@ -3631,7 +3632,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0403 -->
 # 中考单词 0403 · 地址
-中文：n. 地址
+中文：n. 地址；演讲，致辞 v. 写地址；向…致辞，与…说话；处理，对付
 单词：###address###
 搭配：###home address### 家庭住址
 例句：Excuse me, sir. Could you tell me the ###address### of the post office? I'm new here.
@@ -3640,7 +3641,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0404 -->
 # 中考单词 0404 · 邮政
-中文：n. 邮政
+中文：n. 邮政，邮寄，邮件 v. 投寄；邮寄
 单词：###post###
 搭配：###the post office### 邮局
 例句：Excuse me, sir. Could you tell me the address of the ###post### office? I'm new here.
@@ -3658,7 +3659,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0406 -->
 # 中考单词 0406 · 勇敢的
-中文：adj. 勇敢的
+中文：adj. 勇敢的；华丽的 v. 勇敢地面对 n. 勇士
 单词：###brave###
 搭配：###a brave boy### 勇敢的男孩
 例句：The ###brave### fireman ran into the burning building and saved a little girl.
@@ -3676,7 +3677,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0408 -->
 # 中考单词 0408 · 燃烧
-中文：v. 燃烧
+中文：v. 燃烧，着火；使烧焦；使晒黑 n. 烧伤；晒伤
 单词：###burn###
 搭配：###burn down### 烧毁
 例句：The brave fireman ran into the ###burning### building and saved a little girl.
@@ -3685,7 +3686,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0409 -->
 # 中考单词 0409 · 建筑物；大楼
-中文：n. 建筑物；大楼
+中文：n. 建筑物；房屋；大楼
 单词：###building###
 搭配：###a tall building### 高楼
 例句：The brave fireman ran into the burning ###building### and saved a little girl.
@@ -3694,7 +3695,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0410 -->
 # 中考单词 0410 · 救；节省
-中文：v. 救；节省
+中文：vt. 救，挽救，节省
 单词：###save###
 搭配：###save sb.'s life### 救某人的命
 例句：The brave fireman ran into the burning building and ###saved### a little girl.
@@ -3703,7 +3704,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0411 -->
 # 中考单词 0411 · 年长的
-中文：adj. 年长的
+中文：adj. 年长的 n. 长者；前辈
 单词：###elder###
 搭配：###elder brother### 哥哥
 例句：My ###elder### brother is handsome and energetic, and he is good at almost every sport.
@@ -3712,7 +3713,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0412 -->
 # 中考单词 0412 · 英俊的
-中文：adj. 英俊的
+中文：adj. （男子）英俊的；可观的；大方的，慷慨的；健美而端庄的
 单词：###handsome###
 搭配：###a handsome young man### 英俊的年轻人
 例句：My elder brother is ###handsome### and energetic, and he is good at almost every sport.
@@ -3721,7 +3722,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0413 -->
 # 中考单词 0413 · 精力充沛的
-中文：adj. 精力充沛的
+中文：adj. 精力充沛的；充满活力的
 单词：###energetic###
 搭配：###an energetic boy### 充满活力的男孩
 例句：My elder brother is handsome and ###energetic###, and he is good at almost every sport.
@@ -3730,7 +3731,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0414 -->
 # 中考单词 0414 · 几乎
-中文：adv. 几乎
+中文：adv. 几乎，差不多
 单词：###almost###
 搭配：###almost every day### 几乎每天
 例句：My elder brother is handsome and energetic, and he is good at ###almost### every sport.
@@ -3748,7 +3749,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0416 -->
 # 中考单词 0416 · 很少
-中文：adv. 很少
+中文：adv. 很少，不常
 单词：###seldom###
 搭配：###seldom go out### 很少出门
 例句：Lazy people ###seldom### reach their goals, because success needs effort.
@@ -3757,7 +3758,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0417 -->
 # 中考单词 0417 · 达到；到达
-中文：v. 达到；到达
+中文：v. 到达，伸手(脚)够到
 单词：###reach###
 搭配：###reach a goal### 达到目标
 例句：Lazy people seldom ###reach### their goals, because success needs effort.
@@ -3766,7 +3767,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0418 -->
 # 中考单词 0418 · 目标
-中文：n. 目标
+中文：n. （足球）球门，目标
 单词：###goal###
 搭配：###set a goal### 设定目标
 例句：Lazy people seldom reach their ###goals###, because success needs effort.
@@ -3775,7 +3776,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0419 -->
 # 中考单词 0419 · 熟悉的
-中文：adj. 熟悉的
+中文：adj. 熟悉的；常见的
 单词：###familiar###
 搭配：###be familiar with ...### 熟悉……
 例句：You're ###familiar### with this song, aren't you? It's a popular folk song from the south.
@@ -3784,7 +3785,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0420 -->
 # 中考单词 0420 · 受欢迎的
-中文：adj. 受欢迎的
+中文：adj. (口语) （音乐、艺术等）大众的，通俗的；受欢迎的
 单词：###popular###
 搭配：###be popular with ...### 受……欢迎
 例句：You're familiar with this song, aren't you? It's a ###popular### folk song from the south.
@@ -3793,7 +3794,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0421 -->
 # 中考单词 0421 · 民间的
-中文：adj. 民间的
+中文：adj. 民间的 n. 人们；民间音乐
 单词：###folk###
 搭配：###folk songs### 民歌
 例句：You're familiar with this song, aren't you? It's a popular ###folk### song from the south.
@@ -3802,7 +3803,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0422 -->
 # 中考单词 0422 · 南方
-中文：adv. 南方
+中文：adj. 南(方)的 adv. 在南方；向南方 n. 南；南方；南部
 单词：###south###
 搭配：###in the south of ...### 在……南部
 例句：You're familiar with this song, aren't you? It's a popular folk song from the ###south###.
@@ -3811,7 +3812,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0423 -->
 # 中考单词 0423 · 钦佩
-中文：v. 钦佩
+中文：v. 钦佩，敬佩；欣赏
 单词：###admire###
 搭配：###admire sb. for sth.### 因某事钦佩某人
 例句：I ###admire### my grandfather. His stories are as funny as cartoons, and he has a great sense of humour.
@@ -3820,7 +3821,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0424 -->
 # 中考单词 0424 · 有趣的；好笑的
-中文：adj. 有趣的；好笑的
+中文：adj. 有趣的，滑稽可笑的；好笑的
 单词：###funny###
 搭配：###a funny story### 有趣的故事
 例句：I admire my grandfather. His stories are as ###funny### as cartoons, and he has a great sense of humour.
@@ -3829,7 +3830,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0425 -->
 # 中考单词 0425 · 感觉；意识
-中文：n. 感觉；意识
+中文：n. 感觉，功能；观念；道理；理智；意识 v. 感觉到；检测
 单词：###sense###
 搭配：###a sense of humour### 幽默感
 例句：I admire my grandfather. His stories are as funny as cartoons, and he has a great ###sense### of humour.
@@ -3838,7 +3839,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0426 -->
 # 中考单词 0426 · 幽默
-中文：n. 幽默
+中文：n. 幽默；幽默感
 单词：###humour###
 搭配：###a sense of humour### 幽默感
 例句：I admire my grandfather. His stories are as funny as cartoons, and he has a great sense of ###humour###.
@@ -3847,7 +3848,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0427 -->
 # 中考单词 0427 · 猜
-中文：v. 猜
+中文：v. 猜，猜测
 单词：###guess###
 搭配：###Guess what!### 你猜怎么着！
 例句：###Guess### what! My speech won first prize, and I received the award from the head teacher.
@@ -3865,7 +3866,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0429 -->
 # 中考单词 0429 · 奖项；奖品
-中文：n. 奖项；奖品
+中文：n. 奖赏，奖品；奖项
 单词：###prize###
 搭配：###win first prize### 获得一等奖
 例句：Guess what! My speech won first ###prize###, and I received the award from the head teacher.
@@ -3874,7 +3875,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0430 -->
 # 中考单词 0430 · 收到；接受
-中文：v. 收到；接受
+中文：v. 收到，得到；接受
 单词：###receive###
 搭配：###receive a letter### 收到一封信
 例句：Guess what! My speech won first prize, and I ###received### the award from the head teacher.
@@ -3883,7 +3884,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0431 -->
 # 中考单词 0431 · 奖
-中文：n. 奖
+中文：v. 授予，给予；判给 n. 奖，奖品；报酬，津贴
 单词：###award###
 搭配：###win an award### 获奖
 例句：Guess what! My speech won first prize, and I received the ###award### from the head teacher.
@@ -3892,7 +3893,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0432 -->
 # 中考单词 0432 · 任何人
-中文：pron. 任何人
+中文：pron. 任何人；随便哪一个人
 单词：###anybody###
 搭配：###Is anybody here?### 有人在吗？
 例句：###Anybody### who cheats in an exam will be punished according to the school rules.
@@ -3901,7 +3902,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0433 -->
 # 中考单词 0433 · 作弊；欺骗
-中文：v. 作弊；欺骗
+中文：v. 欺骗；骗取 n. 欺骗，作弊；骗子
 单词：###cheat###
 搭配：###cheat in exams### 考试作弊
 例句：Anybody who ###cheats### in an exam will be punished according to the school rules.
@@ -3910,7 +3911,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0434 -->
 # 中考单词 0434 · 惩罚
-中文：v. 惩罚
+中文：v. 惩罚；严厉对待
 单词：###punish###
 搭配：###punish sb. for sth.### 因某事惩罚某人
 例句：Anybody who cheats in an exam will be ###punished### according to the school rules.
@@ -3919,7 +3920,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0435 -->
 # 中考单词 0435 · 根据
-中文：prep. 根据
+中文：prep. 根据；按照
 单词：###according to###
 搭配：###according to the rules### 按照规定
 例句：Anybody who cheats in an exam will be punished ###according to### the school rules.
@@ -3928,7 +3929,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0436 -->
 # 中考单词 0436 · 规则
-中文：n. 规则
+中文：n. 规则，规定 vt. 统治，支配
 单词：###rule###
 搭配：###school rules### 校规
 例句：Anybody who cheats in an exam will be punished according to the school ###rules###.
@@ -3937,7 +3938,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0437 -->
 # 中考单词 0437 · 提前；在前面
-中文：adv. 提前；在前面
+中文：adv. 在前面；提前；向前
 单词：###ahead###
 搭配：###go ahead### 先走；开始吧
 例句：I'll go on ###ahead### to pick up my son from primary school. See you later!
@@ -3946,7 +3947,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0438 -->
 # 中考单词 0438 · 挑选；拾起
-中文：v. 挑选；拾起
+中文：v. 拾起，采集；挑选
 单词：###pick###
 搭配：###pick up### 接（人）；捡起
 例句：I'll go on ahead to ###pick### up my son from primary school. See you later!
@@ -3964,7 +3965,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0440 -->
 # 中考单词 0440 · 初级的；小学的
-中文：adj. 初级的；小学的
+中文：adj. 主要的；初级的；基本的；小学的 n. 原色；最主要者
 单词：###primary###
 搭配：###primary school### 小学
 例句：I'll go on ahead to pick up my son from ###primary### school. See you later!
@@ -3973,7 +3974,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0441 -->
 # 中考单词 0441 · 以后；后来
-中文：adv. 以后；后来
+中文：adj. 晚些的，迟些的 adv. 以后；后来
 单词：###later###
 搭配：###See you later.### 回头见。
 例句：I'll go on ahead to pick up my son from primary school. See you ###later###!
@@ -3982,7 +3983,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0442 -->
 # 中考单词 0442 · 严格的
-中文：adj. 严格的
+中文：adj. 严格的，严密的
 单词：###strict###
 搭配：###be strict with sb.### 对某人要求严格
 例句：Our teacher is ###strict### but fair, and she has influenced my life a lot.
@@ -3991,7 +3992,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0443 -->
 # 中考单词 0443 · 公平的
-中文：adj. 公平的
+中文：adj. 公平的；美丽的，白皙的；晴朗的 adv. 公平地；直接地；清楚地 v. 转晴 n. 展览会；市集；美人
 单词：###fair###
 搭配：###be fair to sb.### 对某人公平
 例句：Our teacher is strict but ###fair###, and she has influenced my life a lot.
@@ -4000,7 +4001,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0444 -->
 # 中考单词 0444 · 影响
-中文：v. 影响
+中文：n. 影响；势力；感化；有影响的人或事 v. 影响；改变
 单词：###influence###
 搭配：###have an influence on ...### 对……有影响
 例句：Our teacher is strict but fair, and she has ###influenced### my life a lot.
@@ -4009,7 +4010,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0445 -->
 # 中考单词 0445 · 生活；人生
-中文：n. 生活；人生
+中文：n. 生命；生涯；生活；人生；生物
 单词：###life###
 搭配：###in one's life### 在某人一生中
 例句：Our teacher is strict but fair, and she has influenced my ###life### a lot.
@@ -4018,43 +4019,43 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0446 -->
 # 中考单词 0446 · 介绍
-中文：v. 介绍
+中文：vt. 介绍
 单词：###introduce###
 搭配：###introduce oneself### 自我介绍
-例句：Let me ###introduce### my partner, Lucy. She's a junior student and a member of our team.
-译文：我来介绍一下我的搭档露西。她是低年级学生，也是我们队的一员。
+例句：Let me ###introduce### my partner, Leiji. She's a junior student and a member of our team.
+译文：我来介绍一下我的搭档磊记。她是低年级学生，也是我们队的一员。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0447 -->
 # 中考单词 0447 · 搭档；伙伴
-中文：n. 搭档；伙伴
+中文：v. 做…的搭档 n. 配偶，搭档；伙伴，合伙人
 单词：###partner###
 搭配：###a dancing partner### 舞伴
-例句：Let me introduce my ###partner###, Lucy. She's a junior student and a member of our team.
-译文：我来介绍一下我的搭档露西。她是低年级学生，也是我们队的一员。
+例句：Let me introduce my ###partner###, Leiji. She's a junior student and a member of our team.
+译文：我来介绍一下我的搭档磊记。她是低年级学生，也是我们队的一员。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0448 -->
 # 中考单词 0448 · 初级的；较年幼的
-中文：adj. 初级的；较年幼的
+中文：adj. 初级的；年少的；较年幼的
 单词：###junior###
 搭配：###junior high school### 初中
-例句：Let me introduce my partner, Lucy. She's a ###junior### student and a member of our team.
-译文：我来介绍一下我的搭档露西。她是低年级学生，也是我们队的一员。
+例句：Let me introduce my partner, Leiji. She's a ###junior### student and a member of our team.
+译文：我来介绍一下我的搭档磊记。她是低年级学生，也是我们队的一员。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0449 -->
 # 中考单词 0449 · 成员
-中文：n. 成员
+中文：n. 成员，会员
 单词：###member###
 搭配：###a member of ... ……### 的成员
-例句：Let me introduce my partner, Lucy. She's a junior student and a ###member### of our team.
-译文：我来介绍一下我的搭档露西。她是低年级学生，也是我们队的一员。
+例句：Let me introduce my partner, Leiji. She's a junior student and a ###member### of our team.
+译文：我来介绍一下我的搭档磊记。她是低年级学生，也是我们队的一员。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0450 -->
 # 中考单词 0450 · 提供
-中文：v. 提供
+中文：n. 提供；建议 vt. 提供；建议
 单词：###offer###
 搭配：###offer sb. sth.### 给某人提供某物
 例句：Our school ###offers### a large choice of activities, so each of us can find one that suits us.
@@ -4063,7 +4064,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0451 -->
 # 中考单词 0451 · 选择
-中文：n. 选择
+中文：n. 选择；选择权；精选品 adj. 精选的；仔细推敲的
 单词：###choice###
 搭配：###make a choice### 做选择
 例句：Our school offers a large ###choice### of activities, so each of us can find one that suits us.
@@ -4081,7 +4082,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0453 -->
 # 中考单词 0453 · 适合
-中文：v. 适合
+中文：vt. 适合 n. 一套（衣服）
 单词：###suit###
 搭配：###suit sb. well### 很适合某人
 例句：Our school offers a large choice of activities, so each of us can find one that ###suits### us.
@@ -4108,7 +4109,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0456 -->
 # 中考单词 0456 · 炸薯条；薯片
-中文：n. 炸薯条；薯片
+中文：v. 削下 n. 碎片；芯片；炸薯条；薯片
 单词：###chip###
 搭配：###fish and chips### 炸鱼薯条
 例句：Can I have a beef hamburger, some ###chips### and a sandwich? — Sure. For here or to go?
@@ -4117,7 +4118,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0457 -->
 # 中考单词 0457 · 三明治
-中文：n. 三明治
+中文：n. 三明治（夹心面包片）
 单词：###sandwich###
 搭配：###a chicken sandwich### 鸡肉三明治
 例句：Can I have a beef hamburger, some chips and a ###sandwich###? — Sure. For here or to go?
@@ -4126,7 +4127,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0458 -->
 # 中考单词 0458 · 卷心菜
-中文：n. 卷心菜
+中文：n. 卷心菜，洋白菜
 单词：###cabbage###
 搭配：###Chinese cabbage### 大白菜
 例句：Vegetables such as ###cabbages###, carrots and cucumbers are a basic part of a healthy diet.
@@ -4153,7 +4154,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0461 -->
 # 中考单词 0461 · 基本的
-中文：adj. 基本的
+中文：adj. 基本的；基础的 n. 基础；要素
 单词：###basic###
 搭配：###basic skills### 基本技能
 例句：Vegetables such as cabbages, carrots and cucumbers are a ###basic### part of a healthy diet.
@@ -4162,7 +4163,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0462 -->
 # 中考单词 0462 · 煎饼
-中文：n. 煎饼
+中文：n. 薄烤饼，煎饼
 单词：###pancake###
 搭配：###make pancakes### 做煎饼
 例句：What would you like on your ###pancake###, butter or honey? — Honey, please. I love sweet things.
@@ -4171,7 +4172,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0463 -->
 # 中考单词 0463 · 黄油
-中文：n. 黄油
+中文：n. 黄油，奶油
 单词：###butter###
 搭配：###bread and butter### 黄油面包
 例句：What would you like on your pancake, ###butter### or honey? — Honey, please. I love sweet things.
@@ -4180,7 +4181,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0464 -->
 # 中考单词 0464 · 蜂蜜
-中文：n. 蜂蜜
+中文：n. 蜜，蜂蜜；甜蜜；宝贝儿，亲爱的
 单词：###honey###
 搭配：###as sweet as honey### 像蜜一样甜
 例句：What would you like on your pancake, butter or ###honey###? — Honey, please. I love sweet things.
@@ -4189,7 +4190,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0465 -->
 # 中考单词 0465 · 东西；事情
-中文：n. 东西；事情
+中文：n. 东西；物品，用品；事情，事件
 单词：###thing###
 搭配：###sweet things### 甜食
 例句：What would you like on your pancake, butter or honey? — Honey, please. I love sweet ###things###.
@@ -4198,7 +4199,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0466 -->
 # 中考单词 0466 · 煮沸
-中文：v. 煮沸
+中文：v. 沸腾，煮沸 n. 沸腾
 单词：###boil###
 搭配：###boil water### 烧水
 例句：First ###boil### some water in a pot, then put the corn and beans into it.
@@ -4207,7 +4208,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0467 -->
 # 中考单词 0467 · 锅
-中文：n. 锅
+中文：n. 锅；壶；罐
 单词：###pot###
 搭配：###a cooking pot### 锅
 例句：First boil some water in a ###pot###, then put the corn and beans into it.
@@ -4216,7 +4217,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0468 -->
 # 中考单词 0468 · 玉米
-中文：n. 玉米
+中文：n. 玉米，谷物
 单词：###corn###
 搭配：###corn soup### 玉米汤
 例句：First boil some water in a pot, then put the ###corn### and beans into it.
@@ -4225,7 +4226,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0469 -->
 # 中考单词 0469 · 豆
-中文：n. 豆
+中文：n. 豆；豆子
 单词：###bean###
 搭配：###green beans### 四季豆
 例句：First boil some water in a pot, then put the corn and ###beans### into it.
@@ -4279,7 +4280,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0475 -->
 # 中考单词 0475 · 刀
-中文：n. 刀
+中文：n. 小刀；匕首；刀片
 单词：###knife###
 搭配：###a knife and fork### 一副刀叉
 例句：In China, people eat with chopsticks, while in most countries in the West people use ###knives### and forks at the dining table.
@@ -4288,7 +4289,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0476 -->
 # 中考单词 0476 · 叉子
-中文：n. 叉子
+中文：n. 叉，餐叉；叉子
 单词：###fork###
 搭配：###knives and forks### 刀叉
 例句：In China, people eat with chopsticks, while in most countries in the West people use knives and ###forks### at the dining table.
@@ -4297,7 +4298,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0477 -->
 # 中考单词 0477 · 就餐
-中文：n. 就餐
+中文：n. 就餐，用餐
 单词：###dining###
 搭配：###dining room### 餐厅
 例句：In China, people eat with chopsticks, while in most countries in the West people use knives and forks at the ###dining### table.
@@ -4333,7 +4334,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0481 -->
 # 中考单词 0481 · 沙拉
-中文：n. 沙拉
+中文：n. 色拉；沙拉
 单词：###salad###
 搭配：###fruit salad### 水果沙拉
 例句：Could I see the menu, please? I'd like to try the pork and the tofu ###salad###.
@@ -4342,7 +4343,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0482 -->
 # 中考单词 0482 · 馅饼
-中文：n. 馅饼
+中文：n. 甜馅饼
 单词：###pie###
 搭配：###an apple pie### 苹果派
 例句：My father makes a ###pie### in the oven every weekend and serves it with fresh strawberries.
@@ -4351,7 +4352,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0483 -->
 # 中考单词 0483 · 烤箱
-中文：n. 烤箱
+中文：n. 烤箱；烤炉
 单词：###oven###
 搭配：###bake in the oven### 用烤箱烤
 例句：My father makes a pie in the ###oven### every weekend and serves it with fresh strawberries.
@@ -4360,7 +4361,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0484 -->
 # 中考单词 0484 · 端上；服务
-中文：v. 端上；服务
+中文：vt. 招待（顾客等），服务；端上
 单词：###serve###
 搭配：###serve food### 上菜
 例句：My father makes a pie in the oven every weekend and ###serves### it with fresh strawberries.
@@ -4369,7 +4370,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0485 -->
 # 中考单词 0485 · 草莓
-中文：n. 草莓
+中文：n. 草莓；草莓色
 单词：###strawberry###
 搭配：###strawberry ice cream### 草莓冰淇淋
 例句：My father makes a pie in the oven every weekend and serves it with fresh ###strawberries###.
@@ -4387,7 +4388,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0487 -->
 # 中考单词 0487 · 尝起来
-中文：v. 尝起来
+中文：n. 品尝；味道 v. 品尝；尝起来
 单词：###taste###
 搭配：###taste good### 好吃
 例句：This watermelon ###tastes### so sweet! Would you like a piece? There's a pear on the plate, too.
@@ -4396,7 +4397,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0488 -->
 # 中考单词 0488 · 片；块
-中文：n. 片；块
+中文：n. 一块（片，张，件…）
 单词：###piece###
 搭配：###a piece of paper### 一张纸
 例句：This watermelon tastes so sweet! Would you like a ###piece###? There's a pear on the plate, too.
@@ -4405,7 +4406,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0489 -->
 # 中考单词 0489 · 梨
-中文：n. 梨
+中文：n. 梨子，梨树
 单词：###pear###
 搭配：###a ripe pear### 一个熟梨
 例句：This watermelon tastes so sweet! Would you like a piece? There's a ###pear### on the plate, too.
@@ -4414,7 +4415,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0490 -->
 # 中考单词 0490 · 盘子
-中文：n. 盘子
+中文：n. 板；片；牌；盘子；盆子
 单词：###plate###
 搭配：###a plate of food### 一盘食物
 例句：This watermelon tastes so sweet! Would you like a piece? There's a pear on the ###plate###, too.
@@ -4432,7 +4433,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0492 -->
 # 中考单词 0492 · 常见的；共同的
-中文：adj. 常见的；共同的
+中文：adj. 普通，一般；共有的；常见的；共同的
 单词：###common###
 搭配：###a common problem### 常见问题
 例句：Mutton is ###common### at meals in the north of China, especially in winter.
@@ -4441,7 +4442,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0493 -->
 # 中考单词 0493 · 一餐
-中文：n. 一餐
+中文：n. 一餐（饭）
 单词：###meal###
 搭配：###have a meal### 吃饭
 例句：Mutton is common at ###meals### in the north of China, especially in winter.
@@ -4450,7 +4451,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0494 -->
 # 中考单词 0494 · 北方
-中文：n. 北方
+中文：adj. 北的；朝北的 adv. 向（在，从）北方 n. 北；北方；北部
 单词：###north###
 搭配：###in the north of ...### 在……北部
 例句：Mutton is common at meals in the ###north### of China, especially in winter.
@@ -4459,7 +4460,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0495 -->
 # 中考单词 0495 · 小包；小盒
-中文：n. 小包；小盒
+中文：n. 小包裹，袋；小盒
 单词：###packet###
 搭配：###a packet of biscuits### 一包饼干
 例句：Don't leave the ###packet### of chocolate in the sun, or it will turn soft in the heat.
@@ -4477,7 +4478,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0497 -->
 # 中考单词 0497 · 软的
-中文：adj. 软的
+中文：adj. 软的，柔和的
 单词：###soft###
 搭配：###soft bread### 软面包
 例句：Don't leave the packet of chocolate in the sun, or it will turn ###soft### in the heat.
@@ -4486,7 +4487,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0498 -->
 # 中考单词 0498 · 热；高温
-中文：n. 热；高温
+中文：n. 热；高温 vt. 把…加热
 单词：###heat###
 搭配：###in the heat### 在高温下
 例句：Don't leave the packet of chocolate in the sun, or it will turn soft in the ###heat###.
@@ -4495,7 +4496,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0499 -->
 # 中考单词 0499 · 洋葱
-中文：n. 洋葱
+中文：n. 洋葱；洋葱头
 单词：###onion###
 搭配：###onion soup### 洋葱汤
 例句：Cook the ###onions### in a bit of oil for several minutes, and then add some salt.
@@ -4504,7 +4505,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0500 -->
 # 中考单词 0500 · 一点
-中文：n. 一点
+中文：n. 一点，一些，少量的
 单词：###bit###
 搭配：###a bit of ...### 一点儿……
 例句：Cook the onions in a ###bit### of oil for several minutes, and then add some salt.
@@ -4522,7 +4523,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0502 -->
 # 中考单词 0502 · 几个
-中文：adj. 几个
+中文：pron. 几个，数个 adj. 若干
 单词：###several###
 搭配：###several times### 好几次
 例句：Cook the onions in a bit of oil for ###several### minutes, and then add some salt.
@@ -4531,7 +4532,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0503 -->
 # 中考单词 0503 · 加
-中文：v. 加
+中文：v. 加；增加；加起来；做加法 n. 加法，加法运算
 单词：###add###
 搭配：###add A to B### 把 A 加到 B 中
 例句：Cook the onions in a bit of oil for several minutes, and then ###add### some salt.
@@ -4540,7 +4541,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0504 -->
 # 中考单词 0504 · 紫色的
-中文：adj. 紫色的
+中文：n. 紫色 adj. 紫色的
 单词：###purple###
 搭配：###a purple dress### 紫色连衣裙
 例句：This ###purple### T-shirt looks pretty, and the price is low because it's on sale.
@@ -4549,7 +4550,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0505 -->
 # 中考单词 0505 · T 恤衫
-中文：n. T 恤衫
+中文：n. T恤衫
 单词：###T-shirt###
 搭配：###a cotton T-shirt### 纯棉 T 恤
 例句：This purple ###T-shirt### looks pretty, and the price is low because it's on sale.
@@ -4558,7 +4559,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0506 -->
 # 中考单词 0506 · 漂亮的；相当
-中文：adj. 漂亮的；adv. 相当
+中文：adj. 漂亮的，俊俏的 adv. 相当
 单词：###pretty###
 搭配：###a pretty girl### 漂亮的女孩
 例句：This purple T-shirt looks ###pretty###, and the price is low because it's on sale.
@@ -4567,7 +4568,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0507 -->
 # 中考单词 0507 · 价格
-中文：n. 价格
+中文：n. 价格，价钱
 单词：###price###
 搭配：###at a low price### 以低价
 例句：This purple T-shirt looks pretty, and the ###price### is low because it's on sale.
@@ -4576,7 +4577,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0508 -->
 # 中考单词 0508 · 低的
-中文：adj. 低的
+中文：adj. 低的；矮的 adv. 低；矮
 单词：###low###
 搭配：###low price### 低价
 例句：This purple T-shirt looks pretty, and the price is ###low### because it's on sale.
@@ -4585,7 +4586,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0509 -->
 # 中考单词 0509 · 牛仔裤
-中文：n. 牛仔裤
+中文：n. 牛仔裤；工装裤
 单词：###jeans###
 搭配：###a pair of jeans### 一条牛仔裤
 例句：These ###jeans### are made of cotton, and the blouse is made of silk.
@@ -4594,7 +4595,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0510 -->
 # 中考单词 0510 · 棉花
-中文：n. 棉花
+中文：n. 棉花 adj. 棉花的
 单词：###cotton###
 搭配：###made of cotton### 棉质的
 例句：These jeans are made of ###cotton###, and the blouse is made of silk.
@@ -4603,7 +4604,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0511 -->
 # 中考单词 0511 · 女式衬衫
-中文：n. 女式衬衫
+中文：n. 宽罩衫；（妇女、儿童穿的）短上衣；女式衬衫
 单词：###blouse###
 搭配：###a white blouse### 白色女式衬衫
 例句：These jeans are made of cotton, and the ###blouse### is made of silk.
@@ -4612,7 +4613,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0512 -->
 # 中考单词 0512 · 丝绸
-中文：n. 丝绸
+中文：n. （蚕）丝，丝织品；丝绸
 单词：###silk###
 搭配：###a silk scarf### 丝巾
 例句：These jeans are made of cotton, and the blouse is made of ###silk###.
@@ -4621,7 +4622,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0513 -->
 # 中考单词 0513 · 帽子
-中文：n. 帽子
+中文：n. 帽子(一般指有边的)；礼帽
 单词：###hat###
 搭配：###put on a hat### 戴上帽子
 例句：This ###hat### doesn't fit me. Could I try a medium size instead?
@@ -4630,7 +4631,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0514 -->
 # 中考单词 0514 · （大小）合身
-中文：v. （大小）合身
+中文：adj. 健康的，适合的 v. （使）适合，安装；（大小）合身
 单词：###fit###
 搭配：###fit sb. well### 很合身
 例句：This hat doesn't ###fit### me. Could I try a medium size instead?
@@ -4639,7 +4640,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0515 -->
 # 中考单词 0515 · 中等的
-中文：adj. 中等的
+中文：adj. 中等的；平均的 n. 媒介，工具；手段，方法
 单词：###medium###
 搭配：###medium size### 中号
 例句：This hat doesn't fit me. Could I try a ###medium### size instead?
@@ -4648,7 +4649,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0516 -->
 # 中考单词 0516 · 尺码；大小
-中文：n. 尺码；大小
+中文：n. 尺寸，大小；尺码
 单词：###size###
 搭配：###the right size### 合适的尺码
 例句：This hat doesn't fit me. Could I try a medium ###size### instead?
@@ -4657,7 +4658,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0517 -->
 # 中考单词 0517 · 制服
-中文：n. 制服
+中文：adj. 相同的，一致的 n. 制服
 单词：###uniform###
 搭配：###school uniform### 校服
 例句：Our school ###uniform### includes a grey jacket, a white shirt and a black belt.
@@ -4666,7 +4667,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0518 -->
 # 中考单词 0518 · 包括
-中文：v. 包括
+中文：vt. 包含，包括
 单词：###include###
 搭配：###include sth.### 包括某物
 例句：Our school uniform ###includes### a grey jacket, a white shirt and a black belt.
@@ -4675,7 +4676,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0519 -->
 # 中考单词 0519 · 灰色的
-中文：adj. 灰色的
+中文：adj. 灰色的；灰白的
 单词：###grey###
 搭配：###grey hair### 灰白的头发
 例句：Our school uniform includes a ###grey### jacket, a white shirt and a black belt.
@@ -4684,7 +4685,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0520 -->
 # 中考单词 0520 · 腰带
-中文：n. 腰带
+中文：n. 地带，地区；腰带，皮带
 单词：###belt###
 搭配：###a black belt### 黑色腰带
 例句：Our school uniform includes a grey jacket, a white shirt and a black ###belt###.
@@ -4702,7 +4703,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0522 -->
 # 中考单词 0522 · 风
-中文：n. 风
+中文：vt. 缠，连带；蜿蜒，弯曲 n. 风
 单词：###wind###
 搭配：###a strong wind### 大风
 例句：Put on your gloves. A cold ###wind### is blowing, and it may even snow tonight.
@@ -4711,7 +4712,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0523 -->
 # 中考单词 0523 · 吹；刮
-中文：v. 吹；刮
+中文：v. 吹；刮风；吹气 n. 击；打击
 单词：###blow###
 搭配：###The wind is blowing.### 正在刮风。
 例句：Put on your gloves. A cold wind is ###blowing###, and it may even snow tonight.
@@ -4720,7 +4721,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0524 -->
 # 中考单词 0524 · 甚至
-中文：adv. 甚至
+中文：adv. 甚至，连（…都）；更
 单词：###even###
 搭配：###even more### 甚至更多
 例句：Put on your gloves. A cold wind is blowing, and it may ###even### snow tonight.
@@ -4729,7 +4730,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0525 -->
 # 中考单词 0525 · 时尚
-中文：n. 时尚
+中文：n. 流行款式，时兴式样；时尚，时兴
 单词：###fashion###
 搭配：###in fashion### 流行
 例句：###Fashion### changes quickly, but a simple style never goes out of date.
@@ -4738,7 +4739,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0526 -->
 # 中考单词 0526 · 简单的
-中文：adj. 简单的
+中文：adj. 简单的，简易的
 单词：###simple###
 搭配：###a simple style### 简单的风格
 例句：Fashion changes quickly, but a ###simple### style never goes out of date.
@@ -4747,7 +4748,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0527 -->
 # 中考单词 0527 · 风格；样式
-中文：n. 风格；样式
+中文：n. 风格，文体；式样，类型；流行式样，时尚
 单词：###style###
 搭配：###in style### 时髦
 例句：Fashion changes quickly, but a simple ###style### never goes out of date.
@@ -4756,7 +4757,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0528 -->
 # 中考单词 0528 · 日期
-中文：n. 日期
+中文：n. 日期；约会；枣
 单词：###date###
 搭配：###out of date### 过时
 例句：Fashion changes quickly, but a simple style never goes out of ###date###.
@@ -4765,7 +4766,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0529 -->
 # 中考单词 0529 · 钱包
-中文：n. 钱包
+中文：n. (放钱，证件等的)皮夹；钱包
 单词：###wallet###
 搭配：###lose one's wallet### 丢了钱包
 例句：I left my ###wallet### at home. Can I pay by phone instead of cash?
@@ -4774,7 +4775,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0530 -->
 # 中考单词 0530 · 遗留；离开
-中文：v. 遗留；离开
+中文：v. 离开；把…留下，剩下；遗留
 单词：###leave###
 搭配：###leave sth. at home### 把某物落在家里
 例句：I ###left### my wallet at home. Can I pay by phone instead of cash?
@@ -4783,7 +4784,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0531 -->
 # 中考单词 0531 · 付钱
-中文：v. 付钱
+中文：v. 付钱，给…报酬 n. 工资
 单词：###pay###
 搭配：###pay for sth.### 为某物付钱
 例句：I left my wallet at home. Can I ###pay### by phone instead of cash?
@@ -4792,7 +4793,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0532 -->
 # 中考单词 0532 · 现金
-中文：n. 现金
+中文：n. 现金 v. 兑现
 单词：###cash###
 搭配：###pay in cash### 付现金
 例句：I left my wallet at home. Can I pay by phone instead of ###cash###?
@@ -4801,7 +4802,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0533 -->
 # 中考单词 0533 · 总的；总数
-中文：adj. 总的；n. 总数
+中文：adj. 总数的；完全的 n. 合计，总计 v. 合计，总计
 单词：###total###
 搭配：###in total### 总共
 例句：The trip cost 300 dollars in ###total###, so it was more expensive than we expected.
@@ -4810,7 +4811,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0534 -->
 # 中考单词 0534 · 花费（钱）；费用
-中文：n. 花费（钱）；费用
+中文：v. 值（钱），花费 n. 价格；费用
 单词：###cost###
 搭配：###It costs ...### 花费……
 例句：The trip ###cost### 300 dollars in total, so it was more expensive than we expected.
@@ -4819,7 +4820,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0535 -->
 # 中考单词 0535 · 美元
-中文：n. 美元
+中文：n. 元（美国、加拿大、澳大利亚等国货币单位）
 单词：###dollar###
 搭配：###ten dollars### 十美元
 例句：The trip cost 300 ###dollars### in total, so it was more expensive than we expected.
@@ -4837,7 +4838,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0537 -->
 # 中考单词 0537 · 预料；期待
-中文：v. 预料；期待
+中文：vt. 预料；期待，盼望；认为
 单词：###expect###
 搭配：###expect to do sth.### 期待做某事
 例句：The trip cost 300 dollars in total, so it was more expensive than we ###expected###.
@@ -4846,7 +4847,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0538 -->
 # 中考单词 0538 · 银行
-中文：n. 银行
+中文：n. （河海湖的）岸，堤，银行
 单词：###bank###
 搭配：###go to the bank### 去银行
 例句：Excuse me, is there a ###bank### near the central square? I'd like to change some pounds.
@@ -4855,7 +4856,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0539 -->
 # 中考单词 0539 · 中心的
-中文：adj. 中心的
+中文：adj. 中心的；中央的；主要的
 单词：###central###
 搭配：###the central square### 中心广场
 例句：Excuse me, is there a bank near the ###central### square? I'd like to change some pounds.
@@ -4864,7 +4865,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0540 -->
 # 中考单词 0540 · 广场
-中文：n. 广场
+中文：n. 广场 adj. 平方的；方形的，宽而结实的（体格，肩膀）
 单词：###square###
 搭配：###Tian'anmen Square### 天安门广场
 例句：Excuse me, is there a bank near the central ###square###? I'd like to change some pounds.
@@ -4873,7 +4874,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0541 -->
 # 中考单词 0541 · 英镑；磅
-中文：n. 英镑；磅
+中文：n. 磅；英镑
 单词：###pound###
 搭配：###ten pounds### 十英镑
 例句：Excuse me, is there a bank near the central square? I'd like to change some ###pounds###.
@@ -4882,7 +4883,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0542 -->
 # 中考单词 0542 · 购物中心
-中文：n. 购物中心
+中文：n. 购物中心，商店区
 单词：###mall###
 搭配：###go to the mall### 去商场
 例句：Many young people work in the ###mall### during their vacation to make their own pocket money.
@@ -4891,7 +4892,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0543 -->
 # 中考单词 0543 · 假期
-中文：n. 假期
+中文：n. 假期；（房屋）搬出 v. 休假，度假
 单词：###vacation###
 搭配：###summer vacation### 暑假
 例句：Many young people work in the mall during their ###vacation### to make their own pocket money.
@@ -4900,7 +4901,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0544 -->
 # 中考单词 0544 · 自己的
-中文：adj. 自己的
+中文：adj. 自己的 v. 拥有，所有
 单词：###own###
 搭配：###on one's own### 独自
 例句：Many young people work in the mall during their vacation to make their ###own### pocket money.
@@ -4909,7 +4910,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0545 -->
 # 中考单词 0545 · 口袋
-中文：n. 口袋
+中文：n. （衣服的）口袋
 单词：###pocket###
 搭配：###pocket money### 零花钱
 例句：Many young people work in the mall during their vacation to make their own ###pocket### money.
@@ -4918,7 +4919,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0546 -->
 # 中考单词 0546 · 顾客
-中文：n. 顾客
+中文：n. （商店）顾客，主顾
 单词：###customer###
 搭配：###serve customers### 为顾客服务
 例句：The ###customer### wanted to return the camera because it was broken.
@@ -4927,7 +4928,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0547 -->
 # 中考单词 0547 · 退还；返回
-中文：v. 退还；返回
+中文：v. 归还；退还；返回
 单词：###return###
 搭配：###return sth. to sb.### 把某物还给某人
 例句：The customer wanted to ###return### the camera because it was broken.
@@ -4936,7 +4937,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0548 -->
 # 中考单词 0548 · 照相机
-中文：n. 照相机
+中文：n. 照相机；摄像机
 单词：###camera###
 搭配：###a digital camera### 数码相机
 例句：The customer wanted to return the ###camera### because it was broken.
@@ -4945,7 +4946,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0549 -->
 # 中考单词 0549 · 打破；弄坏
-中文：v. 打破；弄坏
+中文：n. 间隙，中断，暂停 v. 打破（断，碎）；弄坏
 单词：###break###
 搭配：###be broken### 坏了
 例句：The customer wanted to return the camera because it was ###broken###.
@@ -4954,7 +4955,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0550 -->
 # 中考单词 0550 · 计划
-中文：v. 计划
+中文：n. 计划 v. 计划，打算
 单词：###plan###
 搭配：###make a plan### 制订计划
 例句：We should ###plan### our budget so that we won't waste money on anything else.
@@ -4963,7 +4964,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0551 -->
 # 中考单词 0551 · 预算
-中文：n. 预算
+中文：n. 预算 v. 做预算
 单词：###budget###
 搭配：###make a budget### 做预算
 例句：We should plan our ###budget### so that we won't waste money on anything else.
@@ -4972,7 +4973,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0552 -->
 # 中考单词 0552 · 浪费
-中文：v. 浪费
+中文：n. 浪费 vt. 浪费
 单词：###waste###
 搭配：###waste money on ...### 在……上浪费钱
 例句：We should plan our budget so that we won't ###waste### money on anything else.
@@ -4981,7 +4982,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0553 -->
 # 中考单词 0553 · 别的
-中文：adj. 别的
+中文：adv. 别的，其他的
 单词：###else###
 搭配：###anything else### 别的东西
 例句：We should plan our budget so that we won't waste money on anything ###else###.
@@ -4999,7 +5000,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0555 -->
 # 中考单词 0555 · 玫瑰
-中文：n. 玫瑰
+中文：n. 玫瑰花
 单词：###rose###
 搭配：###a red rose### 一朵红玫瑰
 例句：Look! A butterfly is sitting on the ###rose###, and some ants are busy carrying food.
@@ -5017,7 +5018,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0557 -->
 # 中考单词 0557 · 搬运；携带
-中文：v. 搬运；携带
+中文：vt. 拿，搬，带，提，抬，背，抱，运等；搬运；携带
 单词：###carry###
 搭配：###carry a bag### 拿着包
 例句：Look! A butterfly is sitting on the rose, and some ants are busy ###carrying### food.
@@ -5026,7 +5027,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0558 -->
 # 中考单词 0558 · 高度；身高
-中文：n. 高度；身高
+中文：n. 高地；高度；身高；顶点
 单词：###height###
 搭配：###in height### 高度上
 例句：Because of their ###height### and long necks, giraffes can reach the leaves at the tops of trees.
@@ -5035,7 +5036,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0559 -->
 # 中考单词 0559 · 脖子
-中文：n. 脖子
+中文：n. 颈，脖子
 单词：###neck###
 搭配：###a long neck### 长脖子
 例句：Because of their height and long ###necks###, giraffes can reach the leaves at the tops of trees.
@@ -5053,7 +5054,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0561 -->
 # 中考单词 0561 · 叶子
-中文：n. 叶子
+中文：n. （树，菜）叶；叶子
 单词：###leaf###
 搭配：###green leaves### 绿叶
 例句：Because of their height and long necks, giraffes can reach the ###leaves### at the tops of trees.
@@ -5062,7 +5063,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0562 -->
 # 中考单词 0562 · 鲸
-中文：n. 鲸
+中文：n. 鲸；巨大的东西
 单词：###whale###
 搭配：###a blue whale### 一头蓝鲸
 例句：Have you ever seen a ###whale### or a shark in the ocean? — Only in a video.
@@ -5071,7 +5072,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0563 -->
 # 中考单词 0563 · 鲨鱼
-中文：n. 鲨鱼
+中文：n. 鲨鱼；勒索者，诈骗者；放高利贷的人
 单词：###shark###
 搭配：###a big shark### 一条大鲨鱼
 例句：Have you ever seen a whale or a ###shark### in the ocean? — Only in a video.
@@ -5089,7 +5090,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0565 -->
 # 中考单词 0565 · 视频
-中文：n. 视频
+中文：n. 录像，视频
 单词：###video###
 搭配：###watch a video### 看视频
 例句：Have you ever seen a whale or a shark in the ocean? — Only in a ###video###.
@@ -5107,7 +5108,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0567 -->
 # 中考单词 0567 · 翅膀
-中文：n. 翅膀
+中文：n. 翼；翅膀；飞翔；派别；侧厅，耳房，厢房 v. 使飞；飞过；空运；增加…速度；装以翼
 单词：###wing###
 搭配：###spread its wings### 展开翅膀
 例句：Penguins can't fly, but they move their short ###wings### to swim at a rapid speed.
@@ -5116,7 +5117,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0568 -->
 # 中考单词 0568 · 快速的
-中文：adj. 快速的
+中文：adj. 迅速的，急促的；飞快的；险峻的；快速的 n. 急流；高速交通工具，高速交通网
 单词：###rapid###
 搭配：###rapid growth### 快速增长
 例句：Penguins can't fly, but they move their short wings to swim at a ###rapid### speed.
@@ -5125,7 +5126,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0569 -->
 # 中考单词 0569 · 速度
-中文：n. 速度
+中文：n. 速度 v. （使）加速
 单词：###speed###
 搭配：###at a high speed### 高速地
 例句：Penguins can't fly, but they move their short wings to swim at a rapid ###speed###.
@@ -5143,7 +5144,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0571 -->
 # 中考单词 0571 · 天空
-中文：n. 天空
+中文：n. 天；天空
 单词：###sky###
 搭配：###in the sky### 在天空中
 例句：How high the eagle is flying in the ###sky###! It can notice a tiny mouse on the ground.
@@ -5152,7 +5153,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0572 -->
 # 中考单词 0572 · 注意到
-中文：v. 注意到
+中文：n. 布告，通告；注意 vt. 注意，注意到
 单词：###notice###
 搭配：###notice sth.### 注意到某事
 例句：How high the eagle is flying in the sky! It can ###notice### a tiny mouse on the ground.
@@ -5161,7 +5162,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0573 -->
 # 中考单词 0573 · 极小的
-中文：adj. 极小的
+中文：adj. 微小的；很少的；极小的
 单词：###tiny###
 搭配：###a tiny insect### 一只小虫
 例句：How high the eagle is flying in the sky! It can notice a ###tiny### mouse on the ground.
@@ -5170,7 +5171,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0574 -->
 # 中考单词 0574 · 地面
-中文：n. 地面
+中文：n. 地面；土地；范围；战场；根据 v. 使接触地面；打基础；使搁浅 adj. 土地的；地面上的；磨碎的；磨过的
 单词：###ground###
 搭配：###on the ground### 在地上
 例句：How high the eagle is flying in the sky! It can notice a tiny mouse on the ###ground###.
@@ -5188,7 +5189,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0576 -->
 # 中考单词 0576 · 偷
-中文：v. 偷
+中文：vt. 偷，窃取
 单词：###steal###
 搭配：###steal sth. from sb.### 从某人那里偷某物
 例句：In the story, a fox tries to ###steal### a hen, but the farmer's dog scares it away.
@@ -5206,7 +5207,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0578 -->
 # 中考单词 0578 · 惊吓
-中文：v. 惊吓
+中文：v. 惊吓，使害怕 n. 惊吓，恐慌
 单词：###scare###
 搭配：###scare sb. away### 把某人吓跑
 例句：In the story, a fox tries to steal a hen, but the farmer's dog ###scares### it away.
@@ -5215,7 +5216,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0579 -->
 # 中考单词 0579 · 停留；保持
-中文：v. 停留；保持
+中文：n. 停留，逗留，呆 vi. 停留，逗留，呆；保持
 单词：###stay###
 搭配：###stay away from ...### 远离……
 例句：###Stay### away from the snake in the grass. It's dangerous, so don't touch it!
@@ -5224,7 +5225,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0580 -->
 # 中考单词 0580 · 蛇
-中文：n. 蛇
+中文：n. 蛇 v. 蛇般爬行；蜿蜒行进
 单词：###snake###
 搭配：###a long snake### 一条长蛇
 例句：Stay away from the ###snake### in the grass. It's dangerous, so don't touch it!
@@ -5242,7 +5243,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0582 -->
 # 中考单词 0582 · 触摸
-中文：v. 触摸
+中文：vt. 触摸，接触
 单词：###touch###
 搭配：###Don't touch it.### 别碰它。
 例句：Stay away from the snake in the grass. It's dangerous, so don't ###touch### it!
@@ -5251,7 +5252,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0583 -->
 # 中考单词 0583 · 野生的
-中文：adj. 野生的
+中文：adj. 野生的，未驯化的；荒凉的，荒芜的；狂热的，疯狂的；野蛮的
 单词：###wild###
 搭配：###wild animals### 野生动物
 例句：###Wild### pandas eat bamboo as their main food, and they live only in certain parts of China.
@@ -5278,7 +5279,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0586 -->
 # 中考单词 0586 · 某些；确定的
-中文：adj. 某些；确定的
+中文：adj. （未指明真实名称的）某…；确定的，无疑的；一定会…；某些
 单词：###certain###
 搭配：###in certain places### 在某些地方
 例句：Wild pandas eat bamboo as their main food, and they live only in ###certain### parts of China.
@@ -5287,7 +5288,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0587 -->
 # 中考单词 0587 · 突然的（suddenly 突然）
-中文：adj. 突然的（suddenly 突然）
+中文：adj. 突然的
 单词：###sudden###
 搭配：###all of a sudden### 突然
 例句：When we reached the village, the rain had stopped, and ###suddenly### a rainbow appeared in the clear sky.
@@ -5305,7 +5306,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0589 -->
 # 中考单词 0589 · 出现
-中文：v. 出现
+中文：v. 出现；显得；似乎；出庭；登场
 单词：###appear###
 搭配：###appear on the stage### 出现在舞台上
 例句：When we reached the village, the rain had stopped, and suddenly a rainbow ###appeared### in the clear sky.
@@ -5314,7 +5315,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0590 -->
 # 中考单词 0590 · 村庄
-中文：n. 村庄
+中文：n. 村庄，乡村
 单词：###village###
 搭配：###in the village### 在村里
 例句：When we reached the ###village###, the rain had stopped, and suddenly a rainbow appeared in the clear sky.
@@ -5323,7 +5324,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0591 -->
 # 中考单词 0591 · 晴朗的；清楚的
-中文：adj. 晴朗的；清楚的
+中文：adj. 清晰；明亮的；清楚的；晴朗的
 单词：###clear###
 搭配：###a clear sky### 晴朗的天空
 例句：When we reached the village, the rain had stopped, and suddenly a rainbow appeared in the ###clear### sky.
@@ -5332,7 +5333,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0592 -->
 # 中考单词 0592 · 声音
-中文：n. 声音
+中文：vi. 听起来，发出声音 n. 声音
 单词：###sound###
 搭配：###the sound of ... ……### 的声音
 例句：During the storm, we heard the ###sound### of thunder and saw lightning in the dark.
@@ -5341,7 +5342,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0593 -->
 # 中考单词 0593 · 雷
-中文：n. 雷
+中文：n. 雷；雷声 v. 打雷
 单词：###thunder###
 搭配：###loud thunder### 响雷
 例句：During the storm, we heard the sound of ###thunder### and saw lightning in the dark.
@@ -5359,7 +5360,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0595 -->
 # 中考单词 0595 · 黑暗
-中文：n. 黑暗
+中文：n. 黑暗；暗处；日暮 adj. 黑暗的；暗淡的；深色的
 单词：###dark###
 搭配：###in the dark### 在黑暗中
 例句：During the storm, we heard the sound of thunder and saw lightning in the ###dark###.
@@ -5368,7 +5369,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0596 -->
 # 中考单词 0596 · 建造
-中文：v. 建造
+中文：v. 建筑；造；建造
 单词：###build###
 搭配：###build a house### 盖房子
 例句：Let's ###build### something with sand together, but not too close to the waves.
@@ -5377,7 +5378,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0597 -->
 # 中考单词 0597 · 沙子
-中文：n. 沙子
+中文：n. 沙，沙子
 单词：###sand###
 搭配：###on the sand### 在沙滩上
 例句：Let's build something with ###sand### together, but not too close to the waves.
@@ -5386,7 +5387,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0598 -->
 # 中考单词 0598 · 一起
-中文：adv. 一起
+中文：adv. 一起，共同
 单词：###together###
 搭配：###work together### 一起工作
 例句：Let's build something with sand ###together###, but not too close to the waves.
@@ -5395,7 +5396,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0599 -->
 # 中考单词 0599 · 波浪
-中文：n. 波浪
+中文：n. （热、光、声等的）波，波浪 v. 挥手，挥动，波动
 单词：###wave###
 搭配：###big waves### 大浪
 例句：Let's build something with sand together, but not too close to the ###waves###.
@@ -5404,7 +5405,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0600 -->
 # 中考单词 0600 · 东方
-中文：adj. 东方
+中文：adj. 东方；东部的 adv. 在东方；向东方 n. 东，东方
 单词：###east###
 搭配：###in the east of ...### 在……东部
 例句：The ###east### coast of China has a lot of islands, and the landscape there is beautiful.
@@ -5413,7 +5414,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0601 -->
 # 中考单词 0601 · 海岸
-中文：n. 海岸
+中文：v. 滑行；沿岸航行 n. 海岸；滑坡
 单词：###coast###
 搭配：###on the coast### 在海边
 例句：The east ###coast### of China has a lot of islands, and the landscape there is beautiful.
@@ -5431,7 +5432,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0603 -->
 # 中考单词 0603 · 风景；景色
-中文：n. 风景；景色
+中文：n. 风景；景色；风景画
 单词：###landscape###
 搭配：###beautiful landscape### 美丽的风景
 例句：The east coast of China has a lot of islands, and the ###landscape### there is beautiful.
@@ -5440,7 +5441,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0604 -->
 # 中考单词 0604 · 湿的
-中文：adj. 湿的
+中文：adj. 湿的，潮的，多雨的
 单词：###wet###
 搭配：###get wet### 弄湿
 例句：The floor is ###wet### because I've just had a shower, but it'll be dry soon.
@@ -5449,7 +5450,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0605 -->
 # 中考单词 0605 · 淋浴
-中文：n. 淋浴
+中文：n. 阵雨；淋浴
 单词：###shower###
 搭配：###have a shower### 洗淋浴
 例句：The floor is wet because I've just had a ###shower###, but it'll be dry soon.
@@ -5458,7 +5459,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0606 -->
 # 中考单词 0606 · 干的
-中文：adj. 干的
+中文：v. 使…干；弄干；擦干 adj. 干的；干燥的
 单词：###dry###
 搭配：###keep dry### 保持干燥
 例句：The floor is wet because I've just had a shower, but it'll be ###dry### soon.
@@ -5467,7 +5468,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0607 -->
 # 中考单词 0607 · 很快
-中文：adv. 很快
+中文：adv. 不久，很快，一会儿
 单词：###soon###
 搭配：###as soon as ...### 一……就……
 例句：The floor is wet because I've just had a shower, but it'll be dry ###soon###.
@@ -5476,7 +5477,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0608 -->
 # 中考单词 0608 · 土壤
-中文：n. 土壤
+中文：n. 土壤，土地
 单词：###soil###
 搭配：###rich soil### 肥沃的土壤
 例句：Without water and good ###soil###, nothing can grow, and the land will become a desert.
@@ -5485,7 +5486,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0609 -->
 # 中考单词 0609 · 没有什么
-中文：pron. 没有什么
+中文：n. 没有东西，没有什么
 单词：###nothing###
 搭配：###nothing else### 没有别的
 例句：Without water and good soil, ###nothing### can grow, and the land will become a desert.
@@ -5494,7 +5495,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0610 -->
 # 中考单词 0610 · 陆地；土地
-中文：n. 陆地；土地
+中文：n. 陆地，土地 v. 登陆；降落
 单词：###land###
 搭配：###on land### 在陆地上
 例句：Without water and good soil, nothing can grow, and the ###land### will become a desert.
@@ -5503,7 +5504,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0611 -->
 # 中考单词 0611 · 沙漠
-中文：n. 沙漠
+中文：n. 沙漠 vt. 舍弃；遗弃
 单词：###desert###
 搭配：###in the desert### 在沙漠里
 例句：Without water and good soil, nothing can grow, and the land will become a ###desert###.
@@ -5512,7 +5513,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0612 -->
 # 中考单词 0612 · 石头
-中文：n. 石头
+中文：n. 石头，石料
 单词：###stone###
 搭配：###a stone bridge### 一座石桥
 例句：Let's take a photo in front of the ###stone### tower. The view from the top is amazing!
@@ -5530,7 +5531,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0614 -->
 # 中考单词 0614 · 景色；观点
-中文：n. 景色；观点
+中文：v. 考虑，认为；观察，看 n. 看法，观点；视野，眼界；景色，风景
 单词：###view###
 搭配：###a great view### 美景
 例句：Let's take a photo in front of the stone tower. The ###view### from the top is amazing!
@@ -5539,7 +5540,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0615 -->
 # 中考单词 0615 · 令人惊叹的
-中文：adj. 令人惊叹的
+中文：adj. 惊叹的；震惊的；令人惊讶的
 单词：###amazing###
 搭配：###an amazing story### 精彩的故事
 例句：Let's take a photo in front of the stone tower. The view from the top is ###amazing###!
@@ -5548,7 +5549,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0616 -->
 # 中考单词 0616 · 木头
-中文：n. 木头
+中文：n. 木头，木材，(复)树木，森林
 单词：###wood###
 搭配：###made of wood### 木制的
 例句：The old bridge is made of ###wood### and rope, so only one person can cross it at a time.
@@ -5557,7 +5558,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0617 -->
 # 中考单词 0617 · 绳子
-中文：n. 绳子
+中文：n. 绳，绳索；绳子 v. 捆，绑
 单词：###rope###
 搭配：###a long rope### 一根长绳
 例句：The old bridge is made of wood and ###rope###, so only one person can cross it at a time.
@@ -5575,7 +5576,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0619 -->
 # 中考单词 0619 · 穿过
-中文：v. 穿过
+中文：adj. 脾气不好的，易怒的 n. 十字形的东西 vt. 越过；穿过
 单词：###cross###
 搭配：###cross the road### 过马路
 例句：The old bridge is made of wood and rope, so only one person can ###cross### it at a time.
@@ -5584,7 +5585,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0620 -->
 # 中考单词 0620 · 云（cloudy 多云的）
-中文：n. 云（cloudy 多云的）
+中文：n. 云；云状物；阴影
 单词：###cloud###
 搭配：###dark clouds### 乌云
 例句：It's ###cloudy### this morning, but the sun will probably shine at noon.
@@ -5593,7 +5594,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0621 -->
 # 中考单词 0621 · 很可能
-中文：adv. 很可能
+中文：adv. 很可能，大概
 单词：###probably###
 搭配：###probably not### 可能不
 例句：It's cloudy this morning, but the sun will ###probably### shine at noon.
@@ -5602,7 +5603,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0622 -->
 # 中考单词 0622 · 照耀
-中文：v. 照耀
+中文：n. 光泽；光彩；阳光；晴天；光(亮) v. 照耀
 单词：###shine###
 搭配：###The sun shines.### 阳光明媚。
 例句：It's cloudy this morning, but the sun will probably ###shine### at noon.
@@ -5611,7 +5612,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0623 -->
 # 中考单词 0623 · 中午
-中文：n. 中午
+中文：n. 中午，正午
 单词：###noon###
 搭配：###at noon### 在中午
 例句：It's cloudy this morning, but the sun will probably shine at ###noon###.
@@ -5620,7 +5621,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0624 -->
 # 中考单词 0624 · 巨大的
-中文：adj. 巨大的
+中文：adj. 巨大的，庞大的
 单词：###huge###
 搭配：###a huge stone### 一块巨石
 例句：###Huge### rocks fell down the mountain after the heavy rain, and the road was blocked.
@@ -5629,7 +5630,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0625 -->
 # 中考单词 0625 · 岩石
-中文：n. 岩石
+中文：n. 岩石，大石头 vt. 摇，摇晃
 单词：###rock###
 搭配：###a big rock### 一块大岩石
 例句：Huge ###rocks### fell down the mountain after the heavy rain, and the road was blocked.
@@ -5638,7 +5639,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0626 -->
 # 中考单词 0626 · 山
-中文：n. 山
+中文：n. 山，山脉
 单词：###mountain###
 搭配：###climb a mountain### 爬山
 例句：Huge rocks fell down the ###mountain### after the heavy rain, and the road was blocked.
@@ -5647,7 +5648,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0627 -->
 # 中考单词 0627 · 堵塞
-中文：v. 堵塞
+中文：v. 阻碍；堵塞 n. 大块；一排房屋；街区
 单词：###block###
 搭配：###block the road### 堵住道路
 例句：Huge rocks fell down the mountain after the heavy rain, and the road was ###blocked###.
@@ -5665,7 +5666,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0629 -->
 # 中考单词 0629 · 攀登
-中文：n. 攀登
+中文：v. 爬，攀登
 单词：###climb###
 搭配：###climb a mountain### 爬山
 例句：Are you ready? Let's ###climb### to the top and watch the sun rise — it'll be worth it.
@@ -5674,7 +5675,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0630 -->
 # 中考单词 0630 · 升起
-中文：v. 升起
+中文：vi. 上升，上涨；升起
 单词：###rise###
 搭配：###The sun rises.### 太阳升起。
 例句：Are you ready? Let's climb to the top and watch the sun ###rise### — it'll be worth it.
@@ -5683,7 +5684,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0631 -->
 # 中考单词 0631 · 值得
-中文：adj. 值得
+中文：adj. 有…的价值，值得…的
 单词：###worth###
 搭配：###be worth doing sth.### 值得做某事
 例句：Are you ready? Let's climb to the top and watch the sun rise — it'll be ###worth### it.
@@ -5692,7 +5693,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0632 -->
 # 中考单词 0632 · 人类
-中文：n. 人类
+中文：adj. 人的，人类的 n. 人；人类
 单词：###human###
 搭配：###human beings### 人类
 例句：###Humans### hunt wild animals and pollute their homes, so many of them may die out.
@@ -5701,7 +5702,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0633 -->
 # 中考单词 0633 · 打猎；猎捕
-中文：v. 打猎；猎捕
+中文：v. 打猎；猎捕；搜寻 n. 打猎；搜寻
 单词：###hunt###
 搭配：###hunt animals### 捕猎动物
 例句：Humans ###hunt### wild animals and pollute their homes, so many of them may die out.
@@ -5710,7 +5711,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0634 -->
 # 中考单词 0634 · 污染
-中文：v. 污染
+中文：vt. 污染
 单词：###pollute###
 搭配：###pollute the air### 污染空气
 例句：Humans hunt wild animals and ###pollute### their homes, so many of them may die out.
@@ -5737,7 +5738,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0637 -->
 # 中考单词 0637 · 剪刀
-中文：n. 剪刀
+中文：n. 剪刀，剪子
 单词：###scissors###
 搭配：###a pair of scissors### 一把剪刀
 例句：I cut my finger with the ###scissors###, and now it's bleeding. Where's the first aid box?
@@ -5746,7 +5747,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0638 -->
 # 中考单词 0638 · 流血
-中文：v. 流血
+中文：v. 流血，出血
 单词：###bleed###
 搭配：###My nose is bleeding.### 我流鼻血了。
 例句：I cut my finger with the scissors, and now it's ###bleeding###. Where's the first aid box?
@@ -5755,7 +5756,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0639 -->
 # 中考单词 0639 · 帮助；援助
-中文：n. 帮助；援助
+中文：v. 帮助，救助 n. 帮助，救助；助手；辅助手段；援助
 单词：###aid###
 搭配：###first aid### 急救
 例句：I cut my finger with the scissors, and now it's bleeding. Where's the first ###aid### box?
@@ -5764,7 +5765,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0640 -->
 # 中考单词 0640 · 疼痛
-中文：n. 疼痛
+中文：n. 疼痛，疼
 单词：###pain###
 搭配：###feel pain### 感到疼痛
 例句：He felt ###pain### in his shoulder, so the doctor took an X-ray to find the reason.
@@ -5773,7 +5774,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0641 -->
 # 中考单词 0641 · 肩膀
-中文：n. 肩膀
+中文：n. 肩，肩膀；肩部 v. 肩负，承担
 单词：###shoulder###
 搭配：###on one's shoulder### 在肩上
 例句：He felt pain in his ###shoulder###, so the doctor took an X-ray to find the reason.
@@ -5782,7 +5783,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0642 -->
 # 中考单词 0642 · X 光
-中文：n. X 光
+中文：n. X射线；X光
 单词：###X-ray###
 搭配：###take an X-ray### 拍 X 光片
 例句：He felt pain in his shoulder, so the doctor took an ###X-ray### to find the reason.
@@ -5791,7 +5792,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0643 -->
 # 中考单词 0643 · 原因
-中文：n. 原因
+中文：n. 理由，原因
 单词：###reason###
 搭配：###the reason for ... ……### 的原因
 例句：He felt pain in his shoulder, so the doctor took an X-ray to find the ###reason###.
@@ -5800,7 +5801,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0644 -->
 # 中考单词 0644 · 生病的
-中文：adj. 生病的
+中文：adj. 有病，患病的，（想）呕吐；生病的
 单词：###sick###
 搭配：###be sick with ...### 患……病
 例句：I'm ###sick### with the flu, so I'll take some pills and rest in bed.
@@ -5818,7 +5819,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0646 -->
 # 中考单词 0646 · 药片
-中文：n. 药片
+中文：n. 药丸，药片
 单词：###pill###
 搭配：###take pills### 吃药
 例句：I'm sick with the flu, so I'll take some ###pills### and rest in bed.
@@ -5827,7 +5828,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0647 -->
 # 中考单词 0647 · 休息
-中文：n. 休息
+中文：n. 休息；剩余的部分，其余的人（物） vi. 休息，歇息
 单词：###rest###
 搭配：###have a rest### 休息一下
 例句：I'm sick with the flu, so I'll take some pills and ###rest### in bed.
@@ -5845,7 +5846,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0649 -->
 # 中考单词 0649 · 传播；展开
-中文：v. 传播；展开
+中文：v. 展开，伸开；散布，蔓延；涂，敷 n. 传播，蔓延；幅度，范围；涂抹在食物上
 单词：###spread###
 搭配：###spread quickly### 迅速传播
 例句：The new virus ###spread### quickly, and medical workers did their best to stop the illness.
@@ -5854,7 +5855,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0650 -->
 # 中考单词 0650 · 医学的；医疗的
-中文：adj. 医学的；医疗的
+中文：adj. 医学的；药的；内科的；医疗的 n. 医生；体格检查
 单词：###medical###
 搭配：###medical workers### 医务工作者
 例句：The new virus spread quickly, and ###medical### workers did their best to stop the illness.
@@ -5872,7 +5873,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0652 -->
 # 中考单词 0652 · 运气（luckily 幸运地）
-中文：n. 运气（luckily 幸运地）
+中文：n. 运气，好运
 单词：###luck###
 搭配：###Good luck!### 祝你好运！
 例句：###Luckily###, your wound is small, and the blood on it has already dried.
@@ -5881,7 +5882,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0653 -->
 # 中考单词 0653 · 伤口
-中文：n. 伤口
+中文：vt. 伤，伤害 n. 创伤，伤口
 单词：###wound###
 搭配：###a small wound### 一个小伤口
 例句：Luckily, your ###wound### is small, and the blood on it has already dried.
@@ -5890,7 +5891,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0654 -->
 # 中考单词 0654 · 血
-中文：n. 血
+中文：n. 血，血液；血统 v. 从…抽血；使先取得经验
 单词：###blood###
 搭配：###give blood### 献血
 例句：Luckily, your wound is small, and the ###blood### on it has already dried.
@@ -5917,7 +5918,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0657 -->
 # 中考单词 0657 · 失明的
-中文：adj. 失明的
+中文：adj. 瞎的；失明的
 单词：###blind###
 搭配：###blind people### 盲人
 例句：Society should provide ###blind### and deaf people with education and more chances.
@@ -5935,7 +5936,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0659 -->
 # 中考单词 0659 · 教育
-中文：n. 教育
+中文：n. 教育，培养
 单词：###education###
 搭配：###get a good education### 受良好教育
 例句：Society should provide blind and deaf people with ###education### and more chances.
@@ -5944,7 +5945,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0660 -->
 # 中考单词 0660 · 机会
-中文：n. 机会
+中文：n. 机会，可能性
 单词：###chance###
 搭配：###have a chance to do sth.### 有机会做某事
 例句：Society should provide blind and deaf people with education and more ###chances###.
@@ -5953,7 +5954,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0661 -->
 # 中考单词 0661 · 睡着的
-中文：adj. 睡着的
+中文：adj. 睡着的，熟睡
 单词：###asleep###
 搭配：###fall asleep### 入睡
 例句：I almost fell ###asleep### at the boring meeting. It was hard to stay awake!
@@ -5962,7 +5963,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0662 -->
 # 中考单词 0662 · 无聊的
-中文：adj. 无聊的
+中文：adj. 乏味的，无聊的
 单词：###boring###
 搭配：###a boring film### 无聊的电影
 例句：I almost fell asleep at the ###boring### meeting. It was hard to stay awake!
@@ -5971,7 +5972,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0663 -->
 # 中考单词 0663 · 会议
-中文：n. 会议
+中文：n. 会，集会，会见，汇合点；会议
 单词：###meeting###
 搭配：###have a meeting### 开会
 例句：I almost fell asleep at the boring ###meeting###. It was hard to stay awake!
@@ -5980,7 +5981,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0664 -->
 # 中考单词 0664 · 醒着的
-中文：adj. 醒着的
+中文：v. 唤醒 adj. 醒着的
 单词：###awake###
 搭配：###stay awake### 保持清醒
 例句：I almost fell asleep at the boring meeting. It was hard to stay ###awake###!
@@ -5998,7 +5999,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0666 -->
 # 中考单词 0666 · 训练
-中文：n. 训练
+中文：n. 培训；训练
 单词：###training###
 搭配：###hard training### 刻苦训练
 例句：Athletes go through hard ###training### every day because they hope to win medals at the Olympic Games.
@@ -6007,7 +6008,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0667 -->
 # 中考单词 0667 · 奖牌
-中文：n. 奖牌
+中文：n. 奖牌，奖章
 单词：###medal###
 搭配：###win a gold medal### 获得金牌
 例句：Athletes go through hard training every day because they hope to win ###medals### at the Olympic Games.
@@ -6016,7 +6017,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0668 -->
 # 中考单词 0668 · 奥林匹克的
-中文：adj. 奥林匹克的
+中文：adj. 奥林匹克的 n. 奥林匹克
 单词：###Olympic###
 搭配：###the Olympic Games### 奥运会
 例句：Athletes go through hard training every day because they hope to win medals at the ###Olympic### Games.
@@ -6043,7 +6044,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0671 -->
 # 中考单词 0671 · 喜欢；享受
-中文：v. 喜欢；享受
+中文：vt. 欣赏；享受乐趣；喜欢
 单词：###enjoy###
 搭配：###enjoy oneself### 玩得开心
 例句：Which do you like better, tennis or baseball? — Baseball, because I ###enjoy### playing in a team.
@@ -6052,7 +6053,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0672 -->
 # 中考单词 0672 · 队
-中文：n. 队
+中文：n. 队，组
 单词：###team###
 搭配：###a football team### 足球队
 例句：Which do you like better, tennis or baseball? — Baseball, because I enjoy playing in a ###team###.
@@ -6070,7 +6071,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0674 -->
 # 中考单词 0674 · 赛跑；比赛
-中文：n. 赛跑；比赛
+中文：n. 种族，民族；赛跑，竞赛 v. （速度）竞赛，比赛
 单词：###race###
 搭配：###win the race### 赢得比赛
 例句：The winner of the ###race### ran 100 metres in 12 seconds and broke the school record.
@@ -6079,7 +6080,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0675 -->
 # 中考单词 0675 · 米
-中文：n. 米
+中文：n. 米，公尺
 单词：###metre###
 搭配：###100 metres 100### 米
 例句：The winner of the race ran 100 ###metres### in 12 seconds and broke the school record.
@@ -6088,7 +6089,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0676 -->
 # 中考单词 0676 · 纪录
-中文：n. 纪录
+中文：n. 记录；纪录；唱片 v. 记录；录制
 单词：###record###
 搭配：###break the record### 打破纪录
 例句：The winner of the race ran 100 metres in 12 seconds and broke the school ###record###.
@@ -6097,7 +6098,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0677 -->
 # 中考单词 0677 · 踢
-中文：v. 踢
+中文：v. 踢 n. 踢
 单词：###kick###
 搭配：###kick the ball### 踢球
 例句：He ###kicked### the ball so hard that it hit the side of the door and flew into the yard.
@@ -6106,7 +6107,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0678 -->
 # 中考单词 0678 · 撞；打
-中文：v. 撞；打
+中文：n. 打，撞，击中 vt. 打，撞，击中
 单词：###hit###
 搭配：###hit the ball### 击球
 例句：He kicked the ball so hard that it ###hit### the side of the door and flew into the yard.
@@ -6115,7 +6116,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0679 -->
 # 中考单词 0679 · 边；侧面
-中文：n. 边；侧面
+中文：n. 边，旁边，面，侧面
 单词：###side###
 搭配：###on the side of ...### 在……一侧
 例句：He kicked the ball so hard that it hit the ###side### of the door and flew into the yard.
@@ -6124,7 +6125,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0680 -->
 # 中考单词 0680 · 院子
-中文：n. 院子
+中文：n. 码；院子；场地
 单词：###yard###
 搭配：###in the yard### 在院子里
 例句：He kicked the ball so hard that it hit the side of the door and flew into the ###yard###.
@@ -6133,7 +6134,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0681 -->
 # 中考单词 0681 · 分开
-中文：adj. 分开
+中文：v. 使分开，使分离 adj. 单独的，分开的
 单词：###separate###
 搭配：###separate A from B### 把 A 和 B 分开
 例句：Please ###separate### the rubbish before you throw it into the bin.
@@ -6142,7 +6143,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0682 -->
 # 中考单词 0682 · 垃圾
-中文：n. 垃圾
+中文：n. 垃圾；废物
 单词：###rubbish###
 搭配：###throw away rubbish### 扔垃圾
 例句：Please separate the ###rubbish### before you throw it into the bin.
@@ -6151,7 +6152,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0683 -->
 # 中考单词 0683 · 扔
-中文：v. 扔
+中文：v. 投，掷，扔
 单词：###throw###
 搭配：###throw sth. into ...### 把……扔进……
 例句：Please separate the rubbish before you ###throw### it into the bin.
@@ -6160,7 +6161,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0684 -->
 # 中考单词 0684 · 垃圾桶
-中文：n. 垃圾桶
+中文：n. 垃圾桶；箱子
 单词：###bin###
 搭配：###a rubbish bin### 垃圾桶
 例句：Please separate the rubbish before you throw it into the ###bin###.
@@ -6169,7 +6170,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0685 -->
 # 中考单词 0685 · 自愿的
-中文：adj. 自愿的
+中文：adj. 自愿的；志愿的
 单词：###voluntary###
 搭配：###voluntary work### 志愿工作
 例句：###Voluntary### work gives students social experience and teaches them how to cooperate with others.
@@ -6178,7 +6179,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0686 -->
 # 中考单词 0686 · 社会的
-中文：adj. 社会的
+中文：adj. 社会的，社交的；群居的 n. 联谊会；联欢会
 单词：###social###
 搭配：###social experience### 社会经验
 例句：Voluntary work gives students ###social### experience and teaches them how to cooperate with others.
@@ -6196,7 +6197,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0688 -->
 # 中考单词 0688 · 合作
-中文：v. 合作
+中文：v. 合作，协作
 单词：###cooperate###
 搭配：###cooperate with sb.### 与某人合作
 例句：Voluntary work gives students social experience and teaches them how to ###cooperate### with others.
@@ -6205,7 +6206,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0689 -->
 # 中考单词 0689 · 职责；值日
-中文：n. 职责；值日
+中文：n. 责任，义务；职责；值日
 单词：###duty###
 搭配：###on duty### 值日
 例句：It's my ###duty### to clean the board today. Where's the eraser? And we need more chalk.
@@ -6214,7 +6215,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0690 -->
 # 中考单词 0690 · 板
-中文：n. 板
+中文：n. 木板；布告牌；（政府的）部 v. 上（船、火车、飞机）
 单词：###board###
 搭配：###clean the board### 擦黑板
 例句：It's my duty to clean the ###board### today. Where's the eraser? And we need more chalk.
@@ -6223,7 +6224,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0691 -->
 # 中考单词 0691 · 板擦；橡皮
-中文：n. 板擦；橡皮
+中文：n. 橡皮擦；黑板擦
 单词：###eraser###
 搭配：###a board eraser### 黑板擦
 例句：It's my duty to clean the board today. Where's the ###eraser###? And we need more chalk.
@@ -6241,11 +6242,11 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0693 -->
 # 中考单词 0693 · 生意；企业
-中文：n. 生意；企业
+中文：n. （本分）工作，职业；职责；生意，交易；事业；企业
 单词：###business###
 搭配：###run a business### 经营生意
-例句：Mr Wang runs a small ###business###, and his wife works as a lawyer in the city centre.
-译文：王先生经营一家小企业，他妻子在市中心当律师。
+例句：Mr Wang runs a small ###business### called Cairnote, and his wife works as a lawyer in the city centre.
+译文：王先生经营一家叫 Cairnote 的小企业，他妻子在市中心当律师。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0694 -->
@@ -6253,8 +6254,8 @@ per_day: 10
 中文：n. 妻子
 单词：###wife###
 搭配：###husband and wife### 夫妻
-例句：Mr Wang runs a small business, and his ###wife### works as a lawyer in the city centre.
-译文：王先生经营一家小企业，他妻子在市中心当律师。
+例句：Mr Wang runs a small business called Cairnote, and his ###wife### works as a lawyer in the city centre.
+译文：王先生经营一家叫 Cairnote 的小企业，他妻子在市中心当律师。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0695 -->
@@ -6262,22 +6263,22 @@ per_day: 10
 中文：n. 律师
 单词：###lawyer###
 搭配：###a famous lawyer### 著名律师
-例句：Mr Wang runs a small business, and his wife works as a ###lawyer### in the city centre.
-译文：王先生经营一家小企业，他妻子在市中心当律师。
+例句：Mr Wang runs a small business called Cairnote, and his wife works as a ###lawyer### in the city centre.
+译文：王先生经营一家叫 Cairnote 的小企业，他妻子在市中心当律师。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0696 -->
 # 中考单词 0696 · 中心
-中文：n. 中心
+中文：n. 中心，中央
 单词：###centre###
 搭配：###city centre### 市中心
-例句：Mr Wang runs a small business, and his wife works as a lawyer in the city ###centre###.
-译文：王先生经营一家小企业，他妻子在市中心当律师。
+例句：Mr Wang runs a small business called Cairnote, and his wife works as a lawyer in the city ###centre###.
+译文：王先生经营一家叫 Cairnote 的小企业，他妻子在市中心当律师。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-zk-words-w0697 -->
 # 中考单词 0697 · 老板
-中文：n. 老板
+中文：n. 老板；首领；工头 v. 指挥，调遣；当…的领导
 单词：###boss###
 搭配：###work for a boss### 为老板干活
 例句：Where does your uncle work? — He's the ###boss### of a factory that produces trucks.
@@ -6295,7 +6296,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0699 -->
 # 中考单词 0699 · 生产
-中文：v. 生产
+中文：vt. 生产；制造
 单词：###produce###
 搭配：###produce cars### 生产汽车
 例句：Where does your uncle work? — He's the boss of a factory that ###produces### trucks.
@@ -6304,7 +6305,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0700 -->
 # 中考单词 0700 · 卡车
-中文：n. 卡车
+中文：n. 卡车，运货车；车皮
 单词：###truck###
 搭配：###drive a truck### 开卡车
 例句：Where does your uncle work? — He's the boss of a factory that produces ###trucks###.
@@ -6322,7 +6323,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0702 -->
 # 中考单词 0702 · 敲
-中文：v. 敲
+中文：n. 敲；打；击 v. 敲；打；击
 单词：###knock###
 搭配：###knock on/at the door### 敲门
 例句：The postman ###knocked### on the door and gave me a letter from my pen friend abroad. What a surprise!
@@ -6331,7 +6332,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0703 -->
 # 中考单词 0703 · 在国外
-中文：adv. 在国外
+中文：adv. 到（在）国外
 单词：###abroad###
 搭配：###go abroad### 出国
 例句：The postman knocked on the door and gave me a letter from my pen friend ###abroad###. What a surprise!
@@ -6340,7 +6341,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0704 -->
 # 中考单词 0704 · 惊喜
-中文：n. 惊喜
+中文：vt. 使惊奇，使诧异 n. 惊奇，诧异；惊喜
 单词：###surprise###
 搭配：###What a surprise!### 真是个惊喜！
 例句：The postman knocked on the door and gave me a letter from my pen friend abroad. What a ###surprise###!
@@ -6349,7 +6350,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0705 -->
 # 中考单词 0705 · 女士
-中文：n. 女士
+中文：n. 女士，夫人
 单词：###lady###
 搭配：###ladies and gentlemen### 女士们先生们
 例句：###Ladies### and gentlemen, welcome to our museum. Please follow me and don't touch anything.
@@ -6358,7 +6359,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0706 -->
 # 中考单词 0706 · 先生；绅士
-中文：n. 先生；绅士
+中文：n. 先生；绅士；有身份的人
 单词：###gentleman###
 搭配：###a real gentleman### 真正的绅士
 例句：Ladies and ###gentlemen###, welcome to our museum. Please follow me and don't touch anything.
@@ -6367,7 +6368,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0707 -->
 # 中考单词 0707 · 博物馆
-中文：n. 博物馆
+中文：n. 博物馆，博物院
 单词：###museum###
 搭配：###visit a museum### 参观博物馆
 例句：Ladies and gentlemen, welcome to our ###museum###. Please follow me and don't touch anything.
@@ -6376,7 +6377,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0708 -->
 # 中考单词 0708 · 跟随
-中文：v. 跟随
+中文：vt. 跟随；仿效；跟得上
 单词：###follow###
 搭配：###follow me### 跟我来
 例句：Ladies and gentlemen, welcome to our museum. Please ###follow### me and don't touch anything.
@@ -6385,7 +6386,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0709 -->
 # 中考单词 0709 · 工业；产业
-中文：n. 工业；产业
+中文：n. 产业；工业；勤勉
 单词：###industry###
 搭配：###the car industry### 汽车工业
 例句：Thanks to new ###industries###, the population of our city has doubled in the past ten years.
@@ -6394,7 +6395,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0710 -->
 # 中考单词 0710 · 人口
-中文：n. 人口
+中文：n. 人口，人数
 单词：###population###
 搭配：###a large population### 人口众多
 例句：Thanks to new industries, the ###population### of our city has doubled in the past ten years.
@@ -6403,7 +6404,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0711 -->
 # 中考单词 0711 · 加倍
-中文：v. 加倍
+中文：adj. 两倍的，双的 n. 两个，双 v. 加倍
 单词：###double###
 搭配：###double the number### 数量加倍
 例句：Thanks to new industries, the population of our city has ###doubled### in the past ten years.
@@ -6412,7 +6413,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0712 -->
 # 中考单词 0712 · 过去的
-中文：adj. 过去的
+中文：adv. 过 n. 过去，昔日，往事 prep. 过…，走过某处
 单词：###past###
 搭配：###in the past### 在过去
 例句：Thanks to new industries, the population of our city has doubled in the ###past### ten years.
@@ -6421,7 +6422,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0713 -->
 # 中考单词 0713 · 最近的
-中文：adj. 最近的
+中文：adj. 近来的，最近的
 单词：###recent###
 搭配：###recent news### 最近的消息
 例句：Did you know? The ###recent### news said that a new hotel would open opposite our school.
@@ -6430,7 +6431,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0714 -->
 # 中考单词 0714 · 新闻；消息
-中文：n. 新闻；消息
+中文：n. 新闻，消息
 单词：###news###
 搭配：###good news### 好消息
 例句：Did you know? The recent ###news### said that a new hotel would open opposite our school.
@@ -6439,7 +6440,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0715 -->
 # 中考单词 0715 · 酒店
-中文：n. 酒店
+中文：n. 旅馆，饭店，宾馆；酒店
 单词：###hotel###
 搭配：###stay at a hotel### 住酒店
 例句：Did you know? The recent news said that a new ###hotel### would open opposite our school.
@@ -6448,7 +6449,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0716 -->
 # 中考单词 0716 · 在……对面
-中文：prep. 在……对面
+中文：prep. 在…对面 adj. 对面的，对立的，相反的 n. 对立面；对立物
 单词：###opposite###
 搭配：###opposite the bank### 在银行对面
 例句：Did you know? The recent news said that a new hotel would open ###opposite### our school.
@@ -6457,7 +6458,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0717 -->
 # 中考单词 0717 · 魔法的
-中文：adj. 魔法的
+中文：adj. 有魔力的；魔法的
 单词：###magic###
 搭配：###a magic mirror### 魔镜
 例句：In the story, a ###magic### mirror tells the queen that the prince is in danger.
@@ -6475,7 +6476,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0719 -->
 # 中考单词 0719 · 王后；女王
-中文：n. 王后；女王
+中文：n. 皇后，女王；王后
 单词：###queen###
 搭配：###the Queen of England### 英国女王
 例句：In the story, a magic mirror tells the ###queen### that the prince is in danger.
@@ -6502,7 +6503,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0722 -->
 # 中考单词 0722 · 士兵
-中文：n. 士兵
+中文：n. 士兵，战士
 单词：###soldier###
 搭配：###a brave soldier### 勇敢的士兵
 例句：Long ago, the emperor ordered his ###soldiers### to build a wall to protect the nation from its enemies.
@@ -6511,7 +6512,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0723 -->
 # 中考单词 0723 · 国家；民族
-中文：n. 国家；民族
+中文：n. 民族，国家
 单词：###nation###
 搭配：###the whole nation### 全国
 例句：Long ago, the emperor ordered his soldiers to build a wall to protect the ###nation### from its enemies.
@@ -6520,7 +6521,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0724 -->
 # 中考单词 0724 · 敌人
-中文：n. 敌人
+中文：n. 敌人；敌军
 单词：###enemy###
 搭配：###fight against the enemy### 抗击敌人
 例句：Long ago, the emperor ordered his soldiers to build a wall to protect the nation from its ###enemies###.
@@ -6538,7 +6539,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0726 -->
 # 中考单词 0726 · 损失
-中文：n. 损失
+中文：n. 损失；丧失；失败
 单词：###loss###
 搭配：###a great loss### 巨大的损失
 例句：The war caused a huge ###loss### of life, so people today should treasure peace.
@@ -6547,7 +6548,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0727 -->
 # 中考单词 0727 · 珍惜；财宝
-中文：v. 珍惜；n. 财宝
+中文：n. 财富，财产；财宝；珍品 v. 珍爱；珍藏；珍惜
 单词：###treasure###
 搭配：###treasure the time### 珍惜时间
 例句：The war caused a huge loss of life, so people today should ###treasure### peace.
@@ -6565,7 +6566,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0729 -->
 # 中考单词 0729 · 无论何时
-中文：adv. 无论何时
+中文：conj. 每当，无论何时
 单词：###whenever###
 搭配：###whenever you like### 只要你愿意
 例句：###Whenever### a disaster happens, Chinese people show a strong spirit of fighting it together.
@@ -6574,7 +6575,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0730 -->
 # 中考单词 0730 · 灾难
-中文：n. 灾难
+中文：n. 灾难；灾祸
 单词：###disaster###
 搭配：###natural disasters### 自然灾害
 例句：Whenever a ###disaster### happens, Chinese people show a strong spirit of fighting it together.
@@ -6592,7 +6593,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0732 -->
 # 中考单词 0732 · 战斗；斗争
-中文：v. 战斗；斗争
+中文：n. 打仗（架），争论 v. 战斗；斗争
 单词：###fight###
 搭配：###fight against ...### 与……作斗争
 例句：Whenever a disaster happens, Chinese people show a strong spirit of ###fighting### it together.
@@ -6610,7 +6611,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0734 -->
 # 中考单词 0734 · 喂养
-中文：v. 喂养
+中文：vt. 喂（养）；饲（养）
 单词：###feed###
 搭配：###feed the fish### 喂鱼
 例句：Every morning my daughter ###feeds### the fish in the small round pool in our garden.
@@ -6619,7 +6620,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0735 -->
 # 中考单词 0735 · 圆形的
-中文：adj. 圆形的
+中文：adv. 转过来 prep. 环绕一周，围着 adj. 圆的；球形的；圆形的
 单词：###round###
 搭配：###a round table### 圆桌
 例句：Every morning my daughter feeds the fish in the small ###round### pool in our garden.
@@ -6628,7 +6629,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0736 -->
 # 中考单词 0736 · 水池；游泳池
-中文：n. 水池；游泳池
+中文：n. 水塘，水池；游泳池
 单词：###pool###
 搭配：###a swimming pool### 游泳池
 例句：Every morning my daughter feeds the fish in the small round ###pool### in our garden.
@@ -6637,7 +6638,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0737 -->
 # 中考单词 0737 · 投票
-中文：v. 投票
+中文：v. 投票，选举 n. 选票；投票
 单词：###vote###
 搭配：###vote for sb.### 投票给某人
 例句：Our class ###voted### to decide where to go, and the teacher organised a two-day tour.
@@ -6646,7 +6647,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0738 -->
 # 中考单词 0738 · 决定
-中文：v. 决定
+中文：v. 决定；下决心
 单词：###decide###
 搭配：###decide to do sth.### 决定做某事
 例句：Our class voted to ###decide### where to go, and the teacher organised a two-day tour.
@@ -6655,7 +6656,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0739 -->
 # 中考单词 0739 · 组织
-中文：v. 组织
+中文：v. 组织；安排
 单词：###organise###
 搭配：###organise an activity### 组织活动
 例句：Our class voted to decide where to go, and the teacher ###organised### a two-day tour.
@@ -6664,7 +6665,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0740 -->
 # 中考单词 0740 · 旅行；参观
-中文：n. 旅行；参观
+中文：n. 参观，观光，旅行
 单词：###tour###
 搭配：###a two-day tour### 两日游
 例句：Our class voted to decide where to go, and the teacher organised a two-day ###tour###.
@@ -6673,7 +6674,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0741 -->
 # 中考单词 0741 · 推荐
-中文：v. 推荐
+中文：v. 推荐；建议
 单词：###recommend###
 搭配：###recommend sth. to sb.### 向某人推荐某物
 例句：Could you ###recommend### something to read? — I'd suggest this poem by a famous poet.
@@ -6682,7 +6683,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0742 -->
 # 中考单词 0742 · 建议
-中文：v. 建议
+中文：vt. 建议，提议
 单词：###suggest###
 搭配：###suggest doing sth.### 建议做某事
 例句：Could you recommend something to read? — I'd ###suggest### this poem by a famous poet.
@@ -6709,7 +6710,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0745 -->
 # 中考单词 0745 · 真正的
-中文：adj. 真正的
+中文：adj. 真实的，确实的；真正的
 单词：###real###
 搭配：###real life### 现实生活
 例句：###Real### ability comes from practice, not just from talent.
@@ -6718,7 +6719,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0746 -->
 # 中考单词 0746 · 能力
-中文：n. 能力
+中文：n. 能力；才能
 单词：###ability###
 搭配：###the ability to do sth.### 做某事的能力
 例句：Real ###ability### comes from practice, not just from talent.
@@ -6727,7 +6728,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0747 -->
 # 中考单词 0747 · 练习
-中文：n. 练习
+中文：n. 实践；练习；惯例 v. 练习；实习；实行
 单词：###practice###
 搭配：###in practice### 在实践中
 例句：Real ability comes from ###practice###, not just from talent.
@@ -6736,7 +6737,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0748 -->
 # 中考单词 0748 · 天赋；人才
-中文：n. 天赋；人才
+中文：n. 天资，才能；人才；天赋
 单词：###talent###
 搭配：###have a talent for ...### 有……的天赋
 例句：Real ability comes from practice, not just from ###talent###.
@@ -6745,7 +6746,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0749 -->
 # 中考单词 0749 · 接受
-中文：v. 接受
+中文：vt. 接受
 单词：###accept###
 搭配：###accept an invitation### 接受邀请
 例句：Thank you, but I can't ###accept### the ticket. I have to attend another event that evening.
@@ -6754,7 +6755,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0750 -->
 # 中考单词 0750 · 票
-中文：n. 票
+中文：n. 票；券
 单词：###ticket###
 搭配：###a train ticket### 火车票
 例句：Thank you, but I can't accept the ###ticket###. I have to attend another event that evening.
@@ -6763,7 +6764,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0751 -->
 # 中考单词 0751 · 参加；出席
-中文：v. 参加；出席
+中文：v. 看护，照料，服侍；出席，参加
 单词：###attend###
 搭配：###attend a meeting### 出席会议
 例句：Thank you, but I can't accept the ticket. I have to ###attend### another event that evening.
@@ -6772,7 +6773,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0752 -->
 # 中考单词 0752 · 活动；事件
-中文：n. 活动；事件
+中文：n. 事件，大事；活动
 单词：###event###
 搭配：###a sports event### 体育赛事
 例句：Thank you, but I can't accept the ticket. I have to attend another ###event### that evening.
@@ -6781,7 +6782,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0753 -->
 # 中考单词 0753 · 座位
-中文：n. 座位
+中文：n. 座位，座
 单词：###seat###
 搭配：###seat belt### 安全带
 例句：Wear your ###seat### belt and don't take any risks — an accident could kill you.
@@ -6790,7 +6791,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0754 -->
 # 中考单词 0754 · 风险
-中文：n. 风险
+中文：n. 风险；危险；冒险 v. 冒…的危险
 单词：###risk###
 搭配：###take a risk### 冒险
 例句：Wear your seat belt and don't take any ###risks### — an accident could kill you.
@@ -6799,7 +6800,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0755 -->
 # 中考单词 0755 · 事故
-中文：n. 事故
+中文：n. 事故，意外
 单词：###accident###
 搭配：###a traffic accident### 交通事故
 例句：Wear your seat belt and don't take any risks — an ###accident### could kill you.
@@ -6808,7 +6809,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0756 -->
 # 中考单词 0756 · 杀死
-中文：v. 杀死
+中文：v. 杀死，弄死
 单词：###kill###
 搭配：###kill time### 消磨时间
 例句：Wear your seat belt and don't take any risks — an accident could ###kill### you.
@@ -6817,7 +6818,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0757 -->
 # 中考单词 0757 · 账户
-中文：n. 账户
+中文：n. 账户；描述，说明 v. 解释，说明（account for）
 单词：###account###
 搭配：###an online account### 网上账户
 例句：You need to sign in to your ###account### before you can print the article in the computer lab.
@@ -6826,7 +6827,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0758 -->
 # 中考单词 0758 · 签名；登录
-中文：v. 签名；登录
+中文：n. 符号，标记 v. 签名；登录
 单词：###sign###
 搭配：###sign one's name### 签名
 例句：You need to ###sign### in to your account before you can print the article in the computer lab.
@@ -6835,7 +6836,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0759 -->
 # 中考单词 0759 · 打印
-中文：v. 打印
+中文：vt. 印刷；打印
 单词：###print###
 搭配：###print a photo### 打印照片
 例句：You need to sign in to your account before you can ###print### the article in the computer lab.
@@ -6844,7 +6845,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0760 -->
 # 中考单词 0760 · 文章
-中文：n. 文章
+中文：n. 文章；物品；冠词
 单词：###article###
 搭配：###write an article### 写文章
 例句：You need to sign in to your account before you can print the ###article### in the computer lab.
@@ -6862,7 +6863,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0762 -->
 # 中考单词 0762 · 总的；一般的
-中文：adj. 总的；一般的
+中文：adj. 大体，笼统的，总的；一般的
 单词：###general###
 搭配：###in general### 总的来说
 例句：In ###general###, active people have more energy and take action faster.
@@ -6871,7 +6872,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0763 -->
 # 中考单词 0763 · 积极的；活跃的
-中文：adj. 积极的；活跃的
+中文：adj. 积极的，主动的；活跃的
 单词：###active###
 搭配：###an active student### 积极的学生
 例句：In general, ###active### people have more energy and take action faster.
@@ -6880,7 +6881,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0764 -->
 # 中考单词 0764 · 精力；能量
-中文：n. 精力；能量
+中文：n. 能量；精力；活力；精神
 单词：###energy###
 搭配：###full of energy### 精力充沛
 例句：In general, active people have more ###energy### and take action faster.
@@ -6889,7 +6890,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0765 -->
 # 中考单词 0765 · 行动
-中文：n. 行动
+中文：n. 行动，行为，举动
 单词：###action###
 搭配：###take action### 采取行动
 例句：In general, active people have more energy and take ###action### faster.
@@ -6907,7 +6908,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0767 -->
 # 中考单词 0767 · 卡通；动画片
-中文：n. 卡通；动画片
+中文：n. 卡通；动画片；漫画
 单词：###cartoon###
 搭配：###watch cartoons### 看动画片
 例句：This ad uses a popular ###cartoon### character, a little dragon, to sell biscuits.
@@ -6916,7 +6917,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0768 -->
 # 中考单词 0768 · 角色；性格
-中文：n. 角色；性格
+中文：n. 性格；特色，特性；人物，角色；符号，字
 单词：###character###
 搭配：###the main character### 主角
 例句：This ad uses a popular cartoon ###character###, a little dragon, to sell biscuits.
@@ -6934,7 +6935,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0770 -->
 # 中考单词 0770 · 进入
-中文：v. 进入
+中文：vt. 进入
 单词：###enter###
 搭配：###enter the room### 进入房间
 例句：Except for adults, nobody may ###enter### the pool alone.
@@ -6943,7 +6944,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0771 -->
 # 中考单词 0771 · 独自
-中文：adv. 独自
+中文：adj. 单独的，孤独的 adv. 独自地，单独地
 单词：###alone###
 搭配：###live alone### 独自生活
 例句：Except for adults, nobody may enter the pool ###alone###.
@@ -6952,7 +6953,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0772 -->
 # 中考单词 0772 · 除……之外
-中文：prep. 除……之外
+中文：prep. 除…之外
 单词：###except###
 搭配：###except for ...### 除了……
 例句：###Except### for adults, nobody may enter the pool alone.
@@ -6961,7 +6962,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0773 -->
 # 中考单词 0773 · 成年人
-中文：n. 成年人
+中文：adj. 发育成熟的；成熟的，成人的 n. 成年人；成年动物
 单词：###adult###
 搭配：###adults and children### 成人和儿童
 例句：Except for ###adults###, nobody may enter the pool alone.
@@ -6970,7 +6971,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0774 -->
 # 中考单词 0774 · 比较
-中文：v. 比较
+中文：v. 比较；比拟，喻为 n. 比较
 单词：###compare###
 搭配：###compare A with B### 把 A 和 B 比较
 例句：If you ###compare### digital books with paper books, you will find one advantage: you can read them on any screen.
@@ -6979,7 +6980,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0775 -->
 # 中考单词 0775 · 数字的
-中文：adj. 数字的
+中文：adj. 数字的，数码的
 单词：###digital###
 搭配：###digital camera### 数码相机
 例句：If you compare ###digital### books with paper books, you will find one advantage: you can read them on any screen.
@@ -6988,7 +6989,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0776 -->
 # 中考单词 0776 · 优点；优势
-中文：n. 优点；优势
+中文：n. 优点；好处，有利条件；优势
 单词：###advantage###
 搭配：###take advantage of ...### 利用……
 例句：If you compare digital books with paper books, you will find one ###advantage###: you can read them on any screen.
@@ -6997,7 +6998,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0777 -->
 # 中考单词 0777 · 屏幕
-中文：n. 屏幕
+中文：n. 幕，荧光屏；屏幕
 单词：###screen###
 搭配：###a phone screen### 手机屏幕
 例句：If you compare digital books with paper books, you will find one advantage: you can read them on any ###screen###.
@@ -7006,7 +7007,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0778 -->
 # 中考单词 0778 · 建议
-中文：v. 建议
+中文：v. 建议；劝告，忠告；通知；警告
 单词：###advise###
 搭配：###advise sb. to do sth.### 建议某人做某事
 例句：My teacher ###advised### me to discuss it with my parents instead of arguing, and I agreed.
@@ -7015,7 +7016,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0779 -->
 # 中考单词 0779 · 讨论
-中文：v. 讨论
+中文：vt. 讨论，议论
 单词：###discuss###
 搭配：###discuss sth. with sb.### 和某人讨论某事
 例句：My teacher advised me to ###discuss### it with my parents instead of arguing, and I agreed.
@@ -7024,7 +7025,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0780 -->
 # 中考单词 0780 · 争论；争吵
-中文：v. 争论；争吵
+中文：v. 争论，争吵，争辩；提出理由证明，主张；说服，劝说
 单词：###argue###
 搭配：###argue with sb.### 和某人争吵
 例句：My teacher advised me to discuss it with my parents instead of ###arguing###, and I agreed.
@@ -7042,7 +7043,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0782 -->
 # 中考单词 0782 · 人工智能
-中文：n. 人工智能
+中文：abbr. 人工智能
 单词：###AI###
 搭配：###AI technology### 人工智能技术
 例句：###AI### tools can create pictures in seconds, but we should use them in a proper way.
@@ -7051,7 +7052,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0783 -->
 # 中考单词 0783 · 工具
-中文：n. 工具
+中文：n. 工具，器具
 单词：###tool###
 搭配：###a useful tool### 有用的工具
 例句：AI ###tools### can create pictures in seconds, but we should use them in a proper way.
@@ -7060,7 +7061,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0784 -->
 # 中考单词 0784 · 创造；创作
-中文：v. 创造；创作
+中文：v. 创造，创作；造成
 单词：###create###
 搭配：###create a new world### 创造新世界
 例句：AI tools can ###create### pictures in seconds, but we should use them in a proper way.
@@ -7069,7 +7070,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0785 -->
 # 中考单词 0785 · 恰当的
-中文：adj. 恰当的
+中文：adj. 恰当的，合适的
 单词：###proper###
 搭配：###in a proper way### 以恰当的方式
 例句：AI tools can create pictures in seconds, but we should use them in a ###proper### way.
@@ -7078,7 +7079,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0786 -->
 # 中考单词 0786 · 目标
-中文：n. 目标
+中文：v. 瞄准，对准；目的是，旨在；针对；力争做到 n. 目的，目标；瞄准
 单词：###aim###
 搭配：###the aim of ... ……### 的目的
 例句：My ###aim### this term is to read at least ten English books. It's a real challenge!
@@ -7087,7 +7088,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0787 -->
 # 中考单词 0787 · 学期
-中文：n. 学期
+中文：n. 学期；术语；条款；项
 单词：###term###
 搭配：###this term### 这学期
 例句：My aim this ###term### is to read at least ten English books. It's a real challenge!
@@ -7096,7 +7097,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0788 -->
 # 中考单词 0788 · 最少
-中文：adv. 最少
+中文：n. 最少，最少量
 单词：###least###
 搭配：###at least### 至少
 例句：My aim this term is to read at ###least### ten English books. It's a real challenge!
@@ -7105,7 +7106,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0789 -->
 # 中考单词 0789 · 挑战
-中文：n. 挑战
+中文：n. 挑战(性)
 单词：###challenge###
 搭配：###face a challenge### 面对挑战
 例句：My aim this term is to read at least ten English books. It's a real ###challenge###!
@@ -7114,7 +7115,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0790 -->
 # 中考单词 0790 · 闹钟；警报
-中文：n. 闹钟；警报
+中文：n. 闹钟；警报；惊恐 v. 使惊恐
 单词：###alarm###
 搭配：###an alarm clock### 闹钟
 例句：My ###alarm### didn't go off, so I had to rush and missed breakfast. I wasn't late anyway.
@@ -7123,7 +7124,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0791 -->
 # 中考单词 0791 · 匆忙
-中文：v. 匆忙
+中文：vi. 冲，奔跑；匆忙
 单词：###rush###
 搭配：###rush to school### 匆忙赶去学校
 例句：My alarm didn't go off, so I had to ###rush### and missed breakfast. I wasn't late anyway.
@@ -7132,7 +7133,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0792 -->
 # 中考单词 0792 · 错过
-中文：v. 错过
+中文：vt. 失去，错过，缺
 单词：###miss###
 搭配：###miss the bus### 错过公交车
 例句：My alarm didn't go off, so I had to rush and ###missed### breakfast. I wasn't late anyway.
@@ -7141,7 +7142,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0793 -->
 # 中考单词 0793 · 无论如何；反正
-中文：adv. 无论如何；反正
+中文：adv. 无论如何，不管怎样；总之；反正
 单词：###anyway###
 搭配：###Anyway, ...### 不管怎样……
 例句：My alarm didn't go off, so I had to rush and missed breakfast. I wasn't late ###anyway###.
@@ -7150,7 +7151,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0794 -->
 # 中考单词 0794 · 丢失的；迷路的
-中文：adj. 丢失的；迷路的
+中文：adj. 失去的，丧失的；错过的；迷惑的；丢失的；迷路的
 单词：###lost###
 搭配：###get lost### 迷路
 例句：My keys are ###lost###, so I can't lock the door. I've searched everywhere but can't find them anywhere.
@@ -7159,7 +7160,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0795 -->
 # 中考单词 0795 · 锁
-中文：v. 锁
+中文：n. 锁 vt. 锁，锁上
 单词：###lock###
 搭配：###lock the door### 锁门
 例句：My keys are lost, so I can't ###lock### the door. I've searched everywhere but can't find them anywhere.
@@ -7168,7 +7169,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0796 -->
 # 中考单词 0796 · 搜寻
-中文：v. 搜寻
+中文：n. 搜寻，搜查 v. 搜寻，搜查
 单词：###search###
 搭配：###search for ...### 寻找……
 例句：My keys are lost, so I can't lock the door. I've ###searched### everywhere but can't find them anywhere.
@@ -7195,7 +7196,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0799 -->
 # 中考单词 0799 · 公寓套房
-中文：n. 公寓套房
+中文：n. 公寓套房 adj. 平的；平坦的；扁平的；浅的；单调的；不景气的；干脆的 adv. 平直地
 单词：###flat###
 搭配：###live in a flat### 住公寓
 例句：Our new ###flat### is small but comfortable, with a big sofa and a bright lamp in the living room.
@@ -7204,7 +7205,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0800 -->
 # 中考单词 0800 · 舒适的
-中文：adj. 舒适的
+中文：adj. 舒服的；安逸的；舒服自在的；舒适的
 单词：###comfortable###
 搭配：###a comfortable bed### 舒服的床
 例句：Our new flat is small but ###comfortable###, with a big sofa and a bright lamp in the living room.
@@ -7213,7 +7214,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0801 -->
 # 中考单词 0801 · 沙发
-中文：n. 沙发
+中文：n. （长）沙发
 单词：###sofa###
 搭配：###sit on the sofa### 坐在沙发上
 例句：Our new flat is small but comfortable, with a big ###sofa### and a bright lamp in the living room.
@@ -7222,7 +7223,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0802 -->
 # 中考单词 0802 · 灯
-中文：n. 灯
+中文：n. 灯，油灯；光源
 单词：###lamp###
 搭配：###turn on the lamp### 开灯
 例句：Our new flat is small but comfortable, with a big sofa and a bright ###lamp### in the living room.
@@ -7231,7 +7232,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0803 -->
 # 中考单词 0803 · 电梯
-中文：n. 电梯
+中文：v. 举起，抬起；（云、烟等）消散 n. 电梯
 单词：###lift###
 搭配：###take the lift### 乘电梯
 例句：The ###lift### in our apartment building has stopped working, and nobody has come to repair it yet.
@@ -7240,7 +7241,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0804 -->
 # 中考单词 0804 · 公寓
-中文：n. 公寓
+中文：n. 公寓套房
 单词：###apartment###
 搭配：###an apartment building### 公寓楼
 例句：The lift in our ###apartment### building has stopped working, and nobody has come to repair it yet.
@@ -7249,7 +7250,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0805 -->
 # 中考单词 0805 · 修理
-中文：v. 修理
+中文：n. 修理；修补 vt. 修理；修补
 单词：###repair###
 搭配：###repair a bike### 修自行车
 例句：The lift in our apartment building has stopped working, and nobody has come to ###repair### it yet.
@@ -7258,7 +7259,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0806 -->
 # 中考单词 0806 · 还；仍
-中文：adv. 还；仍
+中文：adv. 尚，还，仍然
 单词：###yet###
 搭配：###not ... yet### 还没有
 例句：The lift in our apartment building has stopped working, and nobody has come to repair it ###yet###.
@@ -7267,7 +7268,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0807 -->
 # 中考单词 0807 · 青年时期
-中文：n. 青年时期
+中文：n. 青春；青年；青年时期
 单词：###youth###
 搭配：###in one's youth### 在某人年轻时
 例句：In his ###youth###, my grandfather used to serve in the army, and that brought great pride and honour to our family.
@@ -7285,7 +7286,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0809 -->
 # 中考单词 0809 · 骄傲；自豪
-中文：n. 骄傲；自豪
+中文：n. 自豪，骄傲
 单词：###pride###
 搭配：###take pride in ...### 以……为豪
 例句：In his youth, my grandfather used to serve in the army, and that brought great ###pride### and honour to our family.
@@ -7294,7 +7295,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0810 -->
 # 中考单词 0810 · 荣誉
-中文：n. 荣誉
+中文：n. 荣誉；荣幸 v. 尊敬；给以荣誉
 单词：###honour###
 搭配：###in honour of ...### 为纪念……
 例句：In his youth, my grandfather used to serve in the army, and that brought great pride and ###honour### to our family.
@@ -7303,7 +7304,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0811 -->
 # 中考单词 0811 · 卫兵
-中文：n. 卫兵
+中文：n. 守卫；警戒；护卫队；防护装置；卫兵 v. 警惕
 单词：###guard###
 搭配：###a security guard### 保安
 例句：In the film, the ###guards### shot back when the enemy attacked the city with guns.
@@ -7312,7 +7313,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0812 -->
 # 中考单词 0812 · 射击
-中文：n. 射击
+中文：vt. 射击，射中，发射
 单词：###shoot###
 搭配：###shoot at ...### 向……射击
 例句：In the film, the guards ###shot### back when the enemy attacked the city with guns.
@@ -7321,7 +7322,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0813 -->
 # 中考单词 0813 · 攻击
-中文：v. 攻击
+中文：v. 攻击，袭击 n. 攻击，袭击
 单词：###attack###
 搭配：###attack the enemy### 攻击敌人
 例句：In the film, the guards shot back when the enemy ###attacked### the city with guns.
@@ -7330,7 +7331,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0814 -->
 # 中考单词 0814 · 枪
-中文：n. 枪
+中文：n. 炮，枪
 单词：###gun###
 搭配：###a toy gun### 玩具枪
 例句：In the film, the guards shot back when the enemy attacked the city with ###guns###.
@@ -7348,7 +7349,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0816 -->
 # 中考单词 0816 · 重；称重
-中文：v. 重；称重
+中文：vt. 称…的重量，重（若干）
 单词：###weigh###
 搭配：###weigh 50 kilos### 重 50 公斤
 例句：About 20 per cent of the students ###weigh### more than 60 kilos, which is above average.
@@ -7357,7 +7358,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0817 -->
 # 中考单词 0817 · 公斤
-中文：n. 公斤
+中文：n. 千克；千米；公斤
 单词：###kilo###
 搭配：###two kilos of apples### 两公斤苹果
 例句：About 20 per cent of the students weigh more than 60 ###kilos###, which is above average.
@@ -7366,7 +7367,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0818 -->
 # 中考单词 0818 · 平均水平；平均的
-中文：n. 平均水平；adj. 平均的
+中文：adj. 平均的；一般的 n. 平均水平；平均数
 单词：###average###
 搭配：###above average### 高于平均水平
 例句：About 20 per cent of the students weigh more than 60 kilos, which is above ###average###.
@@ -7375,7 +7376,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0819 -->
 # 中考单词 0819 · 事实
-中文：n. 事实
+中文：n. 事实，现实
 单词：###fact###
 搭配：###in fact### 事实上
 例句：In ###fact###, most people are aware of the bad effect of sugar, but they find it hard to control themselves.
@@ -7384,7 +7385,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0820 -->
 # 中考单词 0820 · 意识到的
-中文：adj. 意识到的
+中文：adj. 意识到的；知道的
 单词：###aware###
 搭配：###be aware of ...### 意识到……
 例句：In fact, most people are ###aware### of the bad effect of sugar, but they find it hard to control themselves.
@@ -7393,7 +7394,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0821 -->
 # 中考单词 0821 · 影响；效果
-中文：n. 影响；效果
+中文：n. 影响；效果；作用
 单词：###effect###
 搭配：###have an effect on ...### 对……有影响
 例句：In fact, most people are aware of the bad ###effect### of sugar, but they find it hard to control themselves.
@@ -7402,7 +7403,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0822 -->
 # 中考单词 0822 · 控制
-中文：v. 控制
+中文：n. 控制；管理；抑制；操纵装置 v. 控制；管理；抑制
 单词：###control###
 搭配：###control oneself### 控制自己
 例句：In fact, most people are aware of the bad effect of sugar, but they find it hard to ###control### themselves.
@@ -7411,7 +7412,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0823 -->
 # 中考单词 0823 · 认为；猜想
-中文：v. 认为；猜想
+中文：vt. 猜想，假定，料想；认为
 单词：###suppose###
 搭配：###I suppose so.### 我想是的。
 例句：Swim in such awful weather? Don't be silly! I ###suppose### that's a crazy idea.
@@ -7420,7 +7421,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0824 -->
 # 中考单词 0824 · 疯狂的
-中文：adj. 疯狂的
+中文：adj. 疯狂的；狂热的，着迷的
 单词：###crazy###
 搭配：###be crazy about ...### 对……着迷
 例句：Swim in such awful weather? Don't be silly! I suppose that's a ###crazy### idea.
@@ -7429,7 +7430,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0825 -->
 # 中考单词 0825 · 糟糕的
-中文：adj. 糟糕的
+中文：adj. 极坏的，极讨厌的；糟糕的；可怕的
 单词：###awful###
 搭配：###awful weather### 糟糕的天气
 例句：Swim in such ###awful### weather? Don't be silly! I suppose that's a crazy idea.
@@ -7438,7 +7439,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0826 -->
 # 中考单词 0826 · 傻的
-中文：adj. 傻的
+中文：adj. 傻的，愚蠢的
 单词：###silly###
 搭配：###a silly question### 傻问题
 例句：Swim in such awful weather? Don't be ###silly###! I suppose that's a crazy idea.
@@ -7447,7 +7448,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0827 -->
 # 中考单词 0827 · 设计
-中文：v. 设计
+中文：v. 设计；预订，指定；谋划，构思 n. 设计，构想；图样，图案；企图，图谋
 单词：###design###
 搭配：###design a poster### 设计海报
 例句：We ###designed### a card with a gold background and painted a red flag on it.
@@ -7456,7 +7457,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0828 -->
 # 中考单词 0828 · 金色；金子
-中文：n. 金色；金子
+中文：n. 黄金；金色；金子 adj. 金的，黄金的
 单词：###gold###
 搭配：###a gold medal### 金牌
 例句：We designed a card with a ###gold### background and painted a red flag on it.
@@ -7465,7 +7466,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0829 -->
 # 中考单词 0829 · 背景
-中文：n. 背景
+中文：n. 背景；隐蔽的位置 v. 作…的背景 adj. 背景的；发布背景材料的
 单词：###background###
 搭配：###a white background### 白色背景
 例句：We designed a card with a gold ###background### and painted a red flag on it.
@@ -7474,7 +7475,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0830 -->
 # 中考单词 0830 · 涂；画
-中文：v. 涂；画
+中文：n. 油漆 v. 油漆，粉刷；涂；绘画
 单词：###paint###
 搭配：###paint a picture### 画一幅画
 例句：We designed a card with a gold background and ###painted### a red flag on it.
@@ -7483,7 +7484,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0831 -->
 # 中考单词 0831 · 旗
-中文：n. 旗
+中文：n. 旗；标志；旗舰
 单词：###flag###
 搭配：###the national flag### 国旗
 例句：We designed a card with a gold background and painted a red ###flag### on it.
@@ -7492,7 +7493,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0832 -->
 # 中考单词 0832 · 装满
-中文：v. 装满
+中文：vt. 填空，装满
 单词：###fill###
 搭配：###fill A with B### 用 B 装满 A
 例句：On my birthday, my friends ###filled### the room with balloons, and I smiled with joy.
@@ -7510,7 +7511,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0834 -->
 # 中考单词 0834 · 微笑
-中文：v. 微笑
+中文：n. 微笑 v. 微笑
 单词：###smile###
 搭配：###smile at sb.### 对某人微笑
 例句：On my birthday, my friends filled the room with balloons, and I ###smiled### with joy.
@@ -7519,7 +7520,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0835 -->
 # 中考单词 0835 · 快乐
-中文：n. 快乐
+中文：n. 欢乐，高兴，乐趣；快乐
 单词：###joy###
 搭配：###with joy### 高兴地
 例句：On my birthday, my friends filled the room with balloons, and I smiled with ###joy###.
@@ -7528,7 +7529,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0836 -->
 # 中考单词 0836 · 球拍；蝙蝠
-中文：n. 球拍；蝙蝠
+中文：n. 球拍；球棒；蝙蝠
 单词：###bat###
 搭配：###a baseball bat### 棒球棒
 例句：Put the ###bats### into the basket at the bottom of the shelf.
@@ -7546,7 +7547,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0838 -->
 # 中考单词 0838 · 底部
-中文：n. 底部
+中文：n. 底部；底
 单词：###bottom###
 搭配：###at the bottom of ...### 在……底部
 例句：Put the bats into the basket at the ###bottom### of the shelf.
@@ -7555,7 +7556,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0839 -->
 # 中考单词 0839 · 架子
-中文：n. 架子
+中文：n. 架子；搁板；格层；礁；陆架
 单词：###shelf###
 搭配：###on the shelf### 在架子上
 例句：Put the bats into the basket at the bottom of the ###shelf###.
@@ -7564,7 +7565,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0840 -->
 # 中考单词 0840 · 单个的
-中文：adj. 单个的
+中文：adj. 单一的，单个的
 单词：###single###
 搭配：###a single word### 一个词
 例句：Does this ###single### glove belong to you? It was lying on the narrow seat next to mine.
@@ -7573,7 +7574,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0841 -->
 # 中考单词 0841 · 属于
-中文：v. 属于
+中文：v. 属于，应归入
 单词：###belong###
 搭配：###belong to sb.### 属于某人
 例句：Does this single glove ###belong### to you? It was lying on the narrow seat next to mine.
@@ -7582,7 +7583,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0842 -->
 # 中考单词 0842 · 躺；平放
-中文：v. 躺；平放
+中文：v. 躺；卧；平放；位于 vi. 说谎
 单词：###lie###
 搭配：###lie on the bed### 躺在床上
 例句：Does this single glove belong to you? It was ###lying### on the narrow seat next to mine.
@@ -7591,7 +7592,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0843 -->
 # 中考单词 0843 · 窄的
-中文：adj. 窄的
+中文：adj. 狭窄的
 单词：###narrow###
 搭配：###a narrow road### 一条窄路
 例句：Does this single glove belong to you? It was lying on the ###narrow### seat next to mine.
@@ -7600,7 +7601,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0844 -->
 # 中考单词 0844 · 一旦；一次
-中文：adv. 一旦；一次
+中文：n. 一次，一度，从前 adv. 一次，一度，从前 conj. 一旦
 单词：###once###
 搭配：###once a week### 一周一次
 例句：###Once### you form good habits, they will benefit you forever.
@@ -7609,7 +7610,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0845 -->
 # 中考单词 0845 · 形成
-中文：v. 形成
+中文：n. 表格；形式；结构 v. 形成
 单词：###form###
 搭配：###form a habit### 养成习惯
 例句：Once you ###form### good habits, they will benefit you forever.
@@ -7618,7 +7619,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0846 -->
 # 中考单词 0846 · 习惯
-中文：n. 习惯
+中文：n. 习惯，习性
 单词：###habit###
 搭配：###good habits### 好习惯
 例句：Once you form good ###habits###, they will benefit you forever.
@@ -7627,7 +7628,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0847 -->
 # 中考单词 0847 · 使受益
-中文：v. 使受益
+中文：n. 好处，益处 v. 使受益；受益
 单词：###benefit###
 搭配：###benefit from ...### 从……中受益
 例句：Once you form good habits, they will ###benefit### you forever.
@@ -7645,7 +7646,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0849 -->
 # 中考单词 0849 · 账单
-中文：n. 账单
+中文：n. 账单；法案，议案
 单词：###bill###
 搭配：###pay the bill### 付账
 例句：The ###bill### is exactly 9 dollars and 50 cents. Let me count the coins.
@@ -7654,7 +7655,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0850 -->
 # 中考单词 0850 · 正好；确切地
-中文：adv. 正好；确切地
+中文：adv. 精确地；确切地；正好
 单词：###exactly###
 搭配：###exactly the same### 完全一样
 例句：The bill is ###exactly### 9 dollars and 50 cents. Let me count the coins.
@@ -7663,7 +7664,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0851 -->
 # 中考单词 0851 · 分
-中文：n. 分
+中文：n. 美分（100 cents = 1 dollar）
 单词：###cent###
 搭配：###50 cents 50### 美分
 例句：The bill is exactly 9 dollars and 50 ###cents###. Let me count the coins.
@@ -7672,7 +7673,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0852 -->
 # 中考单词 0852 · 数
-中文：n. 数
+中文：vt. 数，点数
 单词：###count###
 搭配：###count from 1 to 10### 从 1 数到 10
 例句：The bill is exactly 9 dollars and 50 cents. Let me ###count### the coins.
@@ -7681,7 +7682,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0853 -->
 # 中考单词 0853 · 出生
-中文：adj. 出生
+中文：adj. 出生的
 单词：###born###
 搭配：###be born in ...### 出生于……
 例句：I was ###born### in Beijing, the capital of China, which is a lively international city.
@@ -7690,7 +7691,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0854 -->
 # 中考单词 0854 · 首都
-中文：n. 首都
+中文：n. 首都，省会，大写；资本
 单词：###capital###
 搭配：###the capital of ... ……### 的首都
 例句：I was born in Beijing, the ###capital### of China, which is a lively international city.
@@ -7699,7 +7700,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0855 -->
 # 中考单词 0855 · 充满活力的
-中文：adj. 充满活力的
+中文：adj. 活泼的；充满生气的；充满活力的
 单词：###lively###
 搭配：###a lively city### 充满活力的城市
 例句：I was born in Beijing, the capital of China, which is a ###lively### international city.
@@ -7717,7 +7718,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0857 -->
 # 中考单词 0857 · 羞耻；可惜
-中文：n. 羞耻；可惜
+中文：n. 羞耻，羞愧；憾事，带来耻辱的人；可惜 v. 使丢脸，使羞愧
 单词：###shame###
 搭配：###It's a shame to ... ……### 是可耻的
 例句：It's a ###shame### to bully others, so whatever happens, don't keep silent.
@@ -7726,7 +7727,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0858 -->
 # 中考单词 0858 · 欺负
-中文：v. 欺负
+中文：v. 欺负，欺凌 n. 恃强凌弱者
 单词：###bully###
 搭配：###bully others### 欺负别人
 例句：It's a shame to ###bully### others, so whatever happens, don't keep silent.
@@ -7735,7 +7736,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0859 -->
 # 中考单词 0859 · 无论什么
-中文：pron. 无论什么
+中文：pron. 无论什么，不管什么
 单词：###whatever###
 搭配：###whatever you say### 无论你说什么
 例句：It's a shame to bully others, so ###whatever### happens, don't keep silent.
@@ -7744,7 +7745,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0860 -->
 # 中考单词 0860 · 沉默的
-中文：adj. 沉默的
+中文：adj. 沉默的；寂静的；无记载的 n. 无声电影
 单词：###silent###
 搭配：###keep silent### 保持沉默
 例句：It's a shame to bully others, so whatever happens, don't keep ###silent###.
@@ -7753,7 +7754,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0861 -->
 # 中考单词 0861 · 片刻
-中文：n. 片刻
+中文：n. 片刻，瞬间
 单词：###moment###
 搭配：###Wait a moment.### 稍等。
 例句：Wait a ###moment###. Let me check the calendar — the meeting is set for a weekday.
@@ -7762,7 +7763,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0862 -->
 # 中考单词 0862 · 日历
-中文：n. 日历
+中文：n. 日历，月历；日程表
 单词：###calendar###
 搭配：###a wall calendar### 挂历
 例句：Wait a moment. Let me check the ###calendar### — the meeting is set for a weekday.
@@ -7771,7 +7772,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0863 -->
 # 中考单词 0863 · 安排；设置
-中文：v. 安排；设置
+中文：v. 放置；安排；设置；（太阳）落下 n. 一套；装备，设备
 单词：###set###
 搭配：###set a date### 定日期
 例句：Wait a moment. Let me check the calendar — the meeting is ###set### for a weekday.
@@ -7780,7 +7781,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0864 -->
 # 中考单词 0864 · 工作日
-中文：n. 工作日
+中文：n. 平日，工作日
 单词：###weekday###
 搭配：###on weekdays### 在工作日
 例句：Wait a moment. Let me check the calendar — the meeting is set for a ###weekday###.
@@ -7789,7 +7790,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0865 -->
 # 中考单词 0865 · 仍然是
-中文：v. 仍然是
+中文：vt. 余下，留下；仍然是 vi. 保持，仍是
 单词：###remain###
 搭配：###remain silent### 保持沉默
 例句：The sky ###remains### dark. Unless it clears up, it's likely to rain, so perhaps take an umbrella just in case.
@@ -7798,7 +7799,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0866 -->
 # 中考单词 0866 · 除非
-中文：conj. 除非
+中文：conj. 如果不，除非
 单词：###unless###
 搭配：###unless it rains### 除非下雨
 例句：The sky remains dark. ###Unless### it clears up, it's likely to rain, so perhaps take an umbrella just in case.
@@ -7807,7 +7808,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0867 -->
 # 中考单词 0867 · 很可能的
-中文：adj. 很可能的
+中文：adj. 很可能的 adv. 很可能
 单词：###likely###
 搭配：###be likely to do sth.### 很可能做某事
 例句：The sky remains dark. Unless it clears up, it's ###likely### to rain, so perhaps take an umbrella just in case.
@@ -7816,7 +7817,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0868 -->
 # 中考单词 0868 · 也许
-中文：adv. 也许
+中文：adv. 可能，或；也许
 单词：###perhaps###
 搭配：###Perhaps you're right.### 也许你是对的。
 例句：The sky remains dark. Unless it clears up, it's likely to rain, so ###perhaps### take an umbrella just in case.
@@ -7825,7 +7826,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0869 -->
 # 中考单词 0869 · 情况
-中文：n. 情况
+中文：n. 事例，实例；情况，事实；病例；案件；箱，盒；手提箱
 单词：###case###
 搭配：###in case### 以防万一
 例句：The sky remains dark. Unless it clears up, it's likely to rain, so perhaps take an umbrella just in ###case###.
@@ -7843,7 +7844,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0871 -->
 # 中考单词 0871 · 描述
-中文：v. 描述
+中文：vt. 描写，叙述；描述
 单词：###describe###
 搭配：###describe sth. to sb.### 向某人描述某事
 例句：In this paragraph, the hero ###describes### a special situation he faced during the war.
@@ -7852,7 +7853,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0872 -->
 # 中考单词 0872 · 英雄；男主角
-中文：n. 英雄；男主角
+中文：n. 英雄，勇士，男主角
 单词：###hero###
 搭配：###a national hero### 民族英雄
 例句：In this paragraph, the ###hero### describes a special situation he faced during the war.
@@ -7861,7 +7862,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0873 -->
 # 中考单词 0873 · 特别的
-中文：adj. 特别的
+中文：adj. 特别的，专门的
 单词：###special###
 搭配：###a special day### 特别的日子
 例句：In this paragraph, the hero describes a ###special### situation he faced during the war.
@@ -7870,7 +7871,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0874 -->
 # 中考单词 0874 · 情况；处境
-中文：n. 情况；处境
+中文：n. 形势，情况；处境
 单词：###situation###
 搭配：###in this situation### 在这种情况下
 例句：In this paragraph, the hero describes a special ###situation### he faced during the war.
@@ -7879,7 +7880,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0875 -->
 # 中考单词 0875 · 相似的
-中文：adj. 相似的
+中文：adj. 相似的 n. 类似物
 单词：###similar###
 搭配：###be similar to ...### 与……相似
 例句：My cousin and I are ###similar### in many ways, but there's one difference: he is smart, while I'm creative.
@@ -7888,7 +7889,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0876 -->
 # 中考单词 0876 · 差别
-中文：n. 差别
+中文：n. 不同；差别
 单词：###difference###
 搭配：###make a difference### 产生影响
 例句：My cousin and I are similar in many ways, but there's one ###difference###: he is smart, while I'm creative.
@@ -7897,7 +7898,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0877 -->
 # 中考单词 0877 · 聪明的
-中文：adj. 聪明的
+中文：adj. 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的；时髦的
 单词：###smart###
 搭配：###a smart idea### 聪明的主意
 例句：My cousin and I are similar in many ways, but there's one difference: he is ###smart###, while I'm creative.
@@ -7906,7 +7907,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0878 -->
 # 中考单词 0878 · 有创造力的
-中文：adj. 有创造力的
+中文：adj. 创造性的，具有创造力的
 单词：###creative###
 搭配：###creative thinking### 创造性思维
 例句：My cousin and I are similar in many ways, but there's one difference: he is smart, while I'm ###creative###.
@@ -7915,7 +7916,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0879 -->
 # 中考单词 0879 · 光滑的
-中文：adj. 光滑的
+中文：adj. 顺利的；光滑的；平稳的 v. 使光滑；消除（障碍等）；使优雅；缓和 n. 平滑部分；一块平地 adv. 光滑地；平稳地；流畅地
 单词：###smooth###
 搭配：###smooth skin### 光滑的皮肤
 例句：The coin has a ###smooth### surface and the shape of a circle.
@@ -7924,7 +7925,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0880 -->
 # 中考单词 0880 · 表面
-中文：n. 表面
+中文：n. 表面；表层；外观 adj. 表面的，肤浅的 v. 浮出水面
 单词：###surface###
 搭配：###on the surface### 在表面上
 例句：The coin has a smooth ###surface### and the shape of a circle.
@@ -7933,7 +7934,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0881 -->
 # 中考单词 0881 · 形状
-中文：n. 形状
+中文：n. 形状，外形 v. 使成型，制造，塑造
 单词：###shape###
 搭配：###in the shape of ...### 呈……形状
 例句：The coin has a smooth surface and the ###shape### of a circle.
@@ -7942,7 +7943,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0882 -->
 # 中考单词 0882 · 圆圈
-中文：n. 圆圈
+中文：n. 圆，圆圈 vt. 环绕
 单词：###circle###
 搭配：###draw a circle### 画圆
 例句：The coin has a smooth surface and the shape of a ###circle###.
@@ -7960,7 +7961,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0884 -->
 # 中考单词 0884 · 特征；特色
-中文：n. 特征；特色
+中文：n. 特征；特色 adj. 典型的；特有的
 单词：###characteristic###
 搭配：###Chinese characteristics### 中国特色
 例句：Our country is building socialism with Chinese ###characteristics###, and every citizen has a role to play.
@@ -7969,7 +7970,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0885 -->
 # 中考单词 0885 · 公民
-中文：n. 公民
+中文：n. 公民；市民
 单词：###citizen###
 搭配：###a good citizen### 好公民
 例句：Our country is building socialism with Chinese characteristics, and every ###citizen### has a role to play.
@@ -7978,7 +7979,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0886 -->
 # 中考单词 0886 · 作用；角色
-中文：n. 作用；角色
+中文：n. 角色；任务；作用
 单词：###role###
 搭配：###play a role in ...### 在……中起作用
 例句：Our country is building socialism with Chinese characteristics, and every citizen has a ###role### to play.
@@ -7987,7 +7988,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0887 -->
 # 中考单词 0887 · 法律
-中文：n. 法律
+中文：n. 法律，法令；定律
 单词：###law###
 搭配：###break the law### 违法
 例句：The ###law### should be the same for all people, whether they are rich or poor.
@@ -7996,7 +7997,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0888 -->
 # 中考单词 0888 · 相同的
-中文：adj. 相同的
+中文：n. 同样的事 adj. 同样的，同一；相同的
 单词：###same###
 搭配：###the same as ...### 与……相同
 例句：The law should be the ###same### for all people, whether they are rich or poor.
@@ -8014,7 +8015,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0890 -->
 # 中考单词 0890 · 富有的
-中文：adj. 富有的
+中文：adj. 富裕的，有钱的；富有的
 单词：###rich###
 搭配：###rich and poor### 富人和穷人
 例句：The law should be the same for all people, whether they are ###rich### or poor.
@@ -8023,7 +8024,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0891 -->
 # 中考单词 0891 · 水平
-中文：n. 水平
+中文：n. 水平；标准；水平面 adj. 水平的；平坦的；同高的 v. 瞄准；拉平；变得平坦
 单词：###level###
 搭配：###at a high level### 高水平
 例句：Though the other team was at a higher ###level###, we competed hard and won a victory by one point.
@@ -8041,7 +8042,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0893 -->
 # 中考单词 0893 · 胜利
-中文：n. 胜利
+中文：n. 胜利；成功；克服
 单词：###victory###
 搭配：###win a victory### 取得胜利
 例句：Though the other team was at a higher level, we competed hard and won a ###victory### by one point.
@@ -8050,7 +8051,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0894 -->
 # 中考单词 0894 · 分；点
-中文：n. 分；点
+中文：v. 指，指向 n. 点；分数
 单词：###point###
 搭配：###by one point### 以一分之差
 例句：Though the other team was at a higher level, we competed hard and won a victory by one ###point###.
@@ -8059,7 +8060,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0895 -->
 # 中考单词 0895 · 完成
-中文：v. 完成
+中文：adj. 完整的；完全的；彻底的 v. 完成
 单词：###complete###
 搭配：###complete the work### 完成工作
 例句：You need to ###complete### the task within an hour, with only the materials on the desk.
@@ -8068,7 +8069,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0896 -->
 # 中考单词 0896 · 任务
-中文：n. 任务
+中文：n. 任务，工作
 单词：###task###
 搭配：###finish a task### 完成任务
 例句：You need to complete the ###task### within an hour, with only the materials on the desk.
@@ -8086,7 +8087,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0898 -->
 # 中考单词 0898 · 材料
-中文：n. 材料
+中文：adj. 物质的，实际的；客观存在的；重要的 n. 材料，原料；素材；布料
 单词：###material###
 搭配：###building materials### 建筑材料
 例句：You need to complete the task within an hour, with only the ###materials### on the desk.
@@ -8095,7 +8096,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0899 -->
 # 中考单词 0899 · 遭受；受苦
-中文：v. 遭受；受苦
+中文：v. 遭受；受苦；患病
 单词：###suffer###
 搭配：###suffer from ...### 患……病；遭受……
 例句：He has ###suffered### from heart disease for years, and his condition is getting worse. Now he is too weak to walk.
@@ -8104,7 +8105,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0900 -->
 # 中考单词 0900 · 状况
-中文：n. 状况
+中文：n. 条件；情况；环境；身份；状况 v. 决定；使适应；使健康；以…为条件
 单词：###condition###
 搭配：###in good condition### 状况良好
 例句：He has suffered from heart disease for years, and his ###condition### is getting worse. Now he is too weak to walk.
@@ -8113,7 +8114,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0901 -->
 # 中考单词 0901 · 更差的
-中文：adj. 更差的
+中文：adj. (bad的比较级)更坏的；更差的
 单词：###worse###
 搭配：###get worse### 恶化
 例句：He has suffered from heart disease for years, and his condition is getting ###worse###. Now he is too weak to walk.
@@ -8122,7 +8123,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0902 -->
 # 中考单词 0902 · 虚弱的
-中文：adj. 虚弱的
+中文：adj. 差的，弱的，淡的；虚弱的
 单词：###weak###
 搭配：###feel weak### 感到虚弱
 例句：He has suffered from heart disease for years, and his condition is getting worse. Now he is too ###weak### to walk.
@@ -8131,7 +8132,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0903 -->
 # 中考单词 0903 · 连接
-中文：v. 连接
+中文：v. 连接，把…联系起来
 单词：###connect###
 搭配：###connect A to B### 把 A 连到 B
 例句：###Connect### the electric keyboard to the computer, and then turn on the power.
@@ -8149,7 +8150,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0905 -->
 # 中考单词 0905 · 电的
-中文：adj. 电的
+中文：adj. 电的；电动的；发电的；导电的；令人震惊的 n. 电；电气车辆；带电体
 单词：###electric###
 搭配：###an electric car### 电动汽车
 例句：Connect the ###electric### keyboard to the computer, and then turn on the power.
@@ -8158,7 +8159,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0906 -->
 # 中考单词 0906 · 电力；力量
-中文：n. 电力；力量
+中文：n. 电力；力量；能力；权力
 单词：###power###
 搭配：###power cut### 停电
 例句：Connect the electric keyboard to the computer, and then turn on the ###power###.
@@ -8167,7 +8168,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0907 -->
 # 中考单词 0907 · 怀疑
-中文：n. 怀疑
+中文：n. 怀疑；疑问；疑惑 v. 怀疑；不信；恐怕；拿不准
 单词：###doubt###
 搭配：###no doubt### 毫无疑问
 例句：She had some ###doubts### and was under great pressure, but after considering it, she decided to continue.
@@ -8176,7 +8177,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0908 -->
 # 中考单词 0908 · 压力
-中文：n. 压力
+中文：v. 对…施加压力；迫使，说服 n. 压；压强；强制，压迫
 单词：###pressure###
 搭配：###under pressure### 在压力下
 例句：She had some doubts and was under great ###pressure###, but after considering it, she decided to continue.
@@ -8185,7 +8186,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0909 -->
 # 中考单词 0909 · 考虑
-中文：v. 考虑
+中文：v. 考虑，细想；认为，把…看作；关心，照顾
 单词：###consider###
 搭配：###consider doing sth.### 考虑做某事
 例句：She had some doubts and was under great pressure, but after ###considering### it, she decided to continue.
@@ -8203,7 +8204,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0911 -->
 # 中考单词 0911 · 抄写；复制
-中文：v. 抄写；复制
+中文：n. 抄本，副本；一本（份，册…） v. 抄写，复印，拷贝；复制
 单词：###copy###
 搭配：###copy the words### 抄写单词
 例句：###Copy### the dialogue into your notebook, and then act out the conversation with a clear voice.
@@ -8221,7 +8222,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0913 -->
 # 中考单词 0913 · 交谈
-中文：n. 交谈
+中文：n. 谈话，交谈
 单词：###conversation###
 搭配：###have a conversation with sb.### 与某人交谈
 例句：Copy the dialogue into your notebook, and then act out the ###conversation### with a clear voice.
@@ -8230,7 +8231,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0914 -->
 # 中考单词 0914 · 嗓音
-中文：n. 嗓音
+中文：n. 说话声；语态；嗓音
 单词：###voice###
 搭配：###in a loud voice### 大声地
 例句：Copy the dialogue into your notebook, and then act out the conversation with a clear ###voice###.
@@ -8239,7 +8240,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0915 -->
 # 中考单词 0915 · 原谅；请再说一遍
-中文：v. 原谅；int. 请再说一遍
+中文：n. 原谅，宽恕，对不起 int. 请再说一遍
 单词：###pardon###
 搭配：###Pardon?### 请再说一遍。
 例句：###Pardon###? Which film did you mention just now? — The one about a strange wolf.
@@ -8248,7 +8249,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0916 -->
 # 中考单词 0916 · 提到
-中文：v. 提到
+中文：n. 提及；记载 vt. 提到，说起
 单词：###mention###
 搭配：###mention sth. to sb.### 向某人提起某事
 例句：Pardon? Which film did you ###mention### just now? — The one about a strange wolf.
@@ -8257,7 +8258,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0917 -->
 # 中考单词 0917 · 奇怪的
-中文：adj. 奇怪的
+中文：adj. 奇怪的，奇特的；陌生的
 单词：###strange###
 搭配：###a strange noise### 奇怪的声音
 例句：Pardon? Which film did you mention just now? — The one about a ###strange### wolf.
@@ -8266,7 +8267,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0918 -->
 # 中考单词 0918 · 狼
-中文：n. 狼
+中文：n. 狼；残忍贪婪之人
 单词：###wolf###
 搭配：###a grey wolf### 一只灰狼
 例句：Pardon? Which film did you mention just now? — The one about a strange ###wolf###.
@@ -8275,7 +8276,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0919 -->
 # 中考单词 0919 · 地理
-中文：n. 地理
+中文：n. 地理学
 单词：###geography###
 搭配：###a geography teacher### 地理老师
 例句：She took a ###geography### course and later got a master's degree in it.
@@ -8284,7 +8285,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0920 -->
 # 中考单词 0920 · 课程
-中文：n. 课程
+中文：n. 过程；经过；课程
 单词：###course###
 搭配：###take a course### 上一门课
 例句：She took a geography ###course### and later got a master's degree in it.
@@ -8293,7 +8294,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0921 -->
 # 中考单词 0921 · 硕士；主人
-中文：n. 硕士；主人
+中文：v. 控制；精通；征服 n. 硕士；主人；大师；教师 adj. 主人的；主要的；熟练的
 单词：###master###
 搭配：###a master's degree### 硕士学位
 例句：She took a geography course and later got a ###master###'s degree in it.
@@ -8302,7 +8303,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0922 -->
 # 中考单词 0922 · 学位；度数
-中文：n. 学位；度数
+中文：n. 度，度数；程度；学位；地位，身份
 单词：###degree###
 搭配：###a degree in ... ……### 学位
 例句：She took a geography course and later got a master's ###degree### in it.
@@ -8311,7 +8312,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0923 -->
 # 中考单词 0923 · 拒绝
-中文：v. 拒绝
+中文：v. 拒绝，不愿
 单词：###refuse###
 搭配：###refuse to do sth.### 拒绝做某事
 例句：You can't ###refuse### — it's a great deal! — Are you joking? I promise I'll think about it.
@@ -8320,7 +8321,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0924 -->
 # 中考单词 0924 · 交易
-中文：n. 交易
+中文：n. 交易；量，数额 v. 处理；对付
 单词：###deal###
 搭配：###It's a deal.### 一言为定。
 例句：You can't refuse — it's a great ###deal###! — Are you joking? I promise I'll think about it.
@@ -8329,7 +8330,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0925 -->
 # 中考单词 0925 · 开玩笑
-中文：v. 开玩笑
+中文：n. 笑话 v. 开玩笑
 单词：###joke###
 搭配：###make a joke### 开玩笑
 例句：You can't refuse — it's a great deal! — Are you ###joking###? I promise I'll think about it.
@@ -8338,7 +8339,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0926 -->
 # 中考单词 0926 · 承诺
-中文：v. 承诺
+中文：v. 答应，允诺 n. 诺言，承诺
 单词：###promise###
 搭配：###keep one's promise### 信守诺言
 例句：You can't refuse — it's a great deal! — Are you joking? I ###promise### I'll think about it.
@@ -8347,7 +8348,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0927 -->
 # 中考单词 0927 · 先驱；开拓者
-中文：n. 先驱；开拓者
+中文：n. 先锋，开拓者；先驱
 单词：###pioneer###
 搭配：###a pioneer of ... ……### 的先驱
 例句：A week after the ###pioneer###'s death, his last book was published, which shocked many people.
@@ -8356,7 +8357,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0928 -->
 # 中考单词 0928 · 死亡
-中文：n. 死亡
+中文：n. 死；死亡
 单词：###death###
 搭配：###after his death### 他去世后
 例句：A week after the pioneer's ###death###, his last book was published, which shocked many people.
@@ -8365,7 +8366,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0929 -->
 # 中考单词 0929 · 出版
-中文：v. 出版
+中文：v. 出版；发表；公布
 单词：###publish###
 搭配：###publish a book### 出版一本书
 例句：A week after the pioneer's death, his last book was ###published###, which shocked many people.
@@ -8374,7 +8375,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0930 -->
 # 中考单词 0930 · 使震惊
-中文：v. 使震惊
+中文：n. 震动，冲击；震惊，惊愕；电击，触电 vt. 使震惊
 单词：###shock###
 搭配：###be shocked at ...### 对……感到震惊
 例句：A week after the pioneer's death, his last book was published, which ###shocked### many people.
@@ -8383,7 +8384,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0931 -->
 # 中考单词 0931 · 挖
-中文：v. 挖
+中文：v. 挖（洞沟），掘
 单词：###dig###
 搭配：###dig a hole### 挖洞
 例句：We ###dug### a hole, laid the young tree in it, and tied it to a stick.
@@ -8392,7 +8393,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0932 -->
 # 中考单词 0932 · 洞
-中文：n. 洞
+中文：n. 洞，坑
 单词：###hole###
 搭配：###a hole in the ground### 地上的洞
 例句：We dug a ###hole###, laid the young tree in it, and tied it to a stick.
@@ -8401,7 +8402,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0933 -->
 # 中考单词 0933 · 放置；下（蛋）
-中文：v. 放置；下（蛋）
+中文：vt. 放，搁；放置；下（蛋）
 单词：###lay###
 搭配：###lay eggs### 下蛋
 例句：We dug a hole, ###laid### the young tree in it, and tied it to a stick.
@@ -8410,7 +8411,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0934 -->
 # 中考单词 0934 · 系；绑
-中文：v. 系；绑
+中文：vt. （用绳，线）系，拴，扎；绑 n. 领带，绳子，结；关系
 单词：###tie###
 搭配：###tie A to B### 把 A 绑在 B 上
 例句：We dug a hole, laid the young tree in it, and ###tied### it to a stick.
@@ -8419,7 +8420,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0935 -->
 # 中考单词 0935 · 导演；主任
-中文：n. 导演；主任
+中文：n. 所长，处长，主任；董事；导演
 单词：###director###
 搭配：###a film director### 电影导演
 例句：The ###director### required every model to walk slowly across the stage.
@@ -8428,7 +8429,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0936 -->
 # 中考单词 0936 · 要求
-中文：v. 要求
+中文：v. 需要；要求；命令
 单词：###require###
 搭配：###require sb. to do sth.### 要求某人做某事
 例句：The director ###required### every model to walk slowly across the stage.
@@ -8437,7 +8438,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0937 -->
 # 中考单词 0937 · 模特；模型
-中文：n. 模特；模型
+中文：n. 模型，原形，范例，模范；模特
 单词：###model###
 搭配：###a fashion model### 时装模特
 例句：The director required every ###model### to walk slowly across the stage.
@@ -8446,7 +8447,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0938 -->
 # 中考单词 0938 · 舞台
-中文：n. 舞台
+中文：n. 舞台，后台；平台，高台；楼层，楼架
 单词：###stage###
 搭配：###on stage### 在舞台上
 例句：The director required every model to walk slowly across the ###stage###.
@@ -8455,7 +8456,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0939 -->
 # 中考单词 0939 · 朝着
-中文：prep. 朝着
+中文：prep. 向，朝，面对；接近；朝着
 单词：###towards###
 搭配：###walk towards ...### 朝……走去
 例句：Drive straight ###towards### the mountain. The direct road makes our journey 20 miles shorter.
@@ -8464,7 +8465,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0940 -->
 # 中考单词 0940 · 直接的
-中文：adj. 直接的
+中文：adj. 直接的；直截了当的 vt. 指挥；指导；导演（电影）
 单词：###direct###
 搭配：###a direct flight### 直飞航班
 例句：Drive straight towards the mountain. The ###direct### road makes our journey 20 miles shorter.
@@ -8473,7 +8474,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0941 -->
 # 中考单词 0941 · 旅程
-中文：n. 旅程
+中文：n. 旅行，路程；旅程
 单词：###journey###
 搭配：###a long journey### 长途旅行
 例句：Drive straight towards the mountain. The direct road makes our ###journey### 20 miles shorter.
@@ -8491,7 +8492,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0943 -->
 # 中考单词 0943 · 后悔
-中文：v. 后悔
+中文：v. 后悔；遗憾；痛惜 n. 可惜，遗憾
 单词：###regret###
 搭配：###regret doing sth.### 后悔做了某事
 例句：I ###regret### not studying harder. The result was the worst I've had, and I was disappointed.
@@ -8500,7 +8501,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0944 -->
 # 中考单词 0944 · 结果；成绩
-中文：n. 结果；成绩
+中文：n. 结果，效果；成绩
 单词：###result###
 搭配：###the exam result### 考试成绩
 例句：I regret not studying harder. The ###result### was the worst I've had, and I was disappointed.
@@ -8509,7 +8510,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0945 -->
 # 中考单词 0945 · 最差的
-中文：adj. 最差的
+中文：adj. (bad的最高级)最坏的；最差的
 单词：###worst###
 搭配：###the worst day### 最糟糕的一天
 例句：I regret not studying harder. The result was the ###worst### I've had, and I was disappointed.
@@ -8527,7 +8528,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0947 -->
 # 中考单词 0947 · 分开
-中文：v. 分开
+中文：vt. 分，划分；分开
 单词：###divide###
 搭配：###divide A into B### 把 A 分成 B
 例句：The teacher ###divided### us into groups and gave each group a list of questions about Unit 3.
@@ -8536,7 +8537,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0948 -->
 # 中考单词 0948 · 组
-中文：n. 组
+中文：n. 组，群
 单词：###group###
 搭配：###in groups### 分组
 例句：The teacher divided us into ###groups### and gave each group a list of questions about Unit 3.
@@ -8545,7 +8546,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0949 -->
 # 中考单词 0949 · 清单
-中文：n. 清单
+中文：n. 一览表，清单
 单词：###list###
 搭配：###a shopping list### 购物清单
 例句：The teacher divided us into groups and gave each group a ###list### of questions about Unit 3.
@@ -8554,7 +8555,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0950 -->
 # 中考单词 0950 · 单元
-中文：n. 单元
+中文：n. 单元，单位
 单词：###unit###
 搭配：###Unit 3### 第三单元
 例句：The teacher divided us into groups and gave each group a list of questions about ###Unit### 3.
@@ -8563,7 +8564,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0951 -->
 # 中考单词 0951 · 想知道
-中文：v. 想知道
+中文：v. 对…疑惑，感到惊奇，想知道 n. 惊讶，惊叹；奇迹
 单词：###wonder###
 搭配：###I wonder if ...### 我想知道是否……
 例句：I ###wonder### what our planet looks like from space. Can you imagine it? That's my dream.
@@ -8581,7 +8582,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0953 -->
 # 中考单词 0953 · 想象
-中文：v. 想象
+中文：vt. 想像，设想；想象
 单词：###imagine###
 搭配：###imagine doing sth.### 想象做某事
 例句：I wonder what our planet looks like from space. Can you ###imagine### it? That's my dream.
@@ -8590,7 +8591,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0954 -->
 # 中考单词 0954 · 梦想
-中文：n. 梦想
+中文：n. 梦；梦想 v. 做梦；梦想
 单词：###dream###
 搭配：###have a dream### 有个梦想
 例句：I wonder what our planet looks like from space. Can you imagine it? That's my ###dream###.
@@ -8599,7 +8600,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0955 -->
 # 中考单词 0955 · 时期
-中文：n. 时期
+中文：n. 周期，期间；时期；月经；课时；（语法学）句点，句号 adj. 某一时代的
 单词：###period###
 搭配：###a period of time### 一段时间
 例句：During the holiday ###period###, most stores were shut and the markets were empty.
@@ -8608,7 +8609,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0956 -->
 # 中考单词 0956 · 商店
-中文：n. 商店
+中文：n. 商店 vt. 储藏，存储
 单词：###store###
 搭配：###a book store### 书店
 例句：During the holiday period, most ###stores### were shut and the markets were empty.
@@ -8617,7 +8618,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0957 -->
 # 中考单词 0957 · 关闭
-中文：v. 关闭
+中文：v. 关上，关闭；封闭
 单词：###shut###
 搭配：###shut the door### 关门
 例句：During the holiday period, most stores were ###shut### and the markets were empty.
@@ -8626,7 +8627,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0958 -->
 # 中考单词 0958 · 市场
-中文：n. 市场
+中文：n. 市场，集市
 单词：###market###
 搭配：###a food market### 食品市场
 例句：During the holiday period, most stores were shut and the ###markets### were empty.
@@ -8635,7 +8636,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0959 -->
 # 中考单词 0959 · 时代
-中文：n. 时代
+中文：n. 时代；纪元
 单词：###era###
 搭配：###a new era### 新时代
 例句：In this new ###era###, it's possible, for example, to send a text to anybody in seconds.
@@ -8653,7 +8654,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0961 -->
 # 中考单词 0961 · 例子
-中文：n. 例子
+中文：n. 例子；榜样
 单词：###example###
 搭配：###for example### 例如
 例句：In this new era, it's possible, for ###example###, to send a text to anybody in seconds.
@@ -8662,7 +8663,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0962 -->
 # 中考单词 0962 · 短信；文本
-中文：n. 短信；文本
+中文：n. 文本，课文；短信
 单词：###text###
 搭配：###send a text### 发短信
 例句：In this new era, it's possible, for example, to send a ###text### to anybody in seconds.
@@ -8671,7 +8672,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0963 -->
 # 中考单词 0963 · 专家
-中文：n. 专家
+中文：n. 专家，能手
 单词：###expert###
 搭配：###an expert in/on ... ……### 方面的专家
 例句：She is an ###expert### in music and can express her feelings through the violin.
@@ -8680,7 +8681,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0964 -->
 # 中考单词 0964 · 表达
-中文：v. 表达
+中文：vt. 表达；表示；表情 n. 快车，特快专递
 单词：###express###
 搭配：###express oneself### 表达自己
 例句：She is an expert in music and can ###express### her feelings through the violin.
@@ -8689,7 +8690,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0965 -->
 # 中考单词 0965 · 感情
-中文：n. 感情
+中文：n. 感情；感觉
 单词：###feeling###
 搭配：###hurt one's feelings### 伤害某人感情
 例句：She is an expert in music and can express her ###feelings### through the violin.
@@ -8707,7 +8708,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0967 -->
 # 中考单词 0967 · 使满意
-中文：v. 使满意
+中文：vt. 满足，使满意
 单词：###satisfy###
 搭配：###be satisfied with ...### 对……满意
 例句：The customers are ###satisfied### with the excellent quality and service.
@@ -8716,7 +8717,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0968 -->
 # 中考单词 0968 · 出色的
-中文：adj. 出色的
+中文：adj. 极好的，优秀的；出色的
 单词：###excellent###
 搭配：###excellent work### 出色的作品
 例句：The customers are satisfied with the ###excellent### quality and service.
@@ -8725,7 +8726,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0969 -->
 # 中考单词 0969 · 质量
-中文：n. 质量
+中文：adj. 优良的，优质的 n. 质，质量；品德，品质；性质，特性
 单词：###quality###
 搭配：###high quality### 高质量
 例句：The customers are satisfied with the excellent ###quality### and service.
@@ -8734,7 +8735,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0970 -->
 # 中考单词 0970 · 服务
-中文：n. 服务
+中文：n. 服务，服侍；服役；仪式 adj. 服务性的；耐用的；服现役的 v. 维修，检修；保养
 单词：###service###
 搭配：###good service### 优质服务
 例句：The customers are satisfied with the excellent quality and ###service###.
@@ -8743,7 +8744,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0971 -->
 # 中考单词 0971 · 意识到
-中文：v. 意识到
+中文：vt. 认识到，实现；意识到
 单词：###realise###
 搭配：###realise one's mistake### 意识到错误
 例句：When I ###realised### the story was false, I told my friends the truth and proved it.
@@ -8752,7 +8753,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0972 -->
 # 中考单词 0972 · 假的
-中文：adj. 假的
+中文：adj. 假的；错误的
 单词：###false###
 搭配：###true or false### 判断正误
 例句：When I realised the story was ###false###, I told my friends the truth and proved it.
@@ -8761,7 +8762,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0973 -->
 # 中考单词 0973 · 真相
-中文：n. 真相
+中文：n. 真理，事实，真相，实际
 单词：###truth###
 搭配：###tell the truth### 说实话
 例句：When I realised the story was false, I told my friends the ###truth### and proved it.
@@ -8770,7 +8771,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0974 -->
 # 中考单词 0974 · 证明
-中文：v. 证明
+中文：v. 证明；检验；显示
 单词：###prove###
 搭配：###prove sth. to sb.### 向某人证明某事
 例句：When I realised the story was false, I told my friends the truth and ###proved### it.
@@ -8779,7 +8780,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0975 -->
 # 中考单词 0975 · 讨厌
-中文：v. 讨厌
+中文：v. 恨，讨厌 n. 恨
 单词：###hate###
 搭配：###hate doing sth.### 讨厌做某事
 例句：I ###hate### it when people call others fat or ugly — it makes them look like fools.
@@ -8788,7 +8789,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0976 -->
 # 中考单词 0976 · 胖的
-中文：adj. 胖的
+中文：n. 脂肪 adj. 胖的；肥的
 单词：###fat###
 搭配：###get fat### 发胖
 例句：I hate it when people call others ###fat### or ugly — it makes them look like fools.
@@ -8797,7 +8798,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0977 -->
 # 中考单词 0977 · 丑陋的
-中文：adj. 丑陋的
+中文：adj. 丑陋的；邪恶的；令人厌恶的
 单词：###ugly###
 搭配：###an ugly duck### 丑小鸭
 例句：I hate it when people call others fat or ###ugly### — it makes them look like fools.
@@ -8806,7 +8807,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0978 -->
 # 中考单词 0978 · 傻瓜
-中文：n. 傻瓜
+中文：n. 傻子，蠢人；傻瓜
 单词：###fool###
 搭配：###make a fool of ...### 愚弄……
 例句：I hate it when people call others fat or ugly — it makes them look like ###fools###.
@@ -8815,7 +8816,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0979 -->
 # 中考单词 0979 · 恐惧
-中文：n. 恐惧
+中文：n. 害怕；恐惧；担忧
 单词：###fear###
 搭配：###in fear### 恐惧地
 例句：The boy was full of ###fear###, but he managed to survive alone in the field for two days.
@@ -8824,7 +8825,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0980 -->
 # 中考单词 0980 · 设法做到；管理
-中文：v. 设法做到；管理
+中文：v. 管理；设法对付；设法做到
 单词：###manage###
 搭配：###manage to do sth.### 设法做成某事
 例句：The boy was full of fear, but he ###managed### to survive alone in the field for two days.
@@ -8833,7 +8834,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0981 -->
 # 中考单词 0981 · 幸存
-中文：v. 幸存
+中文：v. 幸存；生存；挺过
 单词：###survive###
 搭配：###survive the earthquake### 在地震中幸存
 例句：The boy was full of fear, but he managed to ###survive### alone in the field for two days.
@@ -8842,7 +8843,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0982 -->
 # 中考单词 0982 · 田野
-中文：n. 田野
+中文：n. 田地；牧场；场地；田野
 单词：###field###
 搭配：###in the field### 在田野里
 例句：The boy was full of fear, but he managed to survive alone in the ###field### for two days.
@@ -8851,7 +8852,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0983 -->
 # 中考单词 0983 · 修理
-中文：v. 修理
+中文：vt. 修理；安装；确定，决定
 单词：###fix###
 搭配：###fix a bike### 修自行车
 例句：Can you help me ###fix### my bike? Something is stuck in the wheel, and I can't pull it out.
@@ -8860,7 +8861,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0984 -->
 # 中考单词 0984 · 卡住；粘贴
-中文：v. 卡住；粘贴
+中文：vi. 粘住，钉住；坚持；卡住；粘贴 n. 木棒（棍），枝条
 单词：###stick###
 搭配：###be stuck in ...### 卡在……中
 例句：Can you help me fix my bike? Something is ###stuck### in the wheel, and I can't pull it out.
@@ -8869,7 +8870,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0985 -->
 # 中考单词 0985 · 轮子
-中文：n. 轮子
+中文：n. 轮，机轮；轮子
 单词：###wheel###
 搭配：###the front wheel### 前轮
 例句：Can you help me fix my bike? Something is stuck in the ###wheel###, and I can't pull it out.
@@ -8878,7 +8879,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0986 -->
 # 中考单词 0986 · 拉
-中文：v. 拉
+中文：v. 拉，拖 n. 拉力，引力
 单词：###pull###
 搭配：###pull out### 拔出
 例句：Can you help me fix my bike? Something is stuck in the wheel, and I can't ###pull### it out.
@@ -8887,7 +8888,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0987 -->
 # 中考单词 0987 · 私人的
-中文：adj. 私人的
+中文：adj. 私人的；私有的；私下的 n. 列兵；二等兵
 单词：###private###
 搭配：###a private school### 私立学校
 例句：This ###private### school was founded in 1950, and its first president was a wise woman.
@@ -8896,7 +8897,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0988 -->
 # 中考单词 0988 · 建立；创办
-中文：v. 建立；创办
+中文：vt. 成立，建立；创办
 单词：###found###
 搭配：###found a company### 创办公司
 例句：This private school was ###founded### in 1950, and its first president was a wise woman.
@@ -8905,7 +8906,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0989 -->
 # 中考单词 0989 · 校长；总统
-中文：n. 校长；总统
+中文：n. 总统；董事长；校长；主席
 单词：###president###
 搭配：###the president of the university### 大学校长
 例句：This private school was founded in 1950, and its first ###president### was a wise woman.
@@ -8914,7 +8915,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0990 -->
 # 中考单词 0990 · 明智的
-中文：adj. 明智的
+中文：adj. 明智的；聪明的；博学的 v. 使知道；教导
 单词：###wise###
 搭配：###a wise choice### 明智的选择
 例句：This private school was founded in 1950, and its first president was a ###wise### woman.
@@ -8923,7 +8924,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0991 -->
 # 中考单词 0991 · 吨
-中文：n. 吨
+中文：n. （重量单位）吨
 单词：###ton###
 搭配：###tons of ...### 大量的……
 例句：The factory burns ###tons### of gas every day; therefore, it does great harm to nature.
@@ -8932,7 +8933,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0992 -->
 # 中考单词 0992 · 气体；天然气
-中文：n. 气体；天然气
+中文：n. 气体；天然气；煤气
 单词：###gas###
 搭配：###natural gas### 天然气
 例句：The factory burns tons of ###gas### every day; therefore, it does great harm to nature.
@@ -8941,7 +8942,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0993 -->
 # 中考单词 0993 · 因此
-中文：adv. 因此
+中文：adv. 因此，所以
 单词：###therefore###
 搭配：###and therefore### 因此
 例句：The factory burns tons of gas every day; ###therefore###, it does great harm to nature.
@@ -8950,7 +8951,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0994 -->
 # 中考单词 0994 · 自然
-中文：n. 自然
+中文：n. 自然，性质，种类
 单词：###nature###
 搭配：###in nature### 在自然界中
 例句：The factory burns tons of gas every day; therefore, it does great harm to ###nature###.
@@ -8959,7 +8960,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0995 -->
 # 中考单词 0995 · 胶水
-中文：n. 胶水
+中文：n. 胶水 v. 粘贴
 单词：###glue###
 搭配：###a bottle of glue### 一瓶胶水
 例句：We've run out of ###glue###, so use tape to keep the photo in position and press it down.
@@ -8968,7 +8969,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0996 -->
 # 中考单词 0996 · 胶带；磁带
-中文：n. 胶带；磁带
+中文：n. 胶带；磁带；录音带
 单词：###tape###
 搭配：###sticky tape### 胶带
 例句：We've run out of glue, so use ###tape### to keep the photo in position and press it down.
@@ -8977,7 +8978,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0997 -->
 # 中考单词 0997 · 位置
-中文：n. 位置
+中文：n. 位置，方位；职位，工作；姿态；站位 v. 安置；把……放在适当位置
 单词：###position###
 搭配：###in position### 在适当的位置
 例句：We've run out of glue, so use tape to keep the photo in ###position### and press it down.
@@ -8986,7 +8987,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0998 -->
 # 中考单词 0998 · 按；压
-中文：v. 按；压
+中文：vt. 压，按 n. 新闻界，出版社
 单词：###press###
 搭配：###press the button### 按按钮
 例句：We've run out of glue, so use tape to keep the photo in position and ###press### it down.
@@ -8995,7 +8996,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w0999 -->
 # 中考单词 0999 · 想法（think 的过去式）
-中文：n. 想法（think 的过去式）
+中文：n. 思考，思想；念头；想法
 单词：###thought###
 搭配：###at the thought of ...### 一想到……
 例句：Long ago, people ###thought### the king's wealth came from the gods.
@@ -9013,7 +9014,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1001 -->
 # 中考单词 1001 · 财富
-中文：n. 财富
+中文：n. 财富；大量；富有
 单词：###wealth###
 搭配：###a person of wealth### 富人
 例句：Long ago, people thought the king's ###wealth### came from the gods.
@@ -9022,7 +9023,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1002 -->
 # 中考单词 1002 · 神
-中文：n. 神
+中文：n. 神；（大写首字母时）上帝 vt. 膜拜，崇拜
 单词：###god###
 搭配：###the god of the sea### 海神
 例句：Long ago, people thought the king's wealth came from the ###gods###.
@@ -9031,7 +9032,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1003 -->
 # 中考单词 1003 · 步
-中文：n. 步
+中文：n. 脚步，台阶，梯级 vi. 走，跨步
 单词：###step###
 搭配：###step by step### 一步一步地
 例句：###Step### by step, our guide taught us how to ski, and he nodded when we did it well.
@@ -9040,7 +9041,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1004 -->
 # 中考单词 1004 · 导游；向导
-中文：n. 导游；v. 向导
+中文：n. 向导，导游者
 单词：###guide###
 搭配：###a tour guide### 导游
 例句：Step by step, our ###guide### taught us how to ski, and he nodded when we did it well.
@@ -9049,7 +9050,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1005 -->
 # 中考单词 1005 · 滑雪
-中文：v. 滑雪
+中文：n. 滑雪板 vi. 滑雪
 单词：###ski###
 搭配：###go skiing### 去滑雪
 例句：Step by step, our guide taught us how to ###ski###, and he nodded when we did it well.
@@ -9058,7 +9059,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1006 -->
 # 中考单词 1006 · 点头
-中文：v. 点头
+中文：vi. 点头
 单词：###nod###
 搭配：###nod one's head### 点头
 例句：Step by step, our guide taught us how to ski, and he ###nodded### when we did it well.
@@ -9067,7 +9068,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1007 -->
 # 中考单词 1007 · 女士；夫人
-中文：n. 女士；夫人
+中文：n. 夫人，女士
 单词：###madam###
 搭配：###Yes, madam.### 是的，夫人。
 例句：###Madam###, may I hang up your coat and your husband's jacket? — Thanks! — My pleasure.
@@ -9076,7 +9077,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1008 -->
 # 中考单词 1008 · 挂
-中文：v. 挂
+中文：v. 悬挂，吊着；把…吊起；绞死
 单词：###hang###
 搭配：###hang up### 挂起
 例句：Madam, may I ###hang### up your coat and your husband's jacket? — Thanks! — My pleasure.
@@ -9094,7 +9095,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1010 -->
 # 中考单词 1010 · 乐趣；荣幸
-中文：n. 乐趣；荣幸
+中文：n. 高兴，愉快；乐趣；荣幸
 单词：###pleasure###
 搭配：###It's my pleasure.### 不客气。
 例句：Madam, may I hang up your coat and your husband's jacket? — Thanks! — My ###pleasure###.
@@ -9103,7 +9104,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1011 -->
 # 中考单词 1011 · 没有一个
-中文：pron. 没有一个
+中文：pron. 无任何东西，无一人；没有一个
 单词：###none###
 搭配：###none of ... ……### 中没有一个
 例句：###None### of my family pushed me; my own interest made me play the instrument every day.
@@ -9112,7 +9113,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1012 -->
 # 中考单词 1012 · 推；逼迫
-中文：v. 推；逼迫
+中文：n. 推 v. 推；逼迫
 单词：###push###
 搭配：###push sb. to do sth.### 逼某人做某事
 例句：None of my family ###pushed### me; my own interest made me play the instrument every day.
@@ -9121,7 +9122,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1013 -->
 # 中考单词 1013 · 兴趣
-中文：n. 兴趣
+中文：n. 兴趣，趣味；利息
 单词：###interest###
 搭配：###have an interest in ...### 对……有兴趣
 例句：None of my family pushed me; my own ###interest### made me play the instrument every day.
@@ -9130,7 +9131,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1014 -->
 # 中考单词 1014 · 乐器
-中文：n. 乐器
+中文：n. 乐器；仪器，器械
 单词：###instrument###
 搭配：###play an instrument### 演奏乐器
 例句：None of my family pushed me; my own interest made me play the ###instrument### every day.
@@ -9139,7 +9140,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1015 -->
 # 中考单词 1015 · 评委；法官
-中文：n. 评委；法官
+中文：n. 裁判；审判员；法官；评委 vt. 判断，断定
 单词：###judge###
 搭配：###a judge of ... ……### 的评委
 例句：The ###judges### gave her a silver medal, saying her kung fu was of a high standard.
@@ -9148,7 +9149,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1016 -->
 # 中考单词 1016 · 银
-中文：adj. 银
+中文：v. 镀银 n. 银；银器；银币
 单词：###silver###
 搭配：###a silver medal### 银牌
 例句：The judges gave her a ###silver### medal, saying her kung fu was of a high standard.
@@ -9166,7 +9167,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1018 -->
 # 中考单词 1018 · 标准；水平
-中文：n. 标准；水平
+中文：n. 标准；水准；旗；度量衡标准；水平 adj. 标准的；合规格的；公认为优秀的
 单词：###standard###
 搭配：###a high standard### 高标准
 例句：The judges gave her a silver medal, saying her kung fu was of a high ###standard###.
@@ -9175,7 +9176,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1019 -->
 # 中考单词 1019 · 警察
-中文：n. 警察
+中文：n. 警察，巡警
 单词：###policeman###
 搭配：###a traffic policeman### 交警
 例句：When the ###policeman### married my aunt, all the officers in his team came and shook his hand.
@@ -9184,7 +9185,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1020 -->
 # 中考单词 1020 · 结婚
-中文：v. 结婚
+中文：v. （使）成婚，结婚
 单词：###marry###
 搭配：###marry sb.### 和某人结婚
 例句：When the policeman ###married### my aunt, all the officers in his team came and shook his hand.
@@ -9193,7 +9194,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1021 -->
 # 中考单词 1021 · 警官；官员
-中文：n. 警官；官员
+中文：n. 军官，警官；公务员，政府官员；船长 v. 指挥
 单词：###officer###
 搭配：###a police officer### 警官
 例句：When the policeman married my aunt, all the ###officers### in his team came and shook his hand.
@@ -9202,7 +9203,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1022 -->
 # 中考单词 1022 · 摇；握
-中文：v. 摇；握
+中文：v. 摇动，摇；颤抖，震动；握（手） n. 摇动
 单词：###shake###
 搭配：###shake hands with sb.### 和某人握手
 例句：When the policeman married my aunt, all the officers in his team came and ###shook### his hand.
@@ -9211,7 +9212,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1023 -->
 # 中考单词 1023 · 数量
-中文：n. 数量
+中文：n. 数字；号码；数量
 单词：###number###
 搭配：###a number of### 许多
 例句：If a ###number### of people object to your plan, don't be negative; their purpose may be to help you.
@@ -9220,7 +9221,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1024 -->
 # 中考单词 1024 · 反对
-中文：v. 反对
+中文：n. 物，物体；宾语 v. 反对
 单词：###object###
 搭配：###object to ...### 反对……
 例句：If a number of people ###object### to your plan, don't be negative; their purpose may be to help you.
@@ -9229,7 +9230,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1025 -->
 # 中考单词 1025 · 消极的
-中文：adj. 消极的
+中文：adj. 否定的；消极的；负的 n. 底片；负数
 单词：###negative###
 搭配：###a negative attitude### 消极的态度
 例句：If a number of people object to your plan, don't be ###negative###; their purpose may be to help you.
@@ -9238,7 +9239,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1026 -->
 # 中考单词 1026 · 目的
-中文：n. 目的
+中文：n. 目的，意图；用途；效果
 单词：###purpose###
 搭配：###on purpose### 故意地
 例句：If a number of people object to your plan, don't be negative; their ###purpose### may be to help you.
@@ -9247,7 +9248,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1027 -->
 # 中考单词 1027 · 生气的；发疯的
-中文：adj. 生气的；发疯的
+中文：adj. 疯狂的；发疯的；愚蠢的；着迷的；生气的 n. 狂怒
 单词：###mad###
 搭配：###be mad at sb.### 生某人的气
 例句：Don't be ###mad###! I wasn't able to answer your call a couple of minutes ago — I was having a bath.
@@ -9256,7 +9257,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1028 -->
 # 中考单词 1028 · 能够的
-中文：adj. 能够的
+中文：adj. 能够；有能力的
 单词：###able###
 搭配：###be able to do sth.### 能够做某事
 例句：Don't be mad! I wasn't ###able### to answer your call a couple of minutes ago — I was having a bath.
@@ -9265,7 +9266,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1029 -->
 # 中考单词 1029 · 几个；一对
-中文：n. 几个；一对
+中文：n. 夫妇，一对；几个
 单词：###couple###
 搭配：###a couple of### 几个
 例句：Don't be mad! I wasn't able to answer your call a ###couple### of minutes ago — I was having a bath.
@@ -9274,7 +9275,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1030 -->
 # 中考单词 1030 · 洗澡
-中文：n. 洗澡
+中文：n. 洗澡；浴室；澡盆
 单词：###bath###
 搭配：###have a bath### 洗澡
 例句：Don't be mad! I wasn't able to answer your call a couple of minutes ago — I was having a ###bath###.
@@ -9283,7 +9284,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1031 -->
 # 中考单词 1031 · 状态；国家
-中文：n. 状态；国家
+中文：n. 状态；情形；国家，（美国的）州
 单词：###state###
 搭配：###in a bad state### 状态很差
 例句：His ###state### of health was so bad that saving him seemed impossible, but the doctors operated for hours and kept him alive.
@@ -9301,7 +9302,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1033 -->
 # 中考单词 1033 · 动手术；操作
-中文：v. 动手术；操作
+中文：v. 做手术，运转；实施，负责，经营，管理；动手术；操作
 单词：###operate###
 搭配：###operate on sb.### 给某人做手术
 例句：His state of health was so bad that saving him seemed impossible, but the doctors ###operated### for hours and kept him alive.
@@ -9310,7 +9311,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1034 -->
 # 中考单词 1034 · 活着的
-中文：adj. 活着的
+中文：adj. 活着的，存在的
 单词：###alive###
 搭配：###keep sb. alive### 使某人活着
 例句：His state of health was so bad that saving him seemed impossible, but the doctors operated for hours and kept him ###alive###.
@@ -9328,7 +9329,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1036 -->
 # 中考单词 1036 · 贸易
-中文：n. 贸易
+中文：n. 商业，贸易 vt. 交易
 单词：###trade###
 搭配：###international trade### 国际贸易
 例句：My sister cares about neither ###trade### nor business; she spends most of her time doing research on literature.
@@ -9337,7 +9338,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1037 -->
 # 中考单词 1037 · 研究
-中文：n. 研究
+中文：n. 研究，调查
 单词：###research###
 搭配：###do research on ...### 研究……
 例句：My sister cares about neither trade nor business; she spends most of her time doing ###research### on literature.
@@ -9346,7 +9347,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1038 -->
 # 中考单词 1038 · 文学
-中文：n. 文学
+中文：n. 文学；文献
 单词：###literature###
 搭配：###English literature### 英国文学
 例句：My sister cares about neither trade nor business; she spends most of her time doing research on ###literature###.
@@ -9355,7 +9356,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1039 -->
 # 中考单词 1039 · 在……上
-中文：prep. 在……上
+中文：prep. 在…上面
 单词：###upon###
 搭配：###once upon a time### 从前
 例句：Once ###upon### a time, a young man rowed back to the island of his birth, but a storm forced him to stop.
@@ -9364,7 +9365,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1040 -->
 # 中考单词 1040 · 划（船）
-中文：v. 划（船）
+中文：n. （一）排，（一）行 v. 划船
 单词：###row###
 搭配：###row a boat### 划船
 例句：Once upon a time, a young man ###rowed### back to the island of his birth, but a storm forced him to stop.
@@ -9373,7 +9374,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1041 -->
 # 中考单词 1041 · 出生
-中文：n. 出生
+中文：n. 出生；诞生
 单词：###birth###
 搭配：###the place of one's birth### 出生地
 例句：Once upon a time, a young man rowed back to the island of his ###birth###, but a storm forced him to stop.
@@ -9382,7 +9383,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1042 -->
 # 中考单词 1042 · 强迫
-中文：v. 强迫
+中文：n. 力量；武力；军队；魄力 v. 促使，推动；强迫；强加
 单词：###force###
 搭配：###force sb. to do sth.### 迫使某人做某事
 例句：Once upon a time, a young man rowed back to the island of his birth, but a storm ###forced### him to stop.
@@ -9391,7 +9392,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1043 -->
 # 中考单词 1043 · 四分之一；一刻钟
-中文：n. 四分之一；一刻钟
+中文：n. 四分之一，一刻钟
 单词：###quarter###
 搭配：###a quarter of ... ……### 的四分之一
 例句：Only a ###quarter### of the biscuits are left, and the water bottle is empty. Let me fill it at the tap.
@@ -9400,7 +9401,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1044 -->
 # 中考单词 1044 · 饼干
-中文：n. 饼干
+中文：n. 小点心，饼干
 单词：###biscuit###
 搭配：###a packet of biscuits### 一包饼干
 例句：Only a quarter of the ###biscuits### are left, and the water bottle is empty. Let me fill it at the tap.
@@ -9418,7 +9419,7 @@ per_day: 10
 
 <!-- leiji-note-id:danci-zk-words-w1046 -->
 # 中考单词 1046 · 水龙头
-中文：n. 水龙头
+中文：n. 水龙头 v. 轻拍；轻敲
 单词：###tap###
 搭配：###turn off the tap### 关水龙头
 例句：Only a quarter of the biscuits are left, and the water bottle is empty. Let me fill it at the ###tap###.

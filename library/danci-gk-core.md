@@ -3,9 +3,10 @@ id: danci-gk-core
 title: 高考高分句型（41 句）
 title_en: Gaokao Key Sentences (41)
 desc: 高考每个语法考点一句，共 41 句，每句有语法问答和讲解，部分附真题考点
-version: 2026-11-17
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 高分
 count: 41
 per_day: 1
