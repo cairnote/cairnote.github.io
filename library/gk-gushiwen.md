@@ -6,6 +6,7 @@ desc: 统编高中语文教材里的必背古诗文 55 篇，原文按电子课�
 version: 2026-11-18
 author: 磊记出品
 license: 古诗文原文为公有领域；排版与遮挡为磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 高分
 count: 55
 per_day: 1

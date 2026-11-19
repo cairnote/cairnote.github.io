@@ -6,6 +6,7 @@ desc: 比初级更长、更完整的 200 句日常口语，按 20 个场景分�
 version: 2026-11-19
 author: 磊记出品
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 口语
 count: 200
 per_day: 2

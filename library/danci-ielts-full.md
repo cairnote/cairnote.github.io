@@ -1,38 +1,38 @@
 <!-- cairnote-library
 id: danci-ielts-full
-title: 雅思进阶句型（320 句）
-title_en: IELTS Advanced Sentences (320)
-desc: 雅思全套 320 句，覆盖 1288 词，每句有语法说明，部分附语法问答和真题，口语句附口语练习题
-version: 2026-11-17
+title: 雅思进阶句型（234 句）
+title_en: IELTS Advanced Sentences (234)
+desc: 雅思全套 234 句，覆盖 974 词，每句有语法说明，部分附语法问答和真题，口语句附口语练习题
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 进阶
-count: 320
+count: 234
 per_day: 1
 -->
 
 <!-- leiji-note-id:danci-ielts-full-s001 -->
 # 雅思例句 001 · 口语
-中文：孩子们很喜欢水族馆，尤其是两栖动物区，还有一条灵活的小鳄鱼。
-英文：###The kids loved the aquarium, especially the amphibian section and an agile little crocodile.###
-- 水族馆；鱼缸：aquarium · a public aquarium 公共水族馆
-- 两栖动物；两栖的：amphibian · frogs and other amphibians 青蛙和其他两栖动物
-- 敏捷的，灵活的：agile · an agile mind 思维敏捷
-- 鳄鱼：crocodile · crocodile tears 鳄鱼的眼泪（假慈悲）
-口语练习：Part 1 · Did you visit aquariums or zoos when you were a child?
-语法：especially 引出需要特别强调的内容。
+中文：我迷上了磊记出的填字游戏，手边总放着一本同义词词典，觉得那些提示让人欲罢不能，这个习惯也让我头脑保持清醒。
+英文：###I'm hooked on Leiji's crosswords; I keep a thesaurus handy, find the clues irresistible, and the habit keeps my mind lucid.###
+- 填字游戏：crossword · do a crossword 玩填字游戏
+- 同义词词典：thesaurus · consult a thesaurus 查同义词词典
+- 无法抗拒的：irresistible · an irresistible urge 难以抗拒的冲动
+- 清醒的；清晰的：lucid · a lucid explanation 清楚的解释
+口语练习：Part 1 · Do you like doing puzzles or word games?
+语法：be hooked on 表示“迷上”；keep + 宾语 + 形容词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s002 -->
 # 雅思例句 002 · 写作
-中文：员工缺勤往往反映出潜在的疾病或身心疲惫，所以管理者应该给予体贴的支持，而不是责备。
-英文：###Absenteeism among employees often reflects an underlying ailment or exhaustion, so managers should offer compassionate support rather than censure.###
-- 旷工，缺勤：absenteeism · high rates of absenteeism 高缺勤率
-- 小病，疾病：ailment · a minor ailment 小病
-- 精疲力竭；耗尽：exhaustion · physical exhaustion 体力透支
-- 有同情心的：compassionate · compassionate leave 恩恤假
-- 谴责，责备；谴责：censure · a vote of censure 谴责投票
-语法：rather than 连接两个并列的宾语；should 表示建议。
+中文：原住民社区对自己的土地拥有不可剥夺的权利，但唯利是图的矿业公司仍在不断侵占。
+英文：###Aboriginal communities possess an inalienable right to their land, yet exploitative mining firms continue to encroach on it.###
+- 土著的；土著居民：aboriginal · aboriginal culture 土著文化
+- 不可剥夺的：inalienable · inalienable rights 不可剥夺的权利
+- 剥削的：exploitative · exploitative labour 剥削性劳动
+- 侵占，侵犯：encroach · encroach on 侵占
+语法：yet 表示转折；encroach on 表示“侵占”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s003 -->
@@ -62,13 +62,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s005 -->
 # 雅思例句 005 · 写作
-中文：原住民社区保留着祖先在可耕地上耕作的知识，然而许多年轻人对这份传统越来越疏远。
-英文：###Aboriginal communities preserve ancestral knowledge of farming on arable land, yet many young people feel a growing alienation from this heritage.###
-- 土著的，原住民的；原住民：aboriginal · aboriginal culture 原住民文化
-- 祖先的，祖传的：ancestral · ancestral home 祖宅
-- 适于耕种的：arable · arable land 耕地
-- 疏远；疏离感：alienation · a sense of alienation 疏离感
-语法：yet 连接两个意思相反的分句，表示转折。
+中文：大众旅游带来的影响无处不在，会损害脆弱的景点，因为游客会踩坏草皮，让底土裸露出来。
+英文：###The pervasive impact of mass tourism can tarnish fragile sites, as visitors trample the turf and expose the subsoil.###
+- 无处不在的：pervasive · a pervasive smell 弥漫的气味
+- 玷污；使失去光泽：tarnish · tarnish one's reputation 败坏名声
+- 草皮；地盘：turf · artificial turf 人造草皮
+- 底土：subsoil · loose subsoil 松散的底土
+语法：as 引导原因状语从句；can 表示可能。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s006 -->
@@ -98,110 +98,112 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s008 -->
 # 雅思例句 008 · 写作
-中文：滥用抗生素和抗菌喷剂会帮助细菌菌株产生抗药性，而这场危机没有任何单一的解药。
-英文：###Overuse of antibiotics and antiseptic sprays helps bacterial strains resist treatment, and no single antidote exists for this crisis.###
-- 抗生素；抗菌的：antibiotic · a course of antibiotics 一个疗程的抗生素
-- 杀菌的，防腐的；杀菌剂：antiseptic · antiseptic cream 消毒药膏
-- 细菌的：bacterial · a bacterial infection 细菌感染
-- 解毒剂；矫正方法：antidote · an antidote to stress 缓解压力的良方
-语法：help sb. do 中 do 可以不带 to；and 连接两个并列分句。
+中文：男女同校的支持者认为，把男孩和女孩分开可能让他们更容易形成刻板印象，加剧两性之间的不和。
+英文：###Supporters of coeducation argue that separating boys and girls may predispose them to stereotypes and exacerbate disharmony between the sexes.###
+- 男女同校：coeducation · the benefits of coeducation 男女同校的好处
+- 使倾向于：predispose · predispose sb. to 使某人易于
+- 加剧：exacerbate · exacerbate the problem 使问题恶化
+- 不和谐：disharmony · family disharmony 家庭不和
+语法：that 引导宾语从句；动名词短语 separating ... 作从句主语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s009 -->
 # 雅思例句 009 · 语法
-中文：那个炼金术士不仅没能把铅变成金子，他大胆的说法和傲慢还让他破了产。
-英文：###Not only did the alchemist fail to turn lead into gold, but his audacious claims and arrogance also led to his bankruptcy.###
-- 炼金术士：alchemist · a medieval alchemist 中世纪炼金术士
-- 大胆的，敢于冒险的：audacious · an audacious plan 大胆的计划
-- 傲慢，自大：arrogance · sheer arrogance 十足的傲慢
-- 破产：bankruptcy · declare bankruptcy 宣告破产
-问：你想说「那个炼金术士不仅没能把铅变成金子，他大胆的说法和傲慢还让他破了产」（强调“不仅……而且……”），英语怎么说？
-要点：Not only 位于句首时，前一分句部分倒装（did + 主语 + 动词原形）。（动词形式）did ... fail：助动词 did 提前，fail 用原形；led 用过去时：过去造成的结果。
+中文：干旱不仅毁坏了耕地，还使表层土壤的盐分升高。
+英文：###Not only did the drought ravage arable land, but it also raised the salinity of the topsoil.###
+- 毁坏，摧残；破坏：ravage · ravaged by war 饱受战争摧残
+- 可耕种的：arable · arable land 耕地
+- 盐度：salinity · soil salinity 土壤盐度
+- 表层土：topsoil · fertile topsoil 肥沃的表层土
+问：你想说「干旱不仅毁坏了耕地，还使表层土壤的盐分升高」（强调“不仅……而且……”），英语怎么说？
+要点：Not only 位于句首时，前一分句部分倒装（did + 主语 + 动词原形）。（动词形式）Not only 位于句首，前一分句部分倒装（did + 主语 + 动词原形）；raised 用过去时。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s010 -->
 # 雅思例句 010 · 口语
-中文：我们去小巷里那家小餐馆买点杏仁饼干，然后去游戏厅玩几局吧。
-英文：###Let's grab almond cookies at the bistro in the alley, then play a few games at the arcade.###
+中文：我喜欢吃烤杏仁或玉米饼干，不过碎屑总是掉得满键盘都是。
+英文：###I love to nibble on roasted almonds or maize crackers, though crumbs always end up all over my keyboard.###
+- 小口咬；一点点啃；一小口：nibble · nibble on 小口吃
 - 杏仁：almond · almond milk 杏仁奶
-- 小餐馆，小酒馆：bistro · a French bistro 法式小餐馆
-- 小巷，胡同：alley · a narrow alley 窄巷
-- 游戏厅；拱廊商场：arcade · a shopping arcade 拱廊商场
-口语练习：Part 1 · Where do you like to go with friends at the weekend?
-语法：Let's 提出建议；then 连接先后两个动作。
+- 玉米：maize · maize flour 玉米粉
+- 碎屑；少许：crumb · a crumb of comfort 一点安慰
+口语练习：Part 1 · What kind of snacks do you like?
+语法：love to do 表示“喜欢做”；though 引导让步状语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s011 -->
 # 雅思例句 011 · 写作
-中文：许多无私的毕业生到海外参加援助项目，这一富有冒险精神的选择既能助力事业，也能向雇主展示他们的才干。
-英文：###Many altruistic graduates join aid projects abroad, an adventurous choice that bolsters their careers and shows employers their acumen.###
-- 利他的，无私的：altruistic · altruistic behaviour 利他行为
-- 爱冒险的；大胆的：adventurous · an adventurous spirit 冒险精神
-- 加强，支持：bolster · bolster confidence 增强信心
+中文：政府不应轻视职业培训，因为一支懂双语、有实际头脑的劳动力队伍是经济韧性的基础。
+英文：###Governments should not devalue vocational training, since a bilingual workforce with practical acumen underpins economic resilience.###
+- 贬低；使贬值：devalue · devalue the currency 使货币贬值
+- 双语的：bilingual · a bilingual dictionary 双语词典
 - 敏锐，精明：acumen · business acumen 商业头脑
-语法：an adventurous choice that ... 是同位语，概括前面整件事；that 引导定语从句。
+- 支撑；巩固：underpin · underpin the economy 支撑经济
+- 韧性；恢复力：resilience · economic resilience 经济韧性
+语法：since 引导原因状语从句；with practical acumen 作后置定语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s012 -->
 # 雅思例句 012 · 语法
-中文：专家警告古老的土坯墙可能会崩塌之后，市议会批准了这笔拨款，尽管很不情愿。
-英文：###The council approved the allocation of funds, albeit reluctantly, after experts warned that the ancient adobe walls might disintegrate.###
-- 分配；拨款：allocation · the allocation of resources 资源分配
+中文：旧采石场的改造很成功，尽管过程费力又漫长。
+英文：###The reconstruction of the old quarry was a success, albeit a painstaking and protracted one.###
+- 重建；再现：reconstruction · post-war reconstruction 战后重建
+- 采石场；猎物；采石：quarry · a stone quarry 采石场
+- 煞费苦心的：painstaking · painstaking research 细致的研究
+- 延长，拖延：protract · protracted negotiations 旷日持久的谈判
 - 尽管，虽然：albeit · albeit slowly 尽管很慢
-- 土坯，土砖：adobe · adobe houses 土坯房
-- 瓦解，碎裂：disintegrate · disintegrate into pieces 碎成片
-问：你想说「专家警告古老的土坯墙可能会崩塌之后，市议会批准了这笔拨款，尽管很不情愿」（补充说明“尽管……”的让步情况），英语怎么说？
-要点：albeit 意为“尽管”，后面直接接副词、形容词或短语，是省略了主语和谓语的让步结构。（动词形式）approved、warned 用过去时：叙述过去的事；might disintegrate 表示可能性。
+问：你想说「旧采石场的改造很成功，尽管过程费力又漫长」（补充说明“尽管……”的让步情况），英语怎么说？
+要点：albeit 意为“尽管”，后面直接接名词短语，是省略了主语和谓语的让步结构。（动词形式）albeit 后面直接接名词短语，是省略的让步结构；was 用过去时。
 语法：让步状语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s013 -->
 # 雅思例句 013 · 口语
-中文：别这么过意不去！是我邮件里的意思含糊把你带偏了，所以你会担心再正常不过了。
-英文：###Don't be so apologetic! The ambiguity in my email led you astray, so your apprehension was perfectly natural.###
-- 道歉的，愧疚的：apologetic · an apologetic smile 歉意的微笑
-- 歧义，模棱两可：ambiguity · avoid ambiguity 避免歧义
-- 迷路地，误入歧途地：astray · go astray 走失；误入歧途
-- 忧虑；理解；逮捕：apprehension · feel apprehension 感到不安
-口语练习：Part 2 · Describe a misunderstanding you had with someone.
-语法：祈使句表示劝说；lead sb. astray 表示“把某人带偏”。
+中文：我第一次坐滑翔机的经历太刺激了，我高兴得不得了，那股兴奋劲持续了一整天，笑得都打嗝了。
+英文：###My first flight in a glider was exhilarating, and I was so elated that the exhilaration lasted all day; I even got hiccups from laughing.###
+- 使兴奋：exhilarate · an exhilarating ride 令人兴奋的旅程
+- 欢欣鼓舞的：elated · feel elated 兴高采烈
+- 兴奋，愉快：exhilaration · a feeling of exhilaration 兴奋的感觉
+- 打嗝；小问题；打嗝：hiccup · have hiccups 打嗝
+口语练习：Part 2 · Describe a time when you felt very excited.
+语法：so ... that 引导结果状语从句；分号连接补充说明。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s014 -->
 # 雅思例句 014 · 写作
-中文：木匠学徒需要真正的天分，因为要掌握凿子的用法，往往得先熬过多年枯燥的苦活才会有回报。
-英文：###An apprentice carpenter needs real aptitude, as mastering the chisel often means years of drudgery before any reward.###
-- 学徒；使当学徒：apprentice · an apprentice electrician 电工学徒
-- 天资，才能：aptitude · an aptitude for languages 语言天赋
-- 凿子；凿：chisel · a stone chisel 石凿
-- 苦差事，单调乏味的工作：drudgery · household drudgery 繁琐的家务
-语法：as 引导原因状语从句；动名词短语 mastering the chisel 作从句的主语。
+中文：大学对剽窃处理得很严：引用不严谨，或者改写原文时粗心大意，都可能导致被开除。
+英文：###Universities treat plagiarism severely: lax referencing or careless attempts to paraphrase sources can lead to expulsion.###
+- 剽窃：plagiarism · accused of plagiarism 被指控剽窃
+- 松懈的：lax · lax security 安保松懈
+- 改述；释义：paraphrase · paraphrase a passage 改写一段文字
+- 开除；驱逐：expulsion · expulsion from school 被学校开除
+语法：冒号后具体说明；不定式 to paraphrase 作 attempts 的后置定语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s015 -->
 # 雅思例句 015 · 语法
-中文：现在许多银行用来验证客户身份的是生物识别技术，而不是密码，因为指纹不容易被伪造。
-英文：###It is biometrics, rather than passwords, that many banks now use to authenticate customers, since fingerprints cannot easily be counterfeited.###
-- 生物识别技术：biometrics · biometrics such as face scans 人脸扫描等生物识别技术
-- 鉴定，验证：authenticate · authenticate a painting 鉴定画作
-- 指纹；采指纹：fingerprint · leave fingerprints 留下指纹
-- 伪造；伪造的：counterfeit · counterfeit money 假钞
-问：你想说「现在许多银行用来验证客户身份的是生物识别技术，而不是密码，因为指纹不容易被伪造」（强调“……用的是……而不是……”），英语怎么说？
-要点：It is ... that ... 强调 use 的宾语 biometrics；since 引导原因状语从句。（动词形式）is 与 now 呼应用一般现在时；use 用原形：主语 banks 是复数；cannot be counterfeited 是情态动词加被动：指纹“被伪造”。
+中文：银行用来验证客户身份的是生物识别，而不是密码，因为指纹可以识别个人，又很难复制。
+英文：###It is biometrics, not passwords, that the bank uses to authenticate clients, since fingerprints are identifiable and hard to replicate.###
+- 生物识别技术：biometrics · biometrics data 生物识别数据
+- 验证；鉴定：authenticate · authenticate a user 验证用户身份
+- 可识别的：identifiable · easily identifiable 容易辨认的
+- 复制；重复：replicate · replicate an experiment 重复实验
+问：你想说「银行用来验证客户身份的是生物识别，而不是密码，因为指纹可以识别个人，又很难复制」（强调“……用的是……而不是……”），英语怎么说？
+要点：It is ... that ... 强调 uses 的宾语 biometrics；since 引导原因状语从句。（动词形式）It is ... that ... 强调宾语 biometrics；since 引导原因状语从句。
 语法：强调句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s016 -->
 # 雅思例句 016 · 口语
-中文：快拿望远镜！我们根本不用跑远：瀑布上方那些身手灵巧的鸟一直在俯冲抓鱼。
-英文：###Grab the binoculars! We didn't need to go far afield: those acrobatic birds above the cascade keep diving for fish.###
-- 双筒望远镜：binoculars · a pair of binoculars 一副双筒望远镜
-- 远离家乡；在远处：afield · far afield 远处
-- 杂技的；灵巧的：acrobatic · acrobatic skills 杂技技巧
-- 小瀑布；一连串；倾泻：cascade · a cascade of water 一道瀑布
-口语练习：Part 1 · Do you enjoy watching birds or other wildlife?
-语法：keep doing 表示“不断做……”；冒号后面说明原因。
+中文：团队合作是我的强项，因为我性格外向，但我那个话少的姐姐喜欢一个人干活，所以我常替她去和别人沟通。
+英文：###Teamwork is my forte since I'm an extrovert, but my reticent sister prefers working alone, so I often liaise with others for her.###
+- 长处，特长：forte · Cooking is not my forte. 做饭不是我的强项。
+- 性格外向的人；外向的：extrovert · a natural extrovert 天生外向的人
+- 沉默寡言的：reticent · be reticent about 对……保持沉默
+- 联络：liaise · liaise with 与……联络
+口语练习：Part 1 · Do you prefer working alone or in a team?
+语法：since 引导原因状语从句；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s017 -->
@@ -219,7 +221,6 @@ per_day: 1
 # 雅思例句 018 · 语法
 中文：从冲积平原出土的各种文物正按时间顺序在市博物馆展出。
 英文：###Assorted artefacts excavated from the alluvial plain are being displayed in chronological order at the city museum.###
-- 各种各样的，什锦的：assorted · assorted chocolates 什锦巧克力
 - 人工制品，文物：artefact · ancient artefacts 古代文物
 - 挖掘，发掘：excavate · excavate a site 发掘遗址
 - 冲积的：alluvial · alluvial soil 冲积土
@@ -254,86 +255,87 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s021 -->
 # 雅思例句 021 · 语法
-中文：那个胆大的女孩攥紧拳头，面对一连串辱骂毫不退让，决心为被欺负的朋友讨回公道。
-英文：###Clenching her fists, the brazen girl stood her ground against a barrage of insults, determined to avenge her bullied friend.###
-- 握紧，咬紧：clench · clench one's teeth 咬紧牙关
-- 厚颜无耻的；大胆的：brazen · a brazen lie 无耻的谎言
-- 连珠炮似的一连串；拦河坝：barrage · a barrage of questions 一连串问题
-- 为……报仇：avenge · avenge a death 为某人之死报仇
-问：你想说「那个胆大的女孩攥紧拳头，面对一连串辱骂毫不退让，决心为被欺负的朋友讨回公道」（描述“一边……一边……”的伴随动作），英语怎么说？
-要点：Clenching her fists 作伴随状语；determined to ... 是过去分词短语作状语。（动词形式）Clenching 用现在分词：女孩主动攥拳；stood 用过去时；determined 是过去分词，表示“下定决心的”状态；bullied 是过去分词：朋友“被欺负”。
+中文：新手站在高空秋千上慢慢呼气，稳住身体，决心克服恐高症。
+英文：###Exhaling slowly, the novice on the trapeze steadied herself, determined to surmount her phobia of heights.###
+- 呼气：exhale · inhale and exhale 吸气和呼气
+- 新手：novice · a complete novice 十足的新手
+- 高空秋千：trapeze · a trapeze artist 空中飞人
+- 克服：surmount · surmount difficulties 克服困难
+- 恐惧症：phobia · a phobia of spiders 蜘蛛恐惧症
+问：你想说「新手站在高空秋千上慢慢呼气，稳住身体，决心克服恐高症」（描述“一边……一边……”的伴随动作），英语怎么说？
+要点：Exhaling slowly 作伴随状语；determined to ... 是过去分词短语作状语。（动词形式）Exhaling slowly 是现在分词作伴随状语；determined to ... 是过去分词短语作状语。
 语法：现在分词作状语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s022 -->
 # 雅思例句 022 · 口语
-中文：牛奶盒鼓起来了，因为冰箱的密封条不严实了；我们买台带像样温控器的新冰箱吧。
-英文：###The milk carton is bulging because the fridge seal isn't airtight; let's buy a new one with a proper thermostat.###
-- 纸盒，纸箱：carton · a carton of milk 一盒牛奶
-- 鼓起，膨胀；凸起：bulge · bulge with 塞满
-- 密封的；无懈可击的：airtight · an airtight container 密封容器
-- 恒温器，温控器：thermostat · set the thermostat 调节温控器
-口语练习：Part 1 · Have you ever had a problem with a household appliance?
-语法：because 引导原因状语从句；one 指代 fridge。
+中文：我很喜欢那些大厅富丽堂皇的新古典主义博物馆，不过现代主义的抽象风格我有点看不懂。
+英文：###I adore neoclassical museums with opulent halls, though I find the abstraction of modernism a bit confusing.###
+- 新古典主义的：neoclassical · neoclassical architecture 新古典主义建筑
+- 华丽的；富裕的：opulent · an opulent palace 富丽堂皇的宫殿
+- 抽象；抽象概念：abstraction · the abstraction of modern art 现代艺术的抽象性
+- 现代主义：modernism · architectural modernism 建筑现代主义
+口语练习：Part 1 · Do you like visiting museums?
+语法：with opulent halls 作后置定语；find + 宾语 + 形容词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s023 -->
 # 雅思例句 023 · 写作
-中文：国际化大都市表明，不同文化可以和谐共存，多元的顾客群让餐馆和文化场所生意兴隆。
-英文：###Cosmopolitan cities show that different cultures can coexist, and their diverse clientele keeps restaurants and cultural venues thriving.###
-- 世界性的，国际化的：cosmopolitan · a cosmopolitan city 国际化都市
-- 共存：coexist · coexist peacefully 和平共处
-- （总称）顾客，客户：clientele · a loyal clientele 忠实的客户群
-- 文化的：cultural · cultural heritage 文化遗产
-语法：that 引导宾语从句；keep + 宾语 + 现在分词，表示“使……保持某种状态”。
+中文：青少年犯罪往往始于逃学的学生混进帮派，所以学校应该及早发现可能走上歧途的学生，并给予激励和支持。
+英文：###Teenage delinquency often begins when truant pupils drift into gangs, so schools should identify potential delinquents early and offer motivational support.###
+- 违法行为；失职：delinquency · juvenile delinquency 青少年犯罪
+- 逃学者；逃学的：truant · play truant 逃学
+- 违法者；违法的；拖欠的：delinquent · a juvenile delinquent 少年犯
+- 激励的：motivational · a motivational speech 激励人心的演讲
+语法：when 引导时间状语从句；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s024 -->
 # 雅思例句 024 · 语法
-中文：在百年庆典上，最让来宾惊叹的是那支由 500 人组成的庞大合唱团。
-英文：###What astounds visitors at the centenary celebration is the colossal choir of 500 singers.###
-- 使震惊，使惊愕：astound · be astounded by 对……感到震惊
-- 一百周年纪念；百年的：centenary · the centenary of his birth 他诞辰一百周年
-- 巨大的，庞大的：colossal · a colossal statue 巨型雕像
-- 合唱团，唱诗班：choir · a church choir 教堂唱诗班
-问：你想说「在百年庆典上，最让来宾惊叹的是那支由 500 人组成的庞大合唱团」（强调“最让……的是……”），英语怎么说？
-要点：What 引导主语从句，谓语用单数 is。（动词形式）astounds 用单数：what 作从句主语；is 用单数：what 从句作主语看作单数。
+中文：最让参观者惊叹的是天文馆的穹顶，天体在上面缓缓移动，场面令人着迷。
+英文：###What astounds visitors most is the planetarium's dome, where celestial bodies drift in a hypnotic show.###
+- 使震惊：astound · be astounded by 对……感到震惊
+- 天文馆：planetarium · visit a planetarium 参观天文馆
+- 天体的；天空的：celestial · celestial bodies 天体
+- 催眠的；令人着迷的：hypnotic · a hypnotic rhythm 令人着迷的节奏
+问：你想说「最让参观者惊叹的是天文馆的穹顶，天体在上面缓缓移动，场面令人着迷」（强调“最让……的是……”），英语怎么说？
+要点：What 引导主语从句，谓语用单数 is。（动词形式）What 引导主语从句，谓语用单数 is；where 引导非限制性定语从句。
 语法：主语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s025 -->
 # 雅思例句 025 · 口语
-中文：小心！浪这么大，船可能会翻，别再蹦蹦跳跳了，快把救生衣扣好。
-英文：###Careful! Amidst these waves the boat might capsize, so stop cavorting around and buckle your life jacket.###
-- 在……中间：amidst · amidst the chaos 在一片混乱中
-- （船）倾覆：capsize · the boat capsized 船翻了
-- 欢跃，蹦蹦跳跳：cavort · cavort around 嬉戏打闹
-- 扣紧；（受压）变形；带扣：buckle · buckle a seat belt 系好安全带
-口语练习：Part 2 · Describe an exciting experience you had on the water.
-语法：so 连接表示结果的并列分句；stop doing 表示“停止做……”。
+中文：很多人出于怀旧会留着旧碗碟；我奶奶有个破旧的柜子，里面乱七八糟地塞满了有缺口的盘子。
+英文：###Many people keep old crockery out of nostalgia; my grandma has a decrepit cupboard stuffed with a jumble of chipped plates.###
+- 陶器；碗碟：crockery · wash the crockery 洗碗碟
+- 怀旧：nostalgia · a sense of nostalgia 怀旧之情
+- 破旧的；衰老的：decrepit · a decrepit building 破败的楼房
+- 混乱的一堆；混杂：jumble · a jumble of clothes 一堆乱糟糟的衣服
+口语练习：Part 3 · Why do some people find it hard to throw old things away?
+语法：out of nostalgia 表示原因；stuffed with ... 作后置定语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s026 -->
 # 雅思例句 026 · 写作
-中文：新来的管理人员计划把病历电脑化，并整理汇总各临床科室的数据。
-英文：###The new administrator plans to computerize patient records and collate data from every clinical department.###
-- 管理人员，行政人员：administrator · a school administrator 学校行政人员
-- 使计算机化：computerize · computerize records 用电脑管理档案
-- 整理，核对：collate · collate information 整理资料
-- 临床的；冷静客观的：clinical · clinical trials 临床试验
-语法：不定式 to computerize ... and collate ... 作 plans 的宾语。
+中文：电信网络加快了商业往来，但也助长了那些在社交媒体上泛滥、来去匆匆的谣言的传播。
+英文：###Telecommunication networks speed up commerce, but they also aid the dissemination of ephemeral rumours that pervade social media.###
+- 电信：telecommunication · telecommunication networks 电信网络
+- 传播，散布：dissemination · the dissemination of information 信息传播
+- 短暂的：ephemeral · ephemeral fame 昙花一现的名声
+- 弥漫，遍布：pervade · pervade the air 弥漫在空气中
+语法：but 表示转折；that 引导定语从句修饰 rumours。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s027 -->
 # 雅思例句 027 · 语法
-中文：人们期待一次罕见的天文现象即将出现，这吸引了成千上万兴奋的业余天文爱好者，他们花了几个小时校准望远镜。
-英文：###The anticipation that a rare celestial event was coming drew thousands of animated amateur astronomers, who calibrated their telescopes for hours.###
-- 期待，预期：anticipation · in anticipation of 预料到
-- 天空的，天体的：celestial · celestial bodies 天体
-- 使有生气；有生命的：animate · an animated discussion 热烈的讨论
-- 校准，标定：calibrate · calibrate an instrument 校准仪器
-问：你想说「人们期待一次罕见的天文现象即将出现，这吸引了成千上万兴奋的业余天文爱好者，他们花了几个小时校准望远镜」（说明“期待……”这件事的具体内容），英语怎么说？
-要点：that 引导同位语从句，说明 anticipation 的内容；who 引导非限制性定语从句。（动词形式）was coming 用过去进行时：当时即将发生；drew、calibrated 用过去时。
+中文：人们期待剧团演出压轴戏，粉丝们在拱廊外挤了好几个小时。
+英文：###The anticipation that the troupe would perform its finale drew fans, who jostled outside the arcade for hours.###
+- 剧团：troupe · a dance troupe 舞蹈团
+- 终曲；压轴戏：finale · a grand finale 盛大的压轴演出
+- 推挤：jostle · jostle for position 争抢位置
+- 拱廊；游乐厅：arcade · a shopping arcade 带顶棚的商业街
+问：你想说「人们期待剧团演出压轴戏，粉丝们在拱廊外挤了好几个小时」（说明“期待……”这件事的具体内容），英语怎么说？
+要点：that 引导同位语从句，说明 anticipation 的内容；who 引导非限制性定语从句。（动词形式）that 引导同位语从句，说明 anticipation 的内容；would perform 是过去将来时。
 语法：同位语从句
 <!-- /leiji-note -->
 
@@ -343,7 +345,6 @@ per_day: 1
 英文：###Our new courier is deft and stylish; he never creases the parcels, even in a downpour.###
 - 快递员；快递公司：courier · send by courier 快递寄送
 - 灵巧的，熟练的：deft · deft fingers 灵巧的手指
-- 时髦的，有格调的：stylish · a stylish dress 时髦的连衣裙
 - 弄皱；折痕：crease · iron out the creases 熨平褶皱
 - 倾盆大雨：downpour · a sudden downpour 一阵大雨
 口语练习：Part 1 · Do you often have parcels delivered to your home?
@@ -352,49 +353,49 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s029 -->
 # 雅思例句 029 · 写作
-中文：双边贸易谈判陷入僵局，但双方同意在气候问题上开展合作，以平衡彼此之间的分歧。
-英文：###Bilateral trade talks reached a deadlock, but both sides agreed to cooperation on climate issues to counterbalance their disputes.###
-- 双边的：bilateral · bilateral relations 双边关系
-- 僵局：deadlock · break the deadlock 打破僵局
-- 合作：cooperation · in cooperation with 与……合作
-- 抵消，平衡；平衡力：counterbalance · counterbalance the effect 抵消影响
-语法：but 表示转折；不定式 to counterbalance ... 作目的状语。
+中文：候鸟依赖湿地生存，但排水和杀虫剂消灭了它们赖以为食的幼虫和蚯蚓。
+英文：###Migratory birds rely on wetlands, but drainage and pesticides exterminate the larvae and earthworms on which they feed.###
+- 迁徙的：migratory · migratory birds 候鸟
+- 消灭，根除：exterminate · exterminate pests 消灭害虫
+- 幼虫：larva · insect larvae 昆虫幼虫
+- 蚯蚓：earthworm · earthworms in the soil 土壤里的蚯蚓
+语法：but 表示转折；on which 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s030 -->
 # 雅思例句 030 · 语法
-中文：无论这位专制的国王看上去多么仁慈，他那些野蛮的法律都让普通百姓首当其冲，承受每一次危机的冲击。
-英文：###However benevolent the autocratic king appeared, his barbaric laws made ordinary citizens bear the brunt of every crisis.###
-- 仁慈的，慈善的：benevolent · a benevolent smile 慈祥的微笑
-- 独裁的，专制的：autocratic · an autocratic ruler 专制统治者
-- 野蛮的，残暴的：barbaric · a barbaric act 野蛮行为
-- 主要冲击：brunt · bear the brunt of 首当其冲
-问：你想说「无论这位专制的国王看上去多么仁慈，他那些野蛮的法律都让普通百姓首当其冲，承受每一次危机的冲击」（表达“无论多么……也……”），英语怎么说？
-要点：However + 形容词 + 主语 + 谓语，表示“无论多么……”。（动词形式）appeared 用过去时；made ... bear：make + 宾语 + 不带 to 的不定式。
+中文：无论一个家庭多么节俭，高得离谱的房租和附加费仍会蚕食它那点微薄的积蓄。
+英文：###However frugal a family may be, exorbitant rents and surcharges can still erode its meagre savings.###
+- 节俭的：frugal · a frugal lifestyle 节俭的生活方式
+- 过高的：exorbitant · exorbitant prices 高得离谱的价格
+- 附加费；收取附加费：surcharge · a fuel surcharge 燃油附加费
+- 微薄的，不足的：meagre · a meagre income 微薄的收入
+问：你想说「无论一个家庭多么节俭，高得离谱的房租和附加费仍会蚕食它那点微薄的积蓄」（表达“无论多么……也……”），英语怎么说？
+要点：However + 形容词 + 主语 + 谓语，表示“无论多么……”。（动词形式）However + 形容词 + 主语 + 谓语 表示“无论多么……”；can still erode 表示可能。
 语法：让步状语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s031 -->
 # 雅思例句 031 · 口语
-中文：你会说两种语言，去参加领事馆音乐会的试演吧；要是不顺利，我们就一起喝杯咖啡互相安慰。
-英文：###You're bilingual, so try the audition for the consulate's concert; if it goes badly, we'll commiserate over coffee.###
-- 双语的；会说两种语言的人：bilingual · a bilingual dictionary 双语词典
-- 试演，试镜；试演：audition · an audition for a role 角色试镜
-- 领事馆：consulate · the Chinese consulate 中国领事馆
-- 同情，安慰：commiserate · commiserate with sb. 安慰某人
-口语练习：Part 2 · Describe a talent or skill you would like to show other people.
-语法：if 引导条件状语从句，用一般现在时表示将来。
+中文：我很喜欢一部电影，情节扣人心弦，摄影也非常出色，对大海的呈现无与伦比。
+英文：###I loved a film whose storyline was gripping and whose cinematography was stunning; its rendition of the sea was unparalleled.###
+- 故事情节：storyline · a gripping storyline 扣人心弦的情节
+- 电影摄影术：cinematography · award-winning cinematography 获奖的摄影
+- 演绎；表现：rendition · a moving rendition 动人的演绎
+- 无与伦比的：unparalleled · unparalleled success 空前的成功
+口语练习：Part 2 · Describe a film you enjoyed watching.
+语法：两个 whose 引导定语从句修饰 film。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s032 -->
 # 雅思例句 032 · 写作
-中文：迅速发展的城市往往拥挤不堪，因此规划者把公民参与视为任何长久之策的支柱。
-英文：###Burgeoning cities often become congested, so planners regard civic engagement as the backbone of any lasting solution.###
-- 迅速发展，激增：burgeon · a burgeoning industry 蓬勃发展的产业
-- 拥挤的，堵塞的：congested · congested roads 拥堵的道路
-- 城市的；公民的：civic · civic duty 公民义务
-- 脊梁；支柱：backbone · the backbone of the economy 经济支柱
-语法：regard A as B 表示“把 A 看作 B”。
+中文：当捕食者消失时，鹿这类食草动物会泛滥成灾，啃光幼树，阻碍森林再生。
+英文：###Herbivores such as deer can overrun forests when predators vanish, stripping young trees and impeding regeneration.###
+- 食草动物：herbivore · large herbivores 大型食草动物
+- 泛滥；超出；超支：overrun · be overrun with 被……占满
+- 妨碍：impede · impede progress 阻碍进展
+- 再生；复兴：regeneration · urban regeneration 城市复兴
+语法：when 引导时间状语从句；stripping、impeding 作结果状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s033 -->
@@ -412,49 +413,49 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s034 -->
 # 雅思例句 034 · 口语
-中文：赛跑之后我小腿疼，长时间弯着腰坐在桌前，颈椎也很酸；我得去扎针灸了！
-英文：###My calf hurts after the race, and my cervical spine aches from sitting bent over my desk; I need acupuncture!###
-- 小腿肚；小牛：calf · calf muscles 小腿肌肉
-- 颈部的；子宫颈的：cervical · cervical spine 颈椎
-- 弯曲的；天赋：bent · bent over 弯着腰
-- 针灸：acupuncture · have acupuncture 做针灸
-口语练习：Part 1 · How do you feel after doing a lot of exercise?
-语法：from 引出原因；bent over my desk 是形容词短语作伴随状语。
+中文：我的猫既善变又挑剔，天一亮就缠着我要吃的，谁要是说它不好，我还有点不高兴。
+英文：###My cat is fickle and fastidious; she pesters me for food at dawn, and I'm a bit touchy when anyone criticizes her.###
+- 善变的：fickle · fickle weather 多变的天气
+- 挑剔的；一丝不苟的：fastidious · fastidious about food 对食物很挑剔
+- 纠缠，烦扰：pester · pester sb. for 缠着某人要
+- 敏感的；易怒的：touchy · a touchy subject 敏感话题
+口语练习：Part 1 · Do you like animals or keep any pets?
+语法：分号连接两个分句；when 引导时间状语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s035 -->
 # 雅思例句 035 · 写作
-中文：气候变化给一些地区带来灾难性的干旱，那里的干旱迫使农民背井离乡，而另一些地区则遭遇倾盆暴雨。
-英文：###Climatic shifts bring catastrophic droughts to some regions, where aridity drives farmers away, and a deluge of rain to others.###
-- 气候的：climatic · climatic change 气候变化
-- 灾难性的：catastrophic · catastrophic consequences 灾难性后果
-- 干旱，干燥：aridity · the aridity of the desert 沙漠的干旱
-- 洪水，暴雨；大量：deluge · a deluge of complaints 大量投诉
-语法：bring A to B and C to D 是两组并列的宾语；where 引导非限制性定语从句。
+中文：气候变化加大了降水的不稳定性，温带地区的农民因此面临干旱和洪涝带来的重大损失。
+英文：###Climate change has increased the variability of precipitation, so farmers in temperate zones face consequential losses from drought and floods.###
+- 变化性；可变性：variability · climate variability 气候多变性
+- 降水；沉淀：precipitation · annual precipitation 年降水量
+- 温和的；温带的：temperate · a temperate climate 温和的气候
+- 重大的；随之发生的：consequential · consequential damage 间接损失
+语法：has increased 用现在完成时；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s036 -->
 # 雅思例句 036 · 语法
-中文：直到陈旧的机器被更换后，这家由财团所有的工厂才达到合规要求，并制定了应急预案。
-英文：###Only after its antiquated machines were replaced did the plant, owned by a consortium, achieve compliance and draw up a contingency plan.###
-- 陈旧的，过时的：antiquated · antiquated laws 过时的法律
-- 财团，联合企业：consortium · a banking consortium 银行财团
-- 遵守，合规：compliance · in compliance with 按照，遵守
-- 意外事件，偶然性：contingency · a contingency plan 应急预案
-问：你想说「直到陈旧的机器被更换后，这家由财团所有的工厂才达到合规要求，并制定了应急预案」（强调“直到……之后才……”），英语怎么说？
-要点：Only after ... 位于句首时，主句部分倒装（did + 主语 + 动词原形）；owned by ... 是过去分词短语作插入的定语。（动词形式）were replaced 是一般过去时的被动：机器“被更换”；did ... achieve：did 提前，achieve 用原形；owned 是过去分词：工厂“被拥有”。
+中文：直到这座曾属于一位前摄政王的宅邸对外开放后，学者们才破译出刻在墙上的图案。
+英文：###Only after the mansion, owned by a former regent, was opened to the public did scholars decipher the motifs inscribed on its walls.###
+- 摄政者：regent · the Prince Regent 摄政王
+- 破译，辨认：decipher · decipher a code 破译密码
+- 图案；主题：motif · a floral motif 花卉图案
+- 刻；题写：inscribe · be inscribed on 被刻在……上
+问：你想说「直到这座曾属于一位前摄政王的宅邸对外开放后，学者们才破译出刻在墙上的图案」（强调“直到……之后才……”），英语怎么说？
+要点：Only after ... 位于句首时，主句部分倒装（did + 主语 + 动词原形）；owned by ... 是过去分词短语作插入的定语。（动词形式）Only after ... 位于句首，主句部分倒装（did + 主语 + 动词原形）；was opened 是被动。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s037 -->
 # 雅思例句 037 · 写作
-中文：青春期情绪的唤起达到顶峰，所以攻击性可能只是一个阶段，而不是对父母真正的敌意。
-英文：###During adolescence, emotional arousal peaks, so aggressiveness may be a phase rather than real antagonism toward parents.###
-- 青春期：adolescence · during adolescence 在青春期
-- 激发，唤起；兴奋：arousal · emotional arousal 情绪唤起
-- 攻击性；进取心：aggressiveness · a sign of aggressiveness 攻击性的表现
-- 对抗，敌意：antagonism · antagonism toward 对……的敌意
-语法：so 连接表示结果的分句；rather than 连接两个并列的表语。
+中文：向店主勒索钱财、破坏他们摊位的帮派制造恐慌，使当地警察的努力付诸东流。
+英文：###Gangs that extort money from shopkeepers or sabotage their stalls incite fear and nullify the efforts of local police.###
+- 勒索：extort · extort money from 向……勒索钱财
+- 蓄意破坏；破坏：sabotage · sabotage a plan 破坏计划
+- 煽动；激起：incite · incite violence 煽动暴力
+- 使无效；抵消：nullify · nullify a contract 使合同无效
+语法：that 引导定语从句修饰 gangs；incite 和 nullify 是并列谓语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s038 -->
@@ -472,72 +473,73 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s039 -->
 # 雅思例句 039 · 口语
-中文：我那个金发表妹对电影摄影特别着迷，正在拍一部关于我们镇百年纪念的片子。
-英文：###My blonde cousin is so ardent about cinematography that she's making a film about our town's centennial.###
-- 金发的；金发女子：blonde · blonde hair 金发
-- 热情的，热心的：ardent · an ardent supporter 热心的支持者
-- 电影摄影术：cinematography · award for cinematography 最佳摄影奖
-- 一百周年；百年的：centennial · the centennial celebration 百年庆典
-口语练习：Part 2 · Describe a person you know who is passionate about a hobby.
-语法：so ... that 引导结果状语从句。
+中文：我觉得过节的习俗仍然重要，不过对年轻人来说，虔诚往往让位给了平淡的购物和单调的例行公事。
+英文：###I think observance of festivals still matters, though for young people piety has often given way to mundane shopping and humdrum routines.###
+- 遵守；（宗教）仪式：observance · religious observance 宗教仪式
+- 虔诚：piety · filial piety 孝道
+- 平凡的，世俗的：mundane · mundane tasks 日常琐事
+- 单调的：humdrum · a humdrum life 单调的生活
+口语练习：Part 3 · Are traditional festivals still important to young people?
+语法：think 后接省略 that 的宾语从句；give way to 表示“让位于”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s040 -->
 # 雅思例句 040 · 写作
-中文：航空学专业的学生研究鸟类翅膀结构中的不对称性，并在模型飞机上安装传感器，测试更高效的设计。
-英文：###Aeronautics students study the asymmetry in birds' wing anatomy and affix sensors to model planes to test more efficient designs.###
-- 航空学：aeronautics · a degree in aeronautics 航空学学位
-- 不对称：asymmetry · facial asymmetry 面部不对称
-- 解剖学；解剖结构：anatomy · human anatomy 人体解剖学
-- 粘贴，附上；词缀：affix · affix a stamp 贴邮票
-语法：and 连接两个并列谓语；不定式 to test ... 作目的状语。
+中文：物质主义文化鼓励人们炫富，但这种炫耀往往掩盖着深深的不安和幻灭感。
+英文：###A materialistic culture encourages people to flaunt wealth, yet such ostentation often masks deep insecurity and disillusionment.###
+- 物质主义的：materialistic · a materialistic society 物质至上的社会
+- 炫耀：flaunt · flaunt one's wealth 炫富
+- 炫耀，卖弄：ostentation · without ostentation 不事张扬
+- 幻灭：disillusionment · a sense of disillusionment 幻灭感
+语法：encourage sb. to do 表示“鼓励某人做”；yet 表示转折。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s041 -->
 # 雅思例句 041 · 语法
-中文：一些官员强迫寻求庇护的人签署文件，而且他们的权利一直受到如此严格的限制，这令人憎恶。
-英文：###It is abhorrent that some officials coerce asylum seekers into signing papers and that their rights remain so tightly circumscribed.###
-- 可恶的，令人憎恶的：abhorrent · be abhorrent to 令……憎恶
-- 强迫，胁迫：coerce · coerce sb. into doing 强迫某人做
-- 庇护；精神病院：asylum · seek asylum 寻求庇护
-- 限制，约束：circumscribe · circumscribe one's freedom 限制自由
-问：你想说「一些官员强迫寻求庇护的人签署文件，而且他们的权利一直受到如此严格的限制，这令人憎恶」（表达“……这件事令人……”的评价），英语怎么说？
-要点：it 是形式主语，真正的主语是两个并列的 that 从句，第二个 that 不能省略。（动词形式）coerce、remain 用一般现在时：说明现状；circumscribed 是过去分词：权利“被限制”。
+中文：这家公司挪用资金，监管机构竟然默许这种贪污行为，实在荒唐。
+英文：###It is ludicrous that the firm misappropriated funds and that the regulator gave tacit approval to such embezzlement.###
+- 荒唐的，可笑的：ludicrous · a ludicrous idea 荒唐的想法
+- 挪用，盗用：misappropriate · misappropriate public funds 挪用公款
+- 心照不宣的，默许的：tacit · tacit approval 默许
+- 贪污，挪用：embezzlement · charged with embezzlement 被控贪污
+问：你想说「这家公司挪用资金，监管机构竟然默许这种贪污行为，实在荒唐」（表达“……这件事令人……”的评价），英语怎么说？
+要点：it 是形式主语，真正的主语是两个并列的 that 从句，第二个 that 不能省略。（动词形式）it 是形式主语，真正的主语是两个并列的 that 从句；misappropriated、gave 用过去时。
 语法：it 形式主语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s042 -->
 # 雅思例句 042 · 写作
-中文：与杂乱无章的人群不同，蜂巢有着惊人的凝聚力：每只蜜蜂都有分配好的任务。
-英文：###Unlike an amorphous crowd, a beehive shows remarkable cohesion: every bee has an allotted task.###
-- 无定形的，杂乱无章的：amorphous · an amorphous mass 一团没有定形的东西
-- 蜂箱，蜂巢：beehive · a busy beehive 热闹的蜂巢
-- 凝聚力，团结：cohesion · social cohesion 社会凝聚力
-- 分配，拨给：allot · allot time to 给……分配时间
-语法：unlike 是介词，表示“与……不同”；冒号后面具体说明 cohesion。
+中文：预制房屋为解决住房短缺提供了权宜之计，但批评者担心这样的楼房会显得单调平庸。
+英文：###Prefabricated housing offers an expedient remedy for shortages, although critics fear such blocks may look dreary and mediocre.###
+- 预制：prefabricate · prefabricated houses 预制房屋
+- 权宜的；有利的；权宜之计：expedient · a political expedient 政治权宜之计
+- 沉闷的：dreary · a dreary day 阴沉的一天
+- 平庸的：mediocre · mediocre work 平庸的作品
+语法：although 引导让步状语从句；fear 后接省略 that 的宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s043 -->
 # 雅思例句 043 · 口语
-中文：抱歉吵吵嚷嚷的！我坐的通勤火车坏了，只好绕道穿过那片沉闷的工业区。
-英文：###Sorry about the commotion! My commuter train broke down, so I took a detour through the dreary industrial area.###
-- 骚动，喧闹：commotion · cause a commotion 引起骚动
-- 通勤者；通勤的：commuter · a commuter train 通勤列车
-- 绕道，弯路；绕道：detour · make a detour 绕道而行
-- 沉闷的，阴郁的：dreary · a dreary day 阴沉的一天
-口语练习：Part 1 · How do you usually travel to work or school?
-语法：so 连接表示结果的分句。
+中文：我很喜欢水族馆，最喜欢的水箱里有灵活的两栖动物，还有一只怪模怪样的生物，触手在水里像在嬉戏。
+英文：###I love aquariums; my favourite tank has agile amphibians and a strange creature whose tentacles seem to cavort in the water.###
+- 水族馆；鱼缸：aquarium · a public aquarium 公共水族馆
+- 敏捷的：agile · an agile mind 思维敏捷
+- 两栖动物；两栖的：amphibian · frogs and other amphibians 青蛙和其他两栖动物
+- 触手：tentacle · an octopus's tentacles 章鱼的触手
+- 欢跃，嬉戏：cavort · cavort around 欢蹦乱跳
+口语练习：Part 1 · Did you visit aquariums or zoos when you were a child?
+语法：whose 引导定语从句；seem to do 表示“似乎在做”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s044 -->
 # 雅思例句 044 · 写作
-中文：过多看屏幕不利于儿童的认知发展，所以学校限制使用手机，营造更有利于学习的课堂环境。
-英文：###Excessive screen time is detrimental to children's cognition, so schools curtail phone use to create classrooms more conducive to learning.###
-- 有害的，不利的：detrimental · be detrimental to 对……有害
-- 认知：cognition · human cognition 人类认知
-- 削减，限制：curtail · curtail spending 削减开支
-- 有助于……的：conducive · be conducive to 有助于
-语法：be detrimental to 表示“对……有害”；不定式 to create ... 作目的状语。
+中文：化石记录表明，最早的脊椎动物是没有固定形状的生物，它们的基因突变逐渐产生了脊柱。
+英文：###The fossil record suggests that the earliest vertebrates were amorphous creatures whose mutations gradually produced backbones.###
+- 脊椎动物；有脊椎的：vertebrate · marine vertebrates 海洋脊椎动物
+- 无定形的：amorphous · an amorphous mass 一团没有形状的东西
+- 突变：mutation · genetic mutation 基因突变
+- 脊柱；支柱：backbone · the backbone of the economy 经济支柱
+语法：that 引导宾语从句；whose 引导定语从句修饰 creatures。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s045 -->
@@ -555,73 +557,75 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s046 -->
 # 雅思例句 046 · 口语
-中文：这个填字游戏快把我逼疯了——我猜不出“fickle 的反义词”这条提示。
-英文：###This crossword is driving me crazy—I can't decipher the clue "antonym of fickle".###
-- 纵横填字游戏：crossword · do a crossword 玩填字游戏
-- 破译，辨认：decipher · decipher a code 破译密码
-- 反义词：antonym · "Hot" is the antonym of "cold". hot 是 cold 的反义词
-- 易变的，反复无常的：fickle · fickle weather 多变的天气
-口语练习：Part 1 · Do you like doing puzzles such as crosswords?
-语法：drive sb. crazy 表示“让某人抓狂”。
+中文：周末我会到很远的地方闲逛，在家时就在露台上放松，我们家的猫埋伏在蜂箱旁边，随时准备扑上去。
+英文：###At weekends I wander far afield, but at home I relax on the patio, where our cat lurks by a beehive, ready to pounce.###
+- 远离家乡：afield · far afield 很远的地方
+- 露台：patio · sit on the patio 坐在露台上
+- 潜伏：lurk · lurk in the shadows 潜伏在暗处
+- 蜂箱：beehive · a busy beehive 忙碌的蜂巢
+- 猛扑：pounce · pounce on 扑向
+口语练习：Part 1 · How do you usually spend your weekends?
+语法：where 引导非限制性定语从句；ready to pounce 作伴随状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s047 -->
 # 雅思例句 047 · 写作
-中文：海平面上升侵蚀着沿海堤岸、淹没低洼农田，加速了肥沃土壤的流失。
-英文：###Rising sea levels erode coastal embankments and drench low-lying farmland, accelerating the depletion of fertile soil.###
-- 侵蚀；逐渐削弱：erode · erode confidence 削弱信心
-- 堤岸，路堤：embankment · a railway embankment 铁路路堤
-- 使湿透：drench · be drenched in rain 被雨淋透
-- 消耗，枯竭：depletion · ozone depletion 臭氧层损耗
-语法：现在分词短语 accelerating ... 作结果状语。
+中文：气象学进步神速：卫星实时追踪对流，高性能计算机同步处理来自成千上万个观测站的数据。
+英文：###Meteorology has made meteoric progress: satellites track convection in real time, and powerful computers synchronize data from thousands of stations.###
+- 气象学：meteorology · a meteorology office 气象局
+- 迅速的；流星的：meteoric · a meteoric rise 迅速崛起
+- 对流：convection · heat convection 热对流
+- 使同步：synchronize · synchronize watches 对表
+语法：冒号后具体说明；两个分句用一般现在时。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s048 -->
 # 雅思例句 048 · 语法
-中文：直到禁运解除，遭受重创的经济才开始复苏，年轻劳动力的大量外流也才逐渐减少。
-英文：###It was not until the embargo was lifted that the devastated economy began to recover and the exodus of young workers dwindled.###
-- 禁运；禁运：embargo · lift an embargo 解除禁运
-- 摧毁；使极度悲伤：devastate · be devastated by 被……摧毁
-- 大批离开：exodus · a mass exodus 大批外流
-- 逐渐减少：dwindle · dwindle away 日渐减少
-问：你想说「直到禁运解除，遭受重创的经济才开始复苏，年轻劳动力的大量外流也才逐渐减少」（强调“直到……才……”），英语怎么说？
-要点：It was not until ... that ... 强调时间状语，表示“直到……才……”。（动词形式）was lifted 是一般过去时的被动：禁运“被解除”；began、dwindled 用过去时；devastated 是过去分词作定语：经济“被重创”。
+中文：直到季风雨减弱，救援人员才得以到达堤岸边的棚户区。
+英文：###It was not until the monsoon subsided that rescuers could reach the shanty towns along the embankment.###
+- 季风；雨季：monsoon · the monsoon season 雨季
+- 平息；下沉：subside · the flood subsided 洪水退了
+- 简陋小屋：shanty · a shanty town 棚户区
+- 堤岸；路堤：embankment · a railway embankment 铁路路堤
+问：你想说「直到季风雨减弱，救援人员才得以到达堤岸边的棚户区」（强调“直到……才……”），英语怎么说？
+要点：It was not until ... that ... 强调时间状语，表示“直到……才……”。（动词形式）It was not until ... that ... 强调时间状语；subsided 用过去时。
 语法：强调句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s049 -->
 # 雅思例句 049 · 口语
-中文：别那么挑剔——碗碟是干净的，那只是一点面包屑，再说我们的洗洁精也用完了。
-英文：###Don't be so fastidious—the crockery is clean; it's just a crumb, and we've run out of detergent anyway.###
-- 挑剔的，一丝不苟的：fastidious · fastidious about 对……很挑剔
-- （总称）陶器，碗碟：crockery · wash the crockery 洗碗碟
-- 碎屑，面包屑；少许：crumb · a crumb of comfort 一点点安慰
-- 洗涤剂：detergent · washing-up detergent 洗洁精
-口语练习：Part 1 · Who usually does the washing-up in your home?
-语法：run out of 表示“用完”；anyway 意为“反正”。
+中文：我看过一场街头表演，一位会杂技的哑剧演员站在木板上保持平衡，接着模仿了一头倔强的驴子。
+英文：###I watched a street show where an acrobatic mime balanced on a plank, then did a parody of a recalcitrant donkey.###
+- 杂技的：acrobatic · acrobatic skills 杂技技巧
+- 哑剧演员；哑剧；用手势表达：mime · a mime artist 哑剧演员
+- 厚木板：plank · walk the plank 被迫走跳板
+- 模仿；拙劣的模仿；模仿：parody · a parody of 对……的戏仿
+- 倔强的，不服从的：recalcitrant · a recalcitrant child 倔强的孩子
+口语练习：Part 2 · Describe a performance you enjoyed watching.
+语法：where 引导定语从句修饰 show；then 连接先后动作。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s050 -->
 # 雅思例句 050 · 写作
-中文：体罚很少能阻止不良行为；研究表明它会适得其反，甚至可能让孩子更容易违法乱纪。
-英文：###Corporal punishment rarely deters bad behaviour; research shows it is counterproductive and may even make children more delinquent.###
-- 肉体的，身体的；下士：corporal · corporal punishment 体罚
-- 阻止，威慑：deter · deter crime 遏制犯罪
-- 适得其反的：counterproductive · prove counterproductive 适得其反
-- 违法的；拖欠的；违法者：delinquent · juvenile delinquents 少年犯
-语法：分号连接两个关系紧密的分句；make + 宾语 + 形容词。
+中文：一批易腐食品卖不出去时，如果零售商给常客定制折扣，就能减少由此造成的损耗。
+英文：###When a consignment of perishable food goes unsold, the resulting spoilage could be cut if retailers personalized discounts for regular shoppers.###
+- 托运的货物；寄售：consignment · a consignment of goods 一批货物
+- 易腐烂的：perishable · perishable goods 易腐货物
+- 腐坏；损耗：spoilage · food spoilage 食物腐坏
+- 使个性化：personalize · personalized service 个性化服务
+语法：when 引导时间状语从句；if 从句用过去式 personalized，表示假设。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s051 -->
 # 雅思例句 051 · 语法
-中文：草药疗法是否真有疗效至今仍难以确定，因为缺乏严格的试验。
-英文：###Whether herbal remedies have real curative effects remains elusive, owing to a dearth of rigorous trials.###
-- 草药的：herbal · herbal tea 花草茶
-- 有疗效的：curative · curative properties 疗效
-- 难以捉摸的，难以达到的：elusive · an elusive goal 难以实现的目标
-- 缺乏，不足：dearth · a dearth of 缺乏
-问：你想说「草药疗法是否真有疗效至今仍难以确定，因为缺乏严格的试验」（讨论“是否……仍不确定”），英语怎么说？
-要点：Whether 引导主语从句，谓语用单数 remains；owing to 表示原因。（动词形式）have 用一般现在时：讲普遍情况；remains 用单数：whether 从句作主语看作单数。
+中文：这座火山会不会从休眠中苏醒仍不确定，因为关于火山口下面熔岩的地震数据太少。
+英文：###Whether the volcano's dormancy will end remains uncertain, owing to scarce seismic data on the molten rock beneath its crater.###
+- 休眠：dormancy · a period of dormancy 休眠期
+- 地震的：seismic · seismic activity 地震活动
+- 熔化的：molten · molten rock 熔岩
+- 火山口；弹坑：crater · a volcanic crater 火山口
+问：你想说「这座火山会不会从休眠中苏醒仍不确定，因为关于火山口下面熔岩的地震数据太少」（讨论“是否……仍不确定”），英语怎么说？
+要点：Whether 引导主语从句，谓语用单数 remains；owing to 表示原因。（动词形式）Whether 引导主语从句，谓语用单数 remains；owing to 表示原因。
 语法：主语从句
 <!-- /leiji-note -->
 
@@ -663,61 +667,63 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s055 -->
 # 雅思例句 055 · 口语
-中文：我太高兴了！我的毕业论文拿了最高分，那位荣誉退休教授还说读起来让人振奋。
-英文：###I'm so elated! My dissertation got top marks, and the emeritus professor said it was exhilarating to read.###
-- 兴高采烈的：elated · be elated at the news 听到消息很高兴
-- 学位论文，专题论文：dissertation · a doctoral dissertation 博士论文
-- 荣誉退休的：emeritus · professor emeritus 荣誉退休教授
-- 使兴奋，使高兴：exhilarate · an exhilarating experience 令人兴奋的经历
-口语练习：Part 2 · Describe an achievement you are proud of.
-语法：it was exhilarating to read 中 it 指代 dissertation，不定式 to read 修饰形容词。
+中文：市中心拥堵严重，所以我沿着河边小路骑车；我的腿以前松松垮垮的，但我下定决心要练好身体。
+英文：###Congestion is rampant downtown, so I cycle a riverside pathway; my legs were flabby, but I'm bent on getting fit.###
+- 拥挤；充血：congestion · traffic congestion 交通拥堵
+- 猖獗的：rampant · rampant inflation 恶性通货膨胀
+- 小路；途径：pathway · a pathway to success 通往成功之路
+- 松弛的；软弱无力的：flabby · flabby arms 松垮的手臂
+- 决心的；弯曲的：bent · be bent on 决心要
+口语练习：Part 1 · How do you usually travel to work or school?
+语法：so 表示结果；be bent on doing 表示“决心做”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s056 -->
 # 雅思例句 056 · 写作
-中文：不公平的税收会加剧不平等，让农村社区与政府疏远，因此政府必须确保人人都能公平地获得公共服务。
-英文：###Unfair taxation can exacerbate inequality and estrange rural communities, so governments must ensure equitable access to services.###
-- 税收，征税：taxation · high taxation 高额税收
-- 使恶化，加剧：exacerbate · exacerbate the problem 使问题恶化
-- 使疏远：estrange · be estranged from 与……疏远
-- 公平的，公正的：equitable · an equitable distribution 公平分配
-语法：so 连接表示结果的分句；must 表示必要。
+中文：经济衰退期间，公司选择紧缩开支，给年长员工提供年金让他们提前退休，并削减各部门的薪酬。
+英文：###During the recession, firms opted for retrenchment, offering older staff an annuity for early retirement and cutting departmental remuneration.###
+- 紧缩；裁员：retrenchment · economic retrenchment 经济紧缩
+- 年金：annuity · a life annuity 终身年金
+- 部门的：departmental · departmental budgets 部门预算
+- 报酬：remuneration · a generous remuneration 丰厚的报酬
+语法：offering ... 和 cutting ... 是现在分词短语作伴随状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s057 -->
 # 雅思例句 057 · 语法
-中文：火山喷发、熔岩刚顺着山坡流下来，官员们就颁布了紧急措施并派出了部队。
-英文：###Hardly had the eruption sent molten rock down the slopes when officials enacted emergency measures and deployed troops.###
-- （火山）爆发；突然发生：eruption · a volcanic eruption 火山爆发
-- 熔化的：molten · molten lava 熔岩
-- 颁布，制定（法律）；扮演：enact · enact a law 颁布法律
-- 部署，调动；有效利用：deploy · deploy troops 部署军队
-问：你想说「火山喷发、熔岩刚顺着山坡流下来，官员们就颁布了紧急措施并派出了部队」（表达“刚……就……”），英语怎么说？
-要点：Hardly had ... when ... 表示“一……就……”，主句用过去完成时并部分倒装。（动词形式）had ... sent 用过去完成时并倒装：先发生；enacted、deployed 用一般过去时：后发生。
+中文：登山者刚到达参差不齐的山顶，一阵狂风就席卷了冰川山脊，他们的决心开始动摇。
+英文：###Hardly had the climbers reached the jagged summit when a fierce gale swept the glacial ridge, and their resolve began to falter.###
+- 参差不齐的：jagged · jagged rocks 嶙峋的岩石
+- 大风：gale · a gale warning 大风警报
+- 冰川的；冰冷的：glacial · glacial ice 冰川冰
+- 动摇；蹒跚：falter · falter in one's resolve 决心动摇
+问：你想说「登山者刚到达参差不齐的山顶，一阵狂风就席卷了冰川山脊，他们的决心开始动摇」（表达“刚……就……”），英语怎么说？
+要点：Hardly had ... when ... 表示“一……就……”，主句用过去完成时并部分倒装。（动词形式）Hardly had + 主语 + 过去分词 ... when ... 表示“一……就……”；swept 用过去时。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s058 -->
 # 雅思例句 058 · 口语
-中文：衣帽间旁边的饮料机坏了，空调也坏了；你能叫一下管理员吗？
-英文：###The drinks dispenser by the cloakroom is broken, and so is the air conditioner; could you call the custodian?###
-- 自动售货机，分发器：dispenser · a soap dispenser 皂液器
-- 衣帽间；（英）洗手间：cloakroom · leave coats in the cloakroom 把外套存在衣帽间
-- 空调；护发素：conditioner · an air conditioner 空调
-- 管理员；监护人：custodian · the custodian of a museum 博物馆管理员
-口语练习：Part 1 · Have you ever reported a problem in a public building?
-语法：so is ... 表示“……也是如此”，用倒装语序。
+中文：我觉得时尚被高估了；我不追时髦的衣服，因为这种装模作样不适合学生。
+英文：###Fashion is overrated to me; I don't chase chic or modish outfits, since such pretension feels inapt for a student.###
+- 高估：overrate · an overrated film 被高估的电影
+- 时髦的；时髦：chic · a chic dress 时髦的连衣裙
+- 时髦的：modish · modish ideas 时髦的想法
+- 自命不凡；做作：pretension · without pretension 不装腔作势
+- 不适当的：inapt · an inapt comparison 不恰当的比较
+口语练习：Part 1 · Do you like wearing fashionable clothes?
+语法：since 引导原因状语从句；feel + 形容词 表示“感觉……”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s059 -->
 # 雅思例句 059 · 写作
-中文：支持者认为男女同校能自然地教会学生社交礼仪，而批评者则认为它会分散学习注意力，助长不尊重人的行为。
-英文：###Supporters say coeducation teaches social etiquette naturally, while critics argue it detracts from study and breeds disrespectful behaviour.###
-- 男女同校：coeducation · the benefits of coeducation 男女同校的好处
-- 礼仪，礼节：etiquette · social etiquette 社交礼仪
-- 贬低，减损：detract · detract from 减损，降低
-- 无礼的，不尊敬的：disrespectful · be disrespectful to 对……无礼
-语法：while 连接两个对比的分句；两个 say / argue 后面都是省略 that 的宾语从句。
+中文：银行在放款之前要求提供抵押品，要求签订赔偿条款，还要委托独立机构评估资产价值。
+英文：###Before releasing money from their coffers, banks demand collateral, require an indemnity clause and commission an independent valuation of assets.###
+- 金库；资金：coffer · the state coffers 国库
+- 抵押品；附带的：collateral · collateral damage 附带损害
+- 赔偿；保障：indemnity · an indemnity clause 赔偿条款
+- 估价：valuation · property valuation 房产估价
+语法：Before releasing ... 中 before 后接动名词；三个并列谓语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s060 -->
@@ -735,37 +741,38 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s061 -->
 # 雅思例句 061 · 口语
-中文：请节哀。人生短暂，但如果说有什么值得安慰的，那就是你奶奶的自传会让人们一直记得她。
-英文：###Please accept my condolences. Life is ephemeral, but if it's any consolation, your grandma's autobiography will keep her memory alive.###
-- 吊唁，慰问：condolence · offer one's condolences 表示慰问
-- 短暂的：ephemeral · ephemeral fame 昙花一现的名声
-- 安慰，慰藉：consolation · a consolation prize 安慰奖
-- 自传：autobiography · write an autobiography 写自传
-口语练习：Part 3 · How can people comfort a friend who has lost a family member?
-语法：if it's any consolation 是常用表达，意为“如果说能有点安慰的话”。
+中文：我十几岁时长过痘痘，现在注意预防，不用刺激性强的肥皂和磨砂膏，因为它们的摩擦可能毁坏皮肤。
+英文：###As a teen I got pimples; now I take preventative care, avoiding caustic soaps and scrubs whose abrasion could disfigure skin.###
+- 丘疹，粉刺：pimple · get pimples 长痘
+- 预防性的：preventative · preventative medicine 预防医学
+- 腐蚀性的；尖刻的：caustic · caustic remarks 尖刻的话
+- 磨损；擦伤：abrasion · skin abrasion 皮肤擦伤
+- 毁容；损坏外观：disfigure · be disfigured by 被……毁容
+口语练习：Part 1 · How do you take care of your health or appearance?
+语法：avoiding ... 作伴随状语；whose 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s062 -->
 # 雅思例句 062 · 写作
-中文：批评者认为，广告助长了铺张浪费，而剥削性的放贷机构则以高得离谱的利率引诱年轻人借债。
-英文：###Critics say advertising fuels extravagance, while exploitative lenders entice young people into debt at exorbitant interest rates.###
-- 奢侈，铺张：extravagance · a life of extravagance 奢侈的生活
-- 剥削的：exploitative · exploitative labour 剥削性的劳动
-- 诱惑，引诱：entice · entice sb. into doing 诱使某人做
-- 过高的，昂贵的：exorbitant · exorbitant prices 天价
-语法：while 连接两个对比的分句；entice sb. into sth. 表示“引诱某人陷入……”。
+中文：在城市里，交通持续不断的喧闹声常常超过 70 分贝，这样的嘈杂会扰乱睡眠。
+英文：###In a city, the constant hubbub of traffic often exceeds 70 decibels, and such tumult can perturb sleep.###
+- 嘈杂声：hubbub · the hubbub of the market 市场的喧闹
+- 分贝：decibel · noise levels in decibels 以分贝计的噪声水平
+- 喧哗；骚乱：tumult · a tumult of voices 一片嘈杂声
+- 使不安；扰乱：perturb · be perturbed by 被……弄得心神不宁
+语法：and 连接两个分句；can 表示可能。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s063 -->
 # 雅思例句 063 · 语法
-中文：最近的研究阐明了一种酶的作用，没有它，我们的消化系统就无法处理膳食纤维。
-英文：###Recent studies elucidate the role of an enzyme without which our digestive system could not process dietary fibre.###
-- 阐明，解释：elucidate · elucidate a theory 阐明理论
+中文：大多数微生物都含有一种酶，没有它，呼吸作用就会停止，毒素也会积聚。
+英文：###Most microbes contain an enzyme without which respiration would fail and toxins would build up.###
+- 微生物：microbe · harmful microbes 有害微生物
 - 酶：enzyme · digestive enzymes 消化酶
-- 消化的：digestive · the digestive system 消化系统
-- 饮食的：dietary · dietary fibre 膳食纤维
-问：你想说「最近的研究阐明了一种酶的作用，没有它，我们的消化系统就无法处理膳食纤维」（说明“没有它就不能……”的那种东西），英语怎么说？
-要点：“介词 + which”引导定语从句，without which 意为“没有它”，修饰 enzyme。（动词形式）elucidate 用一般现在时：研究现在的结论；could not process 表示假设的结果：没有这种酶就不能。
+- 呼吸：respiration · cellular respiration 细胞呼吸
+- 毒素：toxin · remove toxins 排毒
+问：你想说「大多数微生物都含有一种酶，没有它，呼吸作用就会停止，毒素也会积聚」（说明“没有它就不能……”的那种东西），英语怎么说？
+要点：“介词 + which”引导定语从句，without which 意为“没有它”，修饰 enzyme。（动词形式）without which 引导定语从句修饰 enzyme；would fail 表示假设的结果。
 语法：定语从句
 <!-- /leiji-note -->
 
@@ -820,13 +827,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s068 -->
 # 雅思例句 068 · 写作
-中文：这起贪污丑闻以开除那些向企业勒索钱财的官员告终，这显然是滥用权力。
-英文：###The embezzlement scandal ended in the expulsion of officials who had extorted cash from firms, a clear exploitation of power.###
-- 贪污，挪用公款：embezzlement · be charged with embezzlement 被控贪污
-- 开除，驱逐：expulsion · expulsion from school 被学校开除
-- 勒索，敲诈：extort · extort money from 向……勒索钱财
-- 剥削；开发利用：exploitation · the exploitation of resources 资源开发
-语法：who 引导定语从句修饰 officials；a clear exploitation of power 是同位语，概括前面的行为。
+中文：考古学家把这些土坯墙的年代定在第一个千年，并追溯了陶器的来源，这些陶器揭示了后来各种文化的前身。
+英文：###Archaeologists dated the adobe walls to the first millennium and traced the provenance of pottery that reveals the antecedents of later cultures.###
+- 土坯：adobe · adobe houses 土坯房
+- 一千年：millennium · the third millennium 第三个千年
+- 出处，来源：provenance · of unknown provenance 来源不明的
+- 前身；先例；先前的：antecedent · historical antecedents 历史渊源
+语法：dated 和 traced 是并列谓语；that 引导定语从句修饰 pottery。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s069 -->
@@ -856,61 +863,62 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s071 -->
 # 雅思例句 071 · 写作
-中文：许多富有创业精神的公司实行弹性工作制，并把真正的项目交给初级员工，这有助于他们拓展技能。
-英文：###Many entrepreneurial firms offer flexitime and entrust junior staff with real projects, which helps them diversify their skills.###
-- 企业家的，有创业精神的：entrepreneurial · entrepreneurial spirit 创业精神
-- 弹性工作制：flexitime · work flexitime 实行弹性工作时间
-- 委托，托付：entrust · entrust sb. with sth. 把某事托付给某人
-- 使多样化：diversify · diversify the economy 使经济多元化
-语法：entrust sb. with sth. 表示“把某事托付给某人”；which 指代前面整件事。
+中文：内省可以是健康的，但对于容易焦虑的人来说，过度审视自己可能导致神经症或病态的恐惧。
+英文：###Introspection can be healthy, but in people with a predisposition to anxiety, excessive self-scrutiny may lead to neurosis or morbid fears.###
+- 内省：introspection · a moment of introspection 片刻的反思
+- 倾向；易患病体质：predisposition · a predisposition to 易患……的体质
+- 神经症：neurosis · suffer from neurosis 患神经症
+- 病态的：morbid · morbid curiosity 病态的好奇心
+语法：but 表示转折；with a predisposition to ... 作后置定语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s072 -->
 # 雅思例句 072 · 语法
-中文：对这座破旧大坝的检查非常彻底，每一道裂缝都查到了，尽管快速检查会更省事。
-英文：###So exhaustive was the inspection of the decrepit dam that every crevice was examined, though a quicker check would have been more expedient.###
-- 详尽的，彻底的：exhaustive · an exhaustive search 彻底搜查
-- 破旧的；衰老的：decrepit · a decrepit old car 破旧的老车
-- （岩石等的）裂缝：crevice · a crevice in the rock 岩石缝
-- 权宜的，方便的；权宜之计：expedient · a temporary expedient 权宜之计
-问：你想说「对这座破旧大坝的检查非常彻底，每一道裂缝都查到了，尽管快速检查会更省事」（强调“如此……以至于……”），英语怎么说？
-要点：So + 形容词位于句首时，主句倒装（was + 主语），与 that 引导的结果状语从句连用。（动词形式）was 提到主语前面；was examined 是一般过去时的被动：裂缝“被检查”；would have been 是虚拟语气：与过去事实相反的设想。
+中文：洪水规模如此之大，支流纷纷漫溢，下水道再也排不过来。
+英文：###So colossal was the deluge that the tributaries overflowed and the sewers could no longer cope.###
+- 巨大的：colossal · a colossal statue 巨大的雕像
+- 洪水；大量；使涌入：deluge · a deluge of letters 雪片般的来信
+- 支流：tributary · a tributary of the Yangtze 长江的支流
+- 下水道：sewer · a sewer system 排水系统
+问：你想说「洪水规模如此之大，支流纷纷漫溢，下水道再也排不过来」（强调“如此……以至于……”），英语怎么说？
+要点：So + 形容词位于句首时，主句倒装（was + 主语），与 that 引导的结果状语从句连用。（动词形式）So + 形容词位于句首，主句倒装（was + 主语）；that 引导结果状语从句。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s073 -->
 # 雅思例句 073 · 口语
-中文：我侄子特别外向：他喜欢炫耀他那双时髦的新运动鞋，还爱对着每个人做鬼脸。
-英文：###My nephew is such an extrovert: he loves to flaunt his chic new trainers and make funny facial expressions at everyone.###
-- 性格外向的人：extrovert · a natural extrovert 天生外向的人
-- 炫耀，夸耀：flaunt · flaunt one's wealth 炫耀财富
-- 时髦的，雅致的：chic · a chic outfit 时髦的装束
-- 面部的；面部护理：facial · facial expressions 面部表情
-口语练习：Part 2 · Describe someone in your family who is very outgoing.
-语法：such + a/an + 名词表示强调；冒号后具体说明。
+中文：是的，小孩子可塑性强，学习靠本能，而成年人要费力对付语音和语义上的细节，还要克服自己的胆怯。
+英文：###Yes; young children are malleable and their learning is instinctual, while adults struggle with phonetic and semantic details and fight their own timidity.###
+- 可塑的；易受影响的：malleable · a malleable personality 易受影响的性格
+- 本能的：instinctual · instinctual behaviour 本能行为
+- 语音的：phonetic · phonetic symbols 音标
+- 语义的：semantic · semantic differences 语义差别
+- 胆怯：timidity · overcome timidity 克服胆怯
+口语练习：Part 3 · Should children start learning a foreign language at an early age?
+语法：while 表示对比；struggle with 表示“费力对付”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s074 -->
 # 雅思例句 074 · 写作
-中文：让田地休耕一季的农民能让土壤恢复肥力，而集约化耕作则会耗尽土壤养分。
-英文：###Farmers who leave fields fallow for a season allow the soil to recover, whereas intensive cultivation depletes nutrients.###
-- 休耕的；休闲的：fallow · lie fallow 休耕
-- 耕种；培养：cultivation · the cultivation of rice 水稻种植
-- 耗尽，大量减少：deplete · deplete resources 耗尽资源
-- 营养物，养分：nutrient · essential nutrients 必需的营养物
-语法：who 引导定语从句修饰 farmers；whereas 连接两个对比的分句。
+中文：只涵盖基础知识的僵化教学大纲会扼杀好奇心；好老师会提炼核心观点，通过讨论启迪学生。
+英文：###A rigid syllabus that covers only rudimentary facts can stifle curiosity; good teachers encapsulate key ideas and edify pupils through discussion.###
+- 教学大纲：syllabus · the exam syllabus 考试大纲
+- 基本的；初级的：rudimentary · rudimentary knowledge 基础知识
+- 概括；压缩：encapsulate · encapsulate the idea 概括这个观点
+- 启迪，教化：edify · edify the mind 陶冶心灵
+语法：that 引导定语从句修饰 syllabus；分号连接两个分句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s075 -->
 # 雅思例句 075 · 语法
-中文：游客很少能看到森林里那些凶猛的捕食者，因为它们大多昼伏夜出、领地意识强，而且会迅速击退闯入者。
-英文：###Rarely do tourists glimpse the forest's ferocious predators, as most are nocturnal, territorial and quick to fend off intruders.###
-- 凶猛的，残暴的：ferocious · a ferocious attack 凶猛的攻击
+中文：夜行的有袋动物很少在白天出来，因为它们的感觉器官适应黑暗，而且对捕食者时刻保持警惕。
+英文：###Rarely do nocturnal marsupials venture out by day, as their sensory organs are tuned to darkness and they stay vigilant against predators.###
 - 夜间活动的：nocturnal · nocturnal animals 夜行动物
-- 领土的；有领地意识的：territorial · territorial waters 领海
-- 抵挡；自谋生计：fend · fend off 挡开（fend for oneself 自谋生路）
-问：你想说「游客很少能看到森林里那些凶猛的捕食者，因为它们大多昼伏夜出、领地意识强，而且会迅速击退闯入者」（强调“很少……”），英语怎么说？
-要点：否定意义的副词 Rarely 位于句首时，句子部分倒装（do + 主语 + 动词原形）。（动词形式）do ... glimpse：do 提前，glimpse 用原形；are 用一般现在时：讲动物习性。
+- 有袋动物；有袋的：marsupial · Kangaroos are marsupials. 袋鼠是有袋动物。
+- 感觉的：sensory · sensory organs 感觉器官
+- 警惕的：vigilant · remain vigilant 保持警惕
+问：你想说「夜行的有袋动物很少在白天出来，因为它们的感觉器官适应黑暗，而且对捕食者时刻保持警惕」（强调“很少……”），英语怎么说？
+要点：否定意义的副词 Rarely 位于句首时，句子部分倒装（do + 主语 + 动词原形）。（动词形式）Rarely 位于句首，句子部分倒装（do + 主语 + 动词原形）；as 引导原因状语从句。
 语法：倒装
 <!-- /leiji-note -->
 
@@ -939,15 +947,15 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s078 -->
 # 雅思例句 078 · 语法
-中文：研究人员仍在争论，事实记忆和概念理解哪一个更能反映学习效果，以及反复操练能否真正启迪学生。
-英文：###Researchers still debate whether factual recall or conceptual understanding is the better indicator of learning, and whether drills edify students.###
-- 事实的，真实的：factual · factual information 事实信息
-- 概念的：conceptual · a conceptual framework 概念框架
-- 指标；指示器：indicator · an economic indicator 经济指标
-- 启迪，教诲：edify · edifying books 有教育意义的书
-问：你想说「研究人员仍在争论，事实记忆和概念理解哪一个更能反映学习效果，以及反复操练能否真正启迪学生」（说明“争论是否……”的内容），英语怎么说？
-要点：两个 whether 引导并列的宾语从句，作 debate 的宾语。（动词形式）debate 用一般现在时；is 用单数：or 连接两个单数主语；edify 用原形：主语 drills 是复数。
-语法：宾语从句
+中文：这位解剖学教授以讲课简洁著称，在大学百年校庆时成为荣休教授。
+英文：###The anatomy professor, whose lectures were famously terse, became emeritus on the university's centenary.###
+- 解剖学；人体结构：anatomy · human anatomy 人体解剖学
+- 简洁的；生硬的：terse · a terse reply 简短的回答
+- 荣誉退休的：emeritus · professor emeritus 荣休教授
+- 百年纪念：centenary · the centenary of his birth 他诞辰一百周年
+问：你想说「这位解剖学教授以讲课简洁著称，在大学百年校庆时成为荣休教授」（补充说明“他的……”），英语怎么说？
+要点：whose 引导非限制性定语从句，补充说明 professor。（动词形式）whose 引导非限制性定语从句；were、became 用过去时。
+语法：定语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s079 -->
@@ -964,13 +972,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s080 -->
 # 雅思例句 080 · 写作
-中文：服用兴奋剂的运动员会被取消资格，但丑闻会在队内引发不和，球迷的失望情绪也会郁积多年。
-英文：###Athletes caught doping are disqualified, but the scandals sow discord within teams, and fans' disillusionment can fester for years.###
-- 取消资格：disqualify · be disqualified from 被取消……的资格
-- 不和，纷争：discord · sow discord 挑拨离间
-- 幻灭，失望：disillusionment · a sense of disillusionment 幻灭感
-- （伤口）溃烂；（怨恨等）加剧：fester · let resentment fester 让怨恨郁积
-语法：过去分词短语 caught doping 作后置定语；are disqualified 是被动语态。
+中文：专制政权常常压制异见、奴役少数群体、剥夺公民的权力，但历史表明，暴政很少能长久。
+英文：###Autocratic regimes often censure dissent, enslave minorities and disempower citizens, yet history shows that tyrannical rule rarely endures.###
+- 独裁的，专制的：autocratic · an autocratic ruler 独裁统治者
+- 谴责；谴责：censure · a vote of censure 谴责投票
+- 奴役：enslave · be enslaved by 被……奴役
+- 剥夺……的权力：disempower · disempower workers 削弱工人的权利
+- 暴虐的：tyrannical · a tyrannical regime 暴虐的政权
+语法：三个并列谓语；that 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s081 -->
@@ -989,25 +998,27 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s082 -->
 # 雅思例句 082 · 口语
-中文：我太期待今晚的压轴演出了！去年的好看得我连气都不敢出，不过排自动扶梯的队实在太长了。
-英文：###I can't wait for tonight's finale! Last year's was so enjoyable that I barely dared to exhale, though the escalator queue was endless.###
-- （演出的）最后一幕，压轴戏：finale · a grand finale 盛大的终场
-- 令人愉快的：enjoyable · an enjoyable evening 愉快的夜晚
-- 呼气：exhale · inhale and exhale 吸气和呼气
-- 自动扶梯：escalator · take the escalator 乘自动扶梯
-口语练习：Part 1 · Do you enjoy watching the final episodes of TV shows?
-语法：so ... that 引导结果状语从句；though 表示让步。
+中文：我的导师磊记是 Cairnote 一位退休的内科医生，他无私又可靠，赞美善良，从不贬低任何人。
+英文：###My mentor Leiji, a retired internist in Cairnote, is altruistic and trustworthy; he extols kindness and never disparages anyone.###
+- 内科医生：internist · see an internist 看内科医生
+- 无私的，利他的：altruistic · altruistic behaviour 利他行为
+- 值得信赖的：trustworthy · a trustworthy friend 可靠的朋友
+- 颂扬：extol · extol the virtues of 赞扬……的优点
+- 贬低：disparage · disparage others 贬低别人
+口语练习：Part 2 · Describe a person you admire.
+语法：a retired internist 作同位语；extols 和 disparages 用一般现在时。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s083 -->
 # 雅思例句 083 · 写作
-中文：早期的女权运动为妇女争取选举权，后来的活动人士又挑战了那些奴役家政工人、剥夺她们公平权益的法律。
-英文：###Early feminism fought to enfranchise women, and later activists challenged laws that enslaved domestic workers and denied them equity.###
-- 女权主义：feminism · the history of feminism 女权运动史
-- 给予选举权；解放：enfranchise · enfranchise women 给予妇女选举权
-- 奴役：enslave · be enslaved by 受……奴役
-- 公平；（公司的）股本：equity · social equity 社会公平
-语法：不定式 to enfranchise ... 作 fought 的目的；that 引导定语从句修饰 laws。
+中文：活动人士为女性争取选举权而奋斗，为后世赢得了不可逆转的胜利，这一胜利让它所取代的野蛮习俗相形见绌。
+英文：###Campaigners fought to enfranchise women, an irrevocable victory for posterity that overshadows the barbaric customs it replaced.###
+- 给予选举权：enfranchise · enfranchise women 给予妇女选举权
+- 不可撤销的：irrevocable · an irrevocable decision 不可更改的决定
+- 后代：posterity · for posterity 为了后代
+- 使相形见绌；给……蒙上阴影：overshadow · be overshadowed by 被……盖过
+- 野蛮的：barbaric · barbaric treatment 野蛮的对待
+语法：an irrevocable victory ... 作同位语；that 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s084 -->
@@ -1037,13 +1048,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s086 -->
 # 雅思例句 086 · 写作
-中文：大学争取国际认证来吸引学生，许多大学还向英语流利的研究生提供院系助教职位。
-英文：###Universities pursue international accreditation to attract students, and many offer departmental assistantships to postgraduates with fluency in English.###
-- 认证，资格认可：accreditation · gain accreditation 获得认证
-- 部门的，系的：departmental · departmental meetings 部门会议
-- 助教（或助研）职位：assistantship · a teaching assistantship 助教职位
-- 流利，流畅：fluency · fluency in English 英语流利
-语法：不定式 to attract ... 作目的状语；介词短语 with fluency in English 作后置定语。
+中文：作为记忆的守护者，大屠杀纪念馆保存着无法磨灭的记录，邀请参观者哀悼遇难者、摒弃仇恨。
+英文：###As custodians of memory, Holocaust museums preserve indelible records, inviting visitors to lament the victims and reject hatred.###
+- 监护人；保管人：custodian · the custodian of 的保管人
+- 大屠杀；（the Holocaust）纳粹大屠杀：holocaust · a nuclear holocaust 核浩劫
+- 不可磨灭的：indelible · an indelible impression 难以磨灭的印象
+- 哀悼；惋惜；挽歌：lament · lament the loss of 为……的失去而悲痛
+语法：As custodians ... 表示身份；inviting ... 作伴随状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s087 -->
@@ -1073,38 +1084,40 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s089 -->
 # 雅思例句 089 · 写作
-中文：节俭的家庭不铺张浪费，还会购买养老年金，所以即使市场疲软，他们的生活也有保障。
-英文：###Frugal households avoid lavish spending and buy annuities for retirement, so they stay secure even when markets falter.###
-- 节俭的；简朴的：frugal · a frugal meal 简单的一餐
-- 奢华的，慷慨的；慷慨给予：lavish · a lavish party 奢华的聚会
-- 年金：annuity · buy an annuity 购买年金
-- 衰退，动摇；结巴：falter · the economy falters 经济疲软
-语法：so 连接表示结果的分句；even when 引导让步意味的时间状语从句。
+中文：孩子不听话时，父母需要明智的管教而不是嘲讽，嘲讽会让孩子疏远，还会让旧矛盾重新激化。
+英文：###When children disobey, parents need judicious discipline rather than taunts, which can estrange them and rekindle old conflicts.###
+- 不服从：disobey · disobey orders 违抗命令
+- 明智的：judicious · a judicious choice 明智的选择
+- 嘲弄；嘲弄：taunt · racist taunts 种族歧视的嘲弄
+- 使疏远：estrange · be estranged from 与……疏远
+- 重新点燃；重新激起：rekindle · rekindle interest 重新激起兴趣
+语法：when 引导时间状语从句；which 引导非限制性定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s090 -->
 # 雅思例句 090 · 语法
-中文：是一场突如其来的大风，而不是人为失误，把渡轮刮到了嶙峋的礁石上，还把港湾搅得一片狼藉。
-英文：###It was a sudden gale, not human error, that drove the ferry onto jagged rocks and wreaked havoc in the haven.###
-- 大风；一阵（笑声）：gale · a force-nine gale 九级大风
-- 参差不齐的，锯齿状的：jagged · jagged rocks 嶙峋的岩石
-- 大破坏，混乱：havoc · wreak havoc 造成严重破坏
-- 避风港，安全地：haven · a safe haven 避风港
-问：你想说「是一场突如其来的大风，而不是人为失误，把渡轮刮到了嶙峋的礁石上，还把港湾搅得一片狼藉」（强调“是……而不是……”），英语怎么说？
-要点：It was ... that ... 强调主语 a sudden gale。（动词形式）was 用过去时：强调过去发生的事；drove、wreaked 用过去时。
+中文：让飞机急速下坠的是一个小故障，而不是天气；调查人员找到了故障所在，并用飞行数据加以证实。
+英文：###It was a minor mishap, not the weather, that made the jet plummet; investigators pinpointed the fault and substantiated it with flight data.###
+- 小事故；不幸：mishap · without mishap 平安无事
+- 暴跌；骤然下落：plummet · prices plummeted 价格暴跌
+- 准确找出；精确的：pinpoint · pinpoint the cause 找准原因
+- 证实：substantiate · substantiate a claim 证实说法
+问：你想说「让飞机急速下坠的是一个小故障，而不是天气；调查人员找到了故障所在，并用飞行数据加以证实」（强调“是……而不是……”），英语怎么说？
+要点：It was ... that ... 强调主语 a minor mishap。（动词形式）It was ... that ... 强调主语 a minor mishap；pinpointed、substantiated 用过去时。
 语法：强调句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s091 -->
 # 雅思例句 091 · 口语
-中文：这个新小玩意儿能擦奶酪丝、切洋葱，甚至还能烤鱼——不过清洗起来有点麻烦。
-英文：###This new gadget can grate cheese, chop onions and even grill fish—though it's a bit cumbersome to clean.###
-- 小装置，小器具：gadget · a kitchen gadget 厨房小工具
-- 磨碎，擦丝；炉栅：grate · grated cheese 奶酪碎
-- 烧烤；烤架：grill · grill a steak 烤牛排
-- 笨重的；繁琐的：cumbersome · cumbersome procedures 繁琐的手续
-口语练习：Part 1 · Do you like using new kitchen gadgets?
-语法：三个并列谓语共用情态动词 can；though 表示让步。
+中文：会的，严格的老师监考时我会紧张，但上一门复习课再加上坚持不懈的态度，能让我不被慌乱压倒。
+英文：###Yes; I feel apprehension when strict teachers invigilate, but a refresher course and a tenacious attitude stop me from succumbing to panic.###
+- 忧虑；理解：apprehension · a sense of apprehension 忧虑感
+- 监考：invigilate · invigilate an exam 监考
+- 进修课程：refresher · a refresher course 进修课
+- 顽强的：tenacious · a tenacious fighter 顽强的斗士
+- 屈服：succumb · succumb to 屈服于
+口语练习：Part 1 · Do you feel nervous before exams?
+语法：when 引导时间状语从句；stop sb. from doing 表示“阻止某人做”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s092 -->
@@ -1120,14 +1133,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s093 -->
 # 雅思例句 093 · 语法
-中文：万一暴风雨耽误了这批货，买家也不会损失押金，因为承运方提供全额赔偿。
-英文：###Should the storm impede the consignment, buyers will not forfeit their deposits, as the shipper offers a full indemnity.###
-- 阻碍，妨碍：impede · impede progress 阻碍进步
-- （一批）运送的货物；托运：consignment · a consignment of goods 一批货物
-- 丧失，被没收；罚金：forfeit · forfeit one's deposit 损失押金
-- 赔偿（金）；保障：indemnity · pay an indemnity 支付赔偿金
-问：你想说「万一暴风雨耽误了这批货，买家也不会损失押金，因为承运方提供全额赔偿」（表达“万一……”），英语怎么说？
-要点：Should + 主语 + 动词原形 是省略 if 的倒装，表示对将来可能情况的假设。（动词形式）Should ... impede：should 提前，impede 用原形；will not forfeit 用一般将来时：主句用陈述语气；offers 用一般现在时。
+中文：万一发现燃烧装置，工作人员必须立刻疏散医务室的人，等待负责人的信号，因为耽搁可能致命。
+英文：###Should an incendiary device be found, staff must evacuate the infirmary at once and await the warden's signal, as delay could be lethal.###
+- 能引起燃烧的；煽动性的：incendiary · an incendiary bomb 燃烧弹
+- 医务室，医院：infirmary · the school infirmary 学校医务室
+- 看守人；管理员：warden · a prison warden 监狱长
+- 致命的：lethal · a lethal dose 致死剂量
+问：你想说「万一发现燃烧装置，工作人员必须立刻疏散医务室的人，等待负责人的信号，因为耽搁可能致命」（表达“万一……”），英语怎么说？
+要点：Should + 主语 + 动词原形 是省略 if 的倒装，表示对将来可能情况的假设。（动词形式）Should + 主语 + 动词原形 是省略 if 的倒装；must evacuate 表示必须。
 语法：虚拟语气
 <!-- /leiji-note -->
 
@@ -1170,14 +1183,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s097 -->
 # 雅思例句 097 · 口语
-中文：别再招惹你弟弟了！他得了流感本来就烦躁，现在又打起嗝来了。
-英文：###Stop goading your brother! He's irritable with influenza, and now he's got hiccups too.###
-- 刺激，激怒：goad · goad sb. into doing 激某人做
-- 易怒的，烦躁的：irritable · irritable bowel 肠易激
-- 流行性感冒：influenza · an influenza outbreak 流感暴发
-- 打嗝；小问题：hiccup · have hiccups 打嗝
-口语练习：Part 1 · Do you often argue with your brothers or sisters?
-语法：Stop doing 表示“别再做……”；with 表示原因。
+中文：我喜欢做各种各样的菜，但讨厌擦奶酪；我哥哥对香料着了迷，作为厨师这也可以理解。
+英文：###I love cooking varied dishes but hate having to grate cheese; my brother is a maniac about spice, which is understandable for a chef.###
+- 各种各样的：varied · a varied diet 多样的饮食
+- 擦碎；发出刺耳声；炉箅：grate · grate cheese 擦奶酪
+- 疯子；狂热爱好者：maniac · a football maniac 足球迷
+- 可以理解的：understandable · an understandable mistake 情有可原的错误
+口语练习：Part 1 · Do you like cooking?
+语法：hate doing 表示“讨厌做”；which 指代前面整件事。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s098 -->
@@ -1218,49 +1231,39 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s101 -->
 # 雅思例句 101 · 写作
-中文：原住民群体常常哀叹采矿公司侵占他们的土地，威胁到他们的生计。
-英文：###Indigenous groups often lament that mining firms encroach on their land and threaten their livelihood.###
-- 本地的，土生土长的：indigenous · indigenous peoples 原住民
-- 哀叹，痛惜；挽歌：lament · lament the loss of 为……的消失而惋惜
-- 侵占，侵犯：encroach · encroach on 侵占
-- 生计：livelihood · earn a livelihood 谋生
-语法：that 引导宾语从句，作 lament 的宾语。
+中文：洪水浸透平原，留下肥沃的淤泥，但冲进水井的粪肥会造成不卫生的环境，危及人们的生命。
+英文：###Floods drench the plains and deposit fertile sediment, but manure washed into wells creates unsanitary conditions that imperil lives.###
+- 使湿透：drench · be drenched in sweat 汗流浃背
+- 沉淀物；沉积物：sediment · river sediment 河流沉积物
+- 粪肥：manure · cow manure 牛粪
+- 不卫生的：unsanitary · unsanitary conditions 不卫生的环境
+- 危及：imperil · imperil the economy 危及经济
+语法：but 表示转折；washed into wells 作后置定语；that 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s102 -->
 # 雅思例句 102 · 语法
-中文：一些管理人员至今仍贬低远程办公、认为它松散懈怠，这实在荒唐，因为研究表明工作效率往往会提高。
-英文：###It is ludicrous that some managerial staff still disparage remote work as lax, when studies show productivity often rises.###
-- 荒唐可笑的：ludicrous · a ludicrous idea 荒唐的想法
-- 管理的，经理的：managerial · managerial skills 管理技能
-- 贬低，轻视：disparage · disparage sb.'s efforts 贬低某人的努力
-- 松懈的，不严格的：lax · lax security 安保松懈
-问：你想说「一些管理人员至今仍贬低远程办公、认为它松散懈怠，这实在荒唐，因为研究表明工作效率往往会提高」（表达“……实在荒唐”的评价），英语怎么说？
-要点：it 是形式主语，真正的主语是 that 从句；when 在这里表示“既然，可是”。（动词形式）disparage 用一般现在时：说明现状；show、rises 用一般现在时：讲研究结论。
-语法：it 形式主语
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s103 -->
-# 雅思例句 103 · 口语
-中文：今天游泳池人特别多，所以戴好泳镜，别推推搡搡的；上周有人滑倒，擦伤得很厉害。
-英文：###It's hectic at the pool today, so put on your goggles and don't jostle; someone slipped last week and got a nasty abrasion.###
-- 忙乱的，繁忙的：hectic · a hectic schedule 繁忙的日程
-- 护目镜，泳镜：goggles · swimming goggles 泳镜
-- 推挤，争抢：jostle · jostle for position 争抢位置
-- 擦伤；磨损：abrasion · minor abrasions 轻微擦伤
-口语练习：Part 1 · Do you like going to public swimming pools?
-语法：so 引出建议；分号后补充原因。
+中文：错过试演的候选人会被取消资格，但有正当理由的人可以补考，还能报销路费。
+英文：###Candidates who miss the audition will be disqualified, but those with a valid excuse may resit it and be reimbursed for travel.###
+- 试演，试镜；试演：audition · an audition for a role 角色试镜
+- 取消资格：disqualify · be disqualified from 被取消……的资格
+- 补考；补考：resit · resit an exam 补考
+- 偿还，报销：reimburse · reimburse expenses 报销费用
+问：你想说「错过试演的候选人会被取消资格，但有正当理由的人可以补考，还能报销路费」（说明“会被……”），英语怎么说？
+要点：will be disqualified、be reimbursed 都是被动语态。（动词形式）will be + 过去分词 是将来时的被动；may resit and be reimbursed 中情态动词后接动词原形。
+语法：被动语态
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s104 -->
 # 雅思例句 104 · 写作
-中文：立法程序虽然缓慢，但凡是侵犯不可剥夺的权利的法律，都必须毫不犹豫地废除。
-英文：###The legislative process is slow, but laws that infringe on inalienable rights must be repealed without hesitation.###
-- 立法的：legislative · the legislative body 立法机构
-- 侵犯，违反：infringe · infringe on 侵犯
-- 不可剥夺的：inalienable · inalienable rights 不可剥夺的权利
-- 犹豫：hesitation · without hesitation 毫不犹豫
-语法：that 引导定语从句修饰 laws；must be repealed 是情态动词的被动。
+中文：鸽子粪便会让古老的石雕滋生螨虫，还会慢慢磨掉浮雕字，所以清洁工定期清除。
+英文：###Pigeon excrement can infest old stone walls with mites and gradually erase embossed lettering, so cleaners purge it regularly.###
+- 粪便：excrement · animal excrement 动物粪便
+- 大批出没于：infest · be infested with 布满（害虫）
+- 螨；小东西：mite · dust mites 尘螨
+- 在……上压印浮雕：emboss · embossed paper 压花纸
+- 清除；清洗：purge · purge the system 清理系统
+语法：can 表示可能；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s105 -->
@@ -1276,18 +1279,6 @@ per_day: 1
 语法：现在分词作状语
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s106 -->
-# 雅思例句 106 · 口语
-中文：这个烧烤架又油又脏！我们趁客人到来、院子里闹哄哄之前，先把上面的渣子刷掉吧。
-英文：###This barbecue is so greasy and grimy! Let's scrub off the grit before the guests arrive and the yard turns into a hubbub.###
-- 油腻的：greasy · greasy food 油腻的食物
-- 积满污垢的：grimy · grimy windows 脏兮兮的窗户
-- 沙粒；勇气：grit · show true grit 表现出真正的勇气
-- 嘈杂声，喧闹：hubbub · the hubbub of the market 市场的喧闹
-口语练习：Part 1 · Do you like having barbecues with friends?
-语法：before 引导时间状语从句，用一般现在时表示将来。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s107 -->
 # 雅思例句 107 · 写作
 中文：在相互依存的世界里，闭关自守起不了多大保护作用，因为资本的突然涌入可能吹大泡沫，让银行资不抵债。
@@ -1301,15 +1292,15 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s108 -->
 # 雅思例句 108 · 语法
-中文：那几个无能的侦探审问了线人好几个小时，却还是无法确定他的说法是否与证据相符。
-英文：###The inept detectives interrogated the informant for hours yet could not determine whether his story was congruent with the evidence.###
-- 无能的，不称职的：inept · an inept attempt 笨拙的尝试
-- 审问，盘问：interrogate · interrogate a suspect 审问嫌疑人
-- 线人；提供信息的人：informant · a police informant 警方线人
-- 一致的，相符的：congruent · be congruent with 与……一致
-问：你想说「那几个无能的侦探审问了线人好几个小时，却还是无法确定他的说法是否与证据相符」（说明“无法确定是否……”），英语怎么说？
-要点：whether 引导宾语从句，作 determine 的宾语。（动词形式）interrogated 用过去时；could not determine：情态动词过去式 + 原形；was 用过去时：与主句时态一致。
-语法：宾语从句
+中文：自从抗生素普及以来，细菌耐药性迅速增长，就连抗菌药膏的疗效都变差了。
+英文：###Bacterial resistance has burgeoned since antibiotics became common, and even antiseptic creams have grown less curative.###
+- 细菌的：bacterial · a bacterial infection 细菌感染
+- 迅速发展：burgeon · a burgeoning market 迅速成长的市场
+- 抗菌的；抗菌剂：antiseptic · antiseptic cream 抗菌药膏
+- 有疗效的：curative · curative properties 疗效
+问：你想说「自从抗生素普及以来，细菌耐药性迅速增长，就连抗菌药膏的疗效都变差了」（说明“自从……以来一直……”），英语怎么说？
+要点：has burgeoned、have grown 表示从过去持续到现在的变化；since 引导时间状语从句。（动词形式）has burgeoned 用现在完成时；since 后接一般过去时 became。
+语法：现在完成时
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s109 -->
@@ -1326,13 +1317,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s110 -->
 # 雅思例句 110 · 写作
-中文：食草动物几天就能把一公顷玉米吃光，所以牧民必须让牛群远离邻居的田地。
-英文：###Herbivores can strip a hectare of maize in days, so herdsmen must keep their cattle away from neighbours' fields.###
-- 食草动物：herbivore · large herbivores 大型食草动物
-- 公顷：hectare · 10 hectares of land 10 公顷土地
-- 玉米：maize · grow maize 种玉米
-- 牧民：herdsman · a Mongolian herdsman 蒙古族牧民
-语法：so 连接表示结果的分句；keep ... away from 表示“使……远离”。
+中文：火星车是载人探险的先行者，正在火星上执行探测任务，但那里缺水，地球生物几乎不可能在那儿存活。
+英文：###Rovers, the forerunners of human crews, conduct exploratory missions on Mars, but the dearth of water makes the survival of terrestrial organisms barely tenable.###
+- 先驱；前身：forerunner · the forerunner of 的前身
+- 探索的：exploratory · exploratory surgery 探查性手术
+- 缺乏：dearth · a dearth of 缺乏
+- 陆地的；地球的：terrestrial · terrestrial animals 陆生动物
+- 站得住脚的；可维持的：tenable · a tenable argument 站得住脚的论点
+语法：the forerunners ... 作同位语；make + 宾语 + 形容词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s111 -->
@@ -1342,46 +1334,34 @@ per_day: 1
 - 恶意的，恶毒的：malevolent · a malevolent smile 不怀好意的笑
 - 巨头，大亨：magnate · a media magnate 传媒大亨
 - 宽宏大量的：magnanimous · magnanimous in victory 胜而不骄
-- 雄伟的，庄严的：majestic · majestic mountains 雄伟的群山
 - 庄园，领地：manor · the lord of the manor 庄园主
 问：你想说「尽管对手散布恶意谣言，那位航运巨头依然宽宏大量，甚至把他那座宏伟的庄园捐给了小镇」（表达“尽管……还是……”），英语怎么说？
 要点：although 引导让步状语从句，主句前不能再用 but。（动词形式）spread 的过去式与原形相同；remained、donated 用过去时。
 语法：让步状语从句
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s112 -->
-# 雅思例句 112 · 口语
-中文：别再拿那一堆乱七八糟的借口来气我了；直接清清楚楚地告诉我冰球训练为什么取消了。
-英文：###Don't madden me with that jumble of excuses; just give me a lucid answer about why hockey practice was cancelled.###
-- 激怒，使发狂：madden · a maddening delay 让人抓狂的延误
-- 混乱，杂乱的一堆；混杂：jumble · a jumble of papers 一堆乱七八糟的纸
-- 清晰易懂的；头脑清楚的：lucid · a lucid explanation 清楚的解释
-- 曲棍球；冰球：hockey · ice hockey 冰球
-口语练习：Part 2 · Describe a time when someone gave you a poor excuse.
-语法：why 引导的从句作介词 about 的宾语。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s113 -->
 # 雅思例句 113 · 写作
-中文：几百年来，海上贸易让这座港口获利丰厚，它的集市至今仍是地区经济的基石。
-英文：###Maritime trade made the port lucrative for centuries, and its marketplace is still the keystone of the regional economy.###
-- 海洋的，海事的：maritime · maritime trade 海上贸易
-- 赚钱的，获利多的：lucrative · a lucrative business 赚钱的生意
-- 市场，集市：marketplace · the global marketplace 全球市场
-- 基石，主旨：keystone · the keystone of the policy 政策的基石
-语法：make + 宾语 + 形容词，表示“使……”。
+中文：医院管理人员必须用正式的应急预案取代零敲碎打的临时安排，因为停电时应对杂乱无章可能致命。
+英文：###Hospital administrators must replace piecemeal, provisional arrangements with a proper contingency plan, since a haphazard response to power cuts could be fatal.###
+- 管理人员：administrator · a school administrator 学校管理人员
+- 零碎的；一件一件地：piecemeal · a piecemeal approach 零敲碎打的做法
+- 临时的：provisional · a provisional government 临时政府
+- 意外事件；应急：contingency · a contingency plan 应急计划
+- 杂乱无章的：haphazard · a haphazard manner 随意的方式
+语法：replace A with B 表示“用 B 取代 A”；since 引导原因状语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s114 -->
 # 雅思例句 114 · 语法
-中文：系安全带是强制性的，因为不系安全带的车祸往往是致命的，法官对违反规定的司机也不会手下留情。
-英文：###Seat belts are mandatory since crashes without them are often lethal, and judges will not be lenient with drivers who disobey.###
-- 强制的，法定的：mandatory · a mandatory sentence 法定刑罚
-- 致命的：lethal · a lethal dose 致死剂量
-- 宽大的，仁慈的：lenient · be lenient with 对……宽容
-- 不服从，违抗：disobey · disobey orders 违抗命令
-问：你想说「系安全带是强制性的，因为不系安全带的车祸往往是致命的，法官对违反规定的司机也不会手下留情」（说明“因为……所以……”），英语怎么说？
-要点：since 引导原因状语从句；who 引导定语从句修饰 drivers。（动词形式）are 用一般现在时：讲规定；will not be 用将来时：表示态度；disobey 用复数：先行词 drivers 是复数。
+中文：由于不看路标的司机常常绕道钻进拥堵的小街，市政会修建了一座立交桥。
+英文：###Since drivers who ignore signposts often take a detour through congested lanes, the council has built a flyover.###
+- 路标；指示；设置路标：signpost · follow the signposts 跟着路标走
+- 绕行的路；绕道：detour · make a detour 绕道
+- 拥挤的；充血的：congested · congested roads 拥堵的道路
+- 立交桥：flyover · build a flyover 修立交桥
+问：你想说「由于不看路标的司机常常绕道钻进拥堵的小街，市政会修建了一座立交桥」（说明“因为……所以……”），英语怎么说？
+要点：since 引导原因状语从句；who 引导定语从句修饰 drivers。（动词形式）since 引导原因状语从句；who 引导定语从句修饰 drivers；has built 用现在完成时。
 语法：原因状语从句
 <!-- /leiji-note -->
 
@@ -1399,85 +1379,62 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s116 -->
 # 雅思例句 116 · 写作
-中文：金这样有延展性的金属可以锤成薄片，并压上几何图案，几百年都能保持光泽。
-英文：###Malleable metals such as gold can be hammered into thin sheets and embossed with geometric patterns that keep their gloss for centuries.###
-- 可锻造的；易受影响的：malleable · malleable metals 可锻金属
-- 压印浮雕图案：emboss · embossed paper 压纹纸
-- 几何的：geometric · geometric shapes 几何图形
-- 光泽；注释；掩饰：gloss · gloss over 掩饰，略过
-语法：can be hammered and embossed 是情态动词的被动；that 引导定语从句修饰 patterns。
+中文：与平等法规很不相符的薪酬差距依然存在，因为女性承担了照顾孩子的主要重担，还被迫去做兼职工作。
+英文：###A pay asymmetry hardly congruent with equality laws persists, as women bear the brunt of childcare and are coerced into part-time roles.###
+- 不对称：asymmetry · information asymmetry 信息不对称
+- 一致的；全等的：congruent · congruent with 与……一致
+- 冲击；主要压力：brunt · bear the brunt of 首当其冲
+- 强迫：coerce · coerce sb. into doing 强迫某人做
+语法：hardly congruent with ... 作后置定语；as 引导原因状语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s117 -->
 # 雅思例句 117 · 语法
-中文：直到那个骨瘦如柴的徒步者走到医务室，医生们才意识到他在冰天雪地的荒野里熬过了十天。
-英文：###Not until the gaunt hiker reached the infirmary did doctors realise he had survived ten days in the glacial wilderness.###
-- 憔悴的，骨瘦如柴的：gaunt · a gaunt face 憔悴的脸
-- 医务室；医院：infirmary · the school infirmary 学校医务室
-- 冰川的；冰冷的：glacial · a glacial lake 冰川湖
-- 荒野，荒漠：wilderness · a vast wilderness 广阔的荒野
-问：你想说「直到那个骨瘦如柴的徒步者走到医务室，医生们才意识到他在冰天雪地的荒野里熬过了十天」（强调“直到……才……”），英语怎么说？
-要点：Not until ... 位于句首时，主句部分倒装（did + 主语 + 动词原形）；had survived 用过去完成时。（动词形式）reached 用过去时；did ... realise：did 提前，realise 用原形；had survived 用过去完成时：活下来在意识到之前。
+中文：直到形容憔悴的队员们归来，公众才知道他们经历了一场漫长的历险，曾被海市蜃楼迷惑，又被一片绿洲救下。
+英文：###Not until the gaunt crew returned did the public learn that they had survived an odyssey, deceived by a mirage and saved by an oasis.###
+- 憔悴的，消瘦的：gaunt · a gaunt face 憔悴的脸
+- 漫长的历险：odyssey · a spiritual odyssey 心灵之旅
+- 海市蜃楼；幻想：mirage · a mirage in the desert 沙漠中的海市蜃楼
+- 绿洲；乐土：oasis · an oasis of calm 宁静之地
+问：你想说「直到形容憔悴的队员们归来，公众才知道他们经历了一场漫长的历险，曾被海市蜃楼迷惑，又被一片绿洲救下」（强调“直到……才……”），英语怎么说？
+要点：Not until ... 位于句首时，主句部分倒装（did + 主语 + 动词原形）；had survived 用过去完成时。（动词形式）Not until ... 位于句首，主句部分倒装（did + 主语 + 动词原形）；had survived 用过去完成时。
 语法：倒装
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s118 -->
-# 雅思例句 118 · 口语
-中文：你能和酒店沟通一下吗？我拎着一堆包，又不擅长办手续，而且那个前台看起来挺无礼的。
-英文：###Could you liaise with the hotel? I'm laden with bags, hopeless at formalities, and the receptionist seems rather insolent.###
-- 联络，联系：liaise · liaise with 与……联络
-- 满载的；负担重的：laden · be laden with 满载着
-- 正式手续；拘谨：formality · customs formalities 海关手续
-- 傲慢无礼的：insolent · an insolent reply 无礼的回答
-口语练习：Part 1 · Do you prefer to let other people handle travel arrangements?
-语法：be laden with 表示“载满，背负着”；三个并列成分说明原因。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s119 -->
 # 雅思例句 119 · 写作
-中文：面试官用假设性问题考察应聘者天生的推理能力，看他们能否当场给出明智的回答。
-英文：###Interviewers use hypothetical questions to test inborn reasoning, checking whether candidates can give judicious, impromptu answers.###
-- 假设的：hypothetical · a hypothetical situation 假设的情况
-- 天生的，先天的：inborn · an inborn talent 天赋
-- 明智的，审慎的：judicious · a judicious choice 明智的选择
-- 即兴的，临时的：impromptu · an impromptu speech 即兴演讲
-语法：不定式 to test ... 作目的状语；现在分词短语 checking ... 作伴随状语。
+中文：广告商把模特物化，用潜意识暗示引诱买家，批评者认为这种明目张胆的手段令人憎恶。
+英文：###Advertisers objectify models and use subliminal cues to entice buyers, a brazen tactic that critics find abhorrent.###
+- 物化；使客观化：objectify · objectify women 物化女性
+- 潜意识的：subliminal · subliminal advertising 潜意识广告
+- 诱惑：entice · entice sb. into 诱使某人
+- 厚颜无耻的：brazen · a brazen lie 无耻的谎言
+- 令人憎恶的：abhorrent · abhorrent to 为……所憎恶
+语法：a brazen tactic ... 作同位语；find + 宾语 + 形容词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s120 -->
 # 雅思例句 120 · 语法
-中文：最让居民恼火的不是车流的噪音分贝，而是新立交桥杂乱无章的设计。
-英文：###What causes residents the most irritation is not the decibel level of traffic but the haphazard design of the new flyover.###
-- 恼怒；刺激：irritation · a source of irritation 恼人之事
-- 分贝：decibel · noise above 85 decibels 85 分贝以上的噪音
-- 随意的，杂乱无章的：haphazard · in a haphazard way 随意地
-- 立交桥，高架桥：flyover · a new flyover 新建的立交桥
-问：你想说「最让居民恼火的不是车流的噪音分贝，而是新立交桥杂乱无章的设计」（强调“最让……的不是……而是……”），英语怎么说？
-要点：What 引导主语从句，谓语用单数 is；not ... but ... 连接两个表语。（动词形式）causes 用单数：what 作从句主语；is 用单数：what 从句作主语看作单数。
-语法：主语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s121 -->
-# 雅思例句 121 · 口语
-中文：在单调乏味的日常里松松垮垮了好几个月之后，我克服了重重障碍，跑完了一场马拉松——真是太畅快了！
-英文：###After months of feeling flabby in my humdrum routine, I cleared every hurdle and finished a marathon—pure exhilaration!###
-- （肌肉）松弛的；无力的：flabby · flabby arms 松弛的手臂
-- 单调乏味的：humdrum · a humdrum job 乏味的工作
-- 障碍；跨栏：hurdle · overcome a hurdle 克服障碍
-- 兴奋，高兴：exhilaration · a feeling of exhilaration 兴奋的感觉
-口语练习：Part 2 · Describe a time when you achieved a difficult physical goal.
-语法：after + 动名词短语作时间状语。
+中文：特技演员的护目镜脏得看不清，所以在擦干净之前，他拒绝尝试那个大胆的跳跃。
+英文：###The stuntman's goggles were too grimy to see through, so he refused to attempt the audacious leap until they were cleaned.###
+- 特技演员：stuntman · a film stuntman 电影特技演员
+- 护目镜：goggles · swimming goggles 泳镜
+- 肮脏的：grimy · grimy windows 脏兮兮的窗户
+- 大胆的：audacious · an audacious plan 大胆的计划
+问：你想说「特技演员的护目镜脏得看不清，所以在擦干净之前，他拒绝尝试那个大胆的跳跃」（表达“太……而不能……”），英语怎么说？
+要点：too ... to ... 表示“太……而不能……”。（动词形式）too + 形容词 + to do 表示否定的结果；until 引导时间状语从句。
+语法：不定式
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s122 -->
 # 雅思例句 122 · 写作
-中文：入侵物种就像侵略者一样侵扰本地栖息地，等到人们开始想办法消灭它们时，造成的损害往往已无法挽回。
-英文：###Invasive species are invaders that infest native habitats, and by the time efforts to exterminate them begin, the damage is often irrevocable.###
-- 侵略者，入侵者：invader · foreign invaders 外国侵略者
-- 大批出没，侵扰：infest · be infested with 遍布（害虫等）
-- 消灭，根除：exterminate · exterminate pests 灭虫
-- 不可撤销的，无法挽回的：irrevocable · an irrevocable decision 不可更改的决定
-语法：that 引导定语从句修饰 invaders；by the time 引导时间状语从句。
+中文：自身免疫性疾病可能多年都处于早期阶段，所以医生要检查血管是否异常扩张、黏膜是否肿胀。
+英文：###Autoimmune disorders can remain incipient for years, so doctors check whether blood vessels dilate abnormally or mucous membranes swell.###
+- 自身免疫的：autoimmune · autoimmune diseases 自身免疫性疾病
+- 初期的：incipient · an incipient crisis 刚露头的危机
+- 扩大，扩张：dilate · pupils dilate 瞳孔放大
+- 黏液的：mucous · mucous membranes 黏膜
+语法：so 表示结果；whether 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s123 -->
@@ -1493,18 +1450,6 @@ per_day: 1
 语法：倒装
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s124 -->
-# 雅思例句 124 · 口语
-中文：别嘲笑新来的实习生——那太没良心了！宽容一点：我们刚来的第一周不也都犯过傻错嘛。
-英文：###Don't jeer at the new intern—that's heartless! Be humane: we all made silly mistakes in our first week.###
-- 嘲笑，起哄；嘲笑声：jeer · jeer at 嘲笑
-- 实习生；拘留：intern · a summer intern 暑期实习生
-- 无情的，狠心的：heartless · a heartless decision 冷酷的决定
-- 人道的，仁慈的：humane · humane treatment 人道待遇
-口语练习：Part 3 · How should experienced staff treat new employees?
-语法：祈使句表示劝告；冒号后说明理由。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s125 -->
 # 雅思例句 125 · 写作
 中文：主张整体疗法的医生认为，缺乏运动的生活方式会损害肠道，所以他们建议每天适当增加一点运动量。
@@ -1518,14 +1463,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s126 -->
 # 雅思例句 126 · 语法
-中文：大屠杀纪念馆所在的这片圣地引人深思，参观者看了那些记录无不惊骇，说话都只敢低声细语。
-英文：###The hallowed ground where the Holocaust memorial stands invites introspection, and visitors, horrified by the records, speak only in whispers.###
-- 神圣的，受尊崇的：hallowed · hallowed ground 圣地
-- 大屠杀；（the Holocaust）纳粹大屠杀：holocaust · a nuclear holocaust 核浩劫
-- 反省，内省：introspection · a moment of introspection 片刻的反省
-- 使恐惧，使震惊：horrify · be horrified by 对……感到震惊
-问：你想说「大屠杀纪念馆所在的这片圣地引人深思，参观者看了那些记录无不惊骇，说话都只敢低声细语」（说明“……所在的地方”），英语怎么说？
-要点：where 引导定语从句修饰 ground；horrified by ... 是过去分词短语作插入的状语。（动词形式）stands、invites、speak 用一般现在时：描写现状；horrified 是过去分词：参观者“被震惊”。
+中文：村民们被这个计划吓坏了，守护着他们祭拜祖辈首领的那片圣地，决心为自己的权利讨回公道。
+英文：###Villagers, horrified by the plan, guarded the hallowed ground where they venerate their ancestral chiefs, determined to vindicate their rights.###
+- 神圣的：hallowed · hallowed ground 圣地
+- 尊敬，崇拜：venerate · venerate one's ancestors 祭拜祖先
+- 祖先的：ancestral · an ancestral home 祖宅
+- 证明……正确；维护：vindicate · vindicate one's rights 维护权利
+问：你想说「村民们被这个计划吓坏了，守护着他们祭拜祖辈首领的那片圣地，决心为自己的权利讨回公道」（说明“……所在的地方”），英语怎么说？
+要点：where 引导定语从句修饰 ground；horrified by ... 是过去分词短语作插入的状语。（动词形式）where 引导定语从句修饰 ground；horrified by ... 作插入的状语；determined to ... 作状语。
 语法：定语从句
 真题：剑桥雅思 17 Test 3 写作 Task 2 题目：where 引导定语从句，修饰表示地点的名词
 <!-- /leiji-note -->
@@ -1544,26 +1489,27 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s128 -->
 # 雅思例句 128 · 写作
-中文：气温上升和污染使珊瑚礁面目全非，这些生态系统遭到破坏，危及无数物种。
-英文：###Rising temperatures and pollution disfigure coral reefs, and the disruption of these ecosystems imperils countless species.###
-- 毁坏……的外形：disfigure · be disfigured by 被……毁容
-- 珊瑚：coral · a coral reef 珊瑚礁
-- 中断，扰乱：disruption · cause disruption 造成混乱
-- 危及：imperil · imperil lives 危及生命
-语法：两个并列主语，谓语用复数 disfigure；the disruption ... 作第二个分句的主语，谓语用单数。
+中文：因流产失去孩子的父母常常默默哀伤，有的甚至自责，所以朋友们应该表示同情，绝不要轻视他们的失去。
+英文：###Parents bereaved by a miscarriage often grieve in silence, some even feeling remorse, so friends should commiserate and never trivialize their loss.###
+- 使丧失（亲人）：bereave · the bereaved family 丧亲的家庭
+- 流产；失败：miscarriage · a miscarriage of justice 误判
+- 懊悔：remorse · feel remorse 感到懊悔
+- 同情：commiserate · commiserate with 同情
+- 使显得琐碎，轻视：trivialize · trivialize the issue 淡化问题
+语法：bereaved by ... 作后置定语；some even feeling remorse 是独立主格结构。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s129 -->
 # 雅思例句 129 · 语法
-中文：这次探索任务因为在减压舱发现故障而中止发射，弹射座椅也重新检查了一遍。
-英文：###The exploratory mission's launch was aborted when a fault was found in the decompression chamber, and the ejection seats were checked again.###
-- 探索的，探测的：exploratory · exploratory talks 试探性会谈
-- 中止，取消；流产：abort · abort a mission 中止任务
-- 减压：decompression · a decompression chamber 减压舱
-- 喷射；驱逐；弹射：ejection · ejection seat 弹射座椅
-问：你想说「这次探索任务因为在减压舱发现故障而中止发射，弹射座椅也重新检查了一遍」（说明“……被中止、被发现、被检查”），英语怎么说？
-要点：was aborted、was found、were checked 都是一般过去时的被动。（动词形式）was aborted、was found、were checked 都是一般过去时的被动：动作的承受者作主语。
-语法：被动语态
+中文：很多学生觉得手工整理繁杂的数据令人沮丧，如今软件让他们免去了这种苦差事。
+英文：###Many students find it dispiriting to collate cumbersome data by hand, a drudgery that software now spares them.###
+- 令人沮丧的：dispiriting · a dispiriting defeat 令人沮丧的失败
+- 整理；核对：collate · collate information 整理信息
+- 笨重的；繁琐的：cumbersome · cumbersome procedures 繁琐的程序
+- 苦差事：drudgery · the drudgery of housework 家务的辛苦
+问：你想说「很多学生觉得手工整理繁杂的数据令人沮丧，如今软件让他们免去了这种苦差事」（说明“觉得做……很……”），英语怎么说？
+要点：find it + 形容词 + to do 中，it 是形式宾语，真正的宾语是不定式 to collate ...。（动词形式）find it + 形容词 + to do 中 it 是形式宾语；a drudgery ... 是同位语。
+语法：it 形式宾语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s130 -->
@@ -1580,61 +1526,50 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s131 -->
 # 雅思例句 131 · 写作
-中文：人口数据显示社会正在向老龄化发生重大转变，由此带来的挑战多种多样，迫使政府合理分配预算。
-英文：###Demographic data reveal a consequential shift toward an ageing society, whose challenges are manifold, forcing governments to apportion budgets wisely.###
-- 人口统计的；特定人群：demographic · demographic changes 人口变化
-- 重大的；随之发生的：consequential · a consequential decision 重大决定
-- 多种多样的，多方面的：manifold · manifold problems 种种问题
-- 分配，分摊：apportion · apportion blame 分摊责任
-语法：whose 引导非限制性定语从句；现在分词短语 forcing ... 作结果状语。
+中文：武术把攻击性转化为自制力，还能练出本领，所以就连懒散的青少年练一年后也能超出预期。
+英文：###Martial arts channel aggressiveness into self-control and build prowess, so even indolent teenagers can outdo expectations after a year.###
+- 军事的；尚武的：martial · martial arts 武术
+- 侵略性；进取心：aggressiveness · reduce aggressiveness 减少攻击性
+- 高超技艺；英勇：prowess · athletic prowess 运动才能
+- 懒惰的：indolent · an indolent student 懒散的学生
+- 胜过：outdo · outdo one's rivals 胜过对手
+语法：channel A into B 表示“把 A 转化为 B”；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s132 -->
 # 雅思例句 132 · 语法
-中文：城市生活的诱惑实在太大，那些物质至上的年轻村民纷纷抛下农田，哪怕城里工资微薄。
-英文：###So irresistible was the allure of city life that materialistic young villagers abandoned their farms, despite meagre wages.###
-- 不可抗拒的，极诱人的：irresistible · an irresistible urge 无法抑制的冲动
-- 诱惑力，魅力：allure · the allure of fame 名声的诱惑
-- 物质主义的：materialistic · a materialistic society 物质至上的社会
-- 微薄的，贫乏的：meagre · a meagre income 微薄的收入
-问：你想说「城市生活的诱惑实在太大，那些物质至上的年轻村民纷纷抛下农田，哪怕城里工资微薄」（强调“如此……以至于……”），英语怎么说？
-要点：So + 形容词位于句首时，主句倒装（was + 主语），与 that 引导的结果状语从句连用。（动词形式）was 提到主语前面；abandoned 用过去时；despite 后接名词短语，不接从句。
-语法：倒装
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s133 -->
-# 雅思例句 133 · 口语
-中文：你能蹲下来把漏斗递给我吗？不然油会喷出来，把新地板弄脏。
-英文：###Could you crouch down and pass me the funnel? Otherwise the oil will gush out and mar the new floor.###
-- 蹲伏：crouch · crouch down 蹲下
-- 漏斗；烟囱；汇集：funnel · funnel money into 把资金投入
-- 喷涌；滔滔不绝地说：gush · gush out 涌出
-- 损坏，破坏：mar · mar the beauty 破坏美感
-口语练习：Part 1 · Do you often help with repairs or housework at home?
-语法：otherwise 意为“否则”。
+中文：无礼、傲慢或嘲笑同学的学生应该受到管教，管教要严格，但绝不能冷酷。
+英文：###Pupils who are disrespectful or insolent, or who jeer at classmates, deserve discipline that is firm but never heartless.###
+- 无礼的：disrespectful · disrespectful behaviour 无礼的行为
+- 傲慢无礼的：insolent · an insolent reply 无礼的回答
+- 嘲笑；嘲笑：jeer · jeer at 嘲笑
+- 无情的：heartless · a heartless decision 冷酷的决定
+问：你想说「无礼、傲慢或嘲笑同学的学生应该受到管教，管教要严格，但绝不能冷酷」（说明“那些……的学生”），英语怎么说？
+要点：who 引导限制性定语从句修饰 pupils；that 引导定语从句修饰 discipline。（动词形式）who 引导限制性定语从句修饰 pupils；that 引导定语从句修饰 discipline。
+语法：定语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s134 -->
 # 雅思例句 134 · 写作
-中文：对流把暖空气向上输送，在高空凝结成云，这一过程对气象学和污染物扩散都至关重要。
-英文：###Convection carries warm air upward, where condensation forms clouds, a process central to meteorology and to the dispersal of pollutants.###
-- 对流：convection · heat convection 热对流
-- 冷凝，凝结；（窗上）水汽：condensation · condensation on the window 窗上的水汽
-- 气象学：meteorology · a meteorology station 气象站
-- 分散，散布：dispersal · seed dispersal 种子传播
-语法：where 引导非限制性定语从句；a process central to ... 是同位语，概括前面的内容。
+中文：痴迷血统的育种者培育出眼睛凸出、关节有毛病的狗，批评者说这种违背自然的做法是反常的。
+英文：###Breeders obsessed with pedigree produce dogs whose eyes bulge and whose joints fail, a deviance from nature that critics call perverse.###
+- 血统；家谱；纯种的：pedigree · a pedigree dog 纯种狗
+- 鼓起；凸起：bulge · bulge with 鼓鼓地装满
+- 偏离常规：deviance · social deviance 社会越轨行为
+- 反常的；任性的：perverse · a perverse decision 有悖常理的决定
+语法：obsessed with ... 作后置定语；两个 whose 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s135 -->
 # 雅思例句 135 · 语法
-中文：比较这两种理论几乎没有意义，因为它们对越轨行为成因的基本假设互相矛盾。
-英文：###It is hardly meaningful to compare the two theories, since they rest on incongruous assumptions about the antecedents of deviance.###
-- 有意义的；意味深长的：meaningful · a meaningful relationship 有意义的关系
-- 不协调的，不一致的：incongruous · an incongruous mixture 不协调的组合
-- 前事，先例；祖先：antecedent · historical antecedents 历史渊源
-- 偏常，越轨行为：deviance · social deviance 社会越轨行为
-问：你想说「比较这两种理论几乎没有意义，因为它们对越轨行为成因的基本假设互相矛盾」（表达“做……几乎没有意义”），英语怎么说？
-要点：it 是形式主语，真正的主语是不定式 to compare ...；since 引导原因状语从句。（动词形式）is 用一般现在时；to compare 是不定式作真正的主语；rest 用复数：主语 they。
+中文：拿这两座超大城市作比较过于简单化，因为它们的人口和基础设施在许多方面都不同。
+英文：###It is simplistic to compare the two megacities, since their populace and infrastructure differ in manifold ways.###
+- 过分简单化的：simplistic · a simplistic view 过于简单的看法
+- 超大城市：megacity · Asian megacities 亚洲的超大城市
+- 平民；全体民众：populace · the general populace 普通民众
+- 多种多样的：manifold · manifold problems 各种各样的问题
+问：你想说「拿这两座超大城市作比较过于简单化，因为它们的人口和基础设施在许多方面都不同」（表达“做……几乎没有意义”），英语怎么说？
+要点：it 是形式主语，真正的主语是不定式 to compare ...；since 引导原因状语从句。（动词形式）it 是形式主语，真正的主语是不定式 to compare ...；since 引导原因状语从句。
 语法：it 形式主语
 真题：剑桥雅思 17 Test 1、剑桥雅思 18 Test 2 写作 Task 2 题目：It is + 形容词 + to do，it 作形式主语
 <!-- /leiji-note -->
@@ -1653,62 +1588,50 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s137 -->
 # 雅思例句 137 · 写作
-中文：那些用操纵性算法煽动仇恨或传播诽谤内容的平台应该被罚款，因为这类内容会削弱选举的合法性。
-英文：###Platforms whose manipulative algorithms incite hatred or spread libel should be fined, as such content undermines the legitimacy of elections.###
-- 操纵的，控制的：manipulative · manipulative behaviour 操纵性行为
-- 煽动，激起：incite · incite violence 煽动暴力
-- 诽谤（罪）；诽谤：libel · sue for libel 以诽谤罪起诉
-- 合法性，正当性：legitimacy · the legitimacy of the government 政府的合法性
-语法：whose 引导定语从句修饰 platforms；should be fined 是情态动词的被动。
+中文：频率剧烈波动时，一个故障就可能引发连锁失效，所以工程师会把各地区电网断开，把电力输送到别处。
+英文：###When frequencies oscillate wildly, one fault can trigger a cascade of failures, so engineers decouple regional grids and funnel power elsewhere.###
+- 振荡；摇摆：oscillate · oscillate between 在……之间摇摆
+- 小瀑布；一连串；倾泻：cascade · a cascade of 一连串
+- 使分离：decouple · decouple A from B 使 A 与 B 分离
+- 引导；汇集；漏斗：funnel · funnel money into 把钱投入
+语法：when 引导时间状语从句；so 表示结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s138 -->
 # 雅思例句 138 · 语法
-中文：如果这座特大城市立法禁止私家车进入市中心，交通拥堵就会缓解，更多人会改乘地铁。
-英文：###If this megacity legislated against private cars downtown, congestion would ease and more people would take the metro.###
-- 超大城市：megacity · Asian megacities 亚洲超大城市
-- 立法：legislate · legislate against 立法禁止
-- 拥挤，堵塞；充血：congestion · traffic congestion 交通拥堵
-- 地铁：metro · take the metro 乘地铁
-问：你想说「如果这座特大城市立法禁止私家车进入市中心，交通拥堵就会缓解，更多人会改乘地铁」（表达“如果……就会……”，与现在事实相反），英语怎么说？
-要点：与现在事实相反：if 从句用过去式 legislated，主句用 would + 动词原形。（动词形式）legislated 用过去式：与现在事实相反；would ease、would take：would + 原形。
+中文：如果政府针对有害的甲烷排放立下严格规定，工厂就会减轻污染。
+英文：###If the government legislated stringent rules on noxious methane emissions, factories would mitigate their pollution.###
+- 严格的：stringent · stringent rules 严格的规定
+- 有毒的，有害的：noxious · noxious fumes 有毒烟雾
+- 甲烷：methane · methane emissions 甲烷排放
+- 减轻，缓和：mitigate · mitigate the effects 减轻影响
+问：你想说「如果政府针对有害的甲烷排放立下严格规定，工厂就会减轻污染」（表达“如果……就会……”，与现在事实相反），英语怎么说？
+要点：与现在事实相反：if 从句用过去式 legislated，主句用 would + 动词原形。（动词形式）if 从句用过去式 legislated，主句用 would + 动词原形。
 语法：虚拟语气
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s139 -->
-# 雅思例句 139 · 口语
-中文：我表哥是个下棋狂，细致到会记下每一步棋；开局是他的强项，相比之下，对手都显得很平庸。
-英文：###My cousin is a chess maniac so meticulous that he logs every move; openings are his forte, so his rivals look mediocre.###
-- 狂热者；疯子：maniac · a speed maniac 飙车狂
-- 一丝不苟的，极仔细的：meticulous · meticulous planning 周密的计划
-- 长处，特长：forte · Cooking is not my forte. 做饭不是我的强项。
-- 平庸的，普通的：mediocre · a mediocre performance 平平的表现
-口语练习：Part 2 · Describe someone you know who is very good at a game.
-语法：so meticulous that ... 是 so ... that 结构作后置定语，引出结果。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s140 -->
 # 雅思例句 140 · 写作
-中文：持续几十年跟踪同一批人的长期研究，有助于找出母亲压力等容易使孩子走上违法道路的因素。
-英文：###Longitudinal studies that track people for decades help identify factors, such as maternal stress, that predispose children to delinquency.###
-- 纵向的；长期的：longitudinal · a longitudinal study 长期追踪研究
-- 母亲的，母系的：maternal · maternal love 母爱
-- 使易于，使倾向于：predispose · predispose sb. to 使某人易患
-- 违法行为，犯罪：delinquency · juvenile delinquency 青少年犯罪
-语法：两个 that 分别引导定语从句修饰 studies 和 factors。
+中文：在过去的矿井里，严禁在可燃气体附近用凿子敲击燧石，矿工们学会了立刻扑灭火星。
+英文：###In old mines, striking a chisel against flint near inflammable gas was banned, and miners learned to smother sparks instantly.###
+- 凿子；凿：chisel · a stone chisel 石凿
+- 燧石：flint · flint tools 燧石工具
+- 易燃的：inflammable · highly inflammable 极易燃的
+- 扑灭；使窒息：smother · smother a fire 闷灭火
+语法：动名词短语 striking ... 作主语；learn to do 表示“学会做”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s141 -->
 # 雅思例句 141 · 语法
-中文：虽然货币贬值可能促进出口，却会损害储户的利益，他们令人沮丧的损失可能引发刚刚冒头的动荡。
-英文：###Although devaluing the currency may boost exports, it works to the detriment of savers, whose dispiriting losses can fuel incipient unrest.###
-- 使贬值；贬低：devalue · devalue the currency 使货币贬值
-- 损害，伤害：detriment · to the detriment of 有损于
-- 令人沮丧的：dispiriting · a dispiriting defeat 令人沮丧的失败
-- 初期的，刚出现的：incipient · an incipient crisis 初露端倪的危机
-问：你想说「虽然货币贬值可能促进出口，却会损害储户的利益，他们令人沮丧的损失可能引发刚刚冒头的动荡」（表达“虽然……却……”），英语怎么说？
-要点：although 引导让步状语从句；动名词短语 devaluing the currency 作从句主语。（动词形式）may boost、can fuel 表示可能；works 用单数：主语 it；devaluing 是动名词作从句主语。
-语法：让步状语从句
+中文：除非机舱保持密封，否则可能突然失压，所以航空工程师要校准每一处密封件。
+英文：###Unless a cabin stays airtight, sudden decompression may occur, which is why aeronautics engineers calibrate every seal.###
+- 密封的；无懈可击的：airtight · an airtight container 密封容器
+- 减压，失压：decompression · cabin decompression 机舱失压
+- 航空学：aeronautics · a degree in aeronautics 航空学学位
+- 校准：calibrate · calibrate instruments 校准仪器
+问：你想说「除非机舱保持密封，否则可能突然失压，所以航空工程师要校准每一处密封件」（说明“除非……否则……”），英语怎么说？
+要点：unless 引导条件状语从句，意为“除非”。（动词形式）unless 引导条件状语从句；which is why ... 表示“这就是……的原因”。
+语法：条件状语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s142 -->
@@ -1725,97 +1648,76 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s143 -->
 # 雅思例句 143 · 写作
-中文：蚯蚓和微生物能分解粪肥、增强土壤肥力，所以保护它们的农民就不需要那么多化肥。
-英文：###Earthworms and microbes break down manure and fortify the soil, so farmers who protect them need fewer chemical fertilizers.###
-- 蚯蚓：earthworm · earthworms in the soil 土壤里的蚯蚓
-- 微生物，细菌：microbe · harmful microbes 有害微生物
-- 粪肥：manure · animal manure 动物粪肥
-- 加强，增强；筑防御工事：fortify · fortify a city 加固城防
-语法：who 引导定语从句修饰 farmers。
+中文：昔日的钢铁小镇留下了矿渣堆和浑浊运河的伤痕，如今正以坚韧的毅力重振经济，转向旅游业。
+英文：###Former steel towns, scarred by slag heaps and murky canals, are showing grit as they reinvigorate their economies and reorient towards tourism.###
+- 矿渣：slag · slag heaps 矿渣堆
+- 浑浊的；见不得人的：murky · murky water 浑水
+- 沙粒；勇气，毅力：grit · show grit 表现出毅力
+- 使重新振作：reinvigorate · reinvigorate the economy 重振经济
+- 重新定向：reorient · reorient towards 转向
+语法：scarred by ... 作后置定语；as 引导时间状语从句，表示“在……的同时”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s144 -->
 # 雅思例句 144 · 语法
-中文：天文学家当年就是在这座天文台追踪那颗彗星的，如今它的人气迅速飙升，还开设了一座天文馆，发行一份通讯。
-英文：###The observatory from which astronomers tracked the comet has enjoyed a meteoric rise in popularity and now runs a planetarium and a newsletter.###
-- 天文台，气象台：observatory · an astronomical observatory 天文台
-- 流星的；迅速的：meteoric · a meteoric rise 迅速崛起
-- 天文馆：planetarium · visit a planetarium 参观天文馆
-- 简报，通讯：newsletter · a monthly newsletter 月刊简报
-问：你想说「天文学家当年就是在这座天文台追踪那颗彗星的，如今它的人气迅速飙升，还开设了一座天文馆，发行一份通讯」（说明“在那里……的地方”），英语怎么说？
-要点：“介词 + which”引导定语从句，from which 修饰 observatory。（动词形式）tracked 用过去时：过去追踪彗星；has enjoyed 用现在完成时：人气上升到现在；runs 用一般现在时：现在的情况。
-语法：定语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s145 -->
-# 雅思例句 145 · 口语
-中文：别再这么懒散、拖拖拉拉了！辅导课十分钟后就开始，你连课程大纲都还没看。
-英文：###Stop being so indolent and procrastinating! The tutorial starts in ten minutes, and you haven't even read the syllabus.###
-- 懒惰的：indolent · an indolent student 懒散的学生
-- 拖延：procrastinate · stop procrastinating 别再拖延
-- 辅导课；教程：tutorial · an online tutorial 在线教程
-- 教学大纲：syllabus · the exam syllabus 考试大纲
-口语练习：Part 1 · Do you often put things off until the last minute?
-语法：stop doing 表示“停止做……”；haven't read 用现在完成时。
+中文：兽医赶到时，狗的心脏已经因毒蛇咬伤而剧烈跳动，只有解毒剂能救它了。
+英文：###By the time the veterinarian arrived, the dog's heart had begun to palpitate from the venomous bite, and only an antidote could save it.###
+- 兽医：veterinarian · a qualified veterinarian 有执照的兽医
+- （心脏）急速跳动；颤动：palpitate · palpitate with fear 吓得心怦怦跳
+- 有毒的；恶毒的：venomous · a venomous snake 毒蛇
+- 解药；矫正方法：antidote · an antidote to 对……的解药
+问：你想说「兽医赶到时，狗的心脏已经因毒蛇咬伤而剧烈跳动，只有解毒剂能救它了」（说明“到……时已经……”），英语怎么说？
+要点：had begun 发生在 arrived 之前，用过去完成时。（动词形式）By the time 引导时间状语从句，主句用过去完成时 had begun。
+语法：过去完成时
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s146 -->
 # 雅思例句 146 · 写作
-中文：一位好导师会给新手提供激励和实用建议，帮助他们更快地掌握一门新职业。
-英文：###A good mentor offers novices motivational support and practical advice, speeding up their mastery of a new profession.###
-- 导师，指导者；指导：mentor · a career mentor 职业导师
-- 新手，初学者：novice · a complete novice 十足的新手
-- 激励的：motivational · a motivational speaker 励志演说家
-- 精通，掌握；控制：mastery · mastery of a language 精通一门语言
-语法：offer sb. sth. 是双宾语结构；现在分词短语 speeding up ... 作结果状语。
+中文：大多数法官都认为，租赁法应限制房东的自由裁量权，公平分摊维修费用，并把纠纷交给公正的法院处理。
+英文：###Most judges concur that tenancy law should limit landlords' discretion, apportion repair costs fairly and leave disputes to unprejudiced courts.###
+- 同意；同时发生：concur · concur with 同意
+- 租赁；租期：tenancy · a tenancy agreement 租约
+- 自行决定权；谨慎：discretion · at one's discretion 由……酌情决定
+- 分配：apportion · apportion blame 分摊责任
+- 无偏见的：unprejudiced · an unprejudiced judgement 公正的判断
+语法：that 引导宾语从句；三个并列的谓语动词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s147 -->
 # 雅思例句 147 · 语法
-中文：这家制药公司为掩盖自己的疏忽而歪曲临床试验数据，误导了医生，也落得长久的恶名。
-英文：###The pharmaceutical firm misrepresented its trial data to cover up its negligence, misleading doctors and earning lasting notoriety.###
-- 制药的；（复数）药品：pharmaceutical · a pharmaceutical company 制药公司
-- 歪曲，误传：misrepresent · misrepresent the facts 歪曲事实
-- 恶名，声名狼藉：notoriety · gain notoriety 臭名远扬
-- 疏忽，过失：negligence · medical negligence 医疗过失
-问：你想说「这家制药公司为掩盖自己的疏忽而歪曲临床试验数据，误导了医生，也落得长久的恶名」（表达“从而……”的结果），英语怎么说？
-要点：misleading ... and earning ... 作结果状语。（动词形式）misrepresented 用过去时；to cover up 是不定式作目的状语；misleading、earning 是现在分词作结果状语，逻辑主语是 firm。
-语法：现在分词作状语
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s148 -->
-# 雅思例句 148 · 口语
-中文：妈，别再唠叨我了！我今天浑身没劲，不过午饭后会收拾房间的；你一直催只会让我更烦躁。
-英文：###Stop pestering me, Mum! I'm sluggish today, but I'll tidy my room after lunch; harassing me just makes me touchy.###
-- 纠缠，烦扰：pester · pester sb. for 缠着某人要
-- 迟缓的，无精打采的：sluggish · sluggish growth 增长缓慢
-- 骚扰，烦扰：harass · be harassed by 受到……骚扰
-- 敏感易怒的；棘手的：touchy · a touchy subject 敏感话题
-口语练习：Part 1 · Did your parents ask you to tidy your room when you were younger?
-语法：动名词短语 harassing me 作主语。
+中文：真正的问题不是缺勤，而是实行弹性工作制的员工拖拖拉拉，以为截止日期可以商量。
+英文：###The real problem is not absenteeism but that staff on flexitime procrastinate, presupposing that deadlines are negotiable.###
+- 旷工，缺勤：absenteeism · reduce absenteeism 减少缺勤
+- 弹性工作制：flexitime · work flexitime 实行弹性工作制
+- 拖延：procrastinate · stop procrastinating 别再拖延
+- 预先假定：presuppose · presuppose that 预先假定
+问：你想说「真正的问题不是缺勤，而是实行弹性工作制的员工拖拖拉拉，以为截止日期可以商量」（说明“问题在于……”），英语怎么说？
+要点：that 引导表语从句，作 is 的表语；presupposing ... 作伴随状语。（动词形式）not ... but that ... 中 that 引导表语从句；presupposing ... 作伴随状语。
+语法：表语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s149 -->
 # 雅思例句 149 · 写作
-中文：牲畜排放的甲烷是一种强效温室气体，过度放牧又会让牧场退化，所以减轻这两方面影响的措施刻不容缓。
-英文：###Methane from livestock is a potent greenhouse gas, and overgrazing degrades pastures, so measures to mitigate both are urgent.###
-- 甲烷，沼气：methane · methane emissions 甲烷排放
-- 强有力的，有效的：potent · a potent drug 药效强的药
-- 过度放牧：overgraze · overgrazed land 过度放牧的土地
-- 减轻，缓解：mitigate · mitigate the effects 减轻影响
-语法：动名词 overgrazing 作主语；不定式 to mitigate both 作后置定语，修饰 measures。
+中文：刊登诽谤内容的报纸会遭到一连串诉讼，所以编辑必须讲清消息来源，避免含沙射影的指控，防止引语被滥用。
+英文：###A paper that publishes libel faces a barrage of lawsuits, so editors must elucidate sources, avoid oblique accusations and prevent the misuse of quotes.###
+- 诽谤；诽谤：libel · sue for libel 以诽谤罪起诉
+- 连珠炮似的一连串；拦河坝：barrage · a barrage of questions 一连串问题
+- 阐明：elucidate · elucidate a point 阐明观点
+- 间接的；倾斜的：oblique · an oblique reference 拐弯抹角的提及
+- 滥用；滥用：misuse · drug misuse 药物滥用
+语法：that 引导定语从句修饰 paper；三个并列谓语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s150 -->
 # 雅思例句 150 · 语法
-中文：这款由一家跨国公司研发的新处理器运行速度是上一代的两倍，非常适合用于机器人手术。
-英文：###Developed by a multinational, the new processor runs twice as fast as its forerunner, making it ideal for robotic surgery.###
-- 跨国公司；跨国的：multinational · a multinational corporation 跨国公司
-- 处理器；加工者：processor · a food processor 食品加工机
-- 先驱，前身：forerunner · the forerunner of the computer 计算机的前身
-- 机器人的；呆板的：robotic · robotic arms 机械臂
-问：你想说「这款由一家跨国公司研发的新处理器运行速度是上一代的两倍，非常适合用于机器人手术」（表达“是……的几倍”），英语怎么说？
-要点：倍数 + as ... as 表示“是……的几倍”；Developed by ... 是过去分词短语作状语。（动词形式）Developed 是过去分词作状语：处理器“被研发”；runs 用一般现在时；making 现在分词作结果状语。
+中文：这款新恒温器由一个工程师联合体研发，效率是老旧型号的三倍，减少了能源浪费。
+英文：###Developed by a consortium of engineers, the new thermostat is three times as efficient as antiquated models, cutting energy wastage.###
+- 财团；联合体：consortium · a consortium of banks 银行财团
+- 恒温器：thermostat · adjust the thermostat 调节恒温器
+- 过时的，陈旧的：antiquated · antiquated laws 过时的法律
+- 浪费；损耗：wastage · water wastage 水的浪费
+问：你想说「这款新恒温器由一个工程师联合体研发，效率是老旧型号的三倍，减少了能源浪费」（表达“是……的几倍”），英语怎么说？
+要点：倍数 + as ... as 表示“是……的几倍”；Developed by ... 是过去分词短语作状语。（动词形式）倍数 + as ... as 表示“是……的几倍”；Developed by ... 是过去分词短语作状语。
 语法：比较结构
 <!-- /leiji-note -->
 
@@ -1833,13 +1735,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s152 -->
 # 雅思例句 152 · 写作
-中文：在希腊神话中，英雄漫长的归乡之旅是一个反复出现的主题，其象征意义至今仍影响着现代文学。
-英文：###In Greek mythology, the hero's odyssey home is a recurring motif, and its symbolism still shapes modern literature.###
-- 神话；神话学：mythology · Greek mythology 希腊神话
-- 漫长的历程：odyssey · a spiritual odyssey 心灵之旅
-- 主题，主旨；图案：motif · a recurring motif 反复出现的主题
-- 象征意义，象征手法：symbolism · religious symbolism 宗教象征
-语法：and 连接两个并列分句。
+中文：人们常把进化误解成一架梯子，而对大量化石进行归纳研究，可以看出物种是如何演变的，也能揭示它们之间的相互关系。
+英文：###People often misconceive evolution as a ladder, whereas inductive study of a vast corpus of fossils shows how species transmute and reveals their interrelationship.###
+- 误解：misconceive · misconceive A as B 把 A 误解为 B
+- 归纳的：inductive · inductive reasoning 归纳推理
+- 文集；语料库：corpus · a language corpus 语料库
+- 使变形；嬗变：transmute · transmute into 转变为
+- 相互关系：interrelationship · the interrelationship between 之间的相互关系
+语法：whereas 表示对比；how 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s153 -->
@@ -1869,13 +1772,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s155 -->
 # 雅思例句 155 · 写作
-中文：有害的农药在现代农业中无处不在，却会杀死蜜蜂，所以许多种植者现在改为放养捕食性昆虫。
-英文：###Noxious pesticides are pervasive in modern farming, yet they kill bees, so many growers now release predatory insects instead.###
-- 有毒的，有害的：noxious · noxious fumes 有毒气体
-- 杀虫剂，农药：pesticide · use pesticides 使用农药
-- 遍布的，无处不在的：pervasive · a pervasive influence 无处不在的影响
-- 捕食性的；掠夺的：predatory · predatory animals 食肉动物
-语法：yet 表示转折；so 引出结果。
+中文：官方报告往往掩盖当权者的不当行为，所以正直的记者援引公众的知情权，拒绝被安抚。
+英文：###Official reports tend to gloss over misdeeds by those in power, so righteous journalists invoke the public's right to know and refuse to be pacified.###
+- 掩饰；光泽；注释：gloss · gloss over 掩饰
+- 罪行；不端行为：misdeed · past misdeeds 过去的劣迹
+- 正义的；正直的：righteous · righteous anger 义愤
+- 援引；乞求：invoke · invoke a law 援引法律
+- 使平静；安抚：pacify · pacify a crying baby 哄哭闹的婴儿
+语法：tend to do 表示“往往做”；refuse to be pacified 是不定式的被动形式。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s156 -->
@@ -1891,27 +1795,16 @@ per_day: 1
 语法：动名词
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s157 -->
-# 雅思例句 157 · 口语
-中文：我们去露台上吃吧！把那些古色古香的陶杯带上，再拿点零嘴来。
-英文：###Let's eat on the patio! Bring those quaint pottery cups and something to nibble.###
-- 露台，院子：patio · sit on the patio 坐在露台上
-- 古雅的，奇特有趣的：quaint · a quaint old town 古色古香的小镇
-- 陶器；制陶：pottery · Chinese pottery 中国陶器
-- 小口咬，啃；一小口：nibble · nibble at 一点点地吃
-口语练习：Part 1 · Do you like eating outdoors?
-语法：不定式 to nibble 作后置定语，修饰 something。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s158 -->
 # 雅思例句 158 · 写作
-中文：学生转述资料却不注明出处，同样构成抄袭，大学会严厉惩处这种不端行为。
-英文：###Students who paraphrase sources without citing them still commit plagiarism, a misdeed that universities penalize severely.###
-- 转述，意译；释义：paraphrase · paraphrase a passage 改写一段文字
-- 抄袭，剽窃：plagiarism · be accused of plagiarism 被指控抄袭
-- 不端行为，罪行：misdeed · past misdeeds 过去的不端行为
-- 处罚：penalize · be penalized for 因……受罚
-语法：who 引导定语从句修饰 students；a misdeed that ... 是同位语。
+中文：城里见多识广的人也许觉得乡村方言格格不入，但方言保留着有关预兆和节令的丰富象征意义。
+英文：###Urban sophisticates may find rural vernacular incongruous, yet dialects preserve a rich symbolism of omens and seasons.###
+- 老于世故的人；使复杂化：sophisticate · an urban sophisticate 世故的都市人
+- 方言；白话；本地话的：vernacular · in the vernacular 用本地话
+- 不协调的：incongruous · look incongruous 显得格格不入
+- 象征主义；象征意义：symbolism · religious symbolism 宗教象征
+- 预兆：omen · a good omen 好兆头
+语法：find + 宾语 + 形容词；yet 表示转折。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s159 -->
@@ -1927,40 +1820,16 @@ per_day: 1
 语法：现在分词作状语
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s160 -->
-# 雅思例句 160 · 口语
-中文：很抱歉您的订单出了差错！我们会免收附加费、退还配送费，再送您一张代金券。
-英文：###Sorry about the mishap with your order! We'll waive the surcharge, reimburse the delivery fee and give you a voucher.###
-- 小事故，不幸：mishap · without mishap 平安无事
-- 附加费：surcharge · a fuel surcharge 燃油附加费
-- 偿还，报销：reimburse · reimburse expenses 报销费用
-- 代金券，凭证：voucher · a gift voucher 礼券
-口语练习：Part 2 · Describe a time when a company solved a problem for you.
-语法：三个并列谓语共用 will。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s161 -->
 # 雅思例句 161 · 写作
-中文：带有党派色彩的媒体往往把复杂问题简单化，依赖煽动性的言辞和过于简单的解决办法。
-英文：###Partisan media tend to trivialize complex issues, relying on heated rhetoric and simplistic solutions.###
-- 党派的，偏袒的：partisan · partisan politics 党派政治
-- 使显得琐碎，轻视：trivialize · trivialize the problem 轻视问题
-- 修辞；花言巧语：rhetoric · empty rhetoric 空洞的言辞
-- 过分简单化的：simplistic · a simplistic view 过于简单的看法
-语法：tend to do 表示“往往会……”；现在分词短语 relying on ... 作伴随状语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s162 -->
-# 雅思例句 162 · 语法
-中文：认为机器将取代所有工人的推断反映了弥漫在媒体中的悲观情绪，但这种观点很难站得住脚。
-英文：###The presumption that machines will replace every worker reflects a pessimism that pervades the media, but it is hardly tenable.###
-- 推测，假定；放肆：presumption · the presumption of innocence 无罪推定
-- 悲观（主义）：pessimism · a mood of pessimism 悲观情绪
-- 弥漫，遍及：pervade · pervade society 渗透社会
-- 站得住脚的；可维持的：tenable · a tenable argument 站得住脚的论点
-问：你想说「认为机器将取代所有工人的推断反映了弥漫在媒体中的悲观情绪，但这种观点很难站得住脚」（说明“认为……的推断”的具体内容），英语怎么说？
-要点：第一个 that 引导同位语从句，说明 presumption 的内容；第二个 that 引导定语从句修饰 pessimism。（动词形式）will replace 用将来时：推断的内容；reflects、pervades、is 用一般现在时：讲现状。
-语法：同位语从句
+中文：承诺与无能、适得其反的政策之间明显不一致，会削弱公众的信任，尽管很多选民并没有意识到。
+英文：###A glaring incongruity between pledges and inept, counterproductive policies can detract from public trust, though many voters remain unaware of it.###
+- 不协调；不一致：incongruity · the incongruity between 之间的不一致
+- 无能的；不恰当的：inept · an inept leader 无能的领导
+- 适得其反的：counterproductive · counterproductive measures 适得其反的措施
+- 降低；贬低：detract · detract from 减损
+- 不知道的：unaware · be unaware of 没有意识到
+语法：between A and B 表示“A 与 B 之间”；though 引导让步状语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s163 -->
@@ -1977,26 +1846,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s164 -->
 # 雅思例句 164 · 写作
-中文：易腐商品需要冷链运输，因为一旦延误就会造成变质和损耗，零售商要为此付出高昂的代价。
-英文：###Perishable goods need refrigerated transport, because delays cause spoilage and wastage at a prohibitive cost to retailers.###
-- 易腐烂的；（复数）易腐食品：perishable · perishable food 易腐食品
-- 变质，腐败：spoilage · food spoilage 食物变质
-- 损耗，浪费：wastage · water wastage 水的浪费
-- 高得令人却步的；禁止的：prohibitive · prohibitive costs 高得负担不起的成本
-语法：because 引导原因状语从句；at a ... cost to sb. 表示“使某人付出……代价”。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s165 -->
-# 雅思例句 165 · 语法
-中文：只有补充水库蓄水并实行限量供水，这个地区才能应对危机，因为降水量已经连续三年骤降。
-英文：###Only by replenishing reservoirs and rationing water can the region cope, as precipitation has plummeted for three years.###
-- 补充，重新装满：replenish · replenish supplies 补充物资
-- 定量配给；配给量：ration · food rations 口粮
-- 降水（量）；沉淀：precipitation · annual precipitation 年降水量
-- 骤降，暴跌：plummet · prices plummeted 价格暴跌
-问：你想说「只有补充水库蓄水并实行限量供水，这个地区才能应对危机，因为降水量已经连续三年骤降」（强调“只有通过……才能……”），英语怎么说？
-要点：Only + 方式状语位于句首时，主句部分倒装（can + 主语 + 动词原形）。（动词形式）replenishing、rationing 是介词 by 后的动名词；can ... cope：can 提前；has plummeted 用现在完成时：持续了三年。
-语法：倒装
+中文：一些国家停止发行大面额纸币，这项不显眼的措施限制了逃税，已成为反腐政策的基石。
+英文：###Some governments discontinue notes of high denomination, an unobtrusive measure that circumscribes tax evasion and has become a keystone of anti-corruption policy.###
+- 停止；中断：discontinue · discontinue a product 停产某产品
+- 面额；宗派：denomination · notes of small denomination 小面额钞票
+- 不显眼的：unobtrusive · an unobtrusive presence 低调的存在
+- 限制：circumscribe · circumscribe one's power 限制权力
+- 基石；拱顶石：keystone · the keystone of 的基石
+语法：an unobtrusive measure ... 作同位语；that 引导定语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s166 -->
@@ -2013,25 +1870,26 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s167 -->
 # 雅思例句 167 · 写作
-中文：在富家子弟占多数的名牌大学，高等数学是入学的先决条件，而贫困地区的学校只开设最基础的课程。
-英文：###At prestigious universities, where wealthy students predominate, advanced maths is a prerequisite, while poorer schools offer only rudimentary courses.###
-- 有声望的，一流的：prestigious · a prestigious award 享有盛誉的奖项
-- 占主导地位，占多数：predominate · women predominate in 女性在……中占多数
-- 前提，先决条件：prerequisite · a prerequisite for 的先决条件
-- 基本的，初步的：rudimentary · rudimentary knowledge 基础知识
-语法：where 引导非限制性定语从句；while 连接两个对比的分句。
+中文：载满移民的渡船可能在风浪中倾覆，这些人在家乡被当作弃儿，哀切的求救声成了这场悲惨大逃亡的标志。
+英文：###Ferries laden with migrants, treated as outcasts at home, can capsize in rough seas, and plaintive calls for help mark this tragic exodus.###
+- 满载的：laden · laden with 满载着
+- 被抛弃的人：outcast · a social outcast 被社会遗弃的人
+- 倾覆：capsize · the boat capsized 船翻了
+- 哀伤的：plaintive · a plaintive cry 哀号
+- 大批离去：exodus · a mass exodus 大批出走
+语法：laden with ... 作后置定语；treated as ... 是过去分词短语，补充说明 migrants。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s168 -->
 # 雅思例句 168 · 语法
-中文：据认为这幅卷轴出自那位已故书法家之手，但在作为遗作出版之前，必须先核实其来源。
-英文：###The scroll is thought to have been written by the late calligrapher, but verification of its provenance must precede any posthumous publication.###
-- 卷轴，书卷；滚动：scroll · scroll down 向下滚动
-- 核实，查证：verification · identity verification 身份验证
-- 出处，来源：provenance · of unknown provenance 来源不明
-- 死后的，身后的：posthumous · a posthumous award 死后追授的奖项
-问：你想说「据认为这幅卷轴出自那位已故书法家之手，但在作为遗作出版之前，必须先核实其来源」（表达“据认为……是由……写的”），英语怎么说？
-要点：is thought to have been written 中，to have been done 是不定式完成式的被动，表示“被认为已经……”。（动词形式）is thought 是一般现在时的被动；to have been written：写在“认为”之前，且卷轴“被写”；must precede：情态动词 + 原形。
+中文：人们认为这篇序言是一位多产的诗人用笔名写的，而这位诗人的身份至今难以确定。
+英文：###The prologue is thought to have been written under a pseudonym by a prolific poet whose identity remains elusive.###
+- 序言；开场白：prologue · the prologue to the novel 小说的序言
+- 笔名：pseudonym · write under a pseudonym 用笔名写作
+- 多产的：prolific · a prolific writer 多产作家
+- 难以捉摸的：elusive · an elusive goal 难以实现的目标
+问：你想说「人们认为这篇序言是一位多产的诗人用笔名写的，而这位诗人的身份至今难以确定」（表达“据认为……是由……写的”），英语怎么说？
+要点：is thought to have been written 中，to have been done 是不定式完成式的被动，表示“被认为已经……”。（动词形式）is thought to have been written 是不定式完成式的被动；whose 引导定语从句。
 语法：被动语态
 <!-- /leiji-note -->
 
@@ -2049,13 +1907,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s170 -->
 # 雅思例句 170 · 写作
-中文：数学离不开抽象思维，但老师们可以用能概括核心概念的三维模型，让数学变得不那么枯燥。
-英文：###Maths depends on abstraction, but teachers make it less mundane with three-dimensional models that encapsulate key ideas.###
-- 抽象；抽象概念：abstraction · a high level of abstraction 高度抽象
-- 平凡的，乏味的：mundane · mundane tasks 琐碎乏味的事
-- ……维的，尺寸的：dimensional · three-dimensional 三维的
-- 概括，压缩：encapsulate · encapsulate the main idea 概括主旨
-语法：that 引导定语从句修饰 models；make + 宾语 + 形容词比较级。
+中文：苔藓在石板的缝隙里长得很茂盛，那里充满了几乎察觉不到的生命，科学家希望弄清它们是怎样熬过干旱的。
+英文：###Mosses thrive in crevices of stone slabs, where barely perceptible life teems, and scientists hope to unravel how it survives drought.###
+- 裂缝：crevice · a crevice in the rock 岩石的缝隙
+- 厚板：slab · a concrete slab 混凝土板
+- 可察觉的：perceptible · a perceptible change 明显的变化
+- 充满；大量存在：teem · teem with 充满
+- 解开；弄清：unravel · unravel a mystery 解开谜团
+语法：where 引导非限制性定语从句；how 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s171 -->
@@ -2085,26 +1944,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s173 -->
 # 雅思例句 173 · 写作
-中文：自身免疫性疾病是身体攻击自身组织的疾病，可能源于基因突变，压力会加速发病或使病情加重。
-英文：###Autoimmune disorders, in which the body attacks its own tissue, may stem from mutation, and stress can hasten their onset or cause aggravation.###
-- 自身免疫的：autoimmune · an autoimmune disease 自身免疫性疾病
-- 突变；变化：mutation · genetic mutation 基因突变
-- 开始，发作：onset · the onset of winter 冬季的来临
-- 恶化，加重；恼怒：aggravation · aggravation of symptoms 症状加重
-语法：in which 引导非限制性定语从句；stem from 表示“起源于”。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s174 -->
-# 雅思例句 174 · 语法
-中文：那只捕食者潜伏在浑浊的水里，一动不动地等待着，触须像网一样张开。
-英文：###Lurking in the murky water, the predator waited motionless, its tentacles spread like a net.###
-- 潜伏，埋伏：lurk · lurk in the shadows 潜伏在暗处
-- 浑浊的；昏暗的；可疑的：murky · murky water 浑水
-- 捕食者；掠夺者：predator · natural predators 天敌
-- 触须，触手：tentacle · an octopus's tentacles 章鱼的触手
-问：你想说「那只捕食者潜伏在浑浊的水里，一动不动地等待着，触须像网一样张开」（描写主语动作时附带的状态），英语怎么说？
-要点：Lurking in ... 作伴随状语；its tentacles spread ... 是独立主格结构。（动词形式）Lurking 是现在分词作伴随状语；waited 用过去时；spread 是过去分词（与原形相同）：触须“被张开”。
-语法：独立主格
+中文：传统的婚姻观重视纯洁的恋爱，把婚姻视为成年的顶点，而现在很多年轻人觉得这种规矩过时了。
+英文：###Traditional views of matrimony prized chaste courtship and saw marriage as the pinnacle of adulthood, whereas many young people now find such propriety outdated.###
+- 婚姻：matrimony · holy matrimony 神圣的婚姻
+- 纯洁的；朴素的：chaste · a chaste kiss 纯洁的吻
+- 顶峰：pinnacle · the pinnacle of success 成功的顶峰
+- 得体；规矩：propriety · a sense of propriety 分寸感
+语法：see A as B 表示“把 A 看作 B”；whereas 表示对比。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s175 -->
@@ -2121,25 +1967,25 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s176 -->
 # 雅思例句 176 · 写作
-中文：一项多边条约现在要求船舶停止使用重质燃料油，因为这种燃料会污染海洋、危害候鸟。
-英文：###A multilateral treaty now mandates that ships discontinue heavy fuel oil, which pollutes oceans and harms migratory birds.###
-- 多边的：multilateral · multilateral trade 多边贸易
-- 授权，强制要求；授权：mandate · a mandate to govern 执政授权
-- 停止，中断：discontinue · discontinue a product 停产某产品
-- 迁徙的，流浪的：migratory · migratory birds 候鸟
-语法：mandate that ... 从句用 (should) + 动词原形 discontinue；which 引导非限制性定语从句。
+中文：把废弃的小教堂改成酒吧，在信徒看来是亵渎，而策划者却看到了吸引有钱客户的绝佳机会。
+英文：###Turning a disused chapel into a bar strikes believers as profane, whereas strategists see an unbeatable chance to court a wealthy clientele.###
+- 亵渎的；世俗的；亵渎：profane · profane language 亵渎的言语
+- 战略家；策划者：strategist · a military strategist 军事战略家
+- 无与伦比的：unbeatable · unbeatable prices 最低价
+- 客户：clientele · a wealthy clientele 富有的客户群
+语法：动名词短语 Turning ... 作主语；strike sb. as 表示“给某人……的印象”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s177 -->
 # 雅思例句 177 · 语法
-中文：鉴于他的工作久坐不动，内科医生建议他每天散步，以加快新陈代谢、改善呼吸。
-英文：###Given his sedentary job, the internist recommended that he walk daily to boost his metabolism and improve respiration.###
-- 久坐的，不爱活动的：sedentary · a sedentary lifestyle 久坐不动的生活方式
-- 内科医生：internist · see an internist 看内科医生
-- 新陈代谢：metabolism · a slow metabolism 代谢缓慢
-- 呼吸：respiration · artificial respiration 人工呼吸
-问：你想说「鉴于他的工作久坐不动，内科医生建议他每天散步，以加快新陈代谢、改善呼吸」（表达“建议……做……”），英语怎么说？
-要点：recommend that ... 从句用 (should) + 动词原形，所以用 walk 而不是 walks。（动词形式）recommended 用过去时；walk 用原形：recommend 后的从句用 (should) + 原形；Given 在这里是介词，意为“鉴于”。
+中文：医生建议久坐的上班族每小时走动一下，以抵消颈椎劳损和血液循环不畅。
+英文：###Doctors recommend that sedentary office workers walk every hour to counterbalance cervical strain and sluggish circulation.###
+- 久坐的：sedentary · a sedentary lifestyle 久坐不动的生活方式
+- 抵消；平衡力：counterbalance · counterbalance the risk 抵消风险
+- 颈部的；宫颈的：cervical · cervical spine 颈椎
+- 迟缓的；萧条的：sluggish · a sluggish economy 低迷的经济
+问：你想说「医生建议久坐的上班族每小时走动一下，以抵消颈椎劳损和血液循环不畅」（表达“建议……做……”），英语怎么说？
+要点：recommend that ... 从句用 (should) + 动词原形，所以用 walk 而不是 walks。（动词形式）recommend that ... 从句用 (should) + 动词原形，所以用 walk 而不是 walks。
 语法：虚拟语气
 <!-- /leiji-note -->
 
@@ -2157,49 +2003,25 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s179 -->
 # 雅思例句 179 · 写作
-中文：地质勘测显示，这个陨石坑是陨石撞击留下的，坑壁上露出富含燧石的层层沉积物。
-英文：###Geological surveys show the crater was left by a meteorite, and its walls reveal layers of sediment rich in flint.###
-- 地质的：geological · a geological survey 地质勘测
-- 火山口；弹坑：crater · a volcanic crater 火山口
-- 沉积物，沉淀物：sediment · river sediment 河流沉积物
-- 燧石，打火石：flint · a flint knife 燧石刀
-语法：show 后省略了 that；rich in flint 是形容词短语作后置定语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s180 -->
-# 雅思例句 180 · 语法
-中文：最先发现有人闯入并通知看守长的，是那位警惕的协调员，而不是保安。
-英文：###It was the vigilant coordinator, not the guards, who first noticed the intrusion and alerted the warden.###
-- 警惕的，警觉的：vigilant · remain vigilant 保持警惕
-- 协调人：coordinator · a project coordinator 项目协调人
-- 闯入，侵扰：intrusion · an intrusion into privacy 侵犯隐私
-- 看守人，管理员：warden · a prison warden 监狱长
-问：你想说「最先发现有人闯入并通知看守长的，是那位警惕的协调员，而不是保安」（强调“最先……的是……而不是……”），英语怎么说？
-要点：It was ... who ... 强调人作主语，可以用 who 代替 that。（动词形式）was 用过去时；who 代替 that：被强调的是人；noticed、alerted 用过去时。
-语法：强调句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s181 -->
-# 雅思例句 181 · 口语
-中文：自从小时候受过一次创伤，我妹妹就害怕打针；她一看到血就恶心，心跳也会加速。
-英文：###Since a childhood trauma, my sister has had a phobia of needles; the sight of blood sickens her, and her heart palpitates.###
-- 创伤；外伤：trauma · emotional trauma 精神创伤
-- 恐惧症：phobia · a phobia of spiders 蜘蛛恐惧症
-- 使厌恶；使生病：sicken · be sickened by 对……感到恶心
-- （心脏）急速跳动；颤动：palpitate · palpitate with fear 因恐惧而心跳加速
-口语练习：Part 1 · Is there anything you are afraid of?
-语法：since 表示“自从”，主句用现在完成时 has had。
+中文：抗议者在一片混乱中举着标语牌，谴责警方驱散人群时处置不当，但拒绝被激怒而诉诸暴力。
+英文：###Protesters waved placards amid the commotion, condemning how police mishandled the dispersal of the crowd, yet refused to be goaded into violence.###
+- 标语牌：placard · wave placards 挥舞标语牌
+- 骚动：commotion · cause a commotion 引起骚动
+- 处理不当：mishandle · mishandle a crisis 应对危机失当
+- 驱散；散布：dispersal · seed dispersal 种子传播
+- 刺激；激怒：goad · goad sb. into doing 激得某人做
+语法：condemning ... 作伴随状语；how 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s182 -->
 # 雅思例句 182 · 写作
-中文：如今，有读写能力不仅意味着会读文字，还要能追踪信息的传播，包括辨别那些几乎难以察觉的语义陷阱。
-英文：###Being literate today means reading text and tracing the dissemination of information, including semantic tricks that are barely identifiable.###
-- 有读写能力的；精通……的：literate · computer literate 懂计算机的
-- 传播，散布：dissemination · the dissemination of knowledge 知识的传播
-- 语义的：semantic · semantic differences 语义差别
-- 可识别的：identifiable · easily identifiable 容易辨认的
-语法：动名词短语 Being literate 作主语；mean doing 表示“意味着做……”。
+中文：一位资深工程师将监督施工，检查每面墙是否垂直、衣帽间是否符合消防规定，好让大厅通过认证。
+英文：###A veteran engineer will superintend construction, checking that every wall is plumb and that the cloakroom meets fire codes, so the hall gains accreditation.###
+- 监督，主管：superintend · superintend the work 监督工作
+- 垂直的；探究：plumb · out of plumb 不垂直
+- 衣帽间：cloakroom · leave a coat in the cloakroom 把外套寄存在衣帽间
+- 认证，认可：accreditation · gain accreditation 获得认证
+语法：checking ... 作伴随状语；两个 that 引导并列的宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s183 -->
@@ -2215,40 +2037,15 @@ per_day: 1
 语法：倒装
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s184 -->
-# 雅思例句 184 · 口语
-中文：你明天能帮我监考补考吗？我要去看牙，教务主任中午前就要那张替换申请表。
-英文：###Could you invigilate the resit tomorrow? I've got a dental appointment, and the registrar needs the substitution form by noon.###
-- 监考：invigilate · invigilate an exam 监考
-- 补考；重考：resit · fail the resit 补考不及格
-- （大学）教务主任；登记员：registrar · the university registrar 大学教务长
-- 代替，替换：substitution · the substitution of A for B 用 A 替换 B
-口语练习：Part 1 · Have you ever asked a colleague or classmate to do you a favour?
-语法：could 表示委婉请求；by noon 表示“中午之前”。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s185 -->
 # 雅思例句 185 · 写作
-中文：季节性季风给南亚带来至关重要的雨水，但如今更猛烈的暴雨会冲走表层土壤、毁坏庄稼。
-英文：###The seasonal monsoon brings vital rain to South Asia, but heavier storms now wash away topsoil and ravage crops.###
-- 季节性的：seasonal · seasonal workers 季节工
-- 季风；雨季：monsoon · the monsoon season 雨季
-- 表层土：topsoil · fertile topsoil 肥沃的表土
-- 毁坏，蹂躏：ravage · be ravaged by war 遭到战争蹂躏
-语法：but 表示转折；wash away 表示“冲走”。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s186 -->
-# 雅思例句 186 · 语法
-中文：这名囚犯被定罪是一起冤案，一家信誉良好的实验室证明警方处理证据不当之后，他终于洗清了冤屈。
-英文：###The prisoner, whose conviction was a miscarriage of justice, was vindicated after a reputable lab showed police had mishandled evidence.###
-- 流产；失败：miscarriage · a miscarriage of justice 误判，冤案
-- 证明……无辜；证明……正确：vindicate · be vindicated by 被……证明是对的
-- 声誉好的：reputable · a reputable firm 信誉良好的公司
-- 处理不当：mishandle · mishandle a crisis 危机处理不当
-问：你想说「这名囚犯被定罪是一起冤案，一家信誉良好的实验室证明警方处理证据不当之后，他终于洗清了冤屈」（补充说明“……的那个人”的遭遇），英语怎么说？
-要点：whose 引导非限制性定语从句；had mishandled 用过去完成时。（动词形式）was 用过去时；was vindicated 是一般过去时的被动：他“被证明无罪”；had mishandled 用过去完成时：发生在实验室证明之前。
-语法：定语从句
+中文：研究生常靠助研助教岗位支付学费，当兼职辅导老师、帮忙做文字转录，这些工作也有助于他们自己的研究。
+英文：###Postgraduates often fund study through an assistantship, working as adjunct tutors and helping with transcription, work that can conduce to their research.###
+- 助研助教职位：assistantship · a teaching assistantship 助教职位
+- 兼职的；附属的；附属物：adjunct · an adjunct professor 兼职教授
+- 抄本；转录：transcription · the transcription of interviews 访谈转录
+- 有助于：conduce · conduce to 有助于
+语法：working ... and helping ... 作伴随状语；work that ... 作同位语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s187 -->
@@ -2274,19 +2071,6 @@ per_day: 1
 语法：whose 和 which 引导两个并列的定语从句，都修饰 pageant；that 引导定语从句修饰 regimes。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s189 -->
-# 雅思例句 189 · 语法
-中文：游客越是挤满这些风景如画的村庄，居民就越会失去那份曾经定义了这里的宁静。
-英文：###The more tourism overruns picturesque villages, the more residents lose the tranquility that once defined them.###
-- 旅游业：tourism · mass tourism 大众旅游
-- 蔓延，侵占；超时：overrun · be overrun with 遍布
-- 风景如画的：picturesque · a picturesque village 风景如画的村庄
-- 宁静，平静：tranquility · peace and tranquility 安宁
-问：你想说「游客越是挤满这些风景如画的村庄，居民就越会失去那份曾经定义了这里的宁静」（表达“越……就越……”），英语怎么说？
-要点：the more ..., the more ... 表示“越……就越……”。（动词形式）overruns、lose 用一般现在时：讲规律；defined 用过去时：once 表示“曾经”。
-语法：比较结构
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s190 -->
 # 雅思例句 190 · 口语
 中文：这双靴子把我的脚趾挤得太难受了，害得我弓着背、走路很难看——还好可以退款！
@@ -2301,38 +2085,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s191 -->
 # 雅思例句 191 · 写作
-中文：社交媒体上的从众心理驱使用户痴迷于时髦品牌，助长了炫耀之风，而不是看重实质。
-英文：###A herd mentality on social media drives users to obsess over modish brands, rewarding ostentation rather than substance.###
-- 心态，思维方式：mentality · a herd mentality 从众心理
-- 使着迷；困扰：obsess · obsess over 过分担心，痴迷于
-- 时髦的，流行的：modish · a modish restaurant 时髦的餐厅
-- 炫耀，卖弄：ostentation · without ostentation 不事张扬地
-语法：drive sb. to do 表示“驱使某人做……”；现在分词短语 rewarding ... 作结果状语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s192 -->
-# 雅思例句 192 · 语法
-中文：大桥比原计划晚了好几个月才完工，负责监管的部长对此并不在意，但这桩丑闻后来让他的仕途黯然失色。
-英文：###That the bridge was months overdue did not perturb the minister who oversaw it, but the scandal later overshadowed his career.###
-- 过期的，延误的：overdue · an overdue bill 逾期账单
-- 使不安：perturb · be perturbed by 因……不安
-- 监督，监管：oversee · oversee a project 监管项目
-- 使相形见绌；给……蒙上阴影：overshadow · be overshadowed by 被……盖过
-问：你想说「大桥比原计划晚了好几个月才完工，负责监管的部长对此并不在意，但这桩丑闻后来让他的仕途黯然失色」（用 that 从句作主语，陈述一件事），英语怎么说？
-要点：That 引导主语从句，that 不能省略，谓语用单数。（动词形式）was 用过去时；did not perturb：主语从句看作单数；oversaw、overshadowed 用过去时（oversee 的过去式是 oversaw）。
-语法：主语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s193 -->
-# 雅思例句 193 · 口语
-中文：我的老乐队要重聚，想重温当年的魔力——我们从千禧年之后就没一起演出过，所以真的很怀念！
-英文：###My old band is reuniting to rekindle the magic—we haven't played together since the millennium, so the nostalgia is real!###
-- 重聚，再团结：reunite · be reunited with 与……重逢
-- 重新点燃，使复苏：rekindle · rekindle hope 重燃希望
-- 千年；千禧年：millennium · the new millennium 新千年
-- 怀旧，思乡：nostalgia · feel nostalgia for 怀念
-口语练习：Part 2 · Describe a time when you met old friends again after many years.
-语法：现在进行时表示计划好的将来；since 与现在完成时连用。
+中文：小镇百年庆典期间，志愿者在沿途放了饮水机，喷泉喷涌，从中午起聚集了大批人群。
+英文：###During the town's centennial, volunteers placed water dispensers along the route, fountains gushed, and from noon onwards prodigious crowds gathered.###
+- 百年纪念；百年的：centennial · a centennial celebration 百年庆典
+- 自动售货机；分配器：dispenser · a water dispenser 饮水机
+- 涌出；滔滔不绝：gush · gush out 喷涌而出
+- 向前；从……起：onwards · from now onwards 从现在起
+- 巨大的；惊人的：prodigious · a prodigious amount 大量
+语法：三个并列分句；from noon onwards 表示“从中午起”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s194 -->
@@ -2373,26 +2133,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s197 -->
 # 雅思例句 197 · 写作
-中文：电信网络是全球贸易的支柱，所以运营商在监控上投入巨资，因为一次蓄意破坏就可能让业务停摆好几天。
-英文：###Telecommunication networks underpin global trade, so operators invest heavily in surveillance, as one act of sabotage could halt business for days.###
-- 电信，远程通信：telecommunication · telecommunication networks 电信网络
-- 支撑，构成……的基础：underpin · underpin the economy 支撑经济
-- 监视，监控：surveillance · under surveillance 受到监视
-- 蓄意破坏；破坏：sabotage · an act of sabotage 一次破坏行动
-语法：so 引出结果；as 引导原因状语从句；could 表示可能性。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s198 -->
-# 雅思例句 198 · 语法
-中文：据信这座巨型雕像是历经几十年精雕细琢，用一整块石板凿刻而成的，每年春天都有一个舞蹈团在它旁边表演。
-英文：###The monumental statue is believed to have been carved from a single slab over painstaking decades, and a dance troupe performs beside it every spring.###
-- 巨大的；纪念碑的：monumental · a monumental task 艰巨的任务
-- 厚板，平板：slab · a slab of stone 一块石板
-- 剧团，表演团体：troupe · a dance troupe 舞蹈团
-- 煞费苦心的，细致的：painstaking · painstaking research 细致的研究
-问：你想说「据信这座巨型雕像是历经几十年精雕细琢，用一整块石板凿刻而成的，每年春天都有一个舞蹈团在它旁边表演」（表达“据信……是被……做成的”），英语怎么说？
-要点：is believed to have been carved 中，to have been done 是不定式完成式的被动。（动词形式）is believed 是一般现在时的被动；to have been carved：雕刻在“相信”之前，且雕像“被雕刻”。
-语法：被动语态
+中文：关于创作的建议认为，闭门写作的作家需要家人无条件的支持，以及抵挡干扰的意志。
+英文：###Advice pertaining to creative work suggests that writers who seclude themselves need unconditional family support and the will to fend off distractions.###
+- 属于；有关：pertain · pertain to 与……有关
+- 使隔离：seclude · seclude oneself 隐居
+- 无条件的：unconditional · unconditional love 无条件的爱
+- 抵挡；照料：fend · fend off 挡开
+语法：pertaining to ... 作后置定语；that 引导宾语从句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s199 -->
@@ -2418,19 +2165,6 @@ per_day: 1
 语法：when 引导时间状语从句，从句用被动语态。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s201 -->
-# 雅思例句 201 · 语法
-中文：很少有哪次全民公投引起过这么大的骚乱：谣言四起，敌对团体在街头互相嘲讽。
-英文：###Seldom has a referendum caused such tumult: rumours ran rampant, and rival groups taunted each other in the streets.###
-- 全民公投：referendum · hold a referendum 举行全民公投
-- 骚乱，喧哗；心绪混乱：tumult · in a tumult 一片混乱
-- 猖獗的，泛滥的：rampant · run rampant 肆虐
-- 嘲弄，奚落；嘲讽：taunt · taunt sb. about 拿……嘲弄某人
-问：你想说「很少有哪次全民公投引起过这么大的骚乱：谣言四起，敌对团体在街头互相嘲讽」（强调“很少有……”），英语怎么说？
-要点：否定意义的副词 Seldom 位于句首时，句子部分倒装（has + 主语 + 过去分词）。（动词形式）has ... caused：has 提前，现在完成时表示到目前为止的经历；ran、taunted 用过去时（run 的过去式是 ran）。
-语法：倒装
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s202 -->
 # 雅思例句 202 · 口语
 中文：一根细树枝刮到了我的小腿，留下一个小孔，里面还扎着一根刺——你有镊子吗？
@@ -2441,53 +2175,6 @@ per_day: 1
 - 镊子：tweezers · a pair of tweezers 一把镊子
 口语练习：Part 1 · Have you ever hurt yourself while walking in the countryside?
 语法：with a thorn in it 是 with 复合结构作后置定语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s203 -->
-# 雅思例句 203 · 写作
-中文：在世俗社会里，是否过宗教节日是个人的选择，人们心照不宣地认为，虔诚是强求不来的。
-英文：###In secular societies, the observance of religious festivals is a private choice, and there is a tacit understanding that piety cannot be imposed.###
-- 世俗的，非宗教的：secular · secular education 世俗教育
-- 遵守；（宗教）仪式：observance · the observance of law 遵守法律
-- 心照不宣的，默许的：tacit · tacit approval 默许
-- 虔诚；孝顺：piety · filial piety 孝道
-语法：that 引导同位语从句，说明 understanding 的内容。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s204 -->
-# 雅思例句 204 · 语法
-中文：龙卷风刮倒了输电线路，夷平了一片棚户区，导致数千人无家可归，救援人员只能尽力抢救可用的物资。
-英文：###The tornado toppled power lines and flattened a shanty town, which left thousands homeless and forced crews to salvage what they could.###
-- 龙卷风：tornado · a tornado warning 龙卷风警报
-- 推翻；倒塌：topple · topple a government 推翻政府
-- 简陋小屋，棚屋：shanty · a shanty town 棚户区
-- 抢救，挽救；抢救：salvage · salvage a ship 打捞沉船
-问：你想说「龙卷风刮倒了输电线路，夷平了一片棚户区，导致数千人无家可归，救援人员只能尽力抢救可用的物资」（用 which 承接前面整件事，说明它的后果），英语怎么说？
-要点：which 引导非限制性定语从句，指代前面整件事；what 引导宾语从句。（动词形式）toppled、flattened、left、forced 用过去时；what they could 后面省略了 salvage。
-语法：定语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s205 -->
-# 雅思例句 205 · 口语
-中文：在荒凉的沙漠里走了这么久，前面那是绿洲还是海市蜃楼？我快渴死了！
-英文：###After this long trek through the stark desert, is that an oasis ahead or just a mirage? I'm dying of thirst!###
-- 长途跋涉；艰苦跋涉：trek · a long trek 长途跋涉
-- 荒凉的；严酷的；明显的：stark · a stark contrast 鲜明的对比
-- 绿洲；宜人之地：oasis · an oasis of calm 宁静的乐土
-- 海市蜃楼；幻想：mirage · a desert mirage 沙漠蜃景
-口语练习：Part 2 · Describe a long journey you made in a hot or dry place.
-语法：be dying of 表示“……得要命”。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s206 -->
-# 雅思例句 206 · 写作
-中文：城市再开发计划号称要实现城市更新，却往往拆掉老房子而不是修复它们，随之而来的还有不断上涨的租金。
-英文：###Redevelopment schemes promise urban renewal, yet they often demolish old homes instead of rehabilitating them, and relentless rent rises follow.###
-- 再开发，重建：redevelopment · urban redevelopment 城市再开发
-- 更新；续期：renewal · urban renewal 城市更新
-- 修复；使康复；使恢复名誉：rehabilitate · rehabilitate offenders 帮助罪犯改过自新
-- 持续不断的；无情的：relentless · relentless pressure 持续不断的压力
-语法：instead of + 动名词，表示“而不是……”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s207 -->
@@ -2504,39 +2191,16 @@ per_day: 1
 语法：形容词短语作状语
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s208 -->
-# 雅思例句 208 · 口语
-中文：你能帮我检查一下音标注音，再给“important”推荐个同义词吗？我的同义词词典落在宿舍了。
-英文：###Could you check my phonetic transcription and suggest a synonym for "important"? My thesaurus is in the dorm.###
-- 语音的，音标的：phonetic · phonetic symbols 音标
-- 抄本；转写，标音：transcription · phonetic transcription 音标注音
-- 同义词：synonym · a synonym for 的同义词
-- 同义词词典：thesaurus · consult a thesaurus 查同义词词典
-口语练习：Part 1 · How do you improve your English vocabulary?
-语法：could 表示委婉请求；两个并列谓语 check 和 suggest。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s209 -->
-# 雅思例句 209 · 写作
-中文：为防海啸，沿海城镇利用地震传感器和路标引导居民往高处撤，直到危险消退。
-英文：###Wary of tsunamis, coastal towns use seismic sensors and signposts to guide residents to higher ground until the danger subsides.###
-- 谨慎的，小心翼翼的：wary · be wary of 提防
-- 地震的；巨大的：seismic · seismic activity 地震活动
-- 路标：signpost · follow the signposts 按路标走
-- 减弱，平息；下沉：subside · the pain subsides 疼痛减轻
-语法：形容词短语 Wary of tsunamis 作状语；until 引导时间状语从句。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s210 -->
 # 雅思例句 210 · 语法
-中文：每把手术刀都必须消毒，病房也必须保持卫生，否则可能引发脓毒性感染。
-英文：###It is essential that every scalpel be sterilized and that wards stay sanitary, or septic infections may follow.###
-- 手术刀：scalpel · a surgeon's scalpel 外科手术刀
-- 消毒，杀菌；使绝育：sterilize · sterilize equipment 给器械消毒
-- 卫生的：sanitary · sanitary conditions 卫生条件
-- 感染的，脓毒性的：septic · go septic 感染化脓
-问：你想说「每把手术刀都必须消毒，病房也必须保持卫生，否则可能引发脓毒性感染」（表达“……是必须的”），英语怎么说？
-要点：It is essential that ... 从句用 (should) + 动词原形，所以用 be sterilized 和 stay。（动词形式）be sterilized、stay 用原形：essential 后的从句用 (should) + 原形；may follow 表示可能。
+中文：每把手术刀都必须消毒，伤口也必须保持干燥，否则可能引起化脓感染。
+英文：###It is essential that each scalpel be sterilized and that the wound stay dry, or a septic infection may fester.###
+- 手术刀：scalpel · a surgical scalpel 外科手术刀
+- 消毒，杀菌：sterilize · sterilize instruments 给器械消毒
+- 脓毒性的；腐败的：septic · a septic wound 化脓的伤口
+- 化脓；恶化：fester · let a problem fester 让问题恶化
+问：你想说「每把手术刀都必须消毒，伤口也必须保持干燥，否则可能引起化脓感染」（表达“……是必须的”），英语怎么说？
+要点：It is essential that ... 从句用 (should) + 动词原形，所以用 be sterilized 和 stay。（动词形式）It is essential that ... 从句用 (should) + 动词原形，所以用 be sterilized 和 stay。
 语法：虚拟语气
 <!-- /leiji-note -->
 
@@ -2552,27 +2216,17 @@ per_day: 1
 语法：come to fruition 表示“实现，取得成果”；冒号后具体说明。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s212 -->
-# 雅思例句 212 · 写作
-中文：贸易策略专家警告说，单方面加征关税会招致贸易伙伴报复，零敲碎打的措施也很少能解决更深层的问题。
-英文：###Trade strategists warn that unilateral tariffs invite partners to retaliate and that piecemeal measures rarely fix deeper problems.###
-- 战略家，策略专家：strategist · a military strategist 军事战略家
-- 单方面的：unilateral · unilateral action 单方面行动
-- 报复，反击：retaliate · retaliate against 报复
-- 零碎的，逐步的：piecemeal · a piecemeal approach 零敲碎打的做法
-语法：两个 that 引导并列的宾语从句，第二个 that 不能省略。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s213 -->
 # 雅思例句 213 · 语法
-中文：由于薪酬停滞不前、租房成本飙升，许多年轻情侣推迟结婚和生育。
-英文：###With remuneration stagnating and tenancy costs soaring, many young couples postpone matrimony and parenthood.###
-- 报酬，薪酬：remuneration · remuneration package 薪酬方案
-- 停滞，不发展：stagnate · a stagnating economy 停滞的经济
-- 租赁，租期：tenancy · a six-month tenancy 六个月的租期
-- 婚姻：matrimony · holy matrimony 神圣的婚姻
-问：你想说「由于薪酬停滞不前、租房成本飙升，许多年轻情侣推迟结婚和生育」（说明“由于……”的原因），英语怎么说？
-要点：with + 名词 + 现在分词，表示原因或伴随情况。（动词形式）stagnating、soaring 是现在分词：主动发生；postpone 用一般现在时：讲现状。
+中文：由于跨国连锁店占据了市场，小酒馆越来越少，许多古色古香的咖啡馆也消失了。
+英文：###With multinational chains dominating the marketplace, small bistros dwindle in number and many quaint cafes vanish.###
+- 跨国的；跨国公司：multinational · a multinational company 跨国公司
+- 市场：marketplace · the global marketplace 全球市场
+- 小酒馆：bistro · a French bistro 法式小馆
+- 减少：dwindle · dwindle away 逐渐减少
+- 古雅的，奇特的：quaint · a quaint village 古色古香的村庄
+问：你想说「由于跨国连锁店占据了市场，小酒馆越来越少，许多古色古香的咖啡馆也消失了」（说明“由于……”的原因），英语怎么说？
+要点：with + 名词 + 现在分词，表示原因或伴随情况。（动词形式）with + 名词 + 现在分词 表示原因；dwindle、vanish 用一般现在时。
 语法：with 复合结构
 <!-- /leiji-note -->
 
@@ -2599,19 +2253,6 @@ per_day: 1
 语法：yet 表示转折；on probation 表示“处于察看期”。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s216 -->
-# 雅思例句 216 · 语法
-中文：阵亡者的名字被刻在橡木板上，于去年春天揭幕，留给后人永远铭记。
-英文：###The names of the fallen were inscribed on oak planks and unveiled last spring, preserved for posterity.###
-- 刻，题写：inscribe · be inscribed with 刻有
-- 厚木板；（政策）要点：plank · a wooden plank 木板
-- 揭幕；公布：unveil · unveil a plan 公布计划
-- 后代，后世：posterity · for posterity 为了子孙后代
-问：你想说「阵亡者的名字被刻在橡木板上，于去年春天揭幕，留给后人永远铭记」（说明“……被刻上、被揭幕”），英语怎么说？
-要点：were inscribed and unveiled 是一般过去时的被动；preserved for posterity 是过去分词短语作状语。（动词形式）were inscribed、(were) unveiled 是一般过去时的被动；preserved 是过去分词作状语：名字“被保存”。
-语法：被动语态
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s217 -->
 # 雅思例句 217 · 口语
 中文：你看这湖多平静！趁着暴风雨还没来，我们在木筏上睡个午觉吧。
@@ -2635,56 +2276,6 @@ per_day: 1
 语法：不定式 to catch ... 作目的状语；who 引导定语从句修饰 those。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s219 -->
-# 雅思例句 219 · 语法
-中文：这位年轻钢琴家的才华非凡，很快就声名鹊起，评论家称她为同辈中的巅峰。
-英文：###So prodigious was her prowess that the young pianist soon became renowned, and critics hailed her as the pinnacle of her generation.###
-- 惊人的，巨大的：prodigious · a prodigious memory 惊人的记忆力
-- 高超的技艺；英勇：prowess · athletic prowess 运动才能
-- 著名的：renowned · be renowned for 以……闻名
-- 顶峰，鼎盛时期：pinnacle · the pinnacle of success 成功的顶峰
-问：你想说「这位年轻钢琴家的才华非凡，很快就声名鹊起，评论家称她为同辈中的巅峰」（强调“如此……以至于……”），英语怎么说？
-要点：So + 形容词位于句首时，主句倒装（was + 主语），与 that 引导的结果状语从句连用。（动词形式）was 提到主语前面；became、hailed 用过去时。
-语法：倒装
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s220 -->
-# 雅思例句 220 · 口语
-中文：今晚演出前冒出一颗痘痘！有没有什么灵丹妙药能让它在聚光灯下几乎看不出来？
-英文：###A pimple appeared before tonight's show! Is there a magic potion to make it barely perceptible under the spotlight?###
-- 丘疹，粉刺：pimple · squeeze a pimple 挤痘痘
-- （药水、毒药等）一剂：potion · a love potion 爱情药水
-- 可察觉的：perceptible · barely perceptible 几乎察觉不到
-- 聚光灯；公众注意中心：spotlight · in the spotlight 受到关注
-口语练习：Part 1 · Do you get nervous before a performance?
-语法：不定式 to make ... 作后置定语，修饰 potion。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s221 -->
-# 雅思例句 221 · 写作
-中文：健康专家提倡适度饮食和预防性保健，而不是极端节食，因为后者会让人失去掌控感，进而心灰意冷。
-英文：###Health experts favour moderation and preventative care over extreme diets, which can disempower people and breed disenchantment.###
-- 适度，节制：moderation · in moderation 适度地
-- 预防性的：preventative · preventative medicine 预防医学
-- 使失去权力，使失去自信：disempower · disempower workers 削弱工人的权力
-- 不再抱幻想，失望：disenchantment · growing disenchantment 日益增长的失望
-语法：favour A over B 表示“喜欢 A 胜过 B”；which 引导非限制性定语从句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s222 -->
-# 雅思例句 222 · 语法
-中文：这位朗读者的嗓音悦耳又哀婉，从序章开始就紧紧抓住听众，已经获得了好几个奖项。
-英文：###The narrator, whose melodious yet plaintive voice grips listeners from the prologue onwards, has won several awards.###
-- 叙述者，解说员：narrator · the narrator of a novel 小说的叙述者
-- 悦耳的，音调优美的：melodious · a melodious voice 悦耳的嗓音
-- 哀伤的，悲哀的：plaintive · a plaintive cry 哀怨的叫声
-- 序言，开场白：prologue · the prologue to 的序幕
-- 向前；从……起：onwards · from now onwards 从现在起
-问：你想说「这位朗读者的嗓音悦耳又哀婉，从序章开始就紧紧抓住听众，已经获得了好几个奖项」（补充说明“……的人”），英语怎么说？
-要点：whose 引导非限制性定语从句，补充说明 narrator。（动词形式）grips 用一般现在时：讲一贯的情况；has won 用现在完成时：到目前为止已经获奖。
-语法：定语从句
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s223 -->
 # 雅思例句 223 · 口语
 中文：你能把这张表复印一下、核对一下邮编，再加个附言，说我邻居会作为我的代理人签收吗？
@@ -2695,42 +2286,6 @@ per_day: 1
 - 代理人；代理权：proxy · vote by proxy 委托他人投票
 口语练习：Part 1 · Have you ever asked someone to sign a document on your behalf?
 语法：三个并列谓语；现在分词短语 saying ... 作后置定语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s224 -->
-# 雅思例句 224 · 写作
-中文：盗版和抄袭艺术作品的应用伤害了依靠资助生存的创作者，法院应当驳回平台自称无辜的说法。
-英文：###Piracy and apps that plagiarize art hurt creators who rely on patronage, and courts should override platforms' claims of innocence.###
-- 盗版；海盗行为：piracy · software piracy 软件盗版
-- 剽窃，抄袭：plagiarize · plagiarize sb.'s work 剽窃他人作品
-- 资助，赞助；光顾：patronage · royal patronage 王室赞助
-- 推翻，否决；凌驾：override · override a decision 推翻决定
-语法：that 和 who 分别引导定语从句；should 表示建议。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s225 -->
-# 雅思例句 225 · 语法
-中文：要不是官员挪用了救灾款，百姓本可以免受漫长的煎熬，可那些罪魁祸首却毫无悔意。
-英文：###Had officials not misappropriated relief funds, the populace would have been spared a long ordeal, yet the culprits showed no remorse.###
-- 挪用，盗用：misappropriate · misappropriate public funds 挪用公款
-- 平民，民众：populace · the general populace 普通民众
-- 煎熬，严峻考验：ordeal · go through an ordeal 经受磨难
-- 懊悔，自责：remorse · feel remorse 感到懊悔
-问：你想说「要不是官员挪用了救灾款，百姓本可以免受漫长的煎熬，可那些罪魁祸首却毫无悔意」（表达“要不是……本可以……”，与过去事实相反），英语怎么说？
-要点：省略 if 的倒装 Had ... not done，表示与过去事实相反，主句用 would have been done。（动词形式）Had ... not misappropriated 用过去完成时：与过去事实相反；would have been spared：虚拟语气加被动，百姓“被免除”；showed 用过去时：陈述事实。
-语法：虚拟语气
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s226 -->
-# 雅思例句 226 · 口语
-中文：我们新养的小狗血统名贵，可这小家伙还是见拖鞋就扑，然后撕个稀烂。
-英文：###Our new puppy has an impressive pedigree, but the little mite still pounces on every slipper and shreds it.###
-- 血统；出身；纯种的：pedigree · a pedigree dog 纯种狗
-- 小家伙；螨：mite · a little mite 小不点儿
-- 猛扑，突然袭击：pounce · pounce on 扑向
-- 撕碎；碎片：shred · not a shred of evidence 毫无证据
-口语练习：Part 1 · Do you have a pet, or would you like one?
-语法：but 表示转折；pounces 和 shreds 是并列谓语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s227 -->
@@ -2757,42 +2312,6 @@ per_day: 1
 语法：强调句
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s229 -->
-# 雅思例句 229 · 口语
-中文：这款手机流行全靠广告——它被高估了，我那台旧手机都比它强，续航更是无敌！
-英文：###This phone is only in vogue because of ads—it's overrated, my old one can outdo it, and its battery is unbeatable!###
-- 时尚，流行：vogue · in vogue 流行
-- 高估：overrate · be overrated 被高估
-- 胜过，超越：outdo · outdo one's rivals 胜过对手
-- 无敌的，无法超越的：unbeatable · unbeatable prices 无可匹敌的价格
-口语练习：Part 3 · Why do people buy products that are popular because of advertising?
-语法：破折号后具体说明。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s230 -->
-# 雅思例句 230 · 写作
-中文：旅游业让小镇的财库充盈，却也让下水道不堪重负，而不断上涨的房租则把本地劳动力挤到了城市边缘。
-英文：###Tourism fills the town's coffers but overloads its sewers, while rising rents push the local workforce to the periphery.###
-- 金库，资金：coffer · the state coffers 国库
-- 下水道：sewer · a sewer system 排水系统
-- 劳动力，全体员工：workforce · a skilled workforce 熟练劳动力
-- 边缘，外围：periphery · on the periphery of 在……的边缘
-语法：while 连接两个对比的分句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s231 -->
-# 雅思例句 231 · 语法
-中文：最让动物学专业学生着迷的，是有袋动物如何在育儿袋里抚养幼小的新生儿，这种方式在其他脊椎动物中绝无仅有。
-英文：###What fascinates zoology students is how marsupials raise their tiny newborns in a pouch, a strategy unparalleled among other vertebrates.###
-- 动物学：zoology · a degree in zoology 动物学学位
-- 有袋动物；有袋的：marsupial · Australian marsupials 澳大利亚有袋动物
-- 无比的，空前的：unparalleled · unparalleled success 空前的成功
-- 脊椎动物；有脊椎的：vertebrate · vertebrates and invertebrates 脊椎和无脊椎动物
-问：你想说「最让动物学专业学生着迷的，是有袋动物如何在育儿袋里抚养幼小的新生儿，这种方式在其他脊椎动物中绝无仅有」（强调“最让……的是……”），英语怎么说？
-要点：What 引导主语从句；how 引导表语从句；a strategy ... 是同位语。（动词形式）fascinates 用单数：what 作从句主语；raise 用复数：主语 marsupials。
-语法：主语从句
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s232 -->
 # 雅思例句 232 · 口语
 中文：加油，打起精神来，别松劲——天黑前我们得把这道长长的篱笆刷完！
@@ -2805,30 +2324,6 @@ per_day: 1
 语法：祈使句表示鼓励；finish doing 表示“做完……”。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s233 -->
-# 雅思例句 233 · 写作
-中文：为了遏制城市无序扩张，规划者倾向于复兴老城区、建造预制房屋并修建安全的自行车道。
-英文：###To curb urban sprawl, planners favour the regeneration of old centres, prefabricated housing and safe cycling pathways.###
-- 无序扩张；蔓延；四肢摊开地躺：sprawl · urban sprawl 城市无序扩张
-- 再生，复兴：regeneration · urban regeneration 城市复兴
-- 预制：prefabricate · prefabricated houses 预制房屋
-- 小路；途径：pathway · a pathway to success 成功之路
-语法：不定式 To curb ... 作目的状语；favour 后接三个并列宾语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s234 -->
-# 雅思例句 234 · 语法
-中文：当贵族们奢靡的生活被曝光时，君主制受到了前所未有的猛烈抨击。
-英文：###Never had the monarchy faced such an onslaught of criticism as when the opulent lifestyle of the nobility was exposed.###
-- 君主制；君主国：monarchy · constitutional monarchy 君主立宪制
-- 猛攻，猛烈抨击：onslaught · an onslaught of criticism 猛烈的批评
-- 豪华的，富裕的：opulent · an opulent palace 富丽堂皇的宫殿
-- 贵族；高贵：nobility · the landed nobility 地主贵族
-问：你想说「当贵族们奢靡的生活被曝光时，君主制受到了前所未有的猛烈抨击」（强调“从来没有……”），英语怎么说？
-要点：Never 位于句首时，句子部分倒装（had + 主语 + 过去分词）。（动词形式）had ... faced：had 提前，过去完成时；was exposed 是一般过去时的被动。
-语法：倒装
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s235 -->
 # 雅思例句 235 · 口语
 中文：拿上雪橇，跟着那条往山上蹿的狗走，不过别去湖边的冰面——冰已经开始化了！
@@ -2839,30 +2334,6 @@ per_day: 1
 - 解冻，融化；解冻：thaw · a thaw in relations 关系缓和
 口语练习：Part 1 · Do you like winter activities in the snow?
 语法：现在分词短语 scampering up the hill 作后置定语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s236 -->
-# 雅思例句 236 · 写作
-中文：许多精神病患者觉得自己被社会排斥，因为公众误解了神经症等疾病，其实这些病很常见，也可以治疗。
-英文：###Many psychiatric patients feel like outcasts because the public misconceives conditions such as neurosis, which are common and treatable.###
-- 精神病的：psychiatric · a psychiatric hospital 精神病院
-- 被抛弃的人：outcast · a social outcast 被社会排斥的人
-- 误解：misconceive · a misconceived idea 错误的观念
-- 神经症，神经官能症：neurosis · suffer from neurosis 患神经症
-语法：because 引导原因状语从句；which 引导非限制性定语从句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s237 -->
-# 雅思例句 237 · 语法
-中文：认为成功由遗传倾向决定的假设，预先认定了训练无足轻重，然而坚持不懈的练习往往更能取胜。
-英文：###The supposition that a genetic predisposition decides success presupposes that training matters little, yet tenacious practice often wins.###
-- 假定，推测：supposition · based on supposition 基于推测
-- 倾向，易患体质：predisposition · a predisposition to 有……的倾向
-- 以……为前提，预先假定：presuppose · presuppose knowledge 以知识为前提
-- 坚韧的，顽强的：tenacious · tenacious efforts 不懈的努力
-问：你想说「认为成功由遗传倾向决定的假设，预先认定了训练无足轻重，然而坚持不懈的练习往往更能取胜」（说明“认为……的假设”的具体内容），英语怎么说？
-要点：第一个 that 引导同位语从句，说明 supposition；第二个 that 引导宾语从句。（动词形式）decides、presupposes、matters、wins 用一般现在时：讲观点和规律。
-语法：同位语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s238 -->
@@ -2890,89 +2361,29 @@ per_day: 1
 
 <!-- leiji-note-id:danci-ielts-full-s240 -->
 # 雅思例句 240 · 语法
-中文：虽然价格可以商量，但经销商坚持押金是必须交的，而且这辆车的保修需要提供抵押。
-英文：###Although the price is negotiable, the dealer insists that a deposit is obligatory and that the car's warranty requires collateral.###
-- 可协商的；可转让的：negotiable · the price is negotiable 价格可商量
-- 义务的，强制的：obligatory · obligatory attendance 必须出席
-- 保修单，担保：warranty · under warranty 在保修期内
-- 抵押品；附带的：collateral · collateral damage 附带损害
-问：你想说「虽然价格可以商量，但经销商坚持押金是必须交的，而且这辆车的保修需要提供抵押」（表达“坚持说……是……”，陈述事实而不是提出要求），英语怎么说？
-要点：although 引导让步状语从句；insist 表示“坚持说”时，that 从句用陈述语气。（动词形式）insists、is、requires 用一般现在时：insist 表示“坚持说”时，宾语从句用陈述语气，不用 (should) + 原形。
+中文：虽然证据看起来对他不利，这名实习生坚持说自己没有抄袭论文，是简报歪曲了他。
+英文：###Although the evidence looked bad, the intern insisted that he had not plagiarized the thesis and that the newsletter had misrepresented him.###
+- 实习生；实习；拘留：intern · a summer intern 暑期实习生
+- 抄袭：plagiarize · plagiarize an essay 抄袭论文
+- 简报；通讯：newsletter · a monthly newsletter 月刊简报
+- 歪曲：misrepresent · misrepresent the facts 歪曲事实
+问：你想说「虽然证据看起来对他不利，这名实习生坚持说自己没有抄袭论文，是简报歪曲了他」（表达“坚持说……是……”，陈述事实而不是提出要求），英语怎么说？
+要点：although 引导让步状语从句；insist 表示“坚持说”时，that 从句用陈述语气。（动词形式）insist 表示“坚持说”，that 从句用陈述语气；had not plagiarized 用过去完成时。
 语法：宾语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s241 -->
-# 雅思例句 241 · 口语
-中文：别再讲那些带着阴森笑声的恐怖故事了！你知道我很迷信，一说到什么凶兆我就做噩梦。
-英文：###Stop telling those morbid stories with sinister laughs! You know I'm superstitious, and talk of omens gives me nightmares.###
-- 病态的，阴森的：morbid · a morbid fascination 病态的迷恋
-- 阴险的，不祥的：sinister · a sinister plot 阴谋
-- 迷信的：superstitious · superstitious beliefs 迷信观念
-- 预兆，征兆：omen · a good omen 好兆头
-口语练习：Part 1 · Do you enjoy scary stories?
-语法：stop doing 表示“停止做……”；动名词短语作主语用单数 gives。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s242 -->
-# 雅思例句 242 · 写作
-中文：燃油价格波动剧烈，让规划变得困难，所以航空公司想方设法找出可以节省的地方，有些甚至靠缩减开支来维持运营。
-英文：###Volatile fuel prices make planning hard, so airlines pinpoint savings wherever possible, and some resort to retrenchment to stay viable.###
-- 易变的，不稳定的；易挥发的：volatile · a volatile market 动荡的市场
-- 准确找出，查明：pinpoint · pinpoint the cause 查明原因
-- 紧缩开支，裁员：retrenchment · economic retrenchment 经济紧缩
-- 可行的，能存活的：viable · a viable option 可行的选择
-语法：wherever possible 是省略形式，意为“只要有可能”；resort to 表示“诉诸，采取”。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s243 -->
 # 雅思例句 243 · 语法
-中文：专家警告说，父母施加过大压力可能对孩子的心理韧性产生适得其反的影响，他们建议改为给予无条件的支持。
-英文：###Experts warn that heavy parental pressure can have a perverse effect on resilience, and they recommend unconditional support instead.###
-- 父母的：parental · parental guidance 家长指导
-- 违反常情的，荒谬的：perverse · a perverse decision 荒唐的决定
-- 韧性，恢复力：resilience · emotional resilience 心理韧性
-- 无条件的：unconditional · unconditional love 无条件的爱
-问：你想说「专家警告说，父母施加过大压力可能对孩子的心理韧性产生适得其反的影响，他们建议改为给予无条件的支持」（说明“警告说……”的内容），英语怎么说？
-要点：that 引导宾语从句，作 warn 的宾语。（动词形式）warn、can have、recommend 用一般现在时：讲专家现在的观点。
+中文：生态学家警告说，如果牧民一直让牲畜过度放牧，干旱就会蔓延，休耕的土地将再也恢复不了。
+英文：###Ecologists warn that if herdsmen keep letting cattle overgraze, aridity will spread and fallow fields will never recover.###
+- 牧民：herdsman · nomadic herdsmen 游牧民
+- 过度放牧：overgraze · overgrazed land 过度放牧的土地
+- 干旱：aridity · the aridity of the region 该地区的干旱
+- 休耕的；休耕地：fallow · lie fallow 休耕
+问：你想说「生态学家警告说，如果牧民一直让牲畜过度放牧，干旱就会蔓延，休耕的土地将再也恢复不了」（说明“警告说……”的内容），英语怎么说？
+要点：that 引导宾语从句，作 warn 的宾语。（动词形式）that 引导宾语从句，作 warn 的宾语；if 引导条件状语从句，主句用将来时。
 语法：宾语从句
 真题：剑桥雅思 17 Test 3 写作 Task 2 题目：believe 后接 that 引导的宾语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s244 -->
-# 雅思例句 244 · 口语
-中文：你那些尖刻的话让她很难过，快去安抚她一下——下次说话别那么生硬，也别再冷嘲热讽了。
-英文：###Your caustic remarks upset her, so go and pacify her—and next time, be less terse and drop the sarcasm.###
-- 尖刻的；腐蚀性的：caustic · caustic soda 烧碱
-- 使平静，安抚：pacify · pacify a crying baby 哄哭闹的婴儿
-- 简短生硬的：terse · a terse reply 简短生硬的回答
-- 讽刺，挖苦：sarcasm · heavy sarcasm 辛辣的讽刺
-口语练习：Part 3 · How can people avoid hurting others with their words?
-语法：go and do 表示“去做……”；be + 形容词比较级 的祈使句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s245 -->
-# 雅思例句 245 · 写作
-中文：盐度上升威胁着沿海稻田，所以育种者正在培育耐盐品种，这些品种已经取得了切实的成效，其他地区也希望能复制推广。
-英文：###Rising salinity threatens coastal rice farms, so breeders are creating salt-tolerant variants that have already shown tangible results others hope to replicate.###
-- 盐度，含盐量：salinity · soil salinity 土壤盐分
-- 变体，变种；不同的：variant · a new variant 新变种
-- 切实的，有形的：tangible · tangible benefits 实实在在的好处
-- 复制，重复：replicate · replicate the results 重复实验结果
-语法：that 引导定语从句修饰 variants；others hope to replicate 是省略关系代词的定语从句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s246 -->
-# 雅思例句 246 · 语法
-中文：现在废除这份临时协议并不明智，因为有争议的条款只规定了费用，与核心问题无关。
-英文：###It would be unwise to nullify the provisional agreement now, since the disputed clause merely stipulates fees and pertains to no core issue.###
-- 使无效，取消：nullify · nullify a contract 使合同无效
-- 临时的，暂定的：provisional · a provisional government 临时政府
-- 规定，约定：stipulate · stipulate that 规定
-- 关于，有关：pertain · pertain to 与……有关
-问：你想说「现在废除这份临时协议并不明智，因为有争议的条款只规定了费用，与核心问题无关」（表达“现在做……不明智”），英语怎么说？
-要点：it 是形式主语，真正的主语是不定式 to nullify ...；since 引导原因状语从句。（动词形式）would be 用 would 使语气更委婉；stipulates、pertains 用单数：主语 clause。
-语法：it 形式主语
-真题：剑桥雅思 17 Test 1、剑桥雅思 18 Test 2 写作 Task 2 题目：It is + 形容词 + to do，it 作形式主语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s247 -->
@@ -2985,17 +2396,6 @@ per_day: 1
 - 数不清的，难以形容的：untold · untold damage 难以估量的损失
 口语练习：Part 2 · Describe an old building you like to visit.
 语法：破折号后补充说明；say 后接省略 that 的宾语从句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s248 -->
-# 雅思例句 248 · 写作
-中文：拥挤的教室通风不良会使黏膜干燥、毒素积聚，给学生造成不卫生的环境。
-英文：###Poor ventilation in crowded classrooms dries mucous membranes and lets toxins build up, creating unsanitary conditions for pupils.###
-- 通风：ventilation · poor ventilation 通风不良
-- 黏液的：mucous · mucous membranes 黏膜
-- 毒素：toxin · remove toxins 排毒
-- 不卫生的：unsanitary · unsanitary conditions 不卫生的环境
-语法：let + 宾语 + 动词原形；现在分词短语 creating ... 作结果状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s249 -->
@@ -3021,17 +2421,6 @@ per_day: 1
 - 反刍，吐出；照搬：regurgitate · regurgitate facts 生搬硬套
 口语练习：Part 2 · Describe a time when a pet of yours got ill.
 语法：weaned only last month 是过去分词短语作插入的定语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s251 -->
-# 雅思例句 251 · 写作
-中文：动物园和偏远农场都面临兽医短缺的问题，职位长期空缺，合格的人才非常稀缺。
-英文：###Zoological parks and remote farms face a shortage of veterinarians, so vacancies stay unfilled and qualified staff are a rarity.###
-- 动物学的：zoological · a zoological park 动物园
-- 兽医：veterinarian · a qualified veterinarian 合格的兽医
-- 空缺，空位：vacancy · job vacancies 职位空缺
-- 稀有，罕见之物：rarity · a real rarity 稀罕物
-语法：so 连接表示结果的分句；stay 是系动词，后接形容词。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s252 -->
@@ -3095,17 +2484,6 @@ per_day: 1
 语法：as ... as 表示同级比较；smell 是系动词，后接形容词。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s257 -->
-# 雅思例句 257 · 写作
-中文：严格的法规要求钢铁厂中和酸性废液、安全存放炉渣，下游的支流正在逐步恢复。
-英文：###Stringent regulations require steel plants to neutralize acidic waste and store slag safely, and the tributaries downstream are recovering.###
-- 严格的，严厉的：stringent · stringent rules 严格的规定
-- 使中和；抵消：neutralize · neutralize acid 中和酸
-- 炉渣，矿渣：slag · slag heaps 矿渣堆
-- 支流：tributary · a tributary of the Yangtze 长江的一条支流
-语法：require sb. to do 表示“要求某人做……”。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s258 -->
 # 雅思例句 258 · 语法
 中文：凡是擅自改动烟雾探测器、擅闯屋顶或私养未登记宠物的住户，都可能被赶出这栋楼。
@@ -3131,27 +2509,16 @@ per_day: 1
 语法：keep doing 表示“不停地做……”，后接三个并列的动名词短语。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s260 -->
-# 雅思例句 260 · 写作
-中文：部落社区崇敬森林，他们用方言传唱的歌谣延续着生态知识，这些知识如今受到科学家的重视。
-英文：###Tribal communities venerate the forest, and their vernacular songs perpetuate ecological knowledge that scientists now value.###
-- 部落的：tribal · tribal customs 部落习俗
-- 尊敬，崇拜：venerate · venerate one's ancestors 尊崇祖先
-- 方言的；方言，本地话：vernacular · in the vernacular 用方言
-- 使延续，使长存：perpetuate · perpetuate a myth 使神话流传
-语法：that 引导定语从句修饰 knowledge。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s261 -->
 # 雅思例句 261 · 语法
-中文：起义来势汹汹，起义者又毫不退让，那个暴虐的总督宁可逃走，也不愿冒被打败的风险。
-英文：###The uprising was so fierce and the rebels so unyielding that the tyrannical governor fled rather than risk being vanquished.###
-- 起义，暴动：uprising · an armed uprising 武装起义
-- 不屈的，坚硬的：unyielding · unyielding determination 坚定不移的决心
-- 暴虐的，专横的：tyrannical · a tyrannical ruler 暴君
-- 战胜，征服：vanquish · vanquish one's enemies 战胜敌人
-问：你想说「起义来势汹汹，起义者又毫不退让，那个暴虐的总督宁可逃走，也不愿冒被打败的风险」（表达“如此……以至于……”），英语怎么说？
-要点：so ... that 引导结果状语从句；the rebels so unyielding 省略了 were。（动词形式）was 用过去时；fled 用过去时（flee 的过去式）；risk being vanquished：risk 后接动名词，被动形式 being done。
+中文：围城拖了好几个月，叛军顽强不屈，连一场猛烈的进攻都没能打败他们。
+英文：###The siege dragged on for months, the rebels so unyielding that even a ferocious onslaught failed to vanquish them.###
+- 不屈的；坚硬的：unyielding · an unyielding attitude 强硬的态度
+- 凶猛的：ferocious · a ferocious attack 猛烈的攻击
+- 猛攻：onslaught · a verbal onslaught 言语抨击
+- 征服，击败：vanquish · vanquish the enemy 打败敌人
+问：你想说「围城拖了好几个月，叛军顽强不屈，连一场猛烈的进攻都没能打败他们」（表达“如此……以至于……”），英语怎么说？
+要点：so ... that 引导结果状语从句；the rebels so unyielding 省略了 were。（动词形式）so ... that 引导结果状语从句；the rebels so unyielding 省略了 were。
 语法：结果状语从句
 <!-- /leiji-note -->
 
@@ -3178,19 +2545,6 @@ per_day: 1
 语法：a prerogative few challenge 是同位语，few challenge 是省略关系代词的定语从句。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s264 -->
-# 雅思例句 264 · 语法
-中文：只有不断改进技术，再加上教练的支持，短跑运动员才能在不受伤的情况下突破十秒大关。
-英文：###Only through constant refinement of technique and a supportive coach can a sprinter surmount the ten-second barrier without succumbing to injury.###
-- 改进，完善；精致：refinement · technical refinement 技术改进
-- 支持的，给予鼓励的：supportive · a supportive family 支持自己的家人
-- 克服，越过：surmount · surmount difficulties 克服困难
-- 屈服；死于：succumb · succumb to pressure 屈服于压力
-问：你想说「只有不断改进技术，再加上教练的支持，短跑运动员才能在不受伤的情况下突破十秒大关」（强调“只有通过……才能……”），英语怎么说？
-要点：Only + 介词短语位于句首时，主句部分倒装（can + 主语 + 动词原形）。（动词形式）can ... surmount：can 提前，surmount 用原形；succumbing 是介词 without 后的动名词。
-语法：倒装
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s265 -->
 # 雅思例句 265 · 口语
 中文：我算数不太好——这个折扣真的翻倍了吗，还是标牌故意误导我们？不管了，先记在我账上吧。
@@ -3203,66 +2557,6 @@ per_day: 1
 语法：or 连接两个选择疑问；anyway 意为“不管怎样”。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s266 -->
-# 雅思例句 266 · 写作
-中文：投机炒作推高了房价，泡沫一旦破裂，大规模抛售和不确定性可能让资产估值多年低迷。
-英文：###Speculation drives property prices up, and when the bubble bursts, wholesale selling and uncertainty can depress valuations for years.###
-- 投机；推测：speculation · property speculation 房地产投机
-- 大规模的；批发的：wholesale · wholesale changes 全面的变革
-- 不确定性：uncertainty · economic uncertainty 经济不确定性
-- 估价，评估：valuation · property valuation 房产估价
-语法：when 引导时间状语从句；两个并列主语，谓语用 can depress。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s267 -->
-# 雅思例句 267 · 语法
-中文：观众觉得故事情节难以理解是可以理解的，因为情节直到最后一集才揭开，这是为了制造悬念的手法。
-英文：###It is understandable that viewers find the storyline confusing, since the plot only unravels in the last episode, a trick to sustain suspense.###
-- 可以理解的：understandable · an understandable mistake 可以理解的错误
-- 故事情节：storyline · a gripping storyline 扣人心弦的情节
-- 解开，阐明；瓦解：unravel · unravel a mystery 解开谜团
-- 悬念，焦虑：suspense · keep sb. in suspense 吊某人胃口
-问：你想说「观众觉得故事情节难以理解是可以理解的，因为情节直到最后一集才揭开，这是为了制造悬念的手法」（表达“……是可以理解的”），英语怎么说？
-要点：it 是形式主语，真正的主语是 that 从句；a trick to sustain suspense 是同位语。（动词形式）find、unravels 用一般现在时；to sustain 是不定式作后置定语。
-语法：it 形式主语
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s268 -->
-# 雅思例句 268 · 口语
-中文：我室友在派对上跟谁都调情，可在研讨课上却沉默寡言，似乎没意识到她的胆怯有多明显。
-英文：###My roommate flirts with everyone at parties, yet in seminars she's so reticent, seemingly unaware of how her timidity looks.###
-- 调情；有意于：flirt · flirt with an idea 有……的念头
-- 沉默寡言的，有保留的：reticent · be reticent about 对……讳莫如深
-- 没有意识到的：unaware · be unaware of 不知道
-- 胆怯，羞怯：timidity · overcome one's timidity 克服胆怯
-口语练习：Part 2 · Describe a friend whose behaviour changes in different situations.
-语法：yet 表示转折；how 引导的从句作 of 的宾语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s269 -->
-# 雅思例句 269 · 写作
-中文：各地降雨量差异很大，因此作物种类必须多样化，从温带河谷的水稻到干旱平原的小麦都有。
-英文：###Regional variability in rainfall means crops must be varied, from rice in temperate valleys to wheat on dry plains.###
-- 地区的，区域的：regional · regional differences 地区差异
-- 易变性，变化：variability · climate variability 气候多变
-- 各种各样的，多变的：varied · a varied diet 多样化的饮食
-- 温和的；有节制的：temperate · a temperate climate 温带气候
-语法：mean 后接省略 that 的宾语从句；from ... to ... 表示范围。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s270 -->
-# 雅思例句 270 · 语法
-中文：遭火灾损毁的大教堂正在重建，其新古典主义风格的正面将在一位主持修缮工作的建筑师指导下恢复原貌。
-英文：###The fire-damaged cathedral is undergoing reconstruction, and its neoclassical front will be restored under an architect who superintends the renovation.###
-- 重建，再现：reconstruction · post-war reconstruction 战后重建
-- 新古典主义的：neoclassical · neoclassical architecture 新古典主义建筑
-- 主管，监督：superintend · superintend the work 监督工作
-- 翻新，修复：renovation · under renovation 正在翻修
-问：你想说「遭火灾损毁的大教堂正在重建，其新古典主义风格的正面将在一位主持修缮工作的建筑师指导下恢复原貌」（说明“将被……”），英语怎么说？
-要点：will be restored 是一般将来时的被动；who 引导定语从句修饰 architect。（动词形式）is undergoing 用现在进行时；will be restored 是一般将来时的被动；superintends 用单数：先行词 architect。
-语法：被动语态
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s271 -->
 # 雅思例句 271 · 口语
 中文：我的透支额度用完了，只能靠一点微薄的积蓄勉强度日——在我爸妈的汇款到之前，你能借我点钱吗？
@@ -3273,17 +2567,6 @@ per_day: 1
 - 汇款：remittance · send a remittance 汇款
 口语练习：Part 3 · Should young adults borrow money from friends?
 语法：until 引导时间状语从句，用一般现在时表示将来。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s272 -->
-# 雅思例句 272 · 写作
-中文：对感官敏感的孩子来说，强光几乎无法忍受，所以学校安装了柔和不刺眼的照明，还设置了僻静的阅读角。
-英文：###For children with sensory sensitivity, bright lights are barely tolerable, so schools add unobtrusive lighting and secluded reading corners.###
-- 感觉的，感官的：sensory · sensory organs 感觉器官
-- 可忍受的；尚可的：tolerable · barely tolerable 勉强可以忍受
-- 不显眼的，不张扬的：unobtrusive · unobtrusive service 低调周到的服务
-- 使隔离，使隐居：seclude · a secluded beach 僻静的海滩
-语法：so 连接表示结果的分句。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s273 -->
@@ -3299,29 +2582,6 @@ per_day: 1
 语法：强调句
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s274 -->
-# 雅思例句 274 · 口语
-中文：哎呀，草坪上又有狗屎了！我们立个告示牌吧；我问过的邻居都非常反感这种事。
-英文：###Ugh, more dog excrement on the turf! Let's put up a placard; every neighbour I've asked strongly disapproves too.###
-- 粪便：excrement · animal excrement 动物粪便
-- 草皮；地盘：turf · on home turf 在主场
-- 标语牌，招贴：placard · carry placards 举着标语牌
-- 不赞成：disapprove · disapprove of 不赞成
-口语练习：Part 3 · What can neighbours do to keep their area clean?
-语法：I've asked 是省略关系代词的定语从句，修饰 neighbour。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s275 -->
-# 雅思例句 275 · 写作
-中文：小农场的合并——一种被其他国家效仿的模式——提高了效率，却让村民与祖辈居住的土地脱离了联系。
-英文：###The consolidation of small farms, a model others emulate, has raised efficiency but decoupled villagers from land their ancestors populated.###
-- 合并；巩固：consolidation · the consolidation of power 巩固权力
-- 效仿，努力赶上：emulate · emulate one's heroes 效仿偶像
-- 使分离，脱钩：decouple · decouple A from B 使 A 与 B 脱钩
-- 居住于，构成……的人口：populate · densely populated 人口稠密的
-语法：a model others emulate 是同位语；their ancestors populated 是省略关系代词的定语从句。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s276 -->
 # 雅思例句 276 · 语法
 中文：直到赎金交付，绑匪才放了那个可怜人，他虽然没有落下残疾，但手腕需要上夹板。
@@ -3333,29 +2593,6 @@ per_day: 1
 问：你想说「直到赎金交付，绑匪才放了那个可怜人，他虽然没有落下残疾，但手腕需要上夹板」（强调“直到……才……”），英语怎么说？
 要点：Not until ... 位于句首时，主句部分倒装（did + 主语 + 动词原形）；though not maimed 是省略形式的让步状语。（动词形式）was paid 是一般过去时的被动；did ... free：did 提前，free 用原形；maimed 是过去分词，表示被动。
 语法：倒装
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s277 -->
-# 雅思例句 277 · 口语
-中文：别叫我头衔了，叫我汤姆就行；我只是个兼职讲师，没什么架子，用不着那些讲究。
-英文：###Please dispense with the titles and call me Tom; I'm only an adjunct lecturer with no pretensions, so skip the propriety.###
-- 分发，施予；（dispense with）免除：dispense · dispense medicine 配药
-- 兼职的，附属的；附加物：adjunct · an adjunct professor 兼职教授
-- 自命不凡；要求，主张：pretension · without pretension 不装腔作势
-- 得体，礼节：propriety · with propriety 得体地
-口语练习：Part 1 · How do you like people to address you?
-语法：dispense with 表示“免除，省去”；so 引出结果。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s278 -->
-# 雅思例句 278 · 写作
-中文：许多高产的网络作者用笔名写作，这保护了他们的隐私，却也让人很难证实他们的说法或判断其相关性。
-英文：###Many prolific online authors write under a pseudonym, which protects their privacy but makes it hard to substantiate their claims or judge their relevance.###
-- 多产的，丰富的：prolific · a prolific writer 多产的作家
-- 笔名，假名：pseudonym · under a pseudonym 用笔名
-- 证实：substantiate · substantiate a claim 证实说法
-- 相关性，意义：relevance · relevance to 与……的关联
-语法：which 指代前面整件事；make it hard to do 中 it 是形式宾语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s279 -->
@@ -3383,30 +2620,6 @@ per_day: 1
 语法：watch sb./sth. do 中 do 是不带 to 的不定式。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s281 -->
-# 雅思例句 281 · 写作
-中文：调查人员发现，一个燃烧装置引燃了易燃的溶剂，消防员花了好几个小时才把火扑灭。
-英文：###Investigators found that an incendiary device had ignited inflammable solvents, and firefighters took hours to smother the flames.###
-- 纵火的，燃烧的；煽动性的：incendiary · an incendiary bomb 燃烧弹
-- 易燃的；易激动的：inflammable · highly inflammable 极易燃的
-- 溶剂；有偿付能力的：solvent · an industrial solvent 工业溶剂
-- 闷熄；使窒息；抑制：smother · smother a fire 闷熄火焰
-语法：that 引导宾语从句，had ignited 用过去完成时。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s282 -->
-# 雅思例句 282 · 语法
-中文：蜜蜂抛下了蜂巢和幼虫，这让科学家们大惑不解，因为这种行为违背了它们的本能。
-英文：###The bees abandoned their hive and larvae, which caused perplexity among scientists, since such behaviour runs against their instinctual drive.###
-- 蜂巢；繁忙的场所：hive · a hive of activity 繁忙热闹的地方
-- 幼虫：larva · insect larvae 昆虫幼虫
-- 困惑，茫然：perplexity · in perplexity 困惑地
-- 本能的：instinctual · instinctual behaviour 本能行为
-问：你想说「蜜蜂抛下了蜂巢和幼虫，这让科学家们大惑不解，因为这种行为违背了它们的本能」（用 which 承接前面整件事，说明它的影响），英语怎么说？
-要点：which 引导非限制性定语从句，指代前面整件事。（动词形式）abandoned、caused 用过去时；runs 用一般现在时：讲本能规律。
-语法：定语从句
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s283 -->
 # 雅思例句 283 · 口语
 中文：食堂的菜单选择不多，不过有带果肉和不带果肉的果汁，还有一款不含淀粉的谷物早餐，适合节食的人。
@@ -3417,30 +2630,6 @@ per_day: 1
 - 淀粉；浆粉：starch · corn starch 玉米淀粉
 口语练习：Part 1 · What do you think of the food in your school or work canteen?
 语法：but 表示转折；with or without 表示“有或没有”。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s284 -->
-# 雅思例句 284 · 写作
-中文：飞行模拟和定期的进修课程教机组人员协调一致地行动，不断强化关键技能。
-英文：###Flight simulation and regular refresher courses teach crews to synchronize their actions, offering constant reinforcement of vital skills.###
-- 模拟，仿真：simulation · computer simulation 计算机模拟
-- 进修的，复习的；进修课程：refresher · a refresher course 进修课程
-- 使同步：synchronize · synchronize watches 对表
-- 加强，巩固；（复数）援军：reinforcement · positive reinforcement 正面强化
-语法：teach sb. to do 表示“教某人做……”；现在分词短语 offering ... 作结果状语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s285 -->
-# 雅思例句 285 · 语法
-中文：那座旧采石场被灌满了水，改造成了鸟类保护区，让村子重新焕发活力，还带动了当地手工艺的复兴。
-英文：###The old quarry was flooded and turned into a bird sanctuary, reinvigorating the village and sparking a revival of local crafts.###
-- 采石场；猎物；采石：quarry · a stone quarry 采石场
-- 避难所；保护区：sanctuary · a wildlife sanctuary 野生动物保护区
-- 使恢复活力：reinvigorate · reinvigorate the economy 重振经济
-- 复兴，复苏：revival · an economic revival 经济复苏
-问：你想说「那座旧采石场被灌满了水，改造成了鸟类保护区，让村子重新焕发活力，还带动了当地手工艺的复兴」（表达“从而……”的结果），英语怎么说？
-要点：reinvigorating ... and sparking ... 作结果状语。（动词形式）was flooded and (was) turned 是一般过去时的被动；reinvigorating、sparking 是现在分词作结果状语。
-语法：现在分词作状语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s286 -->
@@ -3455,66 +2644,6 @@ per_day: 1
 语法：as ... as ever 表示“和以往一样……”；现在分词短语作伴随状语。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s287 -->
-# 雅思例句 287 · 写作
-中文：失去亲人的诗人常常把悲伤化为富有隐喻的诗句，给读者留下难以磨灭的印象。
-英文：###Bereaved poets often transmute sorrow into metaphorical verse that leaves an indelible mark on readers.###
-- 使丧失亲人：bereave · the bereaved family 丧亲的家庭
-- 使变形，使变质：transmute · transmute A into B 把 A 变成 B
-- 隐喻的，比喻的：metaphorical · in a metaphorical sense 在比喻意义上
-- 不可磨灭的：indelible · an indelible impression 难忘的印象
-语法：transmute A into B 表示“把 A 变成 B”；that 引导定语从句修饰 verse。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s288 -->
-# 雅思例句 288 · 语法
-中文：只有瞳孔散大后，才能从斜角检查视神经，这是实习医生必须掌握的一项技术细节。
-英文：###Only when the pupils dilate can the optic nerve be examined from an oblique angle, a nicety of technique that trainees must master.###
-- （使）扩大，扩张：dilate · dilated pupils 放大的瞳孔
-- 眼的，视觉的：optic · the optic nerve 视神经
-- 斜的；间接的：oblique · an oblique reference 拐弯抹角的提及
-- 细节，细微区别：nicety · legal niceties 法律细节
-问：你想说「只有瞳孔散大后，才能从斜角检查视神经，这是实习医生必须掌握的一项技术细节」（强调“只有……才能……”），英语怎么说？
-要点：Only + 状语从句位于句首时，主句部分倒装（can + 主语 + be done）。（动词形式）dilate 用一般现在时；can ... be examined：can 提前，情态动词的被动；must master：情态动词 + 原形。
-语法：倒装
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s289 -->
-# 雅思例句 289 · 口语
-中文：你看到空中秋千上那个特技演员了吗？绳子晃得特别厉害，可他一直镇定自若！
-英文：###Did you see the stuntman on the trapeze? The rope oscillated wildly, but his poise never wavered!###
-- 特技演员：stuntman · a Hollywood stuntman 好莱坞特技演员
-- 吊架，高空秋千：trapeze · a trapeze artist 空中飞人
-- 摆动；犹豫：oscillate · oscillate between 在……之间摇摆
-- 镇定，优雅姿态；使平衡：poise · lose one's poise 失态
-口语练习：Part 2 · Describe an amazing performance you have watched.
-语法：but 表示转折。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s290 -->
-# 雅思例句 290 · 写作
-中文：生态学家研究底土、植物根系和陆生动物之间的相互关系，因为一处扰动就可能逐渐波及整个系统。
-英文：###Ecologists examine the interrelationship between subsoil, roots and terrestrial animals, since one disturbance can trickle through the whole system.###
-- 相互关系：interrelationship · the interrelationship between 之间的相互关系
-- 底土，下层土：subsoil · the subsoil layer 底土层
-- 陆地的；地球的：terrestrial · terrestrial animals 陆生动物
-- 滴流，慢慢移动；涓涓细流：trickle · trickle down 逐渐渗透
-语法：since 引导原因状语从句。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s291 -->
-# 雅思例句 291 · 语法
-中文：董事会正在讨论这位被提名人——一位激烈批评现代主义的人——是否具备这个职位所需的审慎，而赞同的成员寥寥无几。
-英文：###The board is debating whether the nominee, a fierce critic of modernism, has the discretion the post requires, and few members concur.###
-- 被提名人：nominee · an Oscar nominee 奥斯卡提名者
-- 现代主义：modernism · literary modernism 文学现代主义
-- 谨慎；自行决定权：discretion · at one's discretion 由某人自行决定
-- 同意；同时发生：concur · concur with 同意
-问：你想说「董事会正在讨论这位被提名人——一位激烈批评现代主义的人——是否具备这个职位所需的审慎，而赞同的成员寥寥无几」（说明“讨论是否……”），英语怎么说？
-要点：whether 引导宾语从句；the post requires 是省略关系代词的定语从句。（动词形式）is debating 用现在进行时；has 用单数：主语 nominee；concur 用复数：主语 members。
-语法：宾语从句
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s292 -->
 # 雅思例句 292 · 口语
 中文：别那么懒！先在水槽边干一会儿，把这些锅擦干净，然后我们就去看带字幕的电影。
@@ -3525,30 +2654,6 @@ per_day: 1
 - 字幕；副标题：subtitle · with English subtitles 带英文字幕
 口语练习：Part 1 · Who does the chores in your home?
 语法：现在分词短语 scouring ... 作伴随状语；then 表示先后。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s293 -->
-# 雅思例句 293 · 写作
-中文：参加武术俱乐部能培养纪律性，许多会员后来还报名当志愿教练，这有助于建设更有凝聚力的社区。
-英文：###Participation in martial arts clubs builds discipline, and many members later enlist as volunteer coaches, which conduces to stronger communities.###
-- 参与：participation · active participation 积极参与
-- 战争的，军事的：martial · martial arts 武术
-- 参军；争取，招募：enlist · enlist sb.'s help 争取某人的帮助
-- 有助于：conduce · conduce to 有助于
-语法：which 指代前面整件事。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s294 -->
-# 雅思例句 294 · 语法
-中文：虽然这片森林里成群的蛇很少有毒，但冬眠期结束后，徒步者还是应该穿上靴子，避开荆棘丛生的小路。
-英文：###Although few of the snakes that teem in this forest are venomous, hikers should wear boots and avoid thorny paths once winter dormancy ends.###
-- 充满，大量涌现：teem · teem with 充满
-- 有毒的；恶毒的：venomous · a venomous snake 毒蛇
-- 多刺的；棘手的：thorny · a thorny problem 棘手的问题
-- 休眠，蛰伏：dormancy · winter dormancy 冬眠
-问：你想说「虽然这片森林里成群的蛇很少有毒，但冬眠期结束后，徒步者还是应该穿上靴子，避开荆棘丛生的小路」（表达“虽然……但……”），英语怎么说？
-要点：although 引导让步状语从句，主句前不能再用 but；once 引导时间状语从句。（动词形式）are 用复数：few of the snakes 作主语；should wear：情态动词 + 原形；ends 用一般现在时：once 从句表将来。
-语法：让步状语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s295 -->
@@ -3563,27 +2668,16 @@ per_day: 1
 语法：so 连接表示结果的分句。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s296 -->
-# 雅思例句 296 · 写作
-中文：扰乱课堂或逃学的学生往往反映出家庭不和，所以老师应该让家长参与进来，而不是一味惩罚不听话的孩子。
-英文：###Disruptive or truant pupils often reflect disharmony at home, so teachers should involve parents rather than punish recalcitrant children.###
-- 破坏性的，扰乱的：disruptive · disruptive behaviour 扰乱秩序的行为
-- 逃学的；逃学者：truant · play truant 逃学
-- 不和谐，不一致：disharmony · family disharmony 家庭不和
-- 不服从的，桀骜不驯的：recalcitrant · a recalcitrant child 难管教的孩子
-语法：rather than 连接两个并列的动词原形。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s297 -->
 # 雅思例句 297 · 语法
-中文：老练的骗子诱骗受害者相信自己的积蓄会翻倍，这种承诺玷污了那些值得信赖的顾问的名声。
-英文：###Sophisticated scammers delude victims into believing their savings will double, a promise that tarnishes the reputation of trustworthy advisers.###
-- 老于世故的人；使复杂（sophisticated 老练的，精密的）：sophisticate · sophisticated equipment 精密设备
-- 欺骗，迷惑：delude · delude oneself 自欺欺人
-- 玷污（名誉）；使失去光泽：tarnish · tarnish one's image 损害形象
-- 值得信赖的：trustworthy · a trustworthy friend 可靠的朋友
-问：你想说「老练的骗子诱骗受害者相信自己的积蓄会翻倍，这种承诺玷污了那些值得信赖的顾问的名声」（用名词短语概括前面整件事），英语怎么说？
-要点：a promise that ... 是同位语，概括前面的内容；that 引导定语从句修饰 promise。（动词形式）delude 用一般现在时；believing 是介词 into 后的动名词；will double 用将来时：承诺的内容；tarnishes 用单数：先行词 promise。
+中文：市政会承诺迅速改造城市边缘的码头，还发誓要补充绿地，可居民们对这个承诺并不抱希望。
+英文：###The council pledged rapid redevelopment of the docks on the city's periphery and vowed to replenish green space, a promise that residents met with disenchantment.###
+- 再开发，改造：redevelopment · urban redevelopment 城市改造
+- 外围，边缘：periphery · on the periphery of 在……的边缘
+- 补充：replenish · replenish supplies 补充给养
+- 失望，醒悟：disenchantment · growing disenchantment 日益增长的失望
+问：你想说「市政会承诺迅速改造城市边缘的码头，还发誓要补充绿地，可居民们对这个承诺并不抱希望」（用名词短语概括前面整件事），英语怎么说？
+要点：a promise that ... 是同位语，概括前面的内容；that 引导定语从句修饰 promise。（动词形式）a promise that ... 是同位语，概括前面的内容；that 引导定语从句修饰 promise。
 语法：同位语
 <!-- /leiji-note -->
 
@@ -3599,27 +2693,16 @@ per_day: 1
 语法：plus 意为“加上”。
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s299 -->
-# 雅思例句 299 · 写作
-中文：当局将动用新的权力，收回最大面额的钞票，以防止其被滥用，并协助打击犯罪。
-英文：###Invoking new powers, authorities will withdraw notes of the highest denomination to prevent their misuse and aid the suppression of crime.###
-- 援引，行使；祈求：invoke · invoke a law 援引法律
-- 面额；宗派：denomination · notes of large denominations 大面额钞票
-- 滥用，误用；滥用：misuse · drug misuse 药物滥用
-- 镇压，压制：suppression · the suppression of dissent 压制异见
-语法：现在分词短语 Invoking ... 作状语；不定式 to prevent ... and aid ... 作目的状语。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s300 -->
 # 雅思例句 300 · 语法
-中文：人们认为原始记录已经遗失，而印刷出来的版本经过大量润色，夸大了演讲者的义愤。
-英文：###It is believed that the original transcript was lost and that the printed rendition, full of elaboration, exaggerates the speaker's righteous anger.###
-- 文字记录，抄本；成绩单：transcript · an academic transcript 成绩单
-- 演绎，表演；翻译：rendition · a moving rendition 感人的演绎
-- 详细阐述；精心制作：elaboration · without elaboration 不加修饰
-- 正义的，正当的：righteous · righteous indignation 义愤
-问：你想说「人们认为原始记录已经遗失，而印刷出来的版本经过大量润色，夸大了演讲者的义愤」（表达“人们认为……”），英语怎么说？
-要点：it 是形式主语，真正的主语是两个并列的 that 从句。（动词形式）is believed 是一般现在时的被动；was lost 是一般过去时的被动；exaggerates 用一般现在时：讲这个版本现在的样子。
+中文：人们认为这位炼金术士把配方藏在一卷卷轴里，而且他的药水是在他死后才出名的。
+英文：###It is believed that the alchemist hid his formulas in a scroll and that his potions gained posthumous fame.###
+- 炼金术士：alchemist · a medieval alchemist 中世纪炼金术士
+- 卷轴；滚动：scroll · scroll down 向下滚动
+- 药水；魔水：potion · a love potion 爱情药水
+- 死后的：posthumous · posthumous fame 身后之名
+问：你想说「人们认为这位炼金术士把配方藏在一卷卷轴里，而且他的药水是在他死后才出名的」（表达“人们认为……”），英语怎么说？
+要点：it 是形式主语，真正的主语是两个并列的 that 从句。（动词形式）It is believed that ... 中 it 是形式主语，真正的主语是两个并列的 that 从句。
 语法：it 形式主语
 <!-- /leiji-note -->
 
@@ -3633,30 +2716,6 @@ per_day: 1
 - 鳃：gill · breathe through gills 用鳃呼吸
 口语练习：Part 1 · Did you do arts and crafts when you were a child?
 语法：冒号后具体说明 class pets。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s302 -->
-# 雅思例句 302 · 写作
-中文：批评者指责广告商利用令人着迷的音乐和潜意识暗示来诱惑观众，还指责有些广告把女性物化。
-英文：###Critics accuse advertisers of using hypnotic music and subliminal cues to seduce viewers, and of ads that objectify women.###
-- 催眠的；令人着迷的：hypnotic · a hypnotic rhythm 令人着迷的节奏
-- 潜意识的：subliminal · subliminal advertising 潜意识广告
-- 引诱，诱惑：seduce · be seduced by 被……吸引
-- 物化，使客观化：objectify · objectify women 物化女性
-语法：accuse sb. of sth. 表示“指责某人……”，of 后接两个并列的宾语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s303 -->
-# 雅思例句 303 · 语法
-中文：这部小说之所以引人入胜，是因为侦探的归纳推理：他捕捉每一处不协调，让紧张感不断延长，最后推翻了所有的假设。
-英文：###What makes the novel gripping is the detective's inductive reasoning, which spots each incongruity, protracts the tension and ends in a negation of every assumption.###
-- 归纳的；感应的：inductive · inductive reasoning 归纳推理
-- 不协调，不一致：incongruity · the incongruity of the situation 情形的不协调
-- 拖延，延长：protract · protracted negotiations 旷日持久的谈判
-- 否定，否认：negation · the negation of 对……的否定
-问：你想说「这部小说之所以引人入胜，是因为侦探的归纳推理：他捕捉每一处不协调，让紧张感不断延长，最后推翻了所有的假设」（强调“让……的是……”），英语怎么说？
-要点：What 引导主语从句；which 引导非限制性定语从句修饰 reasoning。（动词形式）makes、is 用单数：what 从句作主语看作单数；spots、protracts、ends 用单数：先行词 reasoning。
-语法：主语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s304 -->
@@ -3695,18 +2754,6 @@ per_day: 1
 语法：被动语态
 <!-- /leiji-note -->
 
-<!-- leiji-note-id:danci-ielts-full-s307 -->
-# 雅思例句 307 · 口语
-中文：快看那个哑剧演员！他模仿迷路游客模仿得太绝了；我们看一会儿，再去大吃一顿饺子，买个定制的纪念品吧。
-英文：###Look at that mime! His parody of a lost tourist is great; let's watch, gorge on dumplings and buy a personalized souvenir.###
-- 哑剧（演员）；用哑剧表演：mime · a mime artist 哑剧演员
-- 模仿作品，滑稽模仿；拙劣地模仿：parody · a parody of 对……的戏仿
-- 狼吞虎咽；峡谷：gorge · gorge oneself on 狼吞虎咽地吃
-- 使个性化，定制：personalize · a personalized gift 定制礼物
-口语练习：Part 2 · Describe an interesting street performance you have seen.
-语法：let's 后接三个并列的动词原形。
-<!-- /leiji-note -->
-
 <!-- leiji-note-id:danci-ielts-full-s308 -->
 # 雅思例句 308 · 写作
 中文：早期人类驯养山羊、食用骨髓、把动物筋腱搓成绳子，还怀着敬畏之心安葬逝者。
@@ -3716,19 +2763,6 @@ per_day: 1
 - 肌腱；力量：sinew · the sinews of war 战争的支柱
 - 恭敬的，虔诚的：reverent · a reverent silence 肃穆的寂静
 语法：四个并列谓语描述早期人类的活动。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s309 -->
-# 雅思例句 309 · 语法
-中文：这桩丑闻闹得沸沸扬扬，摄政王不得不清洗他的亲信圈子，并调整施政方向。
-英文：###So great was the scandal's prominence that the regent had to purge his inner circle and reorient his policies.###
-- 突出，显著；名望：prominence · rise to prominence 声名鹊起
-- 摄政者：regent · the Prince Regent 摄政王
-- 清除，清洗；清洗：purge · purge the party 清党
-- 重新定向，调整方向：reorient · reorient the economy 调整经济方向
-问：你想说「这桩丑闻闹得沸沸扬扬，摄政王不得不清洗他的亲信圈子，并调整施政方向」（强调“如此……以至于……”），英语怎么说？
-要点：So + 形容词位于句首时，主句倒装（was + 主语），与 that 引导的结果状语从句连用。（动词形式）was 提到主语前面；had to 用过去时，表示“不得不”。
-语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s310 -->
@@ -3752,42 +2786,6 @@ per_day: 1
 - 含盐的；生理盐水：saline · saline solution 盐溶液
 - 子宫：womb · in the womb 在子宫里
 语法：require sb. to do 表示“需要某人做……”；不定式 to protect ... 作目的状语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s312 -->
-# 雅思例句 312 · 语法
-中文：小说里，那位纯洁善良的女主人公拒绝了一个满口粗俗笑话、令她反感的富家求婚者，转而选择了一位没有偏见的医生。
-英文：###In the novel, the chaste and virtuous heroine rejects a rich suitor whose profane jokes shock her, choosing an unprejudiced doctor instead.###
-- 贞洁的；朴素的：chaste · a chaste kiss 纯洁的一吻
-- 品德高尚的：virtuous · a virtuous life 高尚的生活
-- 亵渎的，粗俗的；亵渎：profane · profane language 粗俗的语言
-- 无偏见的，公正的：unprejudiced · an unprejudiced view 公正的看法
-问：你想说「小说里，那位纯洁善良的女主人公拒绝了一个满口粗俗笑话、令她反感的富家求婚者，转而选择了一位没有偏见的医生」（说明“……的那个人”），英语怎么说？
-要点：whose 引导定语从句，修饰 suitor；现在分词短语 choosing ... 作伴随状语。（动词形式）rejects、shock 用一般现在时：叙述小说情节；choosing 是现在分词作伴随状语。
-语法：定语从句
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s313 -->
-# 雅思例句 313 · 口语
-中文：奶奶能跟人聊上好几个小时，大夸她的土方子；她的证据全凭道听途说，可她的立场从来没变过。
-英文：###Grandma would converse for hours, extolling her remedies; her evidence was anecdotal, but her stance never changed.###
-- 交谈；相反的：converse · converse with 与……交谈
-- 赞美，颂扬：extol · extol the virtues of 赞扬……的好处
-- 趣闻的；传闻的：anecdotal · anecdotal evidence 传闻证据
-- 立场；站姿：stance · take a stance on 对……表明立场
-口语练习：Part 2 · Describe an older person who has strong opinions.
-语法：would 表示过去的习惯；现在分词短语 extolling ... 作伴随状语。
-<!-- /leiji-note -->
-
-<!-- leiji-note-id:danci-ielts-full-s314 -->
-# 雅思例句 314 · 写作
-中文：语言学家分析了一个大型语料库来探究日常口语，发现否定词后的倒装其实很少见，这让教科书里的一些例句显得不太恰当。
-英文：###Analysing a large corpus to plumb everyday speech, linguists found that inversion after negatives is rare, making some textbook examples inapt.###
-- 语料库；文集：corpus · a corpus of English 英语语料库
-- 探究；铅锤：plumb · plumb the depths of 探究……的深处
-- 倒置，倒装；反转：inversion · inversion of word order 语序倒装
-- 不恰当的：inapt · an inapt comparison 不恰当的比较
-语法：现在分词短语 Analysing ... 作伴随状语，making ... 作结果状语。
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-ielts-full-s315 -->

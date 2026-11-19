@@ -6,6 +6,7 @@ desc: 高中数学常用公式和定理，95 条，一条一个，遮住关键�
 version: 2026-11-18
 author: 磊记出品
 license: 公式不受著作权保护；说明文字为磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 高分
 count: 95
 per_day: 3

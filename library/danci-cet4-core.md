@@ -3,9 +3,10 @@ id: danci-cet4-core
 title: 四级高分句型（39 句）
 title_en: CET-4 Key Sentences (39)
 desc: 四级每个语法考点一句，共 39 句，每句有语法问答和讲解，部分附真题考点
-version: 2026-11-17
+version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
+copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
 level: 高分
 count: 39
 per_day: 1
@@ -13,15 +14,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s098 -->
 # 四级必背 01 · 定语从句 · 非限制性
-中文：这位发明家的仪器能放大微弱信号，经过多年艰辛，他终于获得了专利。
-英文：###The inventor, whose apparatus could amplify weak signals, was finally granted a patent after years of hardship.###
+中文：这位发明家的仪器能增强微弱信号，经过多年艰辛，他终于获得了专利。
+英文：###The inventor, whose apparatus could strengthen weak signals, was finally granted a patent after years of hardship.###
 - 发明者：inventor · a great inventor 伟大的发明家
 - 仪器；器械：apparatus · a piece of apparatus 一件仪器
-- 放大；增强：amplify · amplify a signal 放大信号
 - 授予；同意：grant · be granted a patent 被授予专利
 - 艰难，困苦：hardship · suffer hardship 吃苦
-问：你想说「这位发明家的仪器能放大微弱信号，经过多年艰辛，他终于获得了专利」（补充说明“谁的”），英语怎么说？
-要点：whose 引导非限制性定语从句，表示所属关系，相当于 the inventor's。（动词形式）could amplify 是情态动词加原形；was granted 是被动：专利是“被授予”的。
+问：你想说「这位发明家的仪器能增强微弱信号，经过多年艰辛，他终于获得了专利」（补充说明“谁的”），英语怎么说？
+要点：whose 引导非限制性定语从句，表示所属关系，相当于 the inventor's。（动词形式）could strengthen 是情态动词加原形；was granted 是被动：专利是“被授予”的。
 语法：定语从句
 真题：2024 年 6 月四级翻译（卷二，参考译文）、2023 年 12 月（卷三）：非限制性定语从句
 <!-- /leiji-note -->
@@ -42,13 +42,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s101 -->
 # 四级必背 03 · 倒装 · 否定词开头
-中文：直到上校发出信号，部队才开始穿过沼泽撤退。
-英文：###Not until the colonel gave the signal did the troops begin their retreat across the swamp.###
-- 上校：colonel · a retired colonel 退役上校
+中文：直到指挥官发出信号，部队才开始避开入侵者，撤向内陆的山区。
+英文：###Not until the commander gave the signal did the troops begin their retreat from the invaders toward the inland hills.###
 - 军队；一群：troop · send troops 派兵
 - 撤退；退却：retreat · make a retreat 撤退
-- 沼泽：swamp · a vast swamp 大片沼泽
-问：你想说「直到上校发出信号，部队才开始穿过沼泽撤退」（强调“直到……才……”），英语怎么说？
+- 入侵者：invader · foreign invaders 外国入侵者
+- 内陆的；在内陆：inland · inland areas 内陆地区
+问：你想说「直到指挥官发出信号，部队才开始避开入侵者，撤向内陆的山区」（强调“直到……才……”），英语怎么说？
 要点：not until 位于句首时，主句部分倒装：did the troops begin。（动词形式）gave 用过去时；倒装部分用 did，begin 回到原形。
 语法：倒装
 <!-- /leiji-note -->
@@ -83,15 +83,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s104 -->
 # 四级必背 06 · 宾语从句 · what、how、that 引导
-中文：研究人员推断不出是什么引起了爆炸，因为没有发现明显的缺陷。
-英文：###The researchers could not deduce what had caused the explosion, as no apparent defect was found.###
+中文：研究人员弄不清是什么引起了爆炸，因为没有发现明显的缺陷。
+英文：###The researchers could not work out what had caused the explosion, as no apparent defect was found.###
 - 研究人员：researcher · a medical researcher 医学研究人员
-- 推断：deduce · deduce from ... 从……推断
 - 爆炸：explosion · a gas explosion 煤气爆炸
 - 明显的：apparent · for no apparent reason 无明显原因
 - 缺陷：defect · a birth defect 先天缺陷
-问：你想说「研究人员推断不出是什么引起了爆炸，因为没有发现明显的缺陷」（说“推断不出是什么……”），英语怎么说？
-要点：what 引导宾语从句，作 deduce 的宾语，用陈述语序。（动词形式）had caused 用过去完成时：爆炸的原因在“推断”之前；was found 是被动。
+问：你想说「研究人员弄不清是什么引起了爆炸，因为没有发现明显的缺陷」（说“弄不清是什么……”），英语怎么说？
+要点：what 引导宾语从句，作 work out 的宾语，what 在从句中作主语。（动词形式）had caused 用过去完成时：爆炸原因发生在“弄不清”之前；was found 是被动。
 语法：宾语从句
 <!-- /leiji-note -->
 
@@ -110,40 +109,39 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s106 -->
 # 四级必背 08 · with 复合结构
-中文：随着视力衰退，老牧羊人靠他忠实的狗来放牧羊群。
-英文：###With his eyesight failing, the old shepherd relied on his faithful dog to herd the flock.###
+中文：由于视力衰退，老农只好靠他那条忠实的狗来赶羊群。
+英文：###With his eyesight failing, the old farmer relied on his faithful dog to herd the flock.###
 - 视力：eyesight · poor eyesight 视力差
-- 牧羊人：shepherd · a young shepherd 年轻的牧羊人
 - 忠实的：faithful · a faithful friend 忠实的朋友
 - 放牧；兽群：herd · a herd of cattle 一群牛
 - （羊、鸟）群：flock · a flock of sheep 一群羊
-问：你想说「随着视力衰退，老牧羊人靠他忠实的狗来放牧羊群」（说明伴随的原因），英语怎么说？
-要点：with + 宾语 + 现在分词，表示主动、正在进行，作原因状语。（动词形式）relied 用过去时；failing 用现在分词：视力“正在衰退”。
+问：你想说「由于视力衰退，老农只好靠他那条忠实的狗来赶羊群」（说明“因为……正在……”），英语怎么说？
+要点：with + 宾语 + 现在分词，表示主动、正在进行，作原因状语。（动词形式）relied 用过去时；to herd 是不定式，表目的。
 语法：with 复合结构
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s108 -->
 # 四级必背 09 · 虚拟语气 · if 条件句
-中文：如果飞行员没有对高度警报立即作出反应，飞机就会撞上山脊。
-英文：###If the pilot had not reacted instantly to the altitude warning, the aircraft would have struck the ridge.###
+中文：要不是飞行员对高度警报反应及时，飞机就会发生灾难性的坠毁。
+英文：###If the pilot had not reacted instantly to the altitude warning, the aircraft would have suffered a disastrous crash.###
 - 立即：instantly · die instantly 当场死亡
 - 高度；海拔：altitude · at high altitude 在高海拔处
 - 飞机；航空器：aircraft · a military aircraft 军用飞机
-- 山脊：ridge · a mountain ridge 山脊
-问：你想说「如果飞行员没有对高度警报立即作出反应，飞机就会撞上山脊」（对过去的事作假设），英语怎么说？
-要点：与过去事实相反：if 从句用 had done，主句用 would have done。（动词形式）had not reacted、would have struck：都和过去的事实相反。
+- 灾难性的：disastrous · disastrous consequences 灾难性的后果
+问：你想说「要不是飞行员对高度警报反应及时，飞机就会发生灾难性的坠毁」（说“要是当时没有……就会……”），英语怎么说？
+要点：与过去事实相反：if 从句用 had done，主句用 would have done。（动词形式）had not reacted 与过去事实相反；would have suffered 是虚拟的结果。
 语法：虚拟语气
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s109 -->
 # 四级必背 10 · 比较级
-中文：我们用的化肥越多，田地就越贫瘠，水库的水质也越差。
-英文：###The more chemical fertilizer we use, the less fruitful our fields become and the lower the purity of our reservoir.###
+中文：化肥用得越多，田地就越贫瘠，水也越不纯净——这是一个生态警示。
+英文：###The more chemical fertilizer we use, the less fruitful our fields become and the lower the purity of our water — an ecological warning.###
 - 肥料：fertilizer · chemical fertilizer 化肥
 - 多产的；富有成效的：fruitful · a fruitful discussion 富有成效的讨论
 - 纯净；纯度：purity · the purity of water 水的纯净度
-- 水库：reservoir · a large reservoir 大型水库
-问：你想说「我们用的化肥越多，田地就越贫瘠，水库的水质也越差」（说“越……就越……”），英语怎么说？
+- 生态的：ecological · ecological balance 生态平衡
+问：你想说「化肥用得越多，田地就越贫瘠，水也越不纯净——这是一个生态警示」（说“越……就越……”），英语怎么说？
 要点：“the + 比较级 ..., the + 比较级 ...”表示“越……，就越……”。（动词形式）use、become 用一般现在时：说的是普遍规律。
 语法：比较级
 真题：2023 年 6 月四级翻译（卷一，参考译文）：比较级
@@ -164,14 +162,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s111 -->
 # 四级必背 12 · 情态动词 · 过去该做或不必做
-中文：你本来不必买剃须刀和洗发水的；旅店女主人会免费提供。
-英文：###You needn't have bought a razor and shampoo; the hostess of the inn provides them for free.###
-- 剃刀：razor · an electric razor 电动剃须刀
-- 洗发水：shampoo · a bottle of shampoo 一瓶洗发水
+中文：你本来不必自带饮料和餐巾，旅店的女主人会免费提供。
+英文：###You needn't have brought your own beverages and napkins; the hostess of the inn provides them for free.###
+- 饮料：beverage · alcoholic beverages 含酒精饮料
+- 餐巾：napkin · a paper napkin 纸巾
 - 女主人：hostess · the hostess of the party 聚会的女主人
 - 小旅店：inn · stay at an inn 住旅店
-问：你想说「你本来不必买剃须刀和洗发水的；旅店女主人会免费提供」（说“本来不必做”），英语怎么说？
-要点：needn't have done 表示本来不必做某事，但实际上做了。（动词形式）provides 用单数：主语是 the hostess。
+问：你想说「你本来不必自带饮料和餐巾，旅店的女主人会免费提供」（说“本来不必做”），英语怎么说？
+要点：needn't have done 表示本来不必做某事，但实际上做了。（动词形式）brought 是 bring 的过去分词，跟在 needn't have 后面；provides 用单数：主语是 the hostess。
 语法：情态动词
 <!-- /leiji-note -->
 
@@ -190,14 +188,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s113 -->
 # 四级必背 14 · 被动语态
-中文：这座古老的大教堂正在维修，以大理石雕像闻名的内部暂停接待观光团。
-英文：###The ancient cathedral is being repaired, and its interior, famous for marble statues, is closed to sightseeing groups.###
-- 大教堂：cathedral · a Gothic cathedral 哥特式大教堂
+中文：那座古庙正在大修，以巨型雕像闻名的殿内暂不对观光团开放。
+英文：###The ancient temple is being repaired during a major renovation, and its interior, famous for monumental statues, is closed to sightseeing groups.###
+- 翻新，修缮：renovation · under renovation 正在翻修
 - 内部：interior · the interior of the car 车的内部
-- 大理石：marble · a marble statue 大理石雕像
+- 巨大的；纪念碑的：monumental · a monumental statue 巨型雕像
 - 观光，游览：sightseeing · go sightseeing 去观光
-问：你想说「这座古老的大教堂正在维修，以大理石雕像闻名的内部暂停接待观光团」（说“正在被修理”），英语怎么说？
-要点：现在进行时的被动语态 is being repaired，表示动作正在被进行。（动词形式）is closed 是被动，表示状态；famous for 作定语。
+问：你想说「那座古庙正在大修，以巨型雕像闻名的殿内暂不对观光团开放」（说“正在被修”），英语怎么说？
+要点：现在进行时的被动语态 is being repaired，表示动作正在被进行。（动词形式）is being repaired 是现在进行时的被动；is closed 表示状态。
 语法：被动语态
 真题：2024 年 6 月四级翻译（卷二，参考译文）、2023 年 12 月（卷二）：被动语态
 <!-- /leiji-note -->
@@ -217,41 +215,40 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s115 -->
 # 四级必背 16 · 倒装 · so / such 开头
-中文：暴风雪如此猛烈，那艘汽船不得不在岸边抛锚停了两个星期。
-英文：###So fierce was the snowstorm that the steamer had to anchor near the shore for a fortnight.###
+中文：暴风雪如此猛烈，那艘轮船只好在岸边停泊了两个星期。
+英文：###So fierce was the snowstorm that the steamer had to anchor near the shore for two weeks.###
 - 猛烈的；凶猛的：fierce · fierce competition 激烈的竞争
 - 暴风雪：snowstorm · a heavy snowstorm 大暴风雪
 - 汽船：steamer · a river steamer 内河汽船
 - 抛锚；锚：anchor · drop anchor 抛锚
-- 两星期：fortnight · a fortnight's holiday 两周的假期
-问：你想说「暴风雪如此猛烈，那艘汽船不得不在岸边抛锚停了两个星期」（强调“如此……以致……”），英语怎么说？
+问：你想说「暴风雪如此猛烈，那艘轮船只好在岸边停泊了两个星期」（强调“如此……以致……”），英语怎么说？
 要点：so + 形容词放在句首时，主句部分倒装：So fierce was the snowstorm that ...（动词形式）had to anchor：had to 表示过去“不得不”。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s116 -->
 # 四级必背 17 · 独立主格
-中文：婚宴结束后，宾客们聚在门廊上，在亲切的气氛中向新人道贺。
-英文：###The wedding feast over, the guests gathered on the porch and congratulated the couple in a cordial atmosphere.###
-- 盛宴：feast · a wedding feast 婚宴
-- 门廊：porch · sit on the porch 坐在门廊上
+中文：婚宴结束后，客人们聚到院子里，在亲人团聚的热烈气氛中向新人道贺。
+英文：###The wedding dinner over, the guests gathered in the courtyard and congratulated the couple in a hearty atmosphere of family reunion.###
+- 庭院，院子：courtyard · in the courtyard 在院子里
 - 祝贺：congratulate · congratulate sb. on sth. 就某事祝贺某人
-- 亲切的；诚恳的：cordial · a cordial welcome 热诚的欢迎
-问：你想说「婚宴结束后，宾客们聚在门廊上，在亲切的气氛中向新人道贺」（说“……结束后”），英语怎么说？
-要点：the wedding feast over = when the wedding feast was over，作时间状语。（动词形式）gathered、congratulated 用过去时：并列谓语，说的是过去的事。
+- 热情的；丰盛的：hearty · a hearty welcome 热情的欢迎
+- 团聚，重逢：reunion · a family reunion 家庭团聚
+问：你想说「婚宴结束后，客人们聚到院子里，在亲人团聚的热烈气氛中向新人道贺」（说“……结束后”），英语怎么说？
+要点：the wedding dinner over = when the wedding dinner was over，作时间状语。（动词形式）gathered、congratulated 用过去时；the wedding dinner over 省略了 being。
 语法：独立主格
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s117 -->
 # 四级必背 18 · 定语从句 · 介词 + 关系代词
-中文：熔化铜合金的熔炉必须加热到极高的温度。
-英文：###The furnace in which the copper alloy is melted must be heated to an extreme temperature.###
+中文：炼厂用来熔化铜的熔炉必须加热到极高的温度。
+英文：###The furnace in which the refinery melts copper must be heated to an extreme temperature.###
 - 熔炉；炉子：furnace · a blast furnace 高炉
-- 合金：alloy · a light alloy 轻合金
+- 炼油厂；精炼厂：refinery · an oil refinery 炼油厂
 - 熔化：melt · melt snow 化雪
 - 极度的：extreme · extreme cold 严寒
-问：你想说「熔化铜合金的熔炉必须加热到极高的温度」（说“在其中……的那个”），英语怎么说？
-要点：“介词 + which”引导定语从句，in which 在从句中作地点状语。（动词形式）is melted 是被动；must be heated 是情态动词的被动。
+问：你想说「炼厂用来熔化铜的熔炉必须加热到极高的温度」（说“在那个……里面”），英语怎么说？
+要点：“介词 + which”引导定语从句，in which 在从句中作地点状语。（动词形式）melts 用一般现在时；must be heated 是情态动词的被动。
 语法：定语从句
 真题：2024 年 6 月四级翻译（卷一，参考译文）：“介词 + 关系代词”引导的定语从句
 <!-- /leiji-note -->
@@ -271,27 +268,27 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s147 -->
 # 四级必背 20 · 虚拟语气 · 建议、要求后用 (should) do
-中文：校长坚持要求每个学生骑车时都戴头盔，并系好系带。
-英文：###The headmaster insisted that every student wear a helmet and fasten it properly when cycling.###
+中文：校长坚持要求每个学生把贵重物品放进储物柜，并把柜门锁好。
+英文：###The headmaster insisted that every student keep valuables in a locker and fasten it properly.###
 - 校长：headmaster · the headmaster of a school 一所学校的校长
-- 头盔：helmet · wear a helmet 戴头盔
+- 储物柜，寄存柜：locker · a locker room 更衣室
 - 系牢：fasten · fasten one's seat belt 系好安全带
 - 正确地；恰当地：properly · behave properly 举止得体
-问：你想说「校长坚持要求每个学生骑车时都戴头盔，并系好系带」（说“坚持要求某人做”），英语怎么说？
-要点：insist 表示“坚持要求”时，宾语从句用 (should) + 动词原形。（动词形式）wear、fasten 用原形，省略了 should。
+问：你想说「校长坚持要求每个学生把贵重物品放进储物柜，并把柜门锁好」（说“坚持要求某人做”），英语怎么说？
+要点：insist 表示“坚持要求”时，宾语从句用 (should) + 动词原形：keep、fasten。（动词形式）keep、fasten 用原形（省略了 should）。
 语法：虚拟语气
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s148 -->
 # 四级必背 21 · 虚拟语气 · 含蓄条件
-中文：要不是那位中尉反应迅速，海军基地就会在敌人的潜艇袭击中被摧毁。
-英文：###But for the lieutenant's quick thinking, the naval base would have been destroyed in the enemy's submarine raid.###
-- 中尉：lieutenant · a young lieutenant 年轻的中尉
+中文：要不是协调员反应快，海军基地就会在敌人的大规模空袭中被摧毁。
+英文：###But for the coordinator's quick thinking, the naval base would have been destroyed in the enemy's gigantic air raid.###
+- 协调员，协调人：coordinator · a project coordinator 项目协调员
 - 海军的：naval · a naval base 海军基地
-- 潜艇：submarine · a nuclear submarine 核潜艇
+- 巨大的：gigantic · a gigantic wave 巨浪
 - 袭击：raid · an air raid 空袭
-问：你想说「要不是那位中尉反应迅速，海军基地就会在敌人的潜艇袭击中被摧毁」（说“要不是……”），英语怎么说？
-要点：but for 引导含蓄条件，意为“要不是”，主句用 would have done。（动词形式）would have been destroyed：虚拟的被动形式。
+问：你想说「要不是协调员反应快，海军基地就会在敌人的大规模空袭中被摧毁」（说“要不是……就会……”），英语怎么说？
+要点：but for 引导含蓄条件，意为“要不是”，主句用 would have done。（动词形式）would have been destroyed 是被动的虚拟，表示与过去事实相反。
 语法：虚拟语气
 <!-- /leiji-note -->
 
@@ -310,14 +307,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s154 -->
 # 四级必背 23 · 倒装 · 完全倒装
-中文：大雨倾盆而下，受惊的鹅冲回了堆满干草的谷仓。
-英文：###Down came the heavy rain, and the frightened goose rushed back into the barn full of hay.###
+中文：大雨倾盆而下，受惊的鹅冲回了堆满干草的棚子。
+英文：###Down came the mighty rain, and the frightened goose rushed back into the shed full of hay.###
+- 强大的，巨大的：mighty · a mighty river 大河
 - 使惊恐：frighten · be frightened of 害怕
 - 鹅：goose · a flock of geese 一群鹅
-- 谷仓：barn · a big barn 大谷仓
 - 干草：hay · make hay 晒干草
-问：你想说「大雨倾盆而下，受惊的鹅冲回了堆满干草的谷仓」（生动描写“落下来”），英语怎么说？
-要点：表示方向的副词 down 位于句首，句子完全倒装：Down came the heavy rain。（动词形式）rushed 用过去时；came 是不规则动词 come 的过去式。
+问：你想说「大雨倾盆而下，受惊的鹅冲回了堆满干草的棚子」（描述“……猛地下来”），英语怎么说？
+要点：表示方向的副词 down 位于句首，句子完全倒装：Down came the mighty rain。（动词形式）came 用过去时，放在主语 the mighty rain 前面。
 语法：倒装
 <!-- /leiji-note -->
 
@@ -350,13 +347,13 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s161 -->
 # 四级必背 26 · 将来进行时
-中文：明天这个时候，我们将划着独木舟顺溪而下，在陡峭的山坡上露营。
-英文：###This time tomorrow, we will be rowing a canoe down the brook and camping on the steep hillside.###
-- 独木舟：canoe · paddle a canoe 划独木舟
-- 小溪：brook · a clear brook 清澈的小溪
+中文：明天这个时候，我们将正划船穿过沼泽观察野生动物，在陡峭的山坡上露营。
+英文：###This time tomorrow, we will be rowing through the marsh to watch wildlife and camping on the steep hillside.###
+- 沼泽；湿地：marsh · a salt marsh 盐沼
+- 野生动物：wildlife · protect wildlife 保护野生动物
 - 陡峭的：steep · a steep slope 陡坡
 - 山坡：hillside · on the hillside 在山坡上
-问：你想说「明天这个时候，我们将划着独木舟顺溪而下，在陡峭的山坡上露营」（说“明天这个时候正在做”），英语怎么说？
+问：你想说「明天这个时候，我们将正划船穿过沼泽观察野生动物，在陡峭的山坡上露营」（说“明天这个时候正在做”），英语怎么说？
 要点：will be doing 表示将来某一时刻正在进行的动作。（动词形式）rowing、camping 都是将来进行时 will be doing 的一部分。
 语法：将来进行时
 <!-- /leiji-note -->
@@ -377,81 +374,80 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s163 -->
 # 四级必背 28 · 过去完成进行时
-中文：客人到达时，那位主妇已经擦了好几个小时的炉子和黄铜把手。
-英文：###By the time the guests arrived, the housewife had been cleaning the stove and polishing the brass knobs for hours.###
+中文：客人到的时候，主妇已经擦了好几个小时的炉子和微波炉，还在擦亮黄铜把手。
+英文：###By the time the guests arrived, the housewife had been cleaning the stove and microwave and polishing the brass handles for hours.###
 - 家庭主妇：housewife · a busy housewife 忙碌的主妇
 - 炉子：stove · a gas stove 煤气炉
+- 微波炉；微波：microwave · a microwave oven 微波炉
 - 黄铜：brass · a brass band 铜管乐队
-- 把手：knob · a door knob 门把手
-问：你想说「客人到达时，那位主妇已经擦了好几个小时的炉子和黄铜把手」（说“到那时已经一直在做”），英语怎么说？
-要点：had been doing 表示到过去某时为止一直在进行的动作。（动词形式）arrived 用过去时：说明“到那时”的时间点。
+问：你想说「客人到的时候，主妇已经擦了好几个小时的炉子和微波炉，还在擦亮黄铜把手」（说“一直在做，直到……”），英语怎么说？
+要点：had been doing 表示到过去某时为止一直在进行的动作。（动词形式）had been cleaning、polishing 是过去完成进行时；arrived 用过去时。
 语法：过去完成进行时
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s192 -->
 # 四级必背 29 · 定语从句 · 关系词的选择
-中文：我至今还记得天鹅飞回湖边芦苇丛的那个黄昏。
-英文：###I still recollect the dusk when the swans returned to the reeds by the lake.###
+中文：我还记得那个黄昏，爷爷和我坐在阳台上，看着下面的小巷。
+英文：###I still recollect the dusk when Grandpa and I sat on the balcony and watched the alley below.###
 - 回忆起：recollect · recollect one's childhood 回忆童年
 - 黄昏：dusk · at dusk 黄昏时
-- 天鹅：swan · a white swan 白天鹅
-- 芦苇：reed · a bed of reeds 芦苇丛
-问：你想说「我至今还记得天鹅飞回湖边芦苇丛的那个黄昏」（说“……的那个时刻”），英语怎么说？
-要点：when 引导定语从句，修饰表示时间的先行词 the dusk，在从句中作时间状语。（动词形式）recollect 用一般现在时：现在仍然记得；returned 用过去时。
+- 阳台：balcony · on the balcony 在阳台上
+- 小巷，胡同：alley · a narrow alley 一条窄巷
+问：你想说「我还记得那个黄昏，爷爷和我坐在阳台上，看着下面的小巷」（说“……的那个时刻”），英语怎么说？
+要点：when 引导定语从句，修饰表示时间的先行词 the dusk，在从句中作时间状语。（动词形式）recollect 用一般现在时：现在仍然记得；sat、watched 用过去时。
 语法：定语从句
 真题：2024 年 6 月四级翻译（卷二，参考译文）、2023 年 6 月（卷一）：限制性定语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s197 -->
 # 四级必背 30 · 宾语从句 · whether 引导
-中文：那位物理学家不确定放射性物质能否穿透厚厚的灰泥墙。
-英文：###The physicist was uncertain whether the radioactive substance would penetrate the thick plaster wall.###
+中文：这位物理学家不确定这种有毒气体是否会穿透仓库的墙壁。
+英文：###The physicist was uncertain whether the poisonous gas would penetrate the walls of the warehouse.###
 - 物理学家：physicist · a nuclear physicist 核物理学家
 - 不确定的：uncertain · be uncertain about ... 对……不确定
-- 放射性的：radioactive · radioactive waste 放射性废物
 - 穿透：penetrate · penetrate the skin 穿透皮肤
-- 灰泥；石膏：plaster · a plaster wall 灰泥墙
-问：你想说「那位物理学家不确定放射性物质能否穿透厚厚的灰泥墙」（说“不确定是否……”），英语怎么说？
+- 仓库：warehouse · a storage warehouse 储藏仓库
+问：你想说「这位物理学家不确定这种有毒气体是否会穿透仓库的墙壁」（说“不确定是否……”），英语怎么说？
 要点：whether 引导宾语从句，作形容词 uncertain 的宾语，意为“是否”。（动词形式）would penetrate 是过去将来时：从当时看“会不会穿透”。
 语法：宾语从句
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s207 -->
 # 四级必背 31 · 倒装 · not only、neither、nor
-中文：汹涌的激流不仅冲走了桥，还卷走了马车和木材。
-英文：###Not only did the turbulent torrent wash away the bridge, but it also carried off the cart and the lumber.###
-- 汹涌的；动荡的：turbulent · turbulent water 湍急的水流
-- 激流：torrent · a torrent of rain 倾盆大雨
+中文：这场破坏性的洪水不仅冲垮了桥，还弄沉了渡船，淹了绕城公路，卷走了一辆手推车。
+英文：###Not only did the destructive flood wash away the bridge, but it also sank the ferry, covered the bypass and carried off a cart.###
+- 破坏性的：destructive · a destructive storm 破坏性风暴
+- 渡船；渡口：ferry · take a ferry 乘渡船
+- 旁道，绕行公路：bypass · build a bypass 修建绕行公路
 - 马车；手推车：cart · a horse and cart 马车
-- 木材：lumber · a pile of lumber 一堆木材
-问：你想说「汹涌的激流不仅冲走了桥，还卷走了马车和木材」（说“不仅……而且……”），英语怎么说？
-要点：not only 位于句首时，前一分句部分倒装：Not only did ... wash away ...（动词形式）carried off 用过去时：后一分句不倒装。
+问：你想说「这场破坏性的洪水不仅冲垮了桥，还弄沉了渡船，淹了绕城公路，卷走了一辆手推车」（说“不仅……而且……”），英语怎么说？
+要点：not only 位于句首时，前一分句部分倒装：Not only did ... wash away ...（动词形式）sank、covered、carried off 用过去时：后一分句不倒装。
 语法：倒装
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s209 -->
 # 四级必背 32 · 非谓语动词 · 作定语
-中文：在王座大厅附近发现的剑和矛上覆盖着一层薄锈。
-英文：###The sword and spear discovered near the throne room were coated with a thin layer of rust.###
+中文：在王室墓地附近发现的那把无价宝剑，让每个看到它的历史学家都兴奋不已。
+英文：###The priceless sword discovered near the royal burial site excited every historian who saw it.###
+- 无价的，极珍贵的：priceless · a priceless painting 无价之画
 - 剑：sword · draw a sword 拔剑
-- 矛：spear · throw a spear 投矛
-- 王座；王位：throne · come to the throne 登基
-- 锈：rust · be covered with rust 生满锈
-问：你想说「在王座大厅附近发现的剑和矛上覆盖着一层薄锈」（说“被发现的”），英语怎么说？
-要点：过去分词短语 discovered near ... 作后置定语，表示被动、已完成。（动词形式）were coated 是被动：剑和矛“被覆盖”。
+- 埋葬，葬礼：burial · a burial site 墓地
+- 历史学家：historian · a famous historian 著名历史学家
+问：你想说「在王室墓地附近发现的那把无价宝剑，让每个看到它的历史学家都兴奋不已」（说“被发现的……”），英语怎么说？
+要点：过去分词短语 discovered near ... 作后置定语，表示被动、已完成。（动词形式）discovered 是过去分词作后置定语，表被动；excited 用过去时。
 语法：非谓语动词
 真题：2024 年 6 月四级翻译（卷一、卷三，参考译文）：过去分词作后置定语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s212 -->
 # 四级必背 33 · 非谓语动词 · 作宾补
-中文：我正请人检查电脑的硬件，因为磁盘一直发出奇怪的声音。
-英文：###I'm having the hardware of my microcomputer checked because the disk keeps making a queer noise.###
+中文：我正在请人检查我微型计算机的硬件，因为磁盘总发出奇怪的声音。
+英文：###I'm having the hardware of my microcomputer checked because the disk keeps making a weird noise.###
 - 硬件；五金：hardware · computer hardware 电脑硬件
 - 微型计算机：microcomputer · a home microcomputer 家用微机
 - 磁盘：disk · a hard disk 硬盘
-- 奇怪的：queer · a queer feeling 奇怪的感觉
-问：你想说「我正请人检查电脑的硬件，因为磁盘一直发出奇怪的声音」（说“请别人做”），英语怎么说？
+- 怪异的，离奇的：weird · a weird noise 奇怪的声音
+问：你想说「我正在请人检查我微型计算机的硬件，因为磁盘总发出奇怪的声音」（说“请别人做”），英语怎么说？
 要点：have + 宾语 + 过去分词：请别人做某事，宾语与动作是被动关系。（动词形式）am having 用现在进行时：现在正在请人检查；keeps making：keep 后接动名词。
 语法：非谓语动词
 <!-- /leiji-note -->
@@ -484,26 +480,26 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s260 -->
 # 四级必背 36 · it 作形式宾语
-中文：门把手上的痕迹清楚地表明，那个狡猾的凶手是从外门进来的。
-英文：###The mark on the knob made it evident that the sly murderer had entered through the outer door.###
-- 明显的：evident · It is evident that ... 显然……
-- 狡猾的：sly · a sly smile 狡黠的笑
-- 凶手：murderer · a cruel murderer 残忍的凶手
+中文：外门旁的脚印清楚地表明，凶手是从花园进来的。
+英文：###The footprint by the outer door made it evident that the murderer had entered from the garden.###
+- 脚印，足迹：footprint · leave a footprint 留下脚印
 - 外面的：outer · outer space 外太空
-问：你想说「门把手上的痕迹清楚地表明，那个狡猾的凶手是从外门进来的」（说“使……很明显”），英语怎么说？
-要点：make it + 形容词 + that 从句，it 是形式宾语，真正的宾语是 that 从句。（动词形式）had entered 用过去完成时：进门发生在留下痕迹之前。
+- 明显的：evident · It is evident that ... 显然……
+- 凶手：murderer · a cruel murderer 残忍的凶手
+问：你想说「外门旁的脚印清楚地表明，凶手是从花园进来的」（说“使……很明显”），英语怎么说？
+要点：make it + 形容词 + that 从句，it 是形式宾语，真正的宾语是 that 从句。（动词形式）had entered 用过去完成时：进门发生在留下脚印之前。
 语法：it 作形式宾语
 <!-- /leiji-note -->
 
 <!-- leiji-note-id:danci-cet4-core-s302 -->
 # 四级必背 37 · 非谓语动词 · 动名词
-中文：爷爷花几个小时用鲜艳的颜料给他的木偶上色，让它们更吸引孩子。
-英文：###Grandpa spends hours painting his wooden puppets with bright dye to make them attractive to children.###
+中文：爷爷花好几个小时用鲜艳的染料给他的木头小丑上色，好让孩子们喜欢。
+英文：###Grandpa spends hours painting his wooden clowns with bright dye to make them attractive to children.###
 - 木制的：wooden · a wooden box 木盒子
-- 木偶：puppet · a puppet show 木偶戏
+- 小丑：clown · a circus clown 马戏团小丑
 - 染料；染色：dye · hair dye 染发剂
 - 有吸引力的：attractive · an attractive offer 诱人的报价
-问：你想说「爷爷花几个小时用鲜艳的颜料给他的木偶上色，让它们更吸引孩子」（说“花时间做……”），英语怎么说？
+问：你想说「爷爷花好几个小时用鲜艳的染料给他的木头小丑上色，好让孩子们喜欢」（说“花时间做……”），英语怎么说？
 要点：spend + 时间 + doing：花时间做某事；to make ... 作目的状语。（动词形式）spends 用单数：主语是 Grandpa；to make 后接宾语和形容词 attractive。
 语法：非谓语动词
 真题：2024 年 6 月四级翻译（卷二、卷三，参考译文）、2023 年 12 月（卷一）：不定式表目的
@@ -511,14 +507,14 @@ per_day: 1
 
 <!-- leiji-note-id:danci-cet4-core-s305 -->
 # 四级必背 38 · 倍数表达
-中文：新发动机的马力是旧的两倍，却极其省油，振动也更小。
-英文：###The new engine produces twice as much horsepower as the old one, yet it is exceedingly economical and causes less vibration.###
+中文：新发动机的马力是旧发动机的两倍，却极其省油，浪费也少得多。
+英文：###The new engine produces twice as much horsepower as the old one, yet it is exceedingly economical and far less wasteful.###
 - 马力：horsepower · a 200-horsepower engine 200 马力的发动机
 - 非常：exceedingly · exceedingly difficult 非常难
 - 节约的；经济的：economical · an economical car 省油的车
-- 振动：vibration · reduce vibration 减少振动
-问：你想说「新发动机的马力是旧的两倍，却极其省油，振动也更小」（说“是……的两倍”），英语怎么说？
-要点：倍数 + as much + 名词 + as：twice as much horsepower as。（动词形式）produces、is、causes 用一般现在时：说的是发动机的性能。
+- 浪费的：wasteful · wasteful habits 浪费的习惯
+问：你想说「新发动机的马力是旧发动机的两倍，却极其省油，浪费也少得多」（说“是……的两倍”），英语怎么说？
+要点：倍数 + as much + 名词 + as：twice as much horsepower as。（动词形式）produces、is 用一般现在时；twice as much ... as 表示倍数。
 语法：倍数表达
 <!-- /leiji-note -->
 

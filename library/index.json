@@ -135,15 +135,15 @@
   },
   {
    "id": "danci-cet4-words",
-   "title": "四级仅单词（1638 词）",
-   "title_en": "CET-4 Vocabulary (1638 words)",
-   "desc": "四级 1638 词，每词有中文、搭配和例句，只背单词",
+   "title": "四级仅单词（2364 词）",
+   "title_en": "CET-4 Vocabulary (2364 words)",
+   "desc": "四级 2364 词，每词有中文、搭配和例句，只背单词",
    "level": "单词",
-   "count": 1638,
+   "count": 2364,
    "per_day": 10,
    "lang": "zh",
    "file": "danci-cet4-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-cet4-core",
@@ -155,31 +155,31 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-cet4-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-cet4-full",
-   "title": "四级进阶句型（396 句）",
-   "title_en": "CET-4 Advanced Sentences (396)",
-   "desc": "四级全套 396 句，覆盖 1638 词，每句有语法说明，部分附语法问答和真题",
+   "title": "四级进阶句型（579 句）",
+   "title_en": "CET-4 Advanced Sentences (579)",
+   "desc": "四级全套 579 句，覆盖 2364 词，每句有语法说明，部分附语法问答和真题",
    "level": "进阶",
-   "count": 396,
+   "count": 579,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-cet4-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-cet6-words",
-   "title": "六级仅单词（1871 词）",
-   "title_en": "CET-6 Vocabulary (1871 words)",
-   "desc": "六级 1871 词，每词有中文、搭配和例句，只背单词",
+   "title": "六级仅单词（1678 词）",
+   "title_en": "CET-6 Vocabulary (1678 words)",
+   "desc": "六级 1678 词，每词有中文、搭配和例句，只背单词",
    "level": "单词",
-   "count": 1871,
+   "count": 1678,
    "per_day": 10,
    "lang": "zh",
    "file": "danci-cet6-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-cet6-core",
@@ -191,67 +191,67 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-cet6-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-cet6-full",
-   "title": "六级进阶句型（464 句）",
-   "title_en": "CET-6 Advanced Sentences (464)",
-   "desc": "六级全套 464 句，覆盖 1871 词，每句有语法说明，部分附语法问答和真题",
+   "title": "六级进阶句型（413 句）",
+   "title_en": "CET-6 Advanced Sentences (413)",
+   "desc": "六级全套 413 句，覆盖 1678 词，每句有语法说明，部分附语法问答和真题",
    "level": "进阶",
-   "count": 464,
+   "count": 413,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-cet6-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ky-words",
-   "title": "考研仅单词（157 词）",
-   "title_en": "Kaoyan Vocabulary (157 words)",
-   "desc": "考研 157 词，每词有中文、搭配和例句，只背单词",
+   "title": "考研仅单词（43 词）",
+   "title_en": "Kaoyan Vocabulary (43 words)",
+   "desc": "考研 43 词，每词有中文、搭配和例句，只背单词",
    "level": "单词",
-   "count": 157,
+   "count": 43,
    "per_day": 10,
    "lang": "zh",
    "file": "danci-ky-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ky-core",
-   "title": "考研高分句型（12 句）",
-   "title_en": "Kaoyan Key Sentences (12)",
-   "desc": "考研每个语法考点一句，共 12 句，每句有语法问答和讲解，部分附真题考点",
+   "title": "考研高分句型（4 句）",
+   "title_en": "Kaoyan Key Sentences (4)",
+   "desc": "考研每个语法考点一句，共 4 句，每句有语法问答和讲解，部分附真题考点",
    "level": "高分",
-   "count": 12,
+   "count": 4,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ky-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ky-full",
-   "title": "考研进阶句型（37 句）",
-   "title_en": "Kaoyan Advanced Sentences (37)",
-   "desc": "考研全套 37 句，覆盖 157 词，每句有语法说明，部分附语法问答和真题",
+   "title": "考研进阶句型（10 句）",
+   "title_en": "Kaoyan Advanced Sentences (10)",
+   "desc": "考研全套 10 句，覆盖 43 词，每句有语法说明，部分附语法问答和真题",
    "level": "进阶",
-   "count": 37,
+   "count": 10,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ky-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ielts-words",
-   "title": "雅思仅单词（1288 词）",
-   "title_en": "IELTS Vocabulary (1288 words)",
-   "desc": "雅思 1288 词，每词有中文、搭配和例句，只背单词",
+   "title": "雅思仅单词（974 词）",
+   "title_en": "IELTS Vocabulary (974 words)",
+   "desc": "雅思 974 词，每词有中文、搭配和例句，只背单词",
    "level": "单词",
-   "count": 1288,
+   "count": 974,
    "per_day": 10,
    "lang": "zh",
    "file": "danci-ielts-words.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ielts-core",
@@ -263,19 +263,19 @@
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ielts-core.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "danci-ielts-full",
-   "title": "雅思进阶句型（320 句）",
-   "title_en": "IELTS Advanced Sentences (320)",
-   "desc": "雅思全套 320 句，覆盖 1288 词，每句有语法说明，部分附语法问答和真题，口语句附口语练习题",
+   "title": "雅思进阶句型（234 句）",
+   "title_en": "IELTS Advanced Sentences (234)",
+   "desc": "雅思全套 234 句，覆盖 974 词，每句有语法说明，部分附语法问答和真题，口语句附口语练习题",
    "level": "进阶",
-   "count": 320,
+   "count": 234,
    "per_day": 1,
    "lang": "zh",
    "file": "danci-ielts-full.md",
-   "version": "2026-11-17"
+   "version": "2026-11-19"
   },
   {
    "id": "kouyu-chuji",
