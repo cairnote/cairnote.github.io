@@ -1,5 +1,5 @@
 {
- "version": "2026-11-19",
+ "version": "2026-11-22",
  "libraries": [
   {
    "id": "danci-zk-words",
@@ -75,27 +75,27 @@
   },
   {
    "id": "gk-math",
-   "title": "高考数学公式（95 条）",
-   "title_en": "Gaokao Math Formulas (95)",
-   "desc": "高中数学常用公式和定理，95 条，一条一个，遮住关键部分，看名称写公式",
+   "title": "高考数学公式（94 条）",
+   "title_en": "Gaokao Math Formulas (94)",
+   "desc": "高中数学常用公式和定理，94 条，一条一个，遮住关键部分，看名称写公式",
    "level": "高分",
-   "count": 95,
+   "count": 94,
    "per_day": 3,
    "lang": "zh",
    "file": "gk-math.md",
-   "version": "2026-11-18"
+   "version": "2026-11-22"
   },
   {
    "id": "gk-gushiwen",
-   "title": "高考必背古诗文（55 篇）",
-   "title_en": "Gaokao Classical Chinese Texts (55)",
-   "desc": "统编高中语文教材里的必背古诗文 55 篇，原文按电子课本核对，隔句遮挡，看上句背下句",
+   "title": "高考必背古诗文（54 篇）",
+   "title_en": "Gaokao Classical Chinese Texts (54)",
+   "desc": "统编高中语文教材里的必背古诗文 54 篇，原文按统编教材逐字核对，隔句遮挡，看上句背下句",
    "level": "高分",
-   "count": 55,
+   "count": 54,
    "per_day": 1,
    "lang": "zh",
    "file": "gk-gushiwen.md",
-   "version": "2026-11-18"
+   "version": "2026-11-22"
   },
   {
    "id": "gk-physics",
@@ -107,31 +107,31 @@
    "per_day": 3,
    "lang": "zh",
    "file": "gk-physics.md",
-   "version": "2026-11-18"
+   "version": "2026-11-22"
   },
   {
    "id": "gk-chemistry",
-   "title": "高考化学方程式与要点（95 条）",
-   "title_en": "Gaokao Chemistry Essentials (95)",
-   "desc": "高中化学常考方程式、计算公式和规律 95 条，遮住关键部分，看名称写答案",
+   "title": "高考化学方程式与要点（97 条）",
+   "title_en": "Gaokao Chemistry Essentials (97)",
+   "desc": "高中化学常考方程式、计算公式和规律 97 条，遮住关键部分，看名称写答案",
    "level": "高分",
-   "count": 95,
+   "count": 97,
    "per_day": 3,
    "lang": "zh",
    "file": "gk-chemistry.md",
-   "version": "2026-11-18"
+   "version": "2026-11-22"
   },
   {
    "id": "gk-biology",
-   "title": "高考生物核心知识点（100 条）",
-   "title_en": "Gaokao Biology Key Points (100)",
-   "desc": "高中生物核心概念、过程和规律 100 条，遮住关键词，看名称回忆要点",
+   "title": "高考生物核心知识点（101 条）",
+   "title_en": "Gaokao Biology Key Points (101)",
+   "desc": "高中生物核心概念、过程和规律 101 条，遮住关键词，看名称回忆要点",
    "level": "高分",
-   "count": 100,
+   "count": 101,
    "per_day": 3,
    "lang": "zh",
    "file": "gk-biology.md",
-   "version": "2026-11-18"
+   "version": "2026-11-22"
   },
   {
    "id": "danci-cet4-words",

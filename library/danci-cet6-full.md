@@ -7,6 +7,7 @@ version: 2026-11-19
 author: 磊记出品 · 单词城市
 license: 磊记原创，仅供个人学习使用
 copyright: © 2026 磊记 Leiji · Cairnote，保留所有权利，未经许可不得复制、转载
+disclaimer: 学习库内容可能存在错误或疏漏，仅供学习参考，请以教材和老师讲解为准，核对后使用。磊记不对内容的准确性和完整性作保证。发现错误欢迎反馈。
 level: 进阶
 count: 413
 per_day: 1
